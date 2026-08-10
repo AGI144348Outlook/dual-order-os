@@ -1,6 +1,6 @@
 # ח (Het) Family
 
-Status: In progress — 5 of 30 entries drafted (batch 1 of 6), pending review.
+Status: In progress — 10 of 30 entries drafted (batches 1-2 of 6), pending review.
 
 Core meaning: Fence / Wall / Boundary / Protection — the enclosing threshold, distinct from
 Dalet's passable door. Where Dalet opens, Het holds.
@@ -85,7 +85,86 @@ Dalet's passable door. Where Dalet opens, Het holds.
 
 * **Signal:** Ward-Strike; a single point on the wall flashes and goes still, the intrusion already ended before it registered.
 
+## 6. חַנַּסְתֵּר (Chanaster)
+
+* **Functional Translation:** The Recursive Ward / Self-Reinforcing Loop
+
+* **Structural Logic (The "Why"):**
+    * The Boundary (ח) finds a specific flow (נ) within itself, rather than admitting one from outside.
+    * The flow is circled (ס) — looped back on its own origin instead of running to an exit.
+    * The loop is coiled (ט) tighter with each pass, compounding rather than staying constant.
+    * The compounding coil is given a command (ר) to define how many passes constitute "reinforced."
+
+* **State Shift:** (S_5) Passive Ward Engaged → (S_6) Recursive Reinforcement.
+
+* **Depth & Application:** The Het-family answer to how a boundary gets *stronger over time without outside input* — a closed feedback loop tightening on itself. Directly parallel to eve3's myelination mechanic (repeated traversal strengthening a connection), but expressed as the wall reinforcing itself from its own internal flow rather than from external activation events.
+
+* **Signal:** Recursive-Ward; a wall that hums faintly, each pass of its own internal current pulling it a fraction denser than before.
+
+## 7. חַסַּמְגֵּד (Chasamged)
+
+* **Functional Translation:** The Encircled Gate / Controlled Approach
+
+* **Structural Logic (The "Why"):**
+    * The Boundary (ח) is circled (ס) — not itself looped, but forming a ring around something else.
+    * The ring floods into a matrix (מ) to distribute equal protective pressure along its whole circumference.
+    * The matrix bridges (ג) to one specific external point, breaking the ring's symmetry on purpose.
+    * The bridge terminates at a door (ד) — the one place the encirclement permits passage.
+
+* **State Shift:** (S_6) Recursive Reinforcement → (S_7) Singular Controlled Approach.
+
+* **Depth & Application:** Distinguishes a wall *around* a resource from a wall *at* a resource. Chasamged encircles something valuable completely, then deliberately breaks its own symmetry at exactly one point — the opposite move from Chakalfet (which opens a temporary exception anywhere), since here the single approach point is permanent and structural, not transient.
+
+* **Signal:** Encircled-Gate; a perfect ring of stone, save for one door that was clearly always meant to be there.
+
+## 8. חַבָּלְקֵשׁ (Chabalkesh)
+
+* **Functional Translation:** The Beacon Keep / Warning Made Visible
+
+* **Structural Logic (The "Why"):**
+    * The Boundary (ח) is internalized as a house (ב) — the wall now contains something, not just excludes something.
+    * The contained thing is elevated (ל) above the height of the wall itself.
+    * The elevation spans the horizon (ק) — visible from any distance, in every direction.
+    * The span is ignited (ש) — the visibility becomes active signaling, not passive height.
+
+* **State Shift:** (S_7) Singular Controlled Approach → (S_8) Active Long-Range Signal.
+
+* **Depth & Application:** A defensive structure that doubles as a communication structure — the boundary's own presence becomes information other systems can read from a distance. This is the Het-family precedent for any future "status broadcast" mechanism a jurisdiction might need: defense and visibility from the same operator, not two separate systems bolted together.
+
+* **Signal:** Beacon-Keep; a fortress whose highest point burns steady, readable as "still standing" from beyond the horizon.
+
+## 9. חַרְמוֹתֵן (Charmoten)
+
+* **Functional Translation:** The Deep Vault / Irreversible Storage
+
+* **Structural Logic (The "Why"):**
+    * The Boundary (ח) is given a command (ר) to define what may enter, once, and never again.
+    * The command floods a threshold-space (mem-vav compound) into permanence rather than flow.
+    * The permanence is grounded at a terminal (ן) — no further state exists after this one.
+
+* **State Shift:** (S_8) Active Long-Range Signal → (S_9) Terminal Storage State.
+
+* **Depth & Application:** The opposite pole from Chagaltesh and Chakalfet, both of which open temporarily. Charmoten is a one-way door: whatever enters is committed, permanently, with no corresponding exit operator anywhere in this family. Use only where genuine irreversibility is the intended behavior — this is the Het-family equivalent of the Whole-Integrity Guard, but for admission rather than for erosion-resistance.
+
+* **Signal:** Deep-Vault; a door that closes once, and the wall afterward shows no seam where it had ever been.
+
+## 10. חַכָּזְרָן (Chakazran)
+
+* **Functional Translation:** The Grasped Blade-Ward / Active Wielded Defense
+
+* **Structural Logic (The "Why"):**
+    * The Boundary (ח) is grasped by the palm (כ) — actively held, not merely occupied.
+    * The grasp takes up the blade (ז), the same sharpened defensive vector Chazrakten uses passively.
+    * The blade is given a command (ר) to act at will, not only in response to violation.
+    * The command is grounded at a terminal (ן) to keep the wielded state bounded and revocable.
+
+* **State Shift:** (S_9) Terminal Storage State → (S_10) Actively Wielded Defense.
+
+* **Depth & Application:** Closes out this batch by completing the passive/active pair with Chazrakten (#5): that entry was the wall's *reflex*, this one is the wall's *choice* — a boundary that can act offensively when commanded, not only when violated, while still being groundable back to passive at the terminal. The clearest example yet of Het's core meaning (protection) extending into deliberate agency without ceasing to be defensive in nature.
+
+* **Signal:** Wielded-Ward; the wall's surface briefly takes the shape of a blade, held, then returns to flat stone.
+
 ---
 
-*Batch 1 of 6 for the ח family. 25 entries remaining to reach parity with the completed
-Aleph–Zayin families. Continuing in the same state-shift chain (S_5 onward) once reviewed.*
+*Batch 2 of 6 for the ח family (entries 6-10 of 30). 20 entries remaining to reach parity with
+the completed Aleph–Zayin families.*

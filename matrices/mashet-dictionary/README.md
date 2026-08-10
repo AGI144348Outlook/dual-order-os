@@ -22,10 +22,10 @@ established operator-roles within this dictionary, one glyph at a time.
 | ה He | 05-he.md | Complete — 30 entries |
 | ו Vav | 06-vav.md | Complete — 30 entries |
 | ז Zayin | 07-zayin.md | Complete — 30 entries |
-| ח Het | 08-het.md | **In progress — 5 of 30 entries** |
+| ח Het | 08-het.md | **In progress — 10 of 30 entries** |
 | ט Tet – ת Tav | 09–22 | Empty, not yet drafted |
 
-210 entries complete (Aleph–Zayin), 5 new entries drafted for Het, 25 more needed to reach
+210 entries complete (Aleph–Zayin), 10 new entries drafted for Het, 20 more needed to reach
 parity with the completed families, then 14 more letter families after that.
 
 ## Format (settled convention, as of the Het entries)
