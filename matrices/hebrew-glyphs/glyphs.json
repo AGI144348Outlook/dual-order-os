@@ -1,0 +1,178 @@
+[
+  {
+    "glyph": "א",
+    "name": "Aleph",
+    "gematria": 1,
+    "pictograph_meaning": "Ox, strength, leader",
+    "execution_role": "Initiation/origination primitive — the glyph that begins an execution chain or asserts primacy within a jurisdiction (pairs naturally with RFC-0002's \"Jurisdiction\" concept as the entity that opens one).",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ב",
+    "name": "Bet",
+    "gematria": 2,
+    "pictograph_meaning": "House, tent, container",
+    "execution_role": "Containment/boundary-forming primitive — defines a Semantic Node's enclosed scope; a natural candidate for marking where a Jurisdiction's interior begins.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ג",
+    "name": "Gimel",
+    "gematria": 3,
+    "pictograph_meaning": "Camel, foot that walks, to carry",
+    "execution_role": "Transfer/traversal primitive — moves a value, state, or agent from one Semantic Node to an adjacent one. Likely pairs with node_adjacency relationships directly.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ד",
+    "name": "Dalet",
+    "gematria": 4,
+    "pictograph_meaning": "Door, threshold, path",
+    "execution_role": "Threshold/gate primitive — governs whether traversal (Gimel) is permitted between two nodes; an access-control or conditional-passage function.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ה",
+    "name": "Hey",
+    "gematria": 5,
+    "pictograph_meaning": "Window, breath, behold/reveal",
+    "execution_role": "Perception/revelation primitive — makes an otherwise hidden node, profile, or agent state observable to another agent; likely relevant to RFC-0008 (Memory, Experience, Knowledge Formation).",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ו",
+    "name": "Vav",
+    "gematria": 6,
+    "pictograph_meaning": "Nail, hook, to add/connect",
+    "execution_role": "Connective/binding primitive — the literal conjunction operator; creates or reinforces an edge (node_adjacency) rather than traversing one.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ז",
+    "name": "Zayin",
+    "gematria": 7,
+    "pictograph_meaning": "Weapon, sword, cutting",
+    "execution_role": "Division/severance primitive — breaks a connection (undoes Vav), splits a jurisdiction, or terminates an agent's access to a node.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ח",
+    "name": "Het",
+    "gematria": 8,
+    "pictograph_meaning": "Fence, wall, boundary, protection",
+    "execution_role": "Protection/isolation primitive — hardens a Jurisdiction's boundary against unauthorized traversal or perception; a defensive counterpart to Dalet's gate.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ט",
+    "name": "Tet",
+    "gematria": 9,
+    "pictograph_meaning": "Basket, snake, to twist/surround/contain",
+    "execution_role": "Encirclement/weaving primitive — wraps multiple nodes or roots into a single higher-order structure (a candidate mechanism for how a Semantic Profile aggregates multiple Latin Roots into one glyph).",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "י",
+    "name": "Yod",
+    "gematria": 10,
+    "pictograph_meaning": "Hand, arm, work, deed",
+    "execution_role": "Action/execution primitive proper — the glyph that actually *does* something rather than describing structure; likely the closest thing to a generic \"verb\" operator in the Hebrew Execution Calculus (RFC-0013).",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "כ",
+    "name": "Kaf",
+    "gematria": 20,
+    "pictograph_meaning": "Open palm, to bend, allow, cover",
+    "execution_role": "Permission/modulation primitive — bends or conditions the effect of another glyph rather than acting independently; an operator-modifier, not a standalone verb.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ל",
+    "name": "Lamed",
+    "gematria": 30,
+    "pictograph_meaning": "Staff, goad, to teach, authority, yoke",
+    "execution_role": "Instruction/authority primitive — imposes a rule or constraint on subordinate glyphs/agents; plausible mechanism for RFC-0006's \"Emergent Symbolic Law.\"",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "מ",
+    "name": "Mem",
+    "gematria": 40,
+    "pictograph_meaning": "Water, chaos, flow, mighty",
+    "execution_role": "Propagation/flow primitive — the carrier of symbolic waves across jurisdictions (RFC-0003's field dynamics / wave propagation discussion maps closely here).",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "נ",
+    "name": "Nun",
+    "gematria": 50,
+    "pictograph_meaning": "Fish, seed, life, continuation",
+    "execution_role": "Generative/continuation primitive — spawns a new node, agent, or epoch; a candidate root mechanism for RFC-0016's \"Constitutional Evolution and Epoch Transitions.\"",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ס",
+    "name": "Samekh",
+    "gematria": 60,
+    "pictograph_meaning": "Support, prop, to grab hold, turn",
+    "execution_role": "Stabilization primitive — holds a state constant against propagating change (Mem); a plausible \"persistence\" or \"checkpoint\" operator.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ע",
+    "name": "Ayin",
+    "gematria": 70,
+    "pictograph_meaning": "Eye, see, understanding, knowledge",
+    "execution_role": "Cognition/evaluation primitive — the mechanism by which an Indus Icon Agent forms Deliberation/Intention (RFC-0009), distinct from Hey's raw perception.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "פ",
+    "name": "Pey",
+    "gematria": 80,
+    "pictograph_meaning": "Mouth, to speak, blow, scatter",
+    "execution_role": "Communication/broadcast primitive — the mechanism for RFC-0010's \"Collective Symbolic Construction and Negotiated Meaning\" between agents.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "צ",
+    "name": "Tsade",
+    "gematria": 90,
+    "pictograph_meaning": "Fishhook, hunt, chase, need, righteous",
+    "execution_role": "Pursuit/goal-directed primitive — encodes an agent's active intention toward a target node or resource; the \"wanting\" component of Deliberation (RFC-0009).",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ק",
+    "name": "Qof",
+    "gematria": 100,
+    "pictograph_meaning": "Circle, back of head, horizon, gather, time",
+    "execution_role": "Cyclical/temporal primitive — governs Turns/Rounds (RFC-0004's Temporal Cognition); the mechanism that closes a loop and advances the world's discrete clock.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ר",
+    "name": "Resh",
+    "gematria": 200,
+    "pictograph_meaning": "Head, person, first, beginning",
+    "execution_role": "Identity/agency primitive — marks something as a discrete Indus Icon Agent rather than passive lattice structure (RFC-0002 §3.6); the \"this is a someone, not a something\" marker.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ש",
+    "name": "Shin",
+    "gematria": 300,
+    "pictograph_meaning": "Teeth, fire, consume, transform, destroy",
+    "execution_role": "Transformation/consumption primitive — irreversibly converts one symbolic state into another; the destructive/generative counterpart pair with Nun.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  },
+  {
+    "glyph": "ת",
+    "name": "Tav",
+    "gematria": 400,
+    "pictograph_meaning": "Mark, cross, covenant, seal, completion",
+    "execution_role": "Sealing/finalization primitive — closes a Turn, ratifies a Constitutional change (RFC-0015/0016), or commits a state as immutable. Natural candidate for the \"commit\" operation in the Hebrew Execution Calculus.",
+    "source_doc": "the-unicorn-estate/topology/01-glyph-topology-draft.md"
+  }
+]
