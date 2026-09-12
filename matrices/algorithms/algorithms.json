@@ -1,0 +1,228 @@
+[
+  {
+    "id": "eba-memory-shedding-damping-ejection",
+    "name": "EBA (Eigenvalue-Based Attention) Memory Regulation",
+    "category": "memory-management",
+    "summary": "Regulates the TEMA Core layer's context droplets by eigenvalue weight: dampens the highest-weight droplet by 30% when it exceeds a ceiling (LAMBDA_CEIL=0.85), and for every other droplet below a shed threshold (THETA_SHED=0.3) either demotes it to the OCEAN layer or, if it is both low-myelination and very low weight (below THETA_DROP=0.1), ejects it straight to the FIRMAMENT layer. Computes lambda_max and a derived c_scope health metric and logs every run.",
+    "inputs": ["context_droplets (CORE layer, D1 TEMA_SUBSTRATE)", "newDropletId (droplet to exempt from this pass)"],
+    "outputs": ["lambda_max", "c_scope", "nodes_shed", "nodes_ejected", "damping_applied", "eba_log row"],
+    "triggers": [],
+    "triggered_by": ["isa-triplet-execution-pipeline"],
+    "source": {
+      "repo": "Lhea-Tema",
+      "path": "lhea-tema-kernel.js",
+      "function_or_class": "runEBAInternal"
+    }
+  },
+  {
+    "id": "isa-triplet-execution-pipeline",
+    "name": "ISA Triplet Execution Pipeline",
+    "category": "execution",
+    "summary": "The kernel's main 7-phase execution pipeline for a (latin_root, hebrew_glyph, indus_icon) triplet: resolves the root (Lexer) and glyph (Parser) against the Registry, runs a whole-integrity guard against diminishing a CORE_NODE, ensures the icon exists, injects a context droplet into TEMA Core, runs EBA memory regulation, and finally myelinates the root and Nexus valves and updates the icon's state.",
+    "inputs": ["latin_root", "hebrew_glyph", "indus_icon", "context (optional)"],
+    "outputs": ["execution result (triplet, jurisdictional_scope, execution details, tema/eba result, kernel_note)"],
+    "triggers": ["eba-memory-shedding-damping-ejection", "root-myelination-hardening"],
+    "triggered_by": [],
+    "source": {
+      "repo": "Lhea-Tema",
+      "path": "lhea-tema-kernel.js",
+      "function_or_class": "executeISATriplet"
+    }
+  },
+  {
+    "id": "root-myelination-hardening",
+    "name": "Root Myelination / Node Hardening",
+    "category": "placement",
+    "summary": "Increments a Latin root's myelination_count on every successful execution and promotes its node_type from MODULAR_NODE to CORE_NODE once the count reaches a hardness threshold (M_HARD=10). Also increments the myelination/transfer counters on the CORE layer's Nexus valves as a side effect.",
+    "inputs": ["latin_root row (myelination_count)", "M_HARD threshold"],
+    "outputs": ["updated myelination_count", "updated node_type (MODULAR_NODE | CORE_NODE)"],
+    "triggers": [],
+    "triggered_by": ["isa-triplet-execution-pipeline"],
+    "source": {
+      "repo": "Lhea-Tema",
+      "path": "lhea-tema-kernel.js",
+      "function_or_class": "executeISATriplet (Phase 7 myelination block)"
+    }
+  },
+  {
+    "id": "ocean-circulation-cave-precipitation",
+    "name": "Ocean Circulation / Cave Precipitation Memory Migration",
+    "category": "memory-management",
+    "summary": "On every read of the OCEAN layer, increments each ocean droplet's circulation_cycles and accrues precipitation_score proportional to its myelination_score, then migrates any droplet whose circulation_cycles has reached a threshold (C_PRECIPITATE=5) into a permanent CAVE stalactite record and deletes it from OCEAN. Models a three-tier memory lifecycle (CORE -> OCEAN -> CAVE) as a physical circulation/precipitation metaphor.",
+    "inputs": ["ocean_droplets (D1 TEMA_SUBSTRATE)", "C_PRECIPITATE threshold"],
+    "outputs": ["updated circulation_cycles/precipitation_score", "new cave_stalactites rows", "count precipitated"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "Lhea-Tema",
+      "path": "lhea-tema-kernel.js",
+      "function_or_class": "getTEMAOcean"
+    }
+  },
+  {
+    "id": "jurisdiction-emergence-detection",
+    "name": "Jurisdiction Emergence Detection",
+    "category": "sequencing",
+    "summary": "Given a candidate set of at least 3 Latin root nodes, resolves their glyph affinities and operator classes, detects a hard conflict (PERCEPTION + STRUCTURAL present without a COGNITIVE bridging node), computes a coherence_score from root count and average myelination, and — if no conflict — writes/updates an emergent_jurisdictions row keyed by a hash of the sorted root set. This is how a new jurisdiction is recognized as having emerged from root-node cycles rather than being manually declared.",
+    "inputs": ["roots (array of >= 3 latin_root identifiers)"],
+    "outputs": ["valid (bool)", "coherence_score", "dominant_glyph", "operator_classes", "emergent_jurisdictions row (if valid)"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "Lhea-Tema",
+      "path": "lhea-tema-kernel.js",
+      "function_or_class": "checkJurisdiction"
+    }
+  },
+  {
+    "id": "five-tick-causal-wave-pipeline",
+    "name": "Five-Tick Causal Wave Execution",
+    "category": "execution",
+    "summary": "Runs a parsed two-operand symbolic expression (e.g. \"4+3\", \"4=4\") through five discrete ticks — Instantiation, Relational Operator, Extension, Reconciliation, Stabilization — building a trace at each tick. Reconciliation delegates to the Supernova Compiler reconciliation check against a chosen jurisdiction's permits/forbids; Stabilization computes and persists the final result (or records the rejection) to the symbolic_estate table regardless of outcome.",
+    "inputs": ["expression (string, e.g. \"4+3\")", "jurisdictionId"],
+    "outputs": ["result", "passed (bool)", "trace (5-tick array)", "symbolic_estate row"],
+    "triggers": ["supernova-compiler-reconciliation"],
+    "triggered_by": [],
+    "source": {
+      "repo": "echo-prototype",
+      "path": "src/runtime/five-tick-engine.js",
+      "function_or_class": "runFiveTick"
+    }
+  },
+  {
+    "id": "supernova-compiler-reconciliation",
+    "name": "Supernova Compiler Reconciliation Check",
+    "category": "execution",
+    "summary": "Maps a symbolic operator (+, -, *, =) to a semantic \"character\" (connection, divergence, multiplication, continuity) and checks it against a jurisdiction's declared forbids list via simple substring matching, returning whether the construction is permitted and a human-readable reason either way.",
+    "inputs": ["op (one of + - * =)", "jurisdiction row (name, structural_signature, forbids)"],
+    "outputs": ["passed (bool)", "reason (string)"],
+    "triggers": [],
+    "triggered_by": ["five-tick-causal-wave-pipeline"],
+    "source": {
+      "repo": "echo-prototype",
+      "path": "src/runtime/five-tick-engine.js",
+      "function_or_class": "reconcile"
+    }
+  },
+  {
+    "id": "golden-angle-sphere-placement",
+    "name": "Golden-Angle Fibonacci Sphere Placement",
+    "category": "placement",
+    "summary": "Places an NVE (word/entity) at index i of n total on the unit sphere using the golden-angle Fibonacci spiral (theta = golden_angle * i, y = 1 - (i/(n-1))*2), so that insertion order determines angular position. The same technique eve3 already uses for the 22 Hebrew letters, generalized here to open-ended vocabulary size.",
+    "inputs": ["index (i)", "total (n)"],
+    "outputs": ["x, y, z (unit-sphere coordinates)", "theta"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/lexicon_eve.py",
+      "function_or_class": "NVE.place"
+    }
+  },
+  {
+    "id": "eve-angular-nearest-neighbor-lookup",
+    "name": "EVE Angular Nearest-Neighbor Lookup",
+    "category": "lookup",
+    "summary": "Given a direction (x, y, z) from the shared (0,0,0) anchor, resolves the k nearest NVEs by straight-line distance on the unit sphere. This is EVE's core Index-of-Matrices operation: direction in, occupying word(s) out.",
+    "inputs": ["x, y, z (query direction)", "k (neighbor count)"],
+    "outputs": ["k nearest NVE objects, sorted by distance"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/lexicon_eve.py",
+      "function_or_class": "LexiconalEVE.nearest"
+    }
+  },
+  {
+    "id": "category-tightness-clustering-metric",
+    "name": "Category Angular-Tightness Metric",
+    "category": "evaluation",
+    "summary": "For each semantic category, computes the average pairwise great-circle (angular) distance between its member NVEs on the unit sphere. Lower average distance means a tighter, more clustered category. Used to compare insertion orderings (grouped-by-category vs. alphabetical vs. WordNet-derived) for whether they produce meaningful geometric clustering.",
+    "inputs": ["populated LexiconalEVE.nves (list of placed NVEs with category labels)"],
+    "outputs": ["dict of category -> average pairwise angular distance"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/lexicon_eve.py",
+      "function_or_class": "LexiconalEVE.category_tightness"
+    }
+  },
+  {
+    "id": "bidirectional-glyph-root-index",
+    "name": "Bidirectional (root, sense) <-> Glyph Index",
+    "category": "lookup",
+    "summary": "Maintains both directions of the glyph/root relationship as first-class: glyph -> the (root, sense) entries it governs, and (root, sense) -> the single glyph that applies. Keys on (root, sense) rather than root alone specifically because one root text (e.g. \"spring\") can resolve to different glyphs depending on which sense is active.",
+    "inputs": ["GlyphRootEntry (root, sense, glyph, opcode, note)"],
+    "outputs": ["roots_for_glyph(glyph)", "glyph_for_root_sense(root, sense)", "senses_for_root(root)"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/bidirectional_glyph_index.py",
+      "function_or_class": "BidirectionalGlyphRootIndex"
+    }
+  },
+  {
+    "id": "by-is-a-taxonomic-index-builder",
+    "name": "by-is-a Taxonomic Index Builder",
+    "category": "lookup",
+    "summary": "For each word in the test lexicon, resolves its WordNet noun synset (applying manual sense overrides for words WordNet's default sense gets wrong, e.g. \"spring\" and \"otter\") and records its full hypernym (is-a) ancestry chain up to the root of the taxonomy. Builds a per-category index of these chains, independent of the geometric (angle-based) EVE index over the same words.",
+    "inputs": ["CATEGORIZED_WORDS (word -> category)", "SENSE_OVERRIDES (manual WordNet sense pins)"],
+    "outputs": ["index: category -> word -> {synset, definition, is_a_chain}"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/by_is_a_index.py",
+      "function_or_class": "build_is_a_index"
+    }
+  },
+  {
+    "id": "deepest-common-ancestor-finder",
+    "name": "Deepest Common Taxonomic Ancestor Finder",
+    "category": "evaluation",
+    "summary": "Given multiple is-a ancestry chains (root-first), walks them in lockstep to find how deep their shared prefix goes before diverging. A deeper shared ancestor means the category is a genuine taxonomic kind; a shallow one means the category is merely associative, not taxonomic.",
+    "inputs": ["chains (list of root-first is-a ancestry lists)"],
+    "outputs": ["common (shared ancestor chain)", "depth (int)"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/by_is_a_index.py",
+      "function_or_class": "find_deepest_common_ancestor"
+    }
+  },
+  {
+    "id": "wordnet-greedy-nn-ordering",
+    "name": "WordNet-Derived Greedy Nearest-Neighbor Ordering",
+    "category": "sequencing",
+    "summary": "Builds an insertion order for the EVE lattice by starting from an arbitrary word and repeatedly walking to the not-yet-visited word with the highest WordNet path_similarity to the current word — a greedy nearest-neighbor chain built entirely from WordNet's own taxonomy, with zero reference to the hand-picked category labels. Used as a third, independent condition (alongside grouped and alphabetical order) in the discovers-meaning test.",
+    "inputs": ["flat list of (word, category) pairs", "WordNet synsets for each word"],
+    "outputs": ["ordered list of (word, category) pairs (category retained only for later scoring, not used to build the order)"],
+    "triggers": [],
+    "triggered_by": [],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "libraries/eve/discovers_meaning_test.py",
+      "function_or_class": "build_wordnet_order"
+    }
+  },
+  {
+    "id": "sequential-agency-dispatcher",
+    "name": "Sequential Agency Dispatcher",
+    "category": "meta",
+    "status": "design-draft — not yet implemented anywhere",
+    "summary": "The meta-algorithm that decides which algorithm in this same matrix runs next, given the current state and the previous algorithm's output. It is itself listed as a row in the algorithms matrix it governs, so the matrix can express its own control flow — an 'algorithm of itself' — rather than needing an external orchestrator outside the modular system. This is what turns a flat catalog of algorithms into a system capable of agency: sequencing which modular piece plugs in next based on the piece before it, without hard-coding the sequence in advance.",
+    "inputs": ["current_algorithm_id", "current_algorithm_output", "system_state"],
+    "outputs": ["next_algorithm_id"],
+    "triggers": ["sequential-agency-dispatcher"],
+    "triggered_by": ["ANY — every algorithm's completion may hand control back to this one"],
+    "source": {
+      "repo": "dual-order-os",
+      "path": "matrices/algorithms/algorithms.json",
+      "function_or_class": null
+    }
+  }
+]
