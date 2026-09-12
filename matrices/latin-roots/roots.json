@@ -1,0 +1,1377 @@
+[
+  {
+    "root": "Acer",
+    "core_meaning": "sharp, bitter",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Aev",
+    "core_meaning": "age, lifetime",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ager",
+    "core_meaning": "field, land",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Agmen",
+    "core_meaning": "moving crowd, stream",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Altus",
+    "core_meaning": "high, deep",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Amare",
+    "core_meaning": "love, friendship",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Anima",
+    "core_meaning": "breath, soul, life",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Annus",
+    "core_meaning": "year",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Aqua",
+    "core_meaning": "water",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Arbor",
+    "core_meaning": "tree",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Audire",
+    "core_meaning": "hear",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Avis",
+    "core_meaning": "bird",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Bellum",
+    "core_meaning": "war",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Bonus",
+    "core_meaning": "good",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Brevis",
+    "core_meaning": "short",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Caput",
+    "core_meaning": "head",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Carbo",
+    "core_meaning": "coal, carbon",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Caro",
+    "core_meaning": "flesh, meat",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cavus",
+    "core_meaning": "hollow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cedere",
+    "core_meaning": "yield, go, move",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cera",
+    "core_meaning": "wax",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cilium",
+    "core_meaning": "eyelash, eyelid",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Civis",
+    "core_meaning": "citizen",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Clarus",
+    "core_meaning": "clear, bright",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cor",
+    "core_meaning": "heart",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Corpus",
+    "core_meaning": "body",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Credere",
+    "core_meaning": "believe, trust",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Crux",
+    "core_meaning": "cross",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Culpa",
+    "core_meaning": "fault, blame",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cura",
+    "core_meaning": "care, charge",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Cursus",
+    "core_meaning": "running, course",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Dens",
+    "core_meaning": "tooth",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Deus",
+    "core_meaning": "god",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Dexter",
+    "core_meaning": "right side, skillful",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Dignus",
+    "core_meaning": "worthy",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Dominus",
+    "core_meaning": "master, lord",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Domus",
+    "core_meaning": "house, home",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Donum",
+    "core_meaning": "gift",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Dormire",
+    "core_meaning": "sleep",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ductus",
+    "core_meaning": "leading, guidance",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Durus",
+    "core_meaning": "hard, lasting",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ego",
+    "core_meaning": "I, self",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Equus",
+    "core_meaning": "horse, equal",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Errare",
+    "core_meaning": "wander, stray",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Faber",
+    "core_meaning": "artisan, craftsman",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Facere",
+    "core_meaning": "make, do",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Fama",
+    "core_meaning": "report, fame",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Femina",
+    "core_meaning": "woman",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ferrum",
+    "core_meaning": "iron",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Fides",
+    "core_meaning": "faith, trust",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Finis",
+    "core_meaning": "end, limit",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Flamma",
+    "core_meaning": "flame",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Flos",
+    "core_meaning": "flower",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Fluere",
+    "core_meaning": "flow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Folium",
+    "core_meaning": "leaf",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Forma",
+    "core_meaning": "shape, form",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Frater",
+    "core_meaning": "brother",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Frons",
+    "core_meaning": "forehead, front",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Fructus",
+    "core_meaning": "fruit, profit",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Fumus",
+    "core_meaning": "smoke",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Fundus",
+    "core_meaning": "bottom, foundation",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Gelus",
+    "core_meaning": "frost, ice",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Genus",
+    "core_meaning": "birth, race, kind",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Germen",
+    "core_meaning": "bud, sprout",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Globus",
+    "core_meaning": "sphere, ball",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Gradus",
+    "core_meaning": "step, degree",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Gratia",
+    "core_meaning": "favor, thanks",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Grex",
+    "core_meaning": "flock, herd",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Habere",
+    "core_meaning": "have, hold",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Haerere",
+    "core_meaning": "stick, cling",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Herba",
+    "core_meaning": "herb, grass",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Homo",
+    "core_meaning": "human, man",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Hospes",
+    "core_meaning": "host, guest",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Humus",
+    "core_meaning": "earth, ground",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ignis",
+    "core_meaning": "fire",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Imago",
+    "core_meaning": "image, likeness",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Insula",
+    "core_meaning": "island",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Jecur",
+    "core_meaning": "liver",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Jocus",
+    "core_meaning": "jest, joke",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Judex",
+    "core_meaning": "judge",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Jugum",
+    "core_meaning": "yoke",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Junctus",
+    "core_meaning": "joined, connected",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Jus",
+    "core_meaning": "law, right",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Labor",
+    "core_meaning": "toil, work",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Lapis",
+    "core_meaning": "stone",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Latus",
+    "core_meaning": "side, broad",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Laus",
+    "core_meaning": "praise",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Lex",
+    "core_meaning": "law",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Liber",
+    "core_meaning": "book / free",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ligo",
+    "core_meaning": "tie, bind",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Limen",
+    "core_meaning": "threshold",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Lingua",
+    "core_meaning": "tongue, language",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Littera",
+    "core_meaning": "letter",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Locus",
+    "core_meaning": "place",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Longe",
+    "core_meaning": "far",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Lux",
+    "core_meaning": "light",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Luna",
+    "core_meaning": "moon",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Machina",
+    "core_meaning": "machine",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Magister",
+    "core_meaning": "master, teacher",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Magnus",
+    "core_meaning": "great",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Malus",
+    "core_meaning": "bad, evil",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Manus",
+    "core_meaning": "hand",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mare",
+    "core_meaning": "sea",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mater",
+    "core_meaning": "mother",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Materia",
+    "core_meaning": "matter, material",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Medicus",
+    "core_meaning": "physician, doctor",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Medius",
+    "core_meaning": "middle",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Memor",
+    "core_meaning": "mindful",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mens",
+    "core_meaning": "mind",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Merx",
+    "core_meaning": "merchandise, goods",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Miles",
+    "core_meaning": "soldier",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mirari",
+    "core_meaning": "wonder, marvel",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Modus",
+    "core_meaning": "measure, manner",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mons",
+    "core_meaning": "mountain",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mors",
+    "core_meaning": "death",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Movere",
+    "core_meaning": "move",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Multus",
+    "core_meaning": "many",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mundus",
+    "core_meaning": "world",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Mutare",
+    "core_meaning": "change",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nasci",
+    "core_meaning": "be born",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nates",
+    "core_meaning": "buttocks",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Navis",
+    "core_meaning": "ship",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nervus",
+    "core_meaning": "nerve, sinew",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nix",
+    "core_meaning": "snow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nomen",
+    "core_meaning": "name",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Norma",
+    "core_meaning": "rule, standard",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Novus",
+    "core_meaning": "new",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nox",
+    "core_meaning": "night",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nubes",
+    "core_meaning": "cloud",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Nudus",
+    "core_meaning": "naked",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Numerus",
+    "core_meaning": "number",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Oculus",
+    "core_meaning": "eye",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Odor",
+    "core_meaning": "smell, scent",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Omne",
+    "core_meaning": "all",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Opus",
+    "core_meaning": "work, labor",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Orbis",
+    "core_meaning": "circle, orb",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ordo",
+    "core_meaning": "order, row",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Os",
+    "core_meaning": "bone / mouth",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ovum",
+    "core_meaning": "egg",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Panis",
+    "core_meaning": "bread",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pars",
+    "core_meaning": "part, share",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pater",
+    "core_meaning": "father",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pati",
+    "core_meaning": "suffer, endure",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pax",
+    "core_meaning": "peace",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pectus",
+    "core_meaning": "chest, breast",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pecus",
+    "core_meaning": "cattle, money",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pellis",
+    "core_meaning": "skin, hide",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pendere",
+    "core_meaning": "hang, weigh",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pes",
+    "core_meaning": "foot",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Petere",
+    "core_meaning": "seek, attack",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Picus",
+    "core_meaning": "woodpecker",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Piscis",
+    "core_meaning": "fish",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Planta",
+    "core_meaning": "plant, sole of foot",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Plicare",
+    "core_meaning": "fold",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pondus",
+    "core_meaning": "weight",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Populus",
+    "core_meaning": "people",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Portare",
+    "core_meaning": "carry",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Portus",
+    "core_meaning": "harbor, port",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Potens",
+    "core_meaning": "powerful",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pratum",
+    "core_meaning": "meadow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pretium",
+    "core_meaning": "price, value",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Primus",
+    "core_meaning": "first",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Probus",
+    "core_meaning": "honest, good",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Proprius",
+    "core_meaning": "one's own",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Pugnus",
+    "core_meaning": "fist",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Punctum",
+    "core_meaning": "point, dot",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Purus",
+    "core_meaning": "pure",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Quatere",
+    "core_meaning": "shake",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Quercus",
+    "core_meaning": "oak tree",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Quies",
+    "core_meaning": "rest, quiet",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Radix",
+    "core_meaning": "root",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ramus",
+    "core_meaning": "branch",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ratio",
+    "core_meaning": "reason, calculation",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Regere",
+    "core_meaning": "rule, keep straight",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Regnum",
+    "core_meaning": "kingdom",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ritus",
+    "core_meaning": "rite, custom",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Rivus",
+    "core_meaning": "stream, brook",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Rota",
+    "core_meaning": "wheel",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ruptus",
+    "core_meaning": "broken",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sacer",
+    "core_meaning": "sacred, holy",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sal",
+    "core_meaning": "salt",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Salus",
+    "core_meaning": "health, safety",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sanus",
+    "core_meaning": "healthy",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sapiens",
+    "core_meaning": "wise",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Saxum",
+    "core_meaning": "rock",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Scientia",
+    "core_meaning": "knowledge",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Scindere",
+    "core_meaning": "split, cut",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Scribere",
+    "core_meaning": "write",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Secare",
+    "core_meaning": "cut",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sedes",
+    "core_meaning": "seat, base",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Senex",
+    "core_meaning": "old, old man",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sentire",
+    "core_meaning": "feel, perceive",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sequi",
+    "core_meaning": "follow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Serere",
+    "core_meaning": "join, sow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Signum",
+    "core_meaning": "sign, mark",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Silva",
+    "core_meaning": "forest, woods",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Similis",
+    "core_meaning": "like, similar",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Socius",
+    "core_meaning": "companion, ally",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sol",
+    "core_meaning": "sun",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Solus",
+    "core_meaning": "alone",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Somnus",
+    "core_meaning": "sleep",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sonus",
+    "core_meaning": "sound",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Soror",
+    "core_meaning": "sister",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Spatium",
+    "core_meaning": "space",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Specere",
+    "core_meaning": "look, see",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sperare",
+    "core_meaning": "hope",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Spiritus",
+    "core_meaning": "breath, spirit",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Stare",
+    "core_meaning": "stand",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Stella",
+    "core_meaning": "star",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Stirps",
+    "core_meaning": "stem, lineage",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Stringere",
+    "core_meaning": "bind tight",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Struere",
+    "core_meaning": "build",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sudor",
+    "core_meaning": "sweat",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Sumere",
+    "core_meaning": "take, use",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tactus",
+    "core_meaning": "touch",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Talis",
+    "core_meaning": "such",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Taurus",
+    "core_meaning": "bull",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tegere",
+    "core_meaning": "cover",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tempus",
+    "core_meaning": "time",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tendere",
+    "core_meaning": "stretch",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tenebrae",
+    "core_meaning": "darkness",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tenere",
+    "core_meaning": "hold",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Terminus",
+    "core_meaning": "boundary, end",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Terra",
+    "core_meaning": "earth, land",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Testis",
+    "core_meaning": "witness",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Texere",
+    "core_meaning": "weave",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Timere",
+    "core_meaning": "fear",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tollere",
+    "core_meaning": "lift, raise",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Torquere",
+    "core_meaning": "twist",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Totus",
+    "core_meaning": "whole, total",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Trahere",
+    "core_meaning": "draw, pull",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tremere",
+    "core_meaning": "tremble",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tribus",
+    "core_meaning": "tribe",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Trudere",
+    "core_meaning": "push, thrust",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Tuber",
+    "core_meaning": "swelling, lump",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Unda",
+    "core_meaning": "wave",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Unus",
+    "core_meaning": "one",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Urbs",
+    "core_meaning": "city",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Urina",
+    "core_meaning": "urine",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Usus",
+    "core_meaning": "use, practice",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Uxor",
+    "core_meaning": "wife",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vacare",
+    "core_meaning": "be empty",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vadus",
+    "core_meaning": "shallow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vagari",
+    "core_meaning": "wander",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Valere",
+    "core_meaning": "be strong, worth",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vapor",
+    "core_meaning": "steam, vapor",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vas",
+    "core_meaning": "vessel",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vegetare",
+    "core_meaning": "awaken, grow",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Velum",
+    "core_meaning": "veil, sail",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vena",
+    "core_meaning": "vein",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Venter",
+    "core_meaning": "belly, stomach",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Ventus",
+    "core_meaning": "wind",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Verbum",
+    "core_meaning": "word",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Veritas",
+    "core_meaning": "truth",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vertere",
+    "core_meaning": "turn",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vesper",
+    "core_meaning": "evening",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Via",
+    "core_meaning": "way, road",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vicare",
+    "core_meaning": "change, substitute",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vicinus",
+    "core_meaning": "neighbor",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vincere",
+    "core_meaning": "conquer, win",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vinculum",
+    "core_meaning": "chain, bond",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vinus",
+    "core_meaning": "wine",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vir",
+    "core_meaning": "man",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Virtus",
+    "core_meaning": "virtue, strength",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Viscus",
+    "core_meaning": "internal organ",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vita",
+    "core_meaning": "life",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vitrum",
+    "core_meaning": "glass",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vivere",
+    "core_meaning": "live",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vocare",
+    "core_meaning": "call",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Volare",
+    "core_meaning": "fly",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Velle",
+    "core_meaning": "will, wish",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Volvere",
+    "core_meaning": "roll",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vorare",
+    "core_meaning": "devour",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vulnus",
+    "core_meaning": "wound",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  },
+  {
+    "root": "Vultus",
+    "core_meaning": "face, expression",
+    "source_doc": "the-unicorn-estate/topology/03-full-root-assignments-275.md"
+  }
+]
