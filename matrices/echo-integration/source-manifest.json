@@ -1,0 +1,777 @@
+{
+  "repository": "AGI144348Outlook/Echo_Green_Future",
+  "branch": "genesis-documentary",
+  "commit": "b9a2299820651f0bcc700de4de943f3c70b8c91e",
+  "source_tree": "bced0a1d43e602cdff7641737155ac9be266eb31",
+  "destination": "vendor/echo-genesis",
+  "files": [
+    {
+      "path": ".github/workflows/deploy.yml",
+      "mode": "100644",
+      "sha": "dfcc3866a3d2bfd21cd0a9c627a05347b244174f",
+      "size": 402
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "sha": "28212ae3dfac2fd245663eb26d9f3f3e498a5b01",
+      "size": 1351
+    },
+    {
+      "path": "CLA.md",
+      "mode": "100644",
+      "sha": "43bfba3443a13a89e27d7f4d9b045141def9624f",
+      "size": 5172
+    },
+    {
+      "path": "Echo_Green_Future_Source.zip",
+      "mode": "100644",
+      "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+      "size": 283475
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "sha": "7659678e8d58b160e9c84cef8b1580c4abc8d439",
+      "size": 7227
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "a3727452d4813400144c3e9082aad4da13ddb40c",
+      "size": 2357
+    },
+    {
+      "path": "artifacts/echo_dashboard.jsx",
+      "mode": "100644",
+      "sha": "be77905c5c03d7df3c21ea0e30ad04dfc39956f6",
+      "size": 45024
+    },
+    {
+      "path": "artifacts/echo_governor.jsx",
+      "mode": "100644",
+      "sha": "890534a7c1e87626323c119bc473725c0c7c8030",
+      "size": 24698
+    },
+    {
+      "path": "artifacts/echo_matrix_browser.jsx",
+      "mode": "100644",
+      "sha": "79c3cd30d87c17670a5a809b410c72c14898015b",
+      "size": 64032
+    },
+    {
+      "path": "corpus/mashet_parsed.json",
+      "mode": "100644",
+      "sha": "ed458739799fbdbb45840bc978e5d465f58f7982",
+      "size": 48411
+    },
+    {
+      "path": "docs/DISCOVERIES_SINCE_GENESIS.md",
+      "mode": "100644",
+      "sha": "d6fde062e7c12123425ae883e70e633579581847",
+      "size": 17660
+    },
+    {
+      "path": "docs/ECHO_ARCHITECTURAL_DEFINITIONS.md",
+      "mode": "100644",
+      "sha": "81ce17be0cb57b69ec44dd3e52244bd54900a5cc",
+      "size": 6135
+    },
+    {
+      "path": "docs/ECHO_OUTPUT_FORMAT.md",
+      "mode": "100644",
+      "sha": "bb8309074b7453a5cbfe4df7743a3890add16fd4",
+      "size": 3087
+    },
+    {
+      "path": "docs/GENESIS.md",
+      "mode": "100644",
+      "sha": "a61331c9bbd0b760a3aac41b60c96f5ff34f1b4a",
+      "size": 23115
+    },
+    {
+      "path": "docs/INSTRUCTIONS_FOR_GPT.md",
+      "mode": "100644",
+      "sha": "0996ca8413c0763b8b1d7c639738a3464fcee10a",
+      "size": 4732
+    },
+    {
+      "path": "docs/REVISED_INSTRUCTIONS_FOR_GPT.md",
+      "mode": "100644",
+      "sha": "452b59df7ec09dff7fb5a06ef9dd3ea8cc6ae780",
+      "size": 6707
+    },
+    {
+      "path": "docs/SESSION_HANDOFF.md",
+      "mode": "100644",
+      "sha": "75c305a6f355f1e1c87f4fa1f54de98c4ce48671",
+      "size": 16472
+    },
+    {
+      "path": "docs/UPDATE_FOR_GPT.md",
+      "mode": "100644",
+      "sha": "e316d5a08a733ab9f54dbba08901fe699e79d036",
+      "size": 11039
+    },
+    {
+      "path": "generate_matrices.py",
+      "mode": "100644",
+      "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+      "size": 12891
+    },
+    {
+      "path": "infrastructure/cloudflare_blueprint.json",
+      "mode": "100644",
+      "sha": "f9a9aa8abb0499620498ba7d57b2775f21bf6c0a",
+      "size": 9503
+    },
+    {
+      "path": "integration-inbox/README.md",
+      "mode": "100644",
+      "sha": "b8cdb8147a59341ad26d428a552af2307f53a2db",
+      "size": 1468
+    },
+    {
+      "path": "integration-inbox/core-lexicon/PROVENANCE.json",
+      "mode": "100644",
+      "sha": "96d11dee681f1129123d66fe10528a763106c0e3",
+      "size": 484
+    },
+    {
+      "path": "integration-inbox/core-lexicon/README.md",
+      "mode": "100644",
+      "sha": "173ac234c9cc4a3ae95fbea3d377ccd801651364",
+      "size": 682
+    },
+    {
+      "path": "integration-inbox/core-lexicon/core-lexicon.zip",
+      "mode": "100644",
+      "sha": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+      "size": 7426611
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/PROVENANCE.json",
+      "mode": "100644",
+      "sha": "e588afe37f33d5d38d9650c28d94fd2ec8ddb0e6",
+      "size": 8450
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/README.md",
+      "mode": "100644",
+      "sha": "54876a2dedb366d8c80f89ccccc6a4751441c31b",
+      "size": 2390
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/card-chat/README.md",
+      "mode": "100644",
+      "sha": "b5a66942081003f85a1aa1256d370bb8868f4218",
+      "size": 6004
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/card-chat/service.js",
+      "mode": "100644",
+      "sha": "ed3012623e7889cb42a6afe6cacad68b0ce2085b",
+      "size": 5983
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/card-chat/service.test.js",
+      "mode": "100644",
+      "sha": "0e42e174657b57fafbc5560f802055603e3c46f0",
+      "size": 4771
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/ARCHIVE-IMPORT.md",
+      "mode": "100644",
+      "sha": "efb757a751e4b61cc911d74f9ba21d48d51ccf3c",
+      "size": 5318
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/CODEX-REPLY-THREAD-REGISTRY.md",
+      "mode": "100644",
+      "sha": "99510ad13139e4b3b9ec5286459c13762a639075",
+      "size": 5330
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/FILING.md",
+      "mode": "100644",
+      "sha": "6af64068ddd2cda140f1dbe2001458ec9a90bba1",
+      "size": 5590
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/FILTER-PIPELINE-CONTRACT.md",
+      "mode": "100644",
+      "sha": "7cf34a4052b45c014bd988ca06635581a929323e",
+      "size": 8812
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/R2-READINESS.md",
+      "mode": "100644",
+      "sha": "6fcbc27deb2b21b818625e8e555290bf5406bc05",
+      "size": 567
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/README.md",
+      "mode": "100644",
+      "sha": "cdd9c1305d67e7389c6e761155aff5747b9076c6",
+      "size": 3086
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/STORAGE-HANDOFF-2026-10-18.md",
+      "mode": "100644",
+      "sha": "177f61a12bf9f4b616f7ef8cbe900d6843ff3604",
+      "size": 6018
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/THREAD-REGISTRY-PLAN.md",
+      "mode": "100644",
+      "sha": "1efb59d8ac5f85c91c4ea8f4a2094fec22cad6cd",
+      "size": 5333
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/archive.test.js",
+      "mode": "100644",
+      "sha": "9c12258160e0b1043ca3738ed6eabd580118f9f0",
+      "size": 6696
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/filing-live-check.js",
+      "mode": "100644",
+      "sha": "e105fe75c0a794a4ab0d9e47bc01d14251819434",
+      "size": 3135
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/filing-service.js",
+      "mode": "100644",
+      "sha": "4919d74b6c9c300bd71600cf81e78407e0660e19",
+      "size": 8910
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/filing.test.js",
+      "mode": "100644",
+      "sha": "2cdd5f085b663649630b23b501fd81ed98b75315",
+      "size": 8300
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/model.test.js",
+      "mode": "100644",
+      "sha": "4573b158d37886b474ae19788f7e0d36613c9fe2",
+      "size": 1566
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/upload-service.js",
+      "mode": "100644",
+      "sha": "5594a552e7f4177a80b02ae12734cc782b7ad2cc",
+      "size": 9176
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/upload.test.js",
+      "mode": "100644",
+      "sha": "c829b90dd7279a45c33ae57f5e135e3edfcdba4b",
+      "size": 6042
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/worker.js",
+      "mode": "100644",
+      "sha": "6594b0955e7ede1b29ab4cfe73671d2dd83405f4",
+      "size": 899
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler-storage.toml",
+      "mode": "100644",
+      "sha": "12d2c3f06531cefa8827b859c1b595683106c961",
+      "size": 736
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler.toml",
+      "mode": "100644",
+      "sha": "8479d41baac7ec3bc68bb4dd553a2daec37f0e89",
+      "size": 473
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/README.md",
+      "mode": "100644",
+      "sha": "9ad9bef35290997bac9e436bb7a1d0fda4f7b8ee",
+      "size": 8101
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/cards.test.js",
+      "mode": "100644",
+      "sha": "bb5f89b4e9d2ab16252f2f18cc64c055abe8c7c3",
+      "size": 1435
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/engine.js",
+      "mode": "100644",
+      "sha": "c0ae653986b22bef51118a357b0764a4bb402f2c",
+      "size": 4210
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/engine.test.js",
+      "mode": "100644",
+      "sha": "25b1ed641ad7648ee31e2ee775612572b3519fab",
+      "size": 3186
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/service.js",
+      "mode": "100644",
+      "sha": "db18466f9c12198a271d5f575aa67e0f180672e5",
+      "size": 8152
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/service.test.js",
+      "mode": "100644",
+      "sha": "d27de81e0cc227f6cc05ae894fdaf6ab65bba8d0",
+      "size": 4350
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/package.json",
+      "mode": "100644",
+      "sha": "c5e5690604940d87ff32cec6d707729db0a09c15",
+      "size": 463
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/adapter-engine.js",
+      "mode": "100644",
+      "sha": "5937a87141d05dd297b5913fa571e39d19b4e0d6",
+      "size": 6645
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/adapter-ui.js",
+      "mode": "100644",
+      "sha": "4c859a7104fbb2d29f0183791069174b035780e9",
+      "size": 14529
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/adapters.css",
+      "mode": "100644",
+      "sha": "a880d77e15fb1dfd7f3422cc93003f374923c28f",
+      "size": 4081
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/adapters.html",
+      "mode": "100644",
+      "sha": "a34263e04d2c643ef473ab7da02936484c85a1af",
+      "size": 6506
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-db.js",
+      "mode": "100644",
+      "sha": "9bc9801d9a4cb34c98e807f92ae3f1698d3748a0",
+      "size": 3089
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-import.js",
+      "mode": "100644",
+      "sha": "cee4641691412aa5d57b62959d5f6695a146ff27",
+      "size": 2166
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-parser.js",
+      "mode": "100644",
+      "sha": "4f5d1a4d99ea260cf59bd3345b801bb23abd137a",
+      "size": 5603
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-ui.js",
+      "mode": "100644",
+      "sha": "8a14c4d85ffdfe9394ca84d0364103282ab45936",
+      "size": 12023
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-worker.js",
+      "mode": "100644",
+      "sha": "67053a6d2645b52b001adfde19d19bad2229c3fb",
+      "size": 1612
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/chat.css",
+      "mode": "100644",
+      "sha": "6949c3e93a17e5d477ddf6258368e3579ab1f0da",
+      "size": 649
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/chat.html",
+      "mode": "100644",
+      "sha": "6c25f7da6cb38eb0a490bf7ba4a88212bd7cfb5c",
+      "size": 2185
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/chat.js",
+      "mode": "100644",
+      "sha": "09a94112f41d89382113a700234b5d23fc137293",
+      "size": 4617
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/cloud-source.js",
+      "mode": "100644",
+      "sha": "cf2cd576d18b384b0645e25435bed782da9f6840",
+      "size": 6269
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/files.css",
+      "mode": "100644",
+      "sha": "070bb392aafb97638a15ab14f77d2f6a2891f702",
+      "size": 3031
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/files.html",
+      "mode": "100644",
+      "sha": "56f0989fc20aa48edf45603300fa23d2e4a22a81",
+      "size": 4667
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/files.js",
+      "mode": "100644",
+      "sha": "3ee473e0c21504c081b8541f7656a47e41a35a14",
+      "size": 10198
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/filter-towers.css",
+      "mode": "100644",
+      "sha": "40a2c666197599ee136dfb1a7ac899254ecb679e",
+      "size": 1388
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/filter-towers.html",
+      "mode": "100644",
+      "sha": "2e0571719b691cfd6e8609aea1d7d0869d96d284",
+      "size": 1156
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/filter-towers.js",
+      "mode": "100644",
+      "sha": "117ef791b4ce47aa6914da9859c18f0e40a437dc",
+      "size": 5412
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/index.html",
+      "mode": "100644",
+      "sha": "dabbd828d369a6b182e74486b65a43811c4a65d3",
+      "size": 12858
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/model.js",
+      "mode": "100644",
+      "sha": "e01218ea854b61121e8924349a1d2f823dfe7072",
+      "size": 4614
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/sessions.html",
+      "mode": "100644",
+      "sha": "033c393eed5c4dadf1584ee26d86cd86947c3817",
+      "size": 1693
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/sessions.js",
+      "mode": "100644",
+      "sha": "fc02ce2a8e5258c65027fa35c64d1d7fecd9e0ce",
+      "size": 4524
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/tower.css",
+      "mode": "100644",
+      "sha": "67e2f10e6bae58789ca0baf687f84e3025984ac9",
+      "size": 16064
+    },
+    {
+      "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/tower.js",
+      "mode": "100644",
+      "sha": "5dd727d2d300719d4d4c6ccce36a10a53416fea4",
+      "size": 6763
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry.zip",
+      "mode": "100644",
+      "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+      "size": 39739
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/01-ALEPH.md",
+      "mode": "100644",
+      "sha": "7b4c73a4c5778c4f67338a901d98afd65e330a81",
+      "size": 3359
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/02-BET.md",
+      "mode": "100644",
+      "sha": "261b8d226d5da5781d8481ae6dc2a12c52b68e0e",
+      "size": 3346
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/03-GIMEL.md",
+      "mode": "100644",
+      "sha": "bc1c790d1ef3db01a13086cc8ed0c67944ce36b9",
+      "size": 3571
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/04-DALET.md",
+      "mode": "100644",
+      "sha": "c9f9759c8fa501d8f7f164f9ee8ee00f4282a09c",
+      "size": 3577
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/05-HE.md",
+      "mode": "100644",
+      "sha": "bec0b74d73064130d8058b3bfc86966234fbb563",
+      "size": 2377
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/06-VAV.md",
+      "mode": "100644",
+      "sha": "11d614378fbe8462970e2003b25404d5dab23291",
+      "size": 2279
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/07-ZAYIN.md",
+      "mode": "100644",
+      "sha": "5028984c85a12d56608447ae2260358691202104",
+      "size": 2300
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/08-HET.md",
+      "mode": "100644",
+      "sha": "b1caf79024f391636a84d7edab484ddf61312b22",
+      "size": 2315
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/09-TET.md",
+      "mode": "100644",
+      "sha": "d6c897294863473d37e090e769f35c58c4ff499f",
+      "size": 2435
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/10-YOD.md",
+      "mode": "100644",
+      "sha": "aead14395620c6fb8563589f1a6376796ce8a64d",
+      "size": 2541
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/11-KAF.md",
+      "mode": "100644",
+      "sha": "0f2cfd379d563c2eddb8d858c322a0686962e411",
+      "size": 3063
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/12-LAMED.md",
+      "mode": "100644",
+      "sha": "a649790c4d59db7fa9a8893d4c2f5f2101049e2f",
+      "size": 3234
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/13-MEM.md",
+      "mode": "100644",
+      "sha": "a3abe7d54edb3059843ce1c77d436144d5f0ed5d",
+      "size": 3451
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/14-NUN.md",
+      "mode": "100644",
+      "sha": "0d54ffa0913eba4491a614b6ab359585ed1531ba",
+      "size": 3509
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/15-SAMEKH.md",
+      "mode": "100644",
+      "sha": "c7606ca2dbc11996853c820dc072dad2f5004ab2",
+      "size": 3322
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/16-AYIN.md",
+      "mode": "100644",
+      "sha": "85e19a840815f7b2dfdb7e3e2942d18cc1127a6f",
+      "size": 3371
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/17-PE.md",
+      "mode": "100644",
+      "sha": "02299e35c9cda20867a16a94ca4925ff52ce65f2",
+      "size": 3259
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/18-TSADI.md",
+      "mode": "100644",
+      "sha": "013536965fa1d185448d75dcd355e8f088c7f498",
+      "size": 3380
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/19-QOF.md",
+      "mode": "100644",
+      "sha": "947d4d8a1b008851aad6dc983a499a2c8dc8f96b",
+      "size": 3413
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/20-RESH.md",
+      "mode": "100644",
+      "sha": "f4c848f63d4475e45fece0d9f9070196e793f024",
+      "size": 3992
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/21-SHIN.md",
+      "mode": "100644",
+      "sha": "4644591e376ef5ccfc08bfdd47a5e9bbfbca8547",
+      "size": 3965
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/22-TAV.md",
+      "mode": "100644",
+      "sha": "34ed7725e8e366739c2d9001bf5f487ff404ef01",
+      "size": 3741
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry/INDEX.md",
+      "mode": "100644",
+      "sha": "a2f05ec983acbd9989cd863e6caf397efb856eb0",
+      "size": 5051
+    },
+    {
+      "path": "integration-inbox/hebrew-algorithm-set/PROVENANCE.json",
+      "mode": "100644",
+      "sha": "603b42a305986d3fcc5b6efd33c8d321cd6d8440",
+      "size": 3870
+    },
+    {
+      "path": "matrices/echo_algorithm_matrix.json",
+      "mode": "100644",
+      "sha": "0e1eef0a984129881de9302eb5ec1ed9757eeb66",
+      "size": 9548
+    },
+    {
+      "path": "matrices/echo_equilibria.json",
+      "mode": "100644",
+      "sha": "a97863a0e78f7192ecc7b444882fe209a7681baa",
+      "size": 3693
+    },
+    {
+      "path": "matrices/echo_formula_matrix.json",
+      "mode": "100644",
+      "sha": "649bc41d72a08e9228bef924b356035f734c87e9",
+      "size": 19729
+    },
+    {
+      "path": "matrices/echo_geosensory_registry.json",
+      "mode": "100644",
+      "sha": "280fc713ff1b362a5b0fb8c31bad5f25ef110062",
+      "size": 8340
+    },
+    {
+      "path": "matrices/echo_lhea_chains.json",
+      "mode": "100644",
+      "sha": "36a3312347486883eac2d2fe5b83b3a15608a881",
+      "size": 577385
+    },
+    {
+      "path": "matrices/echo_lobby_agents.json",
+      "mode": "100644",
+      "sha": "6db4fdc2f7cf00ecc9369ff932bcfad9d75c522a",
+      "size": 503246
+    },
+    {
+      "path": "matrices/echo_mashet_corpus.json",
+      "mode": "100644",
+      "sha": "bd3fcb55bfac1d3d9d16be4bc3c80c62acf079fe",
+      "size": 47691
+    },
+    {
+      "path": "matrices/echo_number_matrix.json",
+      "mode": "100644",
+      "sha": "dec25e755c732bc82e8b2ea325996d51cfded4c3",
+      "size": 4458
+    },
+    {
+      "path": "matrices/echo_vgm.json",
+      "mode": "100644",
+      "sha": "02c6d555c6a8edcbce38da9a8d63d34debde1fcf",
+      "size": 8614
+    },
+    {
+      "path": "matrices/echo_wordnet_chains.json",
+      "mode": "100644",
+      "sha": "c5a0b0d2b6b05e17f97e5a981174a78d2f752f20",
+      "size": 6109
+    },
+    {
+      "path": "src/a159_cloudflare_migrator.py",
+      "mode": "100644",
+      "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+      "size": 12902
+    },
+    {
+      "path": "src/alphabet_data.py",
+      "mode": "100644",
+      "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+      "size": 19851
+    },
+    {
+      "path": "src/echo_governor_skeleton.py",
+      "mode": "100644",
+      "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+      "size": 445603
+    },
+    {
+      "path": "src/homework.py",
+      "mode": "100644",
+      "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+      "size": 9704
+    },
+    {
+      "path": "src/import_hebrew_demo.py",
+      "mode": "100644",
+      "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+      "size": 6479
+    },
+    {
+      "path": "src/index.js",
+      "mode": "100644",
+      "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+      "size": 6370
+    },
+    {
+      "path": "src/run_homework.py",
+      "mode": "100644",
+      "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+      "size": 5990
+    },
+    {
+      "path": "tests/echo_500round_run.py",
+      "mode": "100644",
+      "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+      "size": 22317
+    },
+    {
+      "path": "tests/echo_blind_study.py",
+      "mode": "100644",
+      "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+      "size": 18233
+    },
+    {
+      "path": "tests/multipass_orientation_test.py",
+      "mode": "100644",
+      "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+      "size": 9894
+    },
+    {
+      "path": "tests/number_integration_test.py",
+      "mode": "100644",
+      "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+      "size": 11233
+    },
+    {
+      "path": "tests/pe_ayin_resh_communication.py",
+      "mode": "100644",
+      "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+      "size": 9848
+    },
+    {
+      "path": "tests/self_governance_test.py",
+      "mode": "100644",
+      "sha": "4d4f398adc1eeb4a7b88a99ff1d7cf2f815cfad5",
+      "size": 9888
+    },
+    {
+      "path": "wrangler.toml",
+      "mode": "100644",
+      "sha": "045483520551c1cfb2c23341583188827dafb6d3",
+      "size": 1353
+    }
+  ]
+}

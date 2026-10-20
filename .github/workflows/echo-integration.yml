@@ -1,0 +1,54 @@
+name: Assemble and test integrated Echo workspace
+on:
+  push:
+    branches: [integration/echo-genesis-unified]
+    paths:
+      - '.github/workflows/echo-integration.yml'
+      - 'libraries/echo_*.py'
+      - 'libraries/catalog_box.py'
+      - 'tests/**'
+      - 'tools/materialize_genesis.py'
+      - 'tools/run_echo_integration.py'
+      - 'matrices/echo-integration/source-manifest.json'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: echo-integration-assembly
+  cancel-in-progress: false
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: integration/echo-genesis-unified
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Materialize complete pinned Genesis snapshot
+        run: python tools/materialize_genesis.py
+      - name: Run combined tests, diagnostics and persistence demo
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: python tools/run_echo_integration.py
+      - name: Commit verified snapshot and results to integration branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add vendor/echo-genesis reports/echo-integration
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve complete verified Genesis snapshot and integrated test results'
+            git push origin HEAD:integration/echo-genesis-unified
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: echo-integration-results
+          path: reports/echo-integration/
+          if-no-files-found: ignore
+          retention-days: 14

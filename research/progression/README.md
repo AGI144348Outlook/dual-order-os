@@ -15,6 +15,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [006 — Claude export preservation in shared private R2](006-claude-export-preservation.md) — six archives and original manifest transferred and read-back verified; frames archive absent.
 
+- [007 — Integrating Genesis with the catalog and typed relationships](007-unified-echo-integration.md) — isolated integration branch, complete snapshot assembly, combined tests and preserved limitations.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.

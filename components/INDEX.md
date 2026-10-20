@@ -46,3 +46,7 @@ These candidates require code, dependency, and licensing assessment before reuse
 
 - [Catalog box component](catalog-box/README.md) — implemented local SQLite catalog for cards, versioned configuration templates, and independent restored configurations. Thirteen targeted tests passed; Genesis/API/Canvas integration remains separate.
 - [Matrix definition](../matrices/catalog-box/) and [component lookup index](../indices/by-component/README.md).
+
+## Unified Echo integration (branch work)
+
+[Integrated workspace](echo-integration/README.md) connects the preserved Genesis indexer with versioned cards, templates, typed paperclip relations and evidence-bearing stamps. The complete snapshot and evaluation outputs are materialized by this branch's assembly workflow. See its results before treating integration as verified. This entry is on the integration branch; it does not imply main was merged.
