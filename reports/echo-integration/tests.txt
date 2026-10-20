@@ -28,6 +28,23 @@ test_source_role_realizer_preserves_roles_and_reversal (test_echo_language.Langu
 test_transitive_path_has_evidence_and_roundtrip (test_echo_language.LanguageTests.test_transitive_path_has_evidence_and_roundtrip) ... ok
 test_unknown_word_is_not_adopted_from_ambient_wordnet (test_echo_language.LanguageTests.test_unknown_word_is_not_adopted_from_ambient_wordnet) ... ok
 test_unproved_relation_and_its_negation_stay_unknown (test_echo_language.LanguageTests.test_unproved_relation_and_its_negation_stay_unknown) ... ok
+test_category_needs_provenance (test_echo_question_tags.Tests.test_category_needs_provenance) ... ok
+test_contradiction_withheld (test_echo_question_tags.Tests.test_contradiction_withheld) ... ok
+test_definition_hint_is_candidate (test_echo_question_tags.Tests.test_definition_hint_is_candidate) ... ok
+test_malformed_fact_abstains (test_echo_question_tags.Tests.test_malformed_fact_abstains) ... ok
+test_missing_owner_unknown (test_echo_question_tags.Tests.test_missing_owner_unknown) ... ok
+test_negative_not_answer (test_echo_question_tags.Tests.test_negative_not_answer) ... ok
+test_no_adverb_manner_assumption (test_echo_question_tags.Tests.test_no_adverb_manner_assumption) ... ok
+test_no_every_noun_is_person (test_echo_question_tags.Tests.test_no_every_noun_is_person) ... ok
+test_other_event_does_not_leak (test_echo_question_tags.Tests.test_other_event_does_not_leak) ... ok
+test_patient_is_not_agent (test_echo_question_tags.Tests.test_patient_is_not_agent) ... ok
+test_tag_history_pins_source (test_echo_question_tags.Tests.test_tag_history_pins_source) ... ok
+test_temporal_multirole (test_echo_question_tags.Tests.test_temporal_multirole) ... ok
+test_transfer_names (test_echo_question_tags.Tests.test_transfer_names) ... ok
+test_which_needs_alternatives (test_echo_question_tags.Tests.test_which_needs_alternatives) ... ok
+test_who_from_fact (test_echo_question_tags.Tests.test_who_from_fact) ... ok
+test_who_requires_person (test_echo_question_tags.Tests.test_who_requires_person) ... ok
+test_why_does_not_invent_cause (test_echo_question_tags.Tests.test_why_does_not_invent_cause) ... ok
 test_bad_archive (test_echo_sentence_cards.Tests.test_bad_archive) ... ok
 test_changed_sense_invalidates_edge (test_echo_sentence_cards.Tests.test_changed_sense_invalidates_edge) ... ok
 test_direction (test_echo_sentence_cards.Tests.test_direction) ... ok
@@ -61,6 +78,6 @@ test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.In
 test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 61 tests in 1.768s
+Ran 78 tests in 1.582s
 
 OK
