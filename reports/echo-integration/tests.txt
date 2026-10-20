@@ -11,6 +11,22 @@ test_saved_configuration_becomes_reusable_snapshot (test_catalog_box.CatalogTest
 test_template_pins_card_revisions (test_catalog_box.CatalogTests.test_template_pins_card_revisions) ... ok
 test_templates_can_be_versioned_and_explicitly_restored (test_catalog_box.CatalogTests.test_templates_can_be_versioned_and_explicitly_restored) ... ok
 test_two_clients_reject_stale_revision (test_catalog_box.CatalogTests.test_two_clients_reject_stale_revision) ... ok
+test_arity_audit (test_echo_language.LanguageTests.test_arity_audit) ... ok
+test_bounded_english_input_and_malformed_input (test_echo_language.LanguageTests.test_bounded_english_input_and_malformed_input) ... ok
+test_contradictory_join_does_not_become_asserted_sentence (test_echo_language.LanguageTests.test_contradictory_join_does_not_become_asserted_sentence) ... ok
+test_cycle_terminates (test_echo_language.LanguageTests.test_cycle_terminates) ... ok
+test_incomplete_or_ambiguous_roles_abstain (test_echo_language.LanguageTests.test_incomplete_or_ambiguous_roles_abstain) ... ok
+test_inverse_relation (test_echo_language.LanguageTests.test_inverse_relation) ... ok
+test_negation_of_supported_relation_withheld (test_echo_language.LanguageTests.test_negation_of_supported_relation_withheld) ... ok
+test_operator_parse_does_not_execute (test_echo_language.LanguageTests.test_operator_parse_does_not_execute) ... ok
+test_paperclip_is_not_subtype_evidence (test_echo_language.LanguageTests.test_paperclip_is_not_subtype_evidence) ... ok
+test_renamed_endpoint_does_not_retarget_old_assertion (test_echo_language.LanguageTests.test_renamed_endpoint_does_not_retarget_old_assertion) ... ok
+test_result_record_property_truth (test_echo_language.LanguageTests.test_result_record_property_truth) ... ok
+test_role_generator_rejects_unregistered_nodes (test_echo_language.LanguageTests.test_role_generator_rejects_unregistered_nodes) ... ok
+test_source_role_realizer_preserves_roles_and_reversal (test_echo_language.LanguageTests.test_source_role_realizer_preserves_roles_and_reversal) ... ok
+test_transitive_path_has_evidence_and_roundtrip (test_echo_language.LanguageTests.test_transitive_path_has_evidence_and_roundtrip) ... ok
+test_unknown_word_is_not_adopted_from_ambient_wordnet (test_echo_language.LanguageTests.test_unknown_word_is_not_adopted_from_ambient_wordnet) ... ok
+test_unproved_relation_and_its_negation_stay_unknown (test_echo_language.LanguageTests.test_unproved_relation_and_its_negation_stay_unknown) ... ok
 test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history (test_echo_workspace.IntegratedTests.test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history) ... ok
 test_catalog_template_restores_versions_and_graph (test_echo_workspace.IntegratedTests.test_catalog_template_restores_versions_and_graph) ... ok
 test_duplicate_word_identity_rejected (test_echo_workspace.IntegratedTests.test_duplicate_word_identity_rejected) ... ok
@@ -27,6 +43,6 @@ test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.In
 test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 27 tests in 0.769s
+Ran 43 tests in 3.564s
 
 OK

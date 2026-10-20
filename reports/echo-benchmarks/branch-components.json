@@ -141,13 +141,13 @@
   "performance_smoke": [
     {
       "vocabulary_cards": 10,
-      "seconds": 0.0122,
+      "seconds": 0.0329,
       "python_traced_peak_bytes": 891769,
       "note": "Synthetic desktop/CI measurement, not Android or browser performance; no target budget defined."
     },
     {
       "vocabulary_cards": 100,
-      "seconds": 0.6795,
+      "seconds": 1.5407,
       "python_traced_peak_bytes": 891761,
       "note": "Synthetic desktop/CI measurement, not Android or browser performance; no target budget defined."
     }
