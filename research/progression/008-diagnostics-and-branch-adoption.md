@@ -59,3 +59,11 @@ This is an earlier dated source context than the October 6 plasticity reference 
 - [Language interface and source provenance](../../components/echo-integration/LANGUAGE.md)
 
 Next priorities are fixing the finite-verification boundary, handling irregular/mass-noun English explicitly, expanding independently evaluated inference contracts, and batching index reconstruction. Broad comprehension, a universal grammar, production permissions and finalized inversion remain unproven. Work remains isolated on the integration branch; source Genesis, the other source branches, live R2 and deployments are unchanged. A dated addendum should record the completed combined CI run and post-adoption source verification.
+
+## Completed CI verification
+
+[Actions run 39494525305](https://github.com/AGI144348Outlook/dual-order-os/actions/runs/39494525305) completed successfully. Result commit `bc60071a3f02393493ff752c5b465f20069085ac` records **43 Python regression tests passed, 62 archived cabinet tests passed**, two historical scripts completed, and five historical scripts blocked by the same missing thesaurus. Independent Git-tree comparison confirmed all 128 Genesis source blobs unchanged and all ten adopted source blobs matching their branch provenance.
+
+The CI capability results reproduced the local diagnostic counts: original interfaces 25 PASS / 18 FAIL / seven UNSUPPORTED; additional bounded interfaces 15 PASS / three FAIL. No baseline outcomes changed. A green CI result here means all evaluation machinery and asserted regression contracts completed; it does not relabel diagnostic failures as successes.
+
+CI synthetic insertion timings were 0.0329 seconds for 10 cards and 1.5407 seconds for 100 cards with allocation tracing enabled. About 892 kB of Python allocations were traced in each case; this is not total process RAM. Results are hardware/environment-specific and emphasize batching as future work rather than establishing phone throughput.

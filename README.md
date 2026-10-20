@@ -1,9 +1,11 @@
 # Integrated Echo workspace — integration branch
 
-This branch combines the preserved Genesis Documentary snapshot with Dual Order OS's catalog and a new tested adapter. **Complete source copy: 128 files verified. Tests: 27 Python + 62 archived cabinet tests passed.** Two original Genesis programs completed; five historical runs remain blocked by missing corpus data. Known Genesis validation/reasoning limitations remain recorded.
+This branch combines the preserved Genesis Documentary snapshot with Dual Order OS's catalog and a new tested adapter. **Complete source copy: 128 files verified. Tests: 43 Python + 62 archived cabinet tests passed.** Two original Genesis programs completed; five historical runs remain blocked by missing corpus data. Known Genesis validation/reasoning limitations remain recorded.
 
 - [Start here: component and usage guide](components/echo-integration/README.md)
 - [Complete preserved Genesis snapshot](vendor/echo-genesis/)
+- [Capability diagnostics and branch-adoption report](research/progression/008-diagnostics-and-branch-adoption.md): original battery 25 PASS / 18 FAIL / 7 UNSUPPORTED; separate bounded-language battery 15 PASS / 3 FAIL. These are transparent synthetic diagnostics, not standardized intelligence scores.
+- [Bounded language interfaces](components/echo-integration/LANGUAGE.md): explicit role realization, typed expressions, relative subtype inference, provenance and abstention.
 - [Combined results](reports/echo-integration/results.json) and [restored-workspace demonstration](reports/echo-integration/demo.json)
 - [Integration Matrix](matrices/echo-integration/) and [progression report](research/progression/007-unified-echo-integration.md)
 

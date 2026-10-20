@@ -50,3 +50,7 @@ These candidates require code, dependency, and licensing assessment before reuse
 ## Unified Echo integration (branch work)
 
 [Integrated workspace](echo-integration/README.md) connects the preserved Genesis indexer with versioned cards, templates, typed paperclip relations and evidence-bearing stamps. The complete snapshot and evaluation outputs are materialized by this branch's assembly workflow. See its results before treating integration as verified. This entry is on the integration branch; it does not imply main was merged.
+
+## Bounded language components (integration branch)
+
+[Language adapter](echo-integration/LANGUAGE.md) adopts ten pinned source files from autonomous-agency and ksm-recess-wholesale. It adds constrained English/EMEL parsing, round-trip rendering, explicit-role articulation and relative subtype support without changing Genesis. [Diagnostics](../reports/echo-benchmarks/summary.json) retain unsupported capabilities and failures.

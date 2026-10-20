@@ -48,3 +48,9 @@ The configuration graph is a relational description, not the still-undefined §D
 Genesis's permissive generic validators, weak theorem-composition rules and raw-glyph tokenizer remain unchanged and are reported as known gaps. The adapter supplies bounded checks around its new operations; it does not claim to repair or certify all Governor paths. Keyword matches are authored associations, not proof of understanding, subjective judgment, or logical truth.
 
 See the [combined results](../../reports/echo-integration/results.json), [snapshot manifest](../../matrices/echo-integration/source-manifest.json), and [progression report](../../research/progression/007-unified-echo-integration.md). Assembly run 39492335598 succeeded: all 128 snapshot files matched, 27 Python tests and 62 archived cabinet tests passed. Two historical programs completed and five remained blocked by absent corpus data. The linked reports preserve those distinctions.
+
+## Language extension and diagnostic checkpoint
+
+The branch now also exposes bounded `language` and `articulate` query operations, with caller-asserted subtype links stored as versioned cards. See [LANGUAGE.md](LANGUAGE.md) for source lineage, relative-support semantics and limits. A recovered grammar does not establish general fluency, Hebrew morphology or unrestricted comprehension.
+
+CI run [39494525305](https://github.com/AGI144348Outlook/dual-order-os/actions/runs/39494525305) passed 43 Python regression tests and 62 archived cabinet tests. Capability diagnostics deliberately retain failures: the original battery remains 25 PASS, 18 FAIL, seven UNSUPPORTED; an additional bounded-interface challenge has 15 PASS and three FAIL. The original Genesis files and ten adopted branch files were independently verified by Git blob identity.
