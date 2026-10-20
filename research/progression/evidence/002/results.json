@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-20",
+  "source_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+  "method": "Fresh in-memory matrix per input. Metadata records have glyph/name only; no semantic meanings assigned. No persisted registrations, repository modifications, network calls or LLM use.",
+  "results": [
+    {
+      "glyph": "ר",
+      "name": "resh",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "ר",
+        "val": 200,
+        "class": "Double",
+        "lhea": "head/beginning/identity/leader — A-000, the Governor itself"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "ר",
+          "name": "resh"
+        }
+      ]
+    },
+    {
+      "glyph": "צ",
+      "name": "tsadi",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "צ",
+        "val": 90,
+        "class": "Elemental",
+        "lhea": "righteousness/discipline/pursuit — the drive toward correctness"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "צ",
+          "name": "tsadi"
+        }
+      ]
+    },
+    {
+      "glyph": "פ",
+      "name": "pe",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "פ",
+        "val": 80,
+        "class": "Double",
+        "lhea": "mouth/speech/expression/command — the outward voice"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "פ",
+          "name": "pe"
+        }
+      ]
+    },
+    {
+      "glyph": "ע",
+      "name": "ayin",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "ע",
+        "val": 70,
+        "class": "Elemental",
+        "lhea": "eye/perception/spring/depth — seeing, the source of insight"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "ע",
+          "name": "ayin"
+        }
+      ]
+    },
+    {
+      "glyph": "ק",
+      "name": "qof",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "ק",
+        "val": 100,
+        "class": "Double",
+        "lhea": "back of head/sanctity/cycle — what returns, the sacred loop"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "ק",
+          "name": "qof"
+        }
+      ]
+    },
+    {
+      "glyph": "ש",
+      "name": "shin",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "ש",
+        "val": 300,
+        "class": "Mother",
+        "lhea": "fire/transformation/tooth — the consuming and purifying force"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "ש",
+          "name": "shin"
+        }
+      ]
+    },
+    {
+      "glyph": "ת",
+      "name": "tav",
+      "raw_tokens": [],
+      "direct_lookup_found": false,
+      "name_lookup": {
+        "glyph": "ת",
+        "val": 400,
+        "class": "Double",
+        "lhea": "mark/truth/completion/seal — the final letter, covenant"
+      },
+      "raw_generated_types": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "raw_registered": 3,
+      "raw_empty_record_classification": "UNKNOWN_ENTITY",
+      "record_query": [
+        {
+          "glyph": "ת",
+          "name": "tav"
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 - [001 — From Genesis Documentary to reusable components](001-genesis-to-components.md) — recorded 2026-10-20; covers preserved Genesis tests, glyph algorithm documentation, integration intake, interrupted transfer, glyph-logic probes, and Dual Order OS components.
 - [Supporting evidence for report 001](evidence/001/) — original targeted harnesses and results; reproduction assumptions are documented in the report.
 
+- [002 — Tracing ר צ פ ע ק ש ת through Echo](002-seven-glyph-processing.md) — fresh per-glyph input, lookup, generation and query checks, distinguished from earlier mechanism tests.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
