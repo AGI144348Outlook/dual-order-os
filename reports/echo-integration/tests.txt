@@ -1,0 +1,32 @@
+test_code_strings_are_data_and_demo_has_no_automatic_execution (test_catalog_box.CatalogTests.test_code_strings_are_data_and_demo_has_no_automatic_execution) ... ok
+test_configuration_edits_leave_template_and_other_instance_intact (test_catalog_box.CatalogTests.test_configuration_edits_leave_template_and_other_instance_intact) ... ok
+test_distinct_glyph_forms_and_duplicate_identity (test_catalog_box.CatalogTests.test_distinct_glyph_forms_and_duplicate_identity) ... ok
+test_duplicate_instance_does_not_overwrite (test_catalog_box.CatalogTests.test_duplicate_instance_does_not_overwrite) ... ok
+test_json_contract_and_identity_validation (test_catalog_box.CatalogTests.test_json_contract_and_identity_validation) ... ok
+test_missing_or_duplicate_refs_do_not_create_template_or_event (test_catalog_box.CatalogTests.test_missing_or_duplicate_refs_do_not_create_template_or_event) ... ok
+test_reopen_restores_cards_templates_and_instances (test_catalog_box.CatalogTests.test_reopen_restores_cards_templates_and_instances) ... ok
+test_return_and_input_mutation_do_not_change_storage (test_catalog_box.CatalogTests.test_return_and_input_mutation_do_not_change_storage) ... ok
+test_revision_changes_lookup_without_losing_history (test_catalog_box.CatalogTests.test_revision_changes_lookup_without_losing_history) ... ok
+test_saved_configuration_becomes_reusable_snapshot (test_catalog_box.CatalogTests.test_saved_configuration_becomes_reusable_snapshot) ... ok
+test_template_pins_card_revisions (test_catalog_box.CatalogTests.test_template_pins_card_revisions) ... ok
+test_templates_can_be_versioned_and_explicitly_restored (test_catalog_box.CatalogTests.test_templates_can_be_versioned_and_explicitly_restored) ... ok
+test_two_clients_reject_stale_revision (test_catalog_box.CatalogTests.test_two_clients_reject_stale_revision) ... ok
+test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history (test_echo_workspace.IntegratedTests.test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history) ... ok
+test_catalog_template_restores_versions_and_graph (test_echo_workspace.IntegratedTests.test_catalog_template_restores_versions_and_graph) ... ok
+test_duplicate_word_identity_rejected (test_echo_workspace.IntegratedTests.test_duplicate_word_identity_rejected) ... ok
+test_genesis_identity_and_original_index_are_live (test_echo_workspace.IntegratedTests.test_genesis_identity_and_original_index_are_live) ... ok
+test_inactive_governor_blocks_adapter (test_echo_workspace.IntegratedTests.test_inactive_governor_blocks_adapter) ... ok
+test_paperclip_is_typed_identity_preserving_and_idempotent (test_echo_workspace.IntegratedTests.test_paperclip_is_typed_identity_preserving_and_idempotent) ... ok
+test_paperclip_rejects_unknown_or_self_target_without_partial_record (test_echo_workspace.IntegratedTests.test_paperclip_rejects_unknown_or_self_target_without_partial_record) ... ok
+test_profile_seeding_does_not_overwrite_revisions (test_echo_workspace.IntegratedTests.test_profile_seeding_does_not_overwrite_revisions) ... ok
+test_query_does_not_dispatch_arbitrary_code (test_echo_workspace.IntegratedTests.test_query_does_not_dispatch_arbitrary_code) ... ok
+test_raw_glyph_query_uses_catalog_without_changing_tokenizer (test_echo_workspace.IntegratedTests.test_raw_glyph_query_uses_catalog_without_changing_tokenizer) ... ok
+test_read_only_caller_cannot_mutate (test_echo_workspace.IntegratedTests.test_read_only_caller_cannot_mutate) ... ok
+test_reopen_rebuilds_genesis_and_preserves_relations (test_echo_workspace.IntegratedTests.test_reopen_rebuilds_genesis_and_preserves_relations) ... ok
+test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.IntegratedTests.test_stamp_evidence_pins_profile_and_remains_association) ... ok
+test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.769s
+
+OK

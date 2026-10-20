@@ -1,0 +1,275 @@
+{
+  "status": "pending-review-not-integrated",
+  "source_repository": "AGI144348Outlook/Group_Canvas",
+  "source_branch": "experiment/hierarchy-tower",
+  "source_commit": "20c8c27352d063c94e54ca6bd17c1a8e747ca0bf",
+  "intake_date": "2026-10-19",
+  "scope": "Private file cabinet, containing tower assets and transitive session/card-chat dependencies, tests, documentation, original package metadata. No cloud data or credentials copied.",
+  "files": [
+    {
+      "path": "experiments/hierarchy-tower/ARCHIVE-IMPORT.md",
+      "git_blob_sha": "efb757a751e4b61cc911d74f9ba21d48d51ccf3c",
+      "bytes": 5318
+    },
+    {
+      "path": "experiments/hierarchy-tower/CODEX-REPLY-THREAD-REGISTRY.md",
+      "git_blob_sha": "99510ad13139e4b3b9ec5286459c13762a639075",
+      "bytes": 5330
+    },
+    {
+      "path": "experiments/hierarchy-tower/FILING.md",
+      "git_blob_sha": "6af64068ddd2cda140f1dbe2001458ec9a90bba1",
+      "bytes": 5590
+    },
+    {
+      "path": "experiments/hierarchy-tower/FILTER-PIPELINE-CONTRACT.md",
+      "git_blob_sha": "7cf34a4052b45c014bd988ca06635581a929323e",
+      "bytes": 8812
+    },
+    {
+      "path": "experiments/hierarchy-tower/R2-READINESS.md",
+      "git_blob_sha": "6fcbc27deb2b21b818625e8e555290bf5406bc05",
+      "bytes": 567
+    },
+    {
+      "path": "experiments/hierarchy-tower/README.md",
+      "git_blob_sha": "cdd9c1305d67e7389c6e761155aff5747b9076c6",
+      "bytes": 3086
+    },
+    {
+      "path": "experiments/hierarchy-tower/STORAGE-HANDOFF-2026-10-18.md",
+      "git_blob_sha": "177f61a12bf9f4b616f7ef8cbe900d6843ff3604",
+      "bytes": 6018
+    },
+    {
+      "path": "experiments/hierarchy-tower/THREAD-REGISTRY-PLAN.md",
+      "git_blob_sha": "1efb59d8ac5f85c91c4ea8f4a2094fec22cad6cd",
+      "bytes": 5333
+    },
+    {
+      "path": "experiments/hierarchy-tower/archive.test.js",
+      "git_blob_sha": "9c12258160e0b1043ca3738ed6eabd580118f9f0",
+      "bytes": 6696
+    },
+    {
+      "path": "experiments/hierarchy-tower/filing-live-check.js",
+      "git_blob_sha": "e105fe75c0a794a4ab0d9e47bc01d14251819434",
+      "bytes": 3135
+    },
+    {
+      "path": "experiments/hierarchy-tower/filing-service.js",
+      "git_blob_sha": "4919d74b6c9c300bd71600cf81e78407e0660e19",
+      "bytes": 8910
+    },
+    {
+      "path": "experiments/hierarchy-tower/filing.test.js",
+      "git_blob_sha": "2cdd5f085b663649630b23b501fd81ed98b75315",
+      "bytes": 8300
+    },
+    {
+      "path": "experiments/hierarchy-tower/model.test.js",
+      "git_blob_sha": "4573b158d37886b474ae19788f7e0d36613c9fe2",
+      "bytes": 1566
+    },
+    {
+      "path": "experiments/hierarchy-tower/upload-service.js",
+      "git_blob_sha": "5594a552e7f4177a80b02ae12734cc782b7ad2cc",
+      "bytes": 9176
+    },
+    {
+      "path": "experiments/hierarchy-tower/upload.test.js",
+      "git_blob_sha": "c829b90dd7279a45c33ae57f5e135e3edfcdba4b",
+      "bytes": 6042
+    },
+    {
+      "path": "experiments/hierarchy-tower/worker.js",
+      "git_blob_sha": "6594b0955e7ede1b29ab4cfe73671d2dd83405f4",
+      "bytes": 899
+    },
+    {
+      "path": "experiments/hierarchy-tower/wrangler-storage.toml",
+      "git_blob_sha": "12d2c3f06531cefa8827b859c1b595683106c961",
+      "bytes": 736
+    },
+    {
+      "path": "experiments/hierarchy-tower/wrangler.toml",
+      "git_blob_sha": "8479d41baac7ec3bc68bb4dd553a2daec37f0e89",
+      "bytes": 473
+    },
+    {
+      "path": "experiments/session-towers/README.md",
+      "git_blob_sha": "9ad9bef35290997bac9e436bb7a1d0fda4f7b8ee",
+      "bytes": 8101
+    },
+    {
+      "path": "experiments/session-towers/cards.test.js",
+      "git_blob_sha": "bb5f89b4e9d2ab16252f2f18cc64c055abe8c7c3",
+      "bytes": 1435
+    },
+    {
+      "path": "experiments/session-towers/engine.js",
+      "git_blob_sha": "c0ae653986b22bef51118a357b0764a4bb402f2c",
+      "bytes": 4210
+    },
+    {
+      "path": "experiments/session-towers/engine.test.js",
+      "git_blob_sha": "25b1ed641ad7648ee31e2ee775612572b3519fab",
+      "bytes": 3186
+    },
+    {
+      "path": "experiments/session-towers/service.js",
+      "git_blob_sha": "db18466f9c12198a271d5f575aa67e0f180672e5",
+      "bytes": 8152
+    },
+    {
+      "path": "experiments/session-towers/service.test.js",
+      "git_blob_sha": "d27de81e0cc227f6cc05ae894fdaf6ab65bba8d0",
+      "bytes": 4350
+    },
+    {
+      "path": "public/tower/adapter-engine.js",
+      "git_blob_sha": "5937a87141d05dd297b5913fa571e39d19b4e0d6",
+      "bytes": 6645
+    },
+    {
+      "path": "public/tower/adapter-ui.js",
+      "git_blob_sha": "4c859a7104fbb2d29f0183791069174b035780e9",
+      "bytes": 14529
+    },
+    {
+      "path": "public/tower/adapters.css",
+      "git_blob_sha": "a880d77e15fb1dfd7f3422cc93003f374923c28f",
+      "bytes": 4081
+    },
+    {
+      "path": "public/tower/adapters.html",
+      "git_blob_sha": "a34263e04d2c643ef473ab7da02936484c85a1af",
+      "bytes": 6506
+    },
+    {
+      "path": "public/tower/archive-db.js",
+      "git_blob_sha": "9bc9801d9a4cb34c98e807f92ae3f1698d3748a0",
+      "bytes": 3089
+    },
+    {
+      "path": "public/tower/archive-import.js",
+      "git_blob_sha": "cee4641691412aa5d57b62959d5f6695a146ff27",
+      "bytes": 2166
+    },
+    {
+      "path": "public/tower/archive-parser.js",
+      "git_blob_sha": "4f5d1a4d99ea260cf59bd3345b801bb23abd137a",
+      "bytes": 5603
+    },
+    {
+      "path": "public/tower/archive-ui.js",
+      "git_blob_sha": "8a14c4d85ffdfe9394ca84d0364103282ab45936",
+      "bytes": 12023
+    },
+    {
+      "path": "public/tower/archive-worker.js",
+      "git_blob_sha": "67053a6d2645b52b001adfde19d19bad2229c3fb",
+      "bytes": 1612
+    },
+    {
+      "path": "public/tower/chat.css",
+      "git_blob_sha": "6949c3e93a17e5d477ddf6258368e3579ab1f0da",
+      "bytes": 649
+    },
+    {
+      "path": "public/tower/chat.html",
+      "git_blob_sha": "6c25f7da6cb38eb0a490bf7ba4a88212bd7cfb5c",
+      "bytes": 2185
+    },
+    {
+      "path": "public/tower/chat.js",
+      "git_blob_sha": "09a94112f41d89382113a700234b5d23fc137293",
+      "bytes": 4617
+    },
+    {
+      "path": "public/tower/cloud-source.js",
+      "git_blob_sha": "cf2cd576d18b384b0645e25435bed782da9f6840",
+      "bytes": 6269
+    },
+    {
+      "path": "public/tower/files.css",
+      "git_blob_sha": "070bb392aafb97638a15ab14f77d2f6a2891f702",
+      "bytes": 3031
+    },
+    {
+      "path": "public/tower/files.html",
+      "git_blob_sha": "56f0989fc20aa48edf45603300fa23d2e4a22a81",
+      "bytes": 4667
+    },
+    {
+      "path": "public/tower/files.js",
+      "git_blob_sha": "3ee473e0c21504c081b8541f7656a47e41a35a14",
+      "bytes": 10198
+    },
+    {
+      "path": "public/tower/filter-towers.css",
+      "git_blob_sha": "40a2c666197599ee136dfb1a7ac899254ecb679e",
+      "bytes": 1388
+    },
+    {
+      "path": "public/tower/filter-towers.html",
+      "git_blob_sha": "2e0571719b691cfd6e8609aea1d7d0869d96d284",
+      "bytes": 1156
+    },
+    {
+      "path": "public/tower/filter-towers.js",
+      "git_blob_sha": "117ef791b4ce47aa6914da9859c18f0e40a437dc",
+      "bytes": 5412
+    },
+    {
+      "path": "public/tower/index.html",
+      "git_blob_sha": "dabbd828d369a6b182e74486b65a43811c4a65d3",
+      "bytes": 12858
+    },
+    {
+      "path": "public/tower/model.js",
+      "git_blob_sha": "e01218ea854b61121e8924349a1d2f823dfe7072",
+      "bytes": 4614
+    },
+    {
+      "path": "public/tower/sessions.html",
+      "git_blob_sha": "033c393eed5c4dadf1584ee26d86cd86947c3817",
+      "bytes": 1693
+    },
+    {
+      "path": "public/tower/sessions.js",
+      "git_blob_sha": "fc02ce2a8e5258c65027fa35c64d1d7fecd9e0ce",
+      "bytes": 4524
+    },
+    {
+      "path": "public/tower/tower.css",
+      "git_blob_sha": "67e2f10e6bae58789ca0baf687f84e3025984ac9",
+      "bytes": 16064
+    },
+    {
+      "path": "public/tower/tower.js",
+      "git_blob_sha": "5dd727d2d300719d4d4c6ccce36a10a53416fea4",
+      "bytes": 6763
+    },
+    {
+      "path": "experiments/card-chat/README.md",
+      "git_blob_sha": "b5a66942081003f85a1aa1256d370bb8868f4218",
+      "bytes": 6004
+    },
+    {
+      "path": "experiments/card-chat/service.js",
+      "git_blob_sha": "ed3012623e7889cb42a6afe6cacad68b0ce2085b",
+      "bytes": 5983
+    },
+    {
+      "path": "experiments/card-chat/service.test.js",
+      "git_blob_sha": "0e42e174657b57fafbc5560f802055603e3c46f0",
+      "bytes": 4771
+    },
+    {
+      "path": "package.json",
+      "git_blob_sha": "c5e5690604940d87ff32cec6d707729db0a09c15",
+      "bytes": 463
+    }
+  ]
+}

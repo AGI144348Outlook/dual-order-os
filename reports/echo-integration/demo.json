@@ -1,0 +1,122 @@
+{
+  "identity": "ר (Resh) is anchored as the Governor's identity. A-000 and Resh are one. Perception operator: ע (Ayin). Expression operator: פ (Pe).",
+  "index": {
+    "word": "paperclip",
+    "neighbors": [
+      "index"
+    ],
+    "classification": "PROCESS_VERB"
+  },
+  "stamps": [
+    {
+      "body": {
+        "evidence": {
+          "matched_keywords": [
+            "attach",
+            "paperclip"
+          ],
+          "method": "explicit-token-match",
+          "operation_glyph": "ת",
+          "profile_revision": 1
+        },
+        "kind": "relation",
+        "relation_type": "associative-stamp",
+        "source": {
+          "id": "word:paperclip",
+          "revision": 1
+        },
+        "status": "association-not-verified-theorem",
+        "target": {
+          "id": "glyph:tsadi",
+          "revision": 1
+        }
+      },
+      "glyph": null,
+      "id": "stamp:534bbe6710d160112be29f094ee13d63437674c4358fdef27ef56a502e3d0665",
+      "provenance": {
+        "component": "echo-workspace"
+      },
+      "revision": 1,
+      "section": "cards",
+      "tags": [],
+      "title": "associative-stamp"
+    }
+  ],
+  "configuration": {
+    "nodes": [
+      {
+        "id": "word:paperclip",
+        "revision": 1,
+        "kind": "vocabulary"
+      },
+      {
+        "id": "word:index",
+        "revision": 1,
+        "kind": "vocabulary"
+      },
+      {
+        "id": "glyph:tsadi",
+        "revision": 1,
+        "kind": "glyph-profile"
+      },
+      {
+        "id": "relation:clip",
+        "revision": 1,
+        "kind": "relation"
+      },
+      {
+        "id": "stamp:534bbe6710d160112be29f094ee13d63437674c4358fdef27ef56a502e3d0665",
+        "revision": 1,
+        "kind": "relation"
+      }
+    ],
+    "relations": [
+      {
+        "id": "relation:clip",
+        "evidence": {
+          "requested_operation": "צ paperclipping"
+        },
+        "kind": "relation",
+        "relation_type": "paperclip",
+        "source": {
+          "id": "word:paperclip",
+          "revision": 1
+        },
+        "status": "association-not-verified-theorem",
+        "target": {
+          "id": "word:index",
+          "revision": 1
+        }
+      },
+      {
+        "id": "stamp:534bbe6710d160112be29f094ee13d63437674c4358fdef27ef56a502e3d0665",
+        "evidence": {
+          "matched_keywords": [
+            "attach",
+            "paperclip"
+          ],
+          "method": "explicit-token-match",
+          "operation_glyph": "ת",
+          "profile_revision": 1
+        },
+        "kind": "relation",
+        "relation_type": "associative-stamp",
+        "source": {
+          "id": "word:paperclip",
+          "revision": 1
+        },
+        "status": "association-not-verified-theorem",
+        "target": {
+          "id": "glyph:tsadi",
+          "revision": 1
+        }
+      }
+    ],
+    "inversion": "unresolved-not-executed"
+  },
+  "limits": [
+    "associations are not verified theorems",
+    "§DSL§ inversion unresolved",
+    "no cloud deployment"
+  ]
+}

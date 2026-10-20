@@ -1,0 +1,206 @@
+{
+  "c": {
+    "name": "speed of light",
+    "domain": "PHYSICAL_CONSTANT",
+    "computation": "299792458",
+    "description": ""
+  },
+  "h": {
+    "name": "Planck constant",
+    "domain": "PHYSICAL_CONSTANT",
+    "computation": "6.62607015e-34",
+    "description": ""
+  },
+  "G": {
+    "name": "gravitational constant",
+    "domain": "PHYSICAL_CONSTANT",
+    "computation": "6.6743e-11",
+    "description": ""
+  },
+  "e": {
+    "name": "elementary charge",
+    "domain": "PHYSICAL_CONSTANT",
+    "computation": "1.602176634e-19",
+    "description": ""
+  },
+  "k_B": {
+    "name": "Boltzmann constant",
+    "domain": "PHYSICAL_CONSTANT",
+    "computation": "1.380649e-23",
+    "description": ""
+  },
+  "alpha": {
+    "name": "fine structure constant",
+    "domain": "PHYSICAL_CONSTANT",
+    "computation": "0.0072973525693",
+    "description": ""
+  },
+  "pi": {
+    "name": "pi",
+    "domain": "TRANSCENDENTAL",
+    "computation": "3.141592653589793",
+    "description": ""
+  },
+  "e_math": {
+    "name": "Euler's number",
+    "domain": "TRANSCENDENTAL",
+    "computation": "2.718281828459045",
+    "description": ""
+  },
+  "phi": {
+    "name": "golden ratio",
+    "domain": "IRRATIONAL",
+    "computation": "1.618033988749895",
+    "description": ""
+  },
+  "sqrt2": {
+    "name": "square root of two",
+    "domain": "IRRATIONAL",
+    "computation": "1.4142135623730951",
+    "description": ""
+  },
+  "zero": {
+    "name": "zero",
+    "domain": "INTEGER",
+    "computation": "0",
+    "description": ""
+  },
+  "one": {
+    "name": "unity",
+    "domain": "NATURAL",
+    "computation": "1",
+    "description": ""
+  },
+  "gematria_aleph": {
+    "name": "aleph (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "1",
+    "description": ""
+  },
+  "gematria_bet": {
+    "name": "bet (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "2",
+    "description": ""
+  },
+  "gematria_gimel": {
+    "name": "gimel (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "3",
+    "description": ""
+  },
+  "gematria_dalet": {
+    "name": "dalet (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "4",
+    "description": ""
+  },
+  "gematria_he": {
+    "name": "he (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "5",
+    "description": ""
+  },
+  "gematria_vav": {
+    "name": "vav (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "6",
+    "description": ""
+  },
+  "gematria_zayin": {
+    "name": "zayin (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "7",
+    "description": ""
+  },
+  "gematria_het": {
+    "name": "het (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "8",
+    "description": ""
+  },
+  "gematria_tet": {
+    "name": "tet (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "9",
+    "description": ""
+  },
+  "gematria_yod": {
+    "name": "yod (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "10",
+    "description": ""
+  },
+  "gematria_kaf": {
+    "name": "kaf (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "20",
+    "description": ""
+  },
+  "gematria_lamed": {
+    "name": "lamed (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "30",
+    "description": ""
+  },
+  "gematria_mem": {
+    "name": "mem (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "40",
+    "description": ""
+  },
+  "gematria_nun": {
+    "name": "nun (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "50",
+    "description": ""
+  },
+  "gematria_samekh": {
+    "name": "samekh (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "60",
+    "description": ""
+  },
+  "gematria_ayin": {
+    "name": "ayin (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "70",
+    "description": ""
+  },
+  "gematria_pe": {
+    "name": "pe (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "80",
+    "description": ""
+  },
+  "gematria_tsadi": {
+    "name": "tsadi (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "90",
+    "description": ""
+  },
+  "gematria_qof": {
+    "name": "qof (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "100",
+    "description": ""
+  },
+  "gematria_resh": {
+    "name": "resh (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "200",
+    "description": ""
+  },
+  "gematria_shin": {
+    "name": "shin (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "300",
+    "description": ""
+  },
+  "gematria_tav": {
+    "name": "tav (gematria)",
+    "domain": "GEMATRIA",
+    "computation": "400",
+    "description": ""
+  }
+}

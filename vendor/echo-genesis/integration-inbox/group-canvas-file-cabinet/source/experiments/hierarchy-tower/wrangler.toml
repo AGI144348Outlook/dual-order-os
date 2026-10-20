@@ -1,0 +1,22 @@
+name = "group-canvas-tower"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[assets]
+directory = "../../public/tower"
+binding = "ASSETS"
+run_worker_first = true
+
+[[durable_objects.bindings]]
+name = "UPLOADS"
+class_name = "TowerUpload"
+[[migrations]]
+tag = "citadel-uploads-v1"
+new_sqlite_classes = ["TowerUpload"]
+
+[[durable_objects.bindings]]
+name = "CABINETS"
+class_name = "FileCabinet"
+[[migrations]]
+tag = "filing-cabinet-v1"
+new_sqlite_classes = ["FileCabinet"]

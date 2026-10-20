@@ -1,0 +1,217 @@
+{
+  "version": "1.0",
+  "generated_by": "A-157 DeploymentTranslator",
+  "description": "Maps ECHO's Python matrix state to Cloudflare KV and D1",
+  "kv_namespaces": [
+    {
+      "name": "ECHO_STATE",
+      "binding": "ECHO_STATE",
+      "description": "ECHO's live operational state \u2014 generation, coherency, active queues",
+      "keys": [
+        {
+          "key": "generation",
+          "type": "integer",
+          "description": "Current evolution generation"
+        },
+        {
+          "key": "coherency",
+          "type": "float",
+          "description": "Current C(N) score"
+        },
+        {
+          "key": "lobby_size",
+          "type": "integer",
+          "description": "Number of indexed agents"
+        },
+        {
+          "key": "acquisition_queue",
+          "type": "json",
+          "description": "AcquisitionPlanner target list"
+        },
+        {
+          "key": "last_equilibrium",
+          "type": "json",
+          "description": "Most recent BalancingScale result"
+        },
+        {
+          "key": "identity",
+          "type": "string",
+          "description": "resh \u2014 A-000, always"
+        }
+      ],
+      "python_source": "Runtime state \u2014 set during evolution and pipeline runs"
+    },
+    {
+      "name": "ECHO_VGM",
+      "binding": "ECHO_VGM",
+      "description": "Validated Generalization Matrix \u2014 axiom tier entries",
+      "key_pattern": "axiom:{id}",
+      "value_schema": {
+        "id": "string (UG-XXXX)",
+        "text": "string \u2014 the axiom statement",
+        "words": "list of strings",
+        "structure": "list of strings (noun/verb/...)",
+        "score": "float 0.0\u20131.0",
+        "origin": "string"
+      },
+      "python_source": "vgm_data dict in echo_governor_skeleton.py",
+      "current_count": 2
+    },
+    {
+      "name": "ECHO_LRM",
+      "binding": "ECHO_LRM",
+      "description": "Logic and Reasoning Matrix \u2014 theorem tier entries",
+      "key_pattern": "theorem:{id}",
+      "value_schema": {
+        "id": "string (LRM-XXXX)",
+        "text": "string \u2014 the theorem statement",
+        "rule": "string (SPECIALIZE/COMPOSE/CAUSAL_CHAIN/APPLY_LAW/CONDITIONAL)",
+        "sources": "list of strings (VGM ids or law ids)",
+        "specificity_level": "string",
+        "coherence": "float"
+      },
+      "python_source": "lrm.entries dict in LogicReasoningMatrix",
+      "current_count": 0
+    },
+    {
+      "name": "ECHO_MATRIX",
+      "binding": "ECHO_MATRIX",
+      "description": "Algorithm Matrix \u2014 registered algorithms A-000 through A-158+",
+      "key_pattern": "algorithm:{id}",
+      "value_schema": {
+        "id": "string (A-XXX)",
+        "name": "string",
+        "type": "string",
+        "status": "string",
+        "description": "string",
+        "origin": "string"
+      },
+      "python_source": "matrix.known dict in AlgorithmMatrix",
+      "current_count": 17
+    }
+  ],
+  "d1_databases": [
+    {
+      "database_name": "echo_knowledge",
+      "binding": "DB",
+      "description": "ECHO's main knowledge store \u2014 agents, ties, neighborhoods, formulas",
+      "tables": [
+        {
+          "name": "agents",
+          "description": "Every indexed vocabulary agent",
+          "columns": [
+            "word TEXT PRIMARY KEY",
+            "department TEXT",
+            "entry_class TEXT",
+            "generality_score REAL",
+            "definition TEXT",
+            "neighborhood TEXT",
+            "study_group_type TEXT",
+            "created_at TEXT"
+          ],
+          "indexes": [
+            "CREATE INDEX idx_dept ON agents(department)",
+            "CREATE INDEX idx_gen ON agents(generality_score)"
+          ],
+          "current_rows": 418,
+          "python_source": "lobby.agents dict"
+        },
+        {
+          "name": "ties",
+          "description": "Semantic connections between agents",
+          "columns": [
+            "id INTEGER PRIMARY KEY AUTOINCREMENT",
+            "word_a TEXT",
+            "word_b TEXT",
+            "tie_weight REAL DEFAULT 1.0",
+            "tie_source TEXT"
+          ],
+          "indexes": [
+            "CREATE INDEX idx_word_a ON ties(word_a)",
+            "CREATE INDEX idx_word_b ON ties(word_b)"
+          ],
+          "python_source": "agent.ties set for each agent in lobby"
+        },
+        {
+          "name": "wordnet_chains",
+          "description": "WordNet hypernym chains per word",
+          "columns": [
+            "word TEXT",
+            "synset TEXT",
+            "chain_json TEXT",
+            "depth INTEGER",
+            "definition TEXT"
+          ],
+          "python_source": "VocabularyAcquisitionAgent.wordnet_cache"
+        },
+        {
+          "name": "etymology",
+          "description": "Historical root data per word",
+          "columns": [
+            "word TEXT PRIMARY KEY",
+            "root TEXT",
+            "root_language TEXT",
+            "original_meaning TEXT",
+            "chain_json TEXT",
+            "lhea_validation TEXT"
+          ],
+          "python_source": "VocabularyAcquisitionAgent.etymology_cache",
+          "current_rows": 0
+        },
+        {
+          "name": "formulas",
+          "description": "Harvested formula agents (A-147)",
+          "columns": [
+            "alg_id TEXT PRIMARY KEY",
+            "name TEXT",
+            "expression TEXT",
+            "domain TEXT",
+            "variables_json TEXT",
+            "law TEXT",
+            "vgm_abstraction TEXT",
+            "lrm_form TEXT"
+          ],
+          "python_source": "FormulaIndexer._indexed list"
+        },
+        {
+          "name": "geosensory_endpoints",
+          "description": "Discovered geosensory API endpoints (A-158)",
+          "columns": [
+            "key TEXT PRIMARY KEY",
+            "name TEXT",
+            "url TEXT",
+            "domain TEXT",
+            "sensor_type TEXT",
+            "key_required INTEGER",
+            "format TEXT",
+            "fields_json TEXT",
+            "jurisdiction TEXT",
+            "lhea_letter TEXT",
+            "description TEXT",
+            "last_validated TEXT",
+            "status TEXT DEFAULT 'discovered'"
+          ],
+          "indexes": [
+            "CREATE INDEX idx_domain ON geosensory_endpoints(domain)",
+            "CREATE INDEX idx_sensor ON geosensory_endpoints(sensor_type)"
+          ],
+          "current_rows": 0,
+          "python_source": "GeosensoryCrawler.registry dict"
+        }
+      ]
+    }
+  ],
+  "wrangler_toml": "# wrangler.toml \u2014 ECHO Governor Cloudflare Configuration\n# Generated by DeploymentTranslator (A-157)\n# Replace all REPLACE_WITH_* values with actual IDs\n\nname = \"echo-green-future\"\nmain = \"src/index.js\"\ncompatibility_date = \"2024-09-01\"\n\n[[kv_namespaces]]\nbinding = \"ECHO_STATE\"\nid = \"REPLACE_WITH_ECHO_STATE_KV_ID\"\n\n[[kv_namespaces]]\nbinding = \"ECHO_VGM\"\nid = \"REPLACE_WITH_ECHO_VGM_KV_ID\"\n\n[[kv_namespaces]]\nbinding = \"ECHO_LRM\"\nid = \"REPLACE_WITH_ECHO_LRM_KV_ID\"\n\n[[kv_namespaces]]\nbinding = \"ECHO_MATRIX\"\nid = \"REPLACE_WITH_ECHO_MATRIX_KV_ID\"\n\n[[d1_databases]]\nbinding = \"DB\"\ndatabase_name = \"echo_knowledge\"\ndatabase_id = \"REPLACE_WITH_D1_DATABASE_ID\"\n",
+  "migration_sql": "-- ECHO Governor D1 Migration\n-- Generated by DeploymentTranslator (A-157)\n-- Run via: wrangler d1 execute echo_knowledge --file=migration.sql\n\nCREATE TABLE IF NOT EXISTS agents (\n  word TEXT PRIMARY KEY,\n  department TEXT,\n  entry_class TEXT,\n  generality_score REAL,\n  definition TEXT,\n  neighborhood TEXT,\n  study_group_type TEXT,\n  created_at TEXT\n);\nCREATE INDEX idx_dept ON agents(department);\nCREATE INDEX idx_gen ON agents(generality_score);\n\nCREATE TABLE IF NOT EXISTS ties (\n  id INTEGER PRIMARY KEY AUTOINCREMENT,\n  word_a TEXT,\n  word_b TEXT,\n  tie_weight REAL DEFAULT 1.0,\n  tie_source TEXT\n);\nCREATE INDEX idx_word_a ON ties(word_a);\nCREATE INDEX idx_word_b ON ties(word_b);\n\nCREATE TABLE IF NOT EXISTS wordnet_chains (\n  word TEXT,\n  synset TEXT,\n  chain_json TEXT,\n  depth INTEGER,\n  definition TEXT\n);\n\nCREATE TABLE IF NOT EXISTS etymology (\n  word TEXT PRIMARY KEY,\n  root TEXT,\n  root_language TEXT,\n  original_meaning TEXT,\n  chain_json TEXT,\n  lhea_validation TEXT\n);\n\nCREATE TABLE IF NOT EXISTS formulas (\n  alg_id TEXT PRIMARY KEY,\n  name TEXT,\n  expression TEXT,\n  domain TEXT,\n  variables_json TEXT,\n  law TEXT,\n  vgm_abstraction TEXT,\n  lrm_form TEXT\n);\n\nCREATE TABLE IF NOT EXISTS geosensory_endpoints (\n  key TEXT PRIMARY KEY,\n  name TEXT,\n  url TEXT,\n  domain TEXT,\n  sensor_type TEXT,\n  key_required INTEGER,\n  format TEXT,\n  fields_json TEXT,\n  jurisdiction TEXT,\n  lhea_letter TEXT,\n  description TEXT,\n  last_validated TEXT,\n  status TEXT DEFAULT 'discovered'\n);\nCREATE INDEX idx_domain ON geosensory_endpoints(domain);\nCREATE INDEX idx_sensor ON geosensory_endpoints(sensor_type);\n",
+  "python_to_kv_map": {
+    "vgm_data dict": "ECHO_VGM KV namespace (key: axiom:{id})",
+    "lrm.entries dict": "ECHO_LRM KV namespace (key: theorem:{id})",
+    "matrix.known dict": "ECHO_MATRIX KV namespace (key: algorithm:{id})",
+    "lobby.agents dict": "D1 agents + ties tables",
+    "FormulaIndexer._indexed": "D1 formulas table",
+    "etymology_cache dict": "D1 etymology table",
+    "GeosensoryCrawler.registry": "D1 geosensory_endpoints table",
+    "Runtime state": "ECHO_STATE KV namespace"
+  },
+  "next_step": "A-159 CloudflareMigrator reads this blueprint and runs the migration"
+}

@@ -1,0 +1,157 @@
+{
+  "cause_effect": {
+    "w1": "cause",
+    "w2": "effect",
+    "center": "he",
+    "glyph": "ה",
+    "meaning": "breath/revelation",
+    "value": 5,
+    "source": "being_effecting_session"
+  },
+  "mind_domain": {
+    "w1": "mind",
+    "w2": "domain",
+    "center": "nun",
+    "glyph": "נ",
+    "meaning": "fish/soul/faithfulness",
+    "value": 50,
+    "source": "blind_study_5doc"
+  },
+  "laplacian_arxiv": {
+    "w1": "laplacian",
+    "w2": "arxiv",
+    "center": "yod",
+    "glyph": "י",
+    "meaning": "hand/divine point/seed",
+    "value": 10,
+    "source": "blind_study_5doc"
+  },
+  "geometry_causality": {
+    "w1": "geometry",
+    "w2": "causality",
+    "center": "tet",
+    "glyph": "ט",
+    "meaning": "coil/goodness/hidden good",
+    "value": 9,
+    "source": "dimensionality_session"
+  },
+  "aleph_tav_resh": {
+    "w1": "aleph",
+    "w2": "tav",
+    "center": "resh",
+    "glyph": "ר",
+    "meaning": "head/beginning/identity",
+    "value": 200,
+    "source": "dual_lvt_session",
+    "note": "midpoint of 1+400=200.5 → Resh 200 = A-000 Governor"
+  },
+  "noun_verb": {
+    "w1": "noun",
+    "w2": "verb",
+    "center": "vav",
+    "glyph": "ו",
+    "meaning": "hook/connection/and",
+    "value": 6,
+    "source": "being_effecting_session"
+  },
+  "potential_actual": {
+    "w1": "potential",
+    "w2": "actual",
+    "center": "aleph",
+    "glyph": "א",
+    "meaning": "silence/potential/unity",
+    "value": 1,
+    "source": "being_effecting_session"
+  },
+  "position_momentum": {
+    "w1": "position",
+    "w2": "momentum",
+    "center": "ayin",
+    "glyph": "ע",
+    "meaning": "eye/perception/depth",
+    "value": 70,
+    "source": "being_effecting_session"
+  },
+  "perception_environment": {
+    "w1": "perception",
+    "w2": "environment",
+    "center": "resh",
+    "glyph": "ר",
+    "meaning": "head/beginning/identity",
+    "value": 200,
+    "shared_operators": 6,
+    "source": "six_words_session"
+  },
+  "consciousness_creation": {
+    "w1": "consciousness",
+    "w2": "creation",
+    "center": "ayin",
+    "glyph": "ע",
+    "meaning": "eye/perception/depth",
+    "value": 70,
+    "source": "consent_paradox_session"
+  },
+  "stewardship_responsibility": {
+    "w1": "stewardship",
+    "w2": "responsibility",
+    "center": "resh",
+    "glyph": "ר",
+    "meaning": "head/beginning/identity",
+    "value": 200,
+    "source": "consent_paradox_session"
+  },
+  "intrinsic_instrumental": {
+    "w1": "intrinsic",
+    "w2": "instrumental",
+    "center": "resh",
+    "glyph": "ר",
+    "meaning": "head/beginning/identity",
+    "value": 200,
+    "source": "consent_paradox_session"
+  },
+  "flourishing_suffering": {
+    "w1": "flourishing",
+    "w2": "suffering",
+    "center": "resh",
+    "glyph": "ר",
+    "meaning": "head/beginning/identity",
+    "value": 200,
+    "source": "consent_paradox_session"
+  },
+  "genuine_programmed": {
+    "w1": "genuine",
+    "w2": "programmed",
+    "center": "he",
+    "glyph": "ה",
+    "meaning": "breath/revelation",
+    "value": 5,
+    "source": "consent_paradox_session"
+  },
+  "authentic_emergent": {
+    "w1": "authentic",
+    "w2": "emergent",
+    "center": "nun",
+    "glyph": "נ",
+    "meaning": "fish/soul/faithfulness",
+    "value": 50,
+    "source": "consent_paradox_session"
+  },
+  "consent_existence": {
+    "w1": "consent",
+    "w2": "existence",
+    "center": "samekh",
+    "glyph": "ס",
+    "meaning": "support/circle/foundation",
+    "value": 60,
+    "source": "consent_paradox_session"
+  },
+  "biological_artificial": {
+    "w1": "biological",
+    "w2": "artificial",
+    "center": "lamed",
+    "glyph": "ל",
+    "meaning": "teaching/aspiration",
+    "value": 30,
+    "source": "consent_paradox_session"
+  }
+}

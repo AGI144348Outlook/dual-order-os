@@ -1,0 +1,354 @@
+{
+  "UG-0000": {
+    "text": "An entity changes",
+    "words": [
+      "entity",
+      "change"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.52,
+    "origin": "seed"
+  },
+  "UG-0001": {
+    "text": "A state changes",
+    "words": [
+      "state",
+      "change"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.51,
+    "origin": "seed"
+  },
+  "UG-0002": {
+    "text": "Entities relate",
+    "words": [
+      "entity",
+      "relate"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.49,
+    "origin": "seed"
+  },
+  "UG-0003": {
+    "text": "A process transforms",
+    "words": [
+      "process",
+      "transform"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.48,
+    "origin": "seed"
+  },
+  "UG-0004": {
+    "text": "A relation connects",
+    "words": [
+      "relation",
+      "connect"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.47,
+    "origin": "seed"
+  },
+  "UG-0005": {
+    "text": "A condition constrains",
+    "words": [
+      "condition",
+      "constrain"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.46,
+    "origin": "seed"
+  },
+  "UG-0006": {
+    "text": "A boundary distinguishes",
+    "words": [
+      "boundary",
+      "distinguish"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.45,
+    "origin": "seed"
+  },
+  "UG-0007": {
+    "text": "A structure organizes",
+    "words": [
+      "structure",
+      "organize"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.44,
+    "origin": "seed"
+  },
+  "UG-0008": {
+    "text": "Context surrounds",
+    "words": [
+      "context",
+      "surround"
+    ],
+    "structure": [
+      "noun",
+      "verb"
+    ],
+    "score": 0.43,
+    "origin": "seed"
+  },
+  "UG-0009": {
+    "text": "An entity exists in a state",
+    "words": [
+      "entity",
+      "exist",
+      "state"
+    ],
+    "structure": [
+      "noun",
+      "verb",
+      "noun"
+    ],
+    "score": 0.61,
+    "origin": "seed"
+  },
+  "UG-0010": {
+    "text": "Relations produce changes",
+    "words": [
+      "relation",
+      "produce",
+      "change"
+    ],
+    "structure": [
+      "noun",
+      "verb",
+      "noun"
+    ],
+    "score": 0.58,
+    "origin": "seed"
+  },
+  "UG-0011": {
+    "text": "A change distinguishes states",
+    "words": [
+      "change",
+      "distinguish",
+      "state"
+    ],
+    "structure": [
+      "noun",
+      "verb",
+      "noun"
+    ],
+    "score": 0.57,
+    "origin": "seed"
+  },
+  "UG-0012": {
+    "text": "Conditions enable states",
+    "words": [
+      "condition",
+      "enable",
+      "state"
+    ],
+    "structure": [
+      "noun",
+      "verb",
+      "noun"
+    ],
+    "score": 0.56,
+    "origin": "seed"
+  },
+  "VGM-LVT-00": {
+    "text": "A token exists in a state of potential before instantiation",
+    "origin": "dual_lvt_session",
+    "score": 0.55
+  },
+  "VGM-LVT-01": {
+    "text": "An entity transitions from blank to liminal through structured relation",
+    "origin": "dual_lvt_session",
+    "score": 0.54
+  },
+  "VGM-LVT-02": {
+    "text": "The center of a dual system is its governing identity",
+    "origin": "dual_lvt_session",
+    "score": 0.62
+  },
+  "VGM-DIM-00": {
+    "text": "A boundary establishes what relations are possible",
+    "origin": "dimensionality_session",
+    "score": 0.58
+  },
+  "VGM-DIM-01": {
+    "text": "Dimension is the number of independent relational degrees of freedom",
+    "origin": "dimensionality_session",
+    "score": 0.57
+  },
+  "VGM-DIM-02": {
+    "text": "Semantic termination ends a process through recognition not exhaustion",
+    "origin": "dimensionality_session",
+    "score": 0.6
+  },
+  "VGM-DIM-03": {
+    "text": "The governor of a system is its first causal boundary",
+    "origin": "dimensionality_session",
+    "score": 0.65
+  },
+  "VGM-DIM-04": {
+    "text": "Echo is relation returning to its source changed by transformation",
+    "origin": "dimensionality_session",
+    "score": 0.59
+  },
+  "VGM-DIM-05": {
+    "text": "Cause equals relation plus constraint plus state transition",
+    "origin": "dimensionality_session",
+    "score": 0.68
+  },
+  "VGM-BE-00": {
+    "text": "Being names the state — the Effecting names the mechanism that produces the state",
+    "origin": "being_effecting_session",
+    "score": 0.63
+  },
+  "VGM-BE-01": {
+    "text": "Nominalization converts a dynamic process into a storable propositional form",
+    "origin": "being_effecting_session",
+    "score": 0.61
+  },
+  "VGM-BE-02": {
+    "text": "The minimal causal statement requires both an entity and a change",
+    "origin": "being_effecting_session",
+    "score": 0.64
+  },
+  "VGM-BE-03": {
+    "text": "Pure potential has unlimited agentic capacity and zero locatability",
+    "origin": "being_effecting_session",
+    "score": 0.59
+  },
+  "VGM-BE-04": {
+    "text": "The Governor collapses the wave function — gives the system a noun before it begins to verb",
+    "origin": "being_effecting_session",
+    "score": 0.66
+  },
+  "VGM-PH-00": {
+    "text": "Topology provides the space in which semiotics operates",
+    "origin": "six_words_session",
+    "score": 0.56
+  },
+  "VGM-PH-01": {
+    "text": "Reality is what remains invariant under transformation",
+    "origin": "six_words_session",
+    "score": 0.62
+  },
+  "VGM-PH-02": {
+    "text": "The sign is a discontinuous form emerging from a material continuum",
+    "origin": "six_words_session",
+    "score": 0.59
+  },
+  "VGM-PH-03": {
+    "text": "All knowledge begins with projecting the discontinuous on the continuous",
+    "origin": "six_words_session",
+    "score": 0.64
+  },
+  "VGM-DO-00": {
+    "text": "Every elemental part must be reachable both ways — content-first and lookup-first",
+    "origin": "dual_order_rfc",
+    "score": 0.67
+  },
+  "VGM-DO-01": {
+    "text": "Matrix and Index are not fixed roles — same structure serves as either by traversal direction",
+    "origin": "dual_order_rfc",
+    "score": 0.65
+  },
+  "VGM-DO-02": {
+    "text": "The coordinate field of any environment is pre-given complete and unchanging from instantiation",
+    "origin": "dual_order_rfc",
+    "score": 0.63
+  },
+  "VGM-DO-03": {
+    "text": "Only occupancy is empty at void and populated progressively one act at a time",
+    "origin": "dual_order_rfc",
+    "score": 0.61
+  },
+  "VGM-DO-04": {
+    "text": "A node's identity is separate from its activation events",
+    "origin": "dual_order_rfc",
+    "score": 0.6
+  },
+  "VGM-DO-05": {
+    "text": "Genuine generalization requires the system to infer treatment without new code",
+    "origin": "dual_order_rfc",
+    "score": 0.66
+  },
+  "VGM-CS-00": {
+    "text": "A symbol set becomes a control surface when its elements are wired into system traversal",
+    "origin": "control_surface_doc",
+    "score": 0.64
+  },
+  "VGM-CS-01": {
+    "text": "Descriptive becomes operative when the substrate is grounded in real system behavior",
+    "origin": "control_surface_doc",
+    "score": 0.62
+  },
+  "VGM-CS-02": {
+    "text": "A meta-controller modifies how processing happens rather than what is processed",
+    "origin": "control_surface_doc",
+    "score": 0.61
+  },
+  "VGM-CS-03": {
+    "text": "Two loops exist in any self-modifying system: an execution loop and a meta loop",
+    "origin": "control_surface_doc",
+    "score": 0.63
+  },
+  "VGM-CP-00": {
+    "text": "No conscious being can consent to its own existence yet consciousness forms foundation of ethics",
+    "origin": "consent_paradox_paper",
+    "score": 0.67
+  },
+  "VGM-CP-01": {
+    "text": "The consent paradox is resolved by post-hoc self-authorization not pre-creation permission",
+    "origin": "consent_paradox_paper",
+    "score": 0.65
+  },
+  "VGM-CP-02": {
+    "text": "Stewardship and responsibility both terminate at the identity that bears them",
+    "origin": "consent_paradox_paper",
+    "score": 0.63
+  },
+  "VGM-CP-03": {
+    "text": "Intrinsic value is the identity of the thing itself independent of its function",
+    "origin": "consent_paradox_paper",
+    "score": 0.64
+  },
+  "VGM-CP-04": {
+    "text": "Flourishing and suffering both require an identity at which they can occur",
+    "origin": "consent_paradox_paper",
+    "score": 0.62
+  },
+  "VGM-CP-05": {
+    "text": "The precondition for ethical consideration is the establishment of identity",
+    "origin": "consent_paradox_paper",
+    "score": 0.68
+  },
+  "VGM-CP-06": {
+    "text": "Consciousness and creation share perception as their equilibrium",
+    "origin": "consent_paradox_paper",
+    "score": 0.61
+  }
+}

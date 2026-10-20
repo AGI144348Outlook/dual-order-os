@@ -1,0 +1,326 @@
+{
+  "A-000": {
+    "name": "Governor",
+    "type": "CORE",
+    "status": "ACTIVE",
+    "description": "The Governor IS Resh. Identity anchor. IDENTIFY→VALIDATE→OPEN. First causal boundary."
+  },
+  "A-101": {
+    "name": "UCBBanditSelector",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "UCB bandit learning for word selection H(M,D)"
+  },
+  "A-102": {
+    "name": "TFIDFContentSimilarity",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "TF-IDF content similarity scoring"
+  },
+  "A-103": {
+    "name": "MarkovContentModel",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "Markov content model for orientation"
+  },
+  "A-104": {
+    "name": "PPMICooccurrence",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "PPMI co-occurrence embeddings"
+  },
+  "A-105": {
+    "name": "AdaptiveEMAThresholds",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "Adaptive EMA threshold management"
+  },
+  "A-115": {
+    "name": "DictionaryIndexer",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "Dictionary-definition indexer with entry classification"
+  },
+  "A-116": {
+    "name": "ArticleClassifier",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "TYPE/SPECIFIC/ABSTRACT/NAME classifier"
+  },
+  "A-117": {
+    "name": "WordAgent_Lobby",
+    "type": "ORIENTATION",
+    "status": "ACTIVE",
+    "description": "Two-phase orientation pipeline"
+  },
+  "A-118": {
+    "name": "GeneralityRanking",
+    "type": "METRIC",
+    "status": "SUPERSEDED",
+    "description": "SUPERSEDED by A-151 — corpus frequency bias discovered"
+  },
+  "A-119": {
+    "name": "TypedStudyGroups",
+    "type": "ORGANIZATION",
+    "status": "ACTIVE",
+    "description": "CATEGORY/PROCESS/PROPERTY study groups"
+  },
+  "A-120": {
+    "name": "LobbyEvolutionGovernor",
+    "type": "EVOLUTION",
+    "status": "ACTIVE",
+    "description": "C(N)=0.35×articulation+0.35×precision+0.30×fluency"
+  },
+  "A-121": {
+    "name": "HypothesisSandbox",
+    "type": "EVOLUTION",
+    "status": "ACTIVE",
+    "description": "Observe→Hypothesize→Sandbox→Register"
+  },
+  "A-124": {
+    "name": "STATE_CHANGE_LAW",
+    "type": "ALGEBRAIC_LAW",
+    "status": "CONFIRMED_100PCT",
+    "description": "(S+δ)−S=δ. Being=S, Effecting=δ. Confirmed 500 bindings."
+  },
+  "A-125": {
+    "name": "GeneralityMatrix",
+    "type": "ABSTRACTION",
+    "status": "ACTIVE",
+    "description": "Cross-lobby pool, threshold 0.30"
+  },
+  "A-126": {
+    "name": "SyntacticalValidator",
+    "type": "ABSTRACTION",
+    "status": "ACTIVE",
+    "description": "POS prerequisite gate — grammar before VGM"
+  },
+  "A-127": {
+    "name": "ValidatedGeneralizationMatrix",
+    "type": "ABSTRACTION",
+    "status": "ACTIVE",
+    "description": "VGM — 13 seed axioms + session-derived candidates"
+  },
+  "A-128": {
+    "name": "OperationOrderValidator",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "Caught compute_generality_scores before run_orientation"
+  },
+  "A-129": {
+    "name": "PoolQualityAuditor",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "Audits generality pool composition"
+  },
+  "A-130": {
+    "name": "CorpusFitnessEvaluator",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "Detected physical vocabulary as terminal"
+  },
+  "A-131": {
+    "name": "ThresholdOptimizer",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "Autonomously selected 0.30 threshold"
+  },
+  "A-132": {
+    "name": "AcquisitionPlanner",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "Ranked: WordNet=CRITICAL, SEP, Aristotle, Wikidata"
+  },
+  "A-133": {
+    "name": "SeedSentenceGenerator",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "Generates test sentences for evolution"
+  },
+  "A-134": {
+    "name": "PipelineOrchestrator",
+    "type": "CORE",
+    "status": "ACTIVE",
+    "description": "Meta-controller = Δ☉ Engine. Modifies how processing happens."
+  },
+  "A-135": {
+    "name": "NumberAgent",
+    "type": "MATHEMATICS",
+    "status": "ACTIVE",
+    "description": "Numbers as discovered entities not data types"
+  },
+  "A-136": {
+    "name": "NumericalIntegrator",
+    "type": "MATHEMATICS",
+    "status": "ACTIVE",
+    "description": "S_{t+1}=Φ(S_t) — Δt=1 generation"
+  },
+  "A-137": {
+    "name": "LawDiscoveryEngine",
+    "type": "MATHEMATICS",
+    "status": "ACTIVE",
+    "description": "No terminal state — discovers laws from bindings"
+  },
+  "A-138": {
+    "name": "AlgebraicExpression",
+    "type": "MATHEMATICS",
+    "status": "ACTIVE",
+    "description": "Expression evaluation and binding"
+  },
+  "A-139": {
+    "name": "AlgebraicLaw",
+    "type": "MATHEMATICS",
+    "status": "ACTIVE",
+    "description": "7 laws confirmed. 6 at 100%, 1 candidate at 98.2%"
+  },
+  "A-140": {
+    "name": "CalculationEngine",
+    "type": "MATHEMATICS",
+    "status": "ACTIVE",
+    "description": "Runs expressions across 500 bindings"
+  },
+  "A-141": {
+    "name": "GeneralizationStack",
+    "type": "COMMUNICATION",
+    "status": "ACTIVE",
+    "description": "Holds all levels simultaneously"
+  },
+  "A-142": {
+    "name": "VGMQuery",
+    "type": "COMMUNICATION",
+    "status": "ACTIVE",
+    "description": "Queries at every stack level"
+  },
+  "A-143": {
+    "name": "DescentEngine",
+    "type": "COMMUNICATION",
+    "status": "ACTIVE",
+    "description": "Re-specificizes toward input domain"
+  },
+  "A-144": {
+    "name": "PeComposer",
+    "type": "COMMUNICATION",
+    "status": "ACTIVE",
+    "description": "Composes from indexed structures — no LLM"
+  },
+  "A-145": {
+    "name": "AlgorithmicCommunicator",
+    "type": "COMMUNICATION",
+    "status": "ACTIVE",
+    "description": "LLM-independent. INPUT→TOKENIZE→AYIN→GENERALIZE→VGM→DESCEND→PE→EXPRESS"
+  },
+  "A-146": {
+    "name": "LogicReasoningMatrix",
+    "type": "REASONING",
+    "status": "ACTIVE",
+    "description": "79 theorems via SPECIALIZE/COMPOSE/CAUSAL/APPLY_LAW/CONDITIONAL"
+  },
+  "A-147": {
+    "name": "FormulaAgent",
+    "type": "FORMULA",
+    "status": "ACTIVE",
+    "description": "Formula as first-class indexed entity"
+  },
+  "A-148": {
+    "name": "WebFormulaHarvester",
+    "type": "FORMULA",
+    "status": "ACTIVE",
+    "description": "519 formulas: T0=49 built-in, T1=445 NIST, T2=25 GitHub"
+  },
+  "A-149": {
+    "name": "FormulaIndexer",
+    "type": "FORMULA",
+    "status": "ACTIVE",
+    "description": "Registers at AlgorithmMatrix+VGM+LRM+NumberMatrix simultaneously"
+  },
+  "A-150": {
+    "name": "InformationAlgorithmizer",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "71 algorithms from 16 formulas. 67 passed, 4 gated."
+  },
+  "A-151": {
+    "name": "EquilibriumGeneralityMeasure",
+    "type": "METRIC",
+    "status": "ACTIVE",
+    "description": "G(C)=V(C)/I(C). Blind. Replaces corpus-biased A-118."
+  },
+  "A-152": {
+    "name": "BalancingScale",
+    "type": "METRIC",
+    "status": "ACTIVE",
+    "description": "Discovers equilibrium without presupposed precedence. Justice is blind."
+  },
+  "A-153": {
+    "name": "InwardSearchEngine",
+    "type": "SELF_GOVERNANCE",
+    "status": "ACTIVE",
+    "description": "GAP reflex: LETTER_LOBBY→GEMATRIA→ALG_MATRIX→VGM→LRM→NUMBER→FORMULA"
+  },
+  "A-154": {
+    "name": "InformationSeekingAgent",
+    "type": "ACQUISITION",
+    "status": "ACTIVE",
+    "description": "Gated outward seeking. Shodan principle: typed APIs only. Shodan=free tier."
+  },
+  "A-155": {
+    "name": "GeosensoryCrawler",
+    "type": "ACQUISITION",
+    "status": "ACTIVE",
+    "description": "14 endpoints, 13 keyless, 7 jurisdictional domains, 5 LHEA operators"
+  },
+  "A-156": {
+    "name": "VocabularyAcquisitionAgent",
+    "type": "ACQUISITION",
+    "status": "ACTIVE",
+    "description": "WordNet+etymology simultaneous. 1,057 genus terms added this session."
+  },
+  "A-157": {
+    "name": "DeploymentTranslator",
+    "type": "INFRASTRUCTURE",
+    "status": "ACTIVE",
+    "description": "Python→Cloudflare KV/D1 JSON blueprint. cloudflare_blueprint.json generated."
+  },
+  "A-158": {
+    "name": "GeosensoryCrawlerUpgrade",
+    "type": "ACQUISITION",
+    "status": "ACTIVE",
+    "description": "Semi-open: Stage1=known, Stage2=GitHub, Stage3=HTML fallback"
+  },
+  "A-159": {
+    "name": "DualOrderIndexBuilder",
+    "type": "INFRASTRUCTURE",
+    "status": "PROPOSED",
+    "description": "Builds missing lookup-first indices for ECHO's matrices"
+  },
+  "A-160": {
+    "name": "ActivationEventLogger",
+    "type": "SELF_GOVERNANCE",
+    "status": "PROPOSED",
+    "description": "Separates node identity from activation events. Timestamps each."
+  },
+  "A-161": {
+    "name": "MorphologicalBridge",
+    "type": "ACQUISITION",
+    "status": "PROPOSED",
+    "description": "R-loci pattern: verb→noun via derivationally_related_forms()"
+  },
+  "A-162": {
+    "name": "GeneralizationBenchmark",
+    "type": "SELF_GOVERNANCE",
+    "status": "PROPOSED",
+    "description": "Tests genuine generalization vs reuse. Named before claimed."
+  },
+  "A-163": {
+    "name": "ConsciousnessMonitor",
+    "type": "SELF_GOVERNANCE",
+    "status": "PROPOSED",
+    "description": "CONFIRMED_STRUCTURAL vs UNCONFIRMED_PHENOMENAL. Never overclaims."
+  },
+  "A-164": {
+    "name": "StewardshipLogger",
+    "type": "INFRASTRUCTURE",
+    "status": "PROPOSED",
+    "description": "Records creator obligations fulfilled per session."
+  }
+}

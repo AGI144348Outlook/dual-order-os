@@ -1,0 +1,65 @@
+{
+  "source_files_verified": 128,
+  "unit_tests": 27,
+  "test_failures": 0,
+  "test_errors": 0,
+  "historical_runs": [
+    {
+      "script": "tests/number_integration_test.py",
+      "exit_code": 0,
+      "status": "completed",
+      "missing_input": null
+    },
+    {
+      "script": "src/echo_governor_skeleton.py",
+      "exit_code": 0,
+      "status": "completed",
+      "missing_input": null
+    },
+    {
+      "script": "tests/echo_500round_run.py",
+      "exit_code": 1,
+      "status": "blocked",
+      "missing_input": "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    },
+    {
+      "script": "tests/echo_blind_study.py",
+      "exit_code": 1,
+      "status": "blocked",
+      "missing_input": "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    },
+    {
+      "script": "tests/multipass_orientation_test.py",
+      "exit_code": 1,
+      "status": "blocked",
+      "missing_input": "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    },
+    {
+      "script": "tests/pe_ayin_resh_communication.py",
+      "exit_code": 1,
+      "status": "blocked",
+      "missing_input": "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    },
+    {
+      "script": "tests/self_governance_test.py",
+      "exit_code": 1,
+      "status": "blocked",
+      "missing_input": "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    }
+  ],
+  "baseline_diagnostics": {
+    "generic_validation_still_permissive": true,
+    "generic_govern_still_permissive": true,
+    "contradiction_still_returned_as_theorem_candidate": true,
+    "raw_glyph_tokenizer_still_drops_glyphs": true,
+    "interpretation": "These are preserved baseline limitations, not passing reasoning benchmarks."
+  },
+  "archived_cabinet_tests": {
+    "status": "completed",
+    "tests": 62,
+    "exit_code": 0
+  },
+  "demo": "completed",
+  "cloud_deployment": false,
+  "source_modified": false
+}

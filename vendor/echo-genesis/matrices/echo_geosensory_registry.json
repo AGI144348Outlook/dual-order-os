@@ -1,0 +1,267 @@
+{
+  "NOAA_SWPC_SOLAR_WIND_MAG": {
+    "name": "NOAA SWPC — Real-Time Solar Wind Magnetometer",
+    "url": "https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json",
+    "domain": "J1_CONTINUITY",
+    "sensor_type": "SOLAR_MAGNETIC",
+    "key_required": false,
+    "format": "JSON",
+    "resolution": "1-minute",
+    "fields": [
+      "time_tag",
+      "bx_gsm",
+      "by_gsm",
+      "bz_gsm",
+      "bt"
+    ],
+    "lhea_letter": "shin",
+    "jurisdiction": "J1 Continuity — sustained solar wind magnetic state",
+    "description": "DSCOVR spacecraft magnetometer at L1 Lagrange point"
+  },
+  "NOAA_SWPC_KP_INDEX": {
+    "name": "NOAA SWPC — Planetary K Index",
+    "url": "https://services.swpc.noaa.gov/json/planetary_k_index_1m.json",
+    "domain": "J2_CONTAINMENT",
+    "sensor_type": "GEOMAGNETIC",
+    "key_required": false,
+    "format": "JSON",
+    "resolution": "1-minute",
+    "fields": [
+      "time_tag",
+      "kp_index",
+      "observed",
+      "noaa_scale"
+    ],
+    "lhea_letter": "mem",
+    "jurisdiction": "J2 Containment — bounded geomagnetic field state",
+    "description": "Global geomagnetic activity. Kp>=5 = storm."
+  },
+  "NOAA_SWPC_XRAY": {
+    "name": "NOAA SWPC — GOES X-Ray Flux",
+    "url": "https://services.swpc.noaa.gov/json/goes/primary/xrays-6-hour.json",
+    "domain": "J5_APERTURE",
+    "sensor_type": "SOLAR_XRAY",
+    "key_required": false,
+    "format": "JSON",
+    "resolution": "1-minute",
+    "fields": [
+      "time_tag",
+      "satellite",
+      "flux",
+      "energy"
+    ],
+    "lhea_letter": "shin",
+    "jurisdiction": "J5 Aperture — solar flare onset detection",
+    "description": "GOES satellite X-ray flux. M1.0+ = HF disruption."
+  },
+  "NOAA_SWPC_AURORA": {
+    "name": "NOAA SWPC — Aurora 30-min Forecast",
+    "url": "https://services.swpc.noaa.gov/json/ovation_aurora_latest.json",
+    "domain": "J4_PROJECTION",
+    "sensor_type": "AURORA_SPATIAL",
+    "key_required": false,
+    "format": "JSON",
+    "resolution": "30-min",
+    "fields": [
+      "Forecast Time",
+      "coordinates",
+      "aurora_probability"
+    ],
+    "lhea_letter": "he",
+    "jurisdiction": "J4 Projection — outward auroral broadcast",
+    "description": "OVATION model global aurora probability map"
+  },
+  "USGS_EARTHQUAKES_SIGNIFICANT": {
+    "name": "USGS — Significant Earthquakes This Week",
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+    "domain": "J5_APERTURE",
+    "sensor_type": "SEISMIC",
+    "key_required": false,
+    "format": "GeoJSON",
+    "resolution": "real-time",
+    "fields": [
+      "time",
+      "place",
+      "mag",
+      "depth",
+      "latitude",
+      "longitude",
+      "tsunami"
+    ],
+    "lhea_letter": "zayin",
+    "jurisdiction": "J5 Aperture — seismic rupture boundary event",
+    "description": "Globally significant earthquakes past 7 days"
+  },
+  "USGS_EARTHQUAKES_4_5_DAY": {
+    "name": "USGS — M4.5+ Past 24 Hours",
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson",
+    "domain": "J10_SEED",
+    "sensor_type": "SEISMIC",
+    "key_required": false,
+    "format": "GeoJSON",
+    "resolution": "real-time",
+    "fields": [
+      "time",
+      "place",
+      "mag",
+      "depth",
+      "latitude",
+      "longitude"
+    ],
+    "lhea_letter": "zayin",
+    "jurisdiction": "J10 Seed — seismic first-arrival events",
+    "description": "All M4.5+ earthquakes globally in past 24 hours"
+  },
+  "USGS_FDSN_CATALOG": {
+    "name": "USGS — FDSN Earthquake Catalog",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query",
+    "domain": "J12_DIVERGENCE",
+    "sensor_type": "SEISMIC_CATALOG",
+    "key_required": false,
+    "format": "GeoJSON/QuakeML",
+    "resolution": "historical+real-time",
+    "fields": [
+      "format",
+      "starttime",
+      "endtime",
+      "minmagnitude"
+    ],
+    "lhea_letter": "zayin",
+    "jurisdiction": "J12 Divergence — branching global seismic catalog",
+    "example": "?format=geojson&starttime=2024-01-01&minmagnitude=5.0",
+    "description": "Full FDSN catalog query with spatial/temporal filters"
+  },
+  "USGS_GEOMAG": {
+    "name": "USGS — Geomagnetism Observatory Data",
+    "url": "https://geomag.usgs.gov/ws/data/",
+    "domain": "J2_CONTAINMENT",
+    "sensor_type": "GEOMAGNETIC_OBSERVATORY",
+    "key_required": false,
+    "format": "IAGA2002/JSON",
+    "resolution": "1-second to daily",
+    "fields": [
+      "id",
+      "starttime",
+      "endtime",
+      "elements"
+    ],
+    "lhea_letter": "mem",
+    "jurisdiction": "J2 Containment — fixed observatory magnetic field",
+    "example": "?id=BOU&starttime=2024-01-01T00:00:00&elements=X,Y,Z,F",
+    "description": "USGS network of 14 US magnetic observatories"
+  },
+  "NOAA_NWS_API": {
+    "name": "NOAA NWS — National Weather Service",
+    "url": "https://api.weather.gov/",
+    "domain": "J1_CONTINUITY",
+    "sensor_type": "ATMOSPHERIC",
+    "key_required": false,
+    "format": "GeoJSON/JSON-LD",
+    "resolution": "hourly",
+    "fields": [
+      "temperature",
+      "windSpeed",
+      "barometricPressure",
+      "relativeHumidity"
+    ],
+    "lhea_letter": "he",
+    "jurisdiction": "J1 Continuity — atmospheric state stream",
+    "example": "/points/{lat},{lon} then /gridpoints/{office}/{x},{y}/forecast",
+    "description": "US NWS API — no key required"
+  },
+  "INATURALIST_BIODIVERSITY": {
+    "name": "iNaturalist — Global Biodiversity Observations",
+    "url": "https://api.inaturalist.org/v1/",
+    "domain": "J13_EMISSION",
+    "sensor_type": "BIOLOGICAL_SENSOR",
+    "key_required": false,
+    "format": "JSON",
+    "resolution": "real-time",
+    "fields": [
+      "taxon",
+      "observed_on",
+      "latitude",
+      "longitude",
+      "quality_grade"
+    ],
+    "lhea_letter": "nun",
+    "jurisdiction": "J13 Emission — living distributed sensors",
+    "description": "200M+ biodiversity observations globally"
+  },
+  "NASA_DONKI": {
+    "name": "NASA DONKI — Space Weather Notifications",
+    "url": "https://api.nasa.gov/DONKI/",
+    "domain": "J5_APERTURE",
+    "sensor_type": "SPACE_WEATHER_EVENTS",
+    "key_required": true,
+    "key_name": "api_key",
+    "free_key": "DEMO_KEY",
+    "format": "JSON",
+    "resolution": "event-driven",
+    "fields": [
+      "activityID",
+      "startTime",
+      "instruments",
+      "linkedEvents"
+    ],
+    "lhea_letter": "shin",
+    "jurisdiction": "J5 Aperture — CME and flare event detection",
+    "example": "/CME?startDate=2024-01-01&api_key=DEMO_KEY",
+    "description": "Database of CME, flares, radiation belt events"
+  },
+  "IRIS_SEISMIC_WAVEFORMS": {
+    "name": "IRIS EarthScope — Seismic Waveforms",
+    "url": "https://service.iris.edu/fdsnws/dataselect/1/query",
+    "domain": "J1_CONTINUITY",
+    "sensor_type": "SEISMIC_WAVEFORM",
+    "key_required": false,
+    "format": "MiniSEED",
+    "resolution": "100 samples/second",
+    "fields": [
+      "network",
+      "station",
+      "channel",
+      "starttime",
+      "endtime"
+    ],
+    "lhea_letter": "zayin",
+    "jurisdiction": "J1 Continuity — continuous GSN waveform",
+    "description": "163 Global Seismographic Network broadband stations"
+  },
+  "INTERMAGNET": {
+    "name": "INTERMAGNET — Global Geomagnetic Network",
+    "url": "https://imag-data.bgs.ac.uk/GIN_V1/GINServices",
+    "domain": "J2_CONTAINMENT",
+    "sensor_type": "GEOMAGNETIC_GLOBAL",
+    "key_required": false,
+    "format": "IAGA2002/JSON",
+    "resolution": "1-minute",
+    "fields": [
+      "observatory",
+      "element",
+      "date",
+      "value"
+    ],
+    "lhea_letter": "mem",
+    "jurisdiction": "J2 Containment — 150+ global magnetic observatories",
+    "description": "International network of 150+ geomagnetic observatories"
+  },
+  "NOAA_SWPC_PLASMA": {
+    "name": "NOAA SWPC — Real-Time Solar Wind Plasma",
+    "url": "https://services.swpc.noaa.gov/json/rtsw/rtsw_wind_1m.json",
+    "domain": "J1_CONTINUITY",
+    "sensor_type": "SOLAR_PLASMA",
+    "key_required": false,
+    "format": "JSON",
+    "resolution": "1-minute",
+    "fields": [
+      "time_tag",
+      "proton_speed",
+      "proton_density",
+      "proton_temp"
+    ],
+    "lhea_letter": "shin",
+    "jurisdiction": "J1 Continuity — solar wind plasma stream",
+    "description": "DSCOVR plasma speed, density, temperature"
+  }
+}

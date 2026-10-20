@@ -1,0 +1,11 @@
+{
+  "status": "pending-review-not-integrated",
+  "source_repository": "AGI144348Outlook/Echo_Green_Future",
+  "source_branch": "main",
+  "source_commit": "fea9690c8a4c9d91244889dd84fae2990dbae1cc",
+  "source_path": "core-lexicon.zip",
+  "git_blob_sha": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+  "bytes": 7426611,
+  "intake_date": "2026-10-19",
+  "preservation": "Exact existing Git blob reused. Original archive remains on main. Archive contents were not modified or executed."
+}

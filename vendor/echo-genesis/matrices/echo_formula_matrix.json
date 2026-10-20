@@ -1,0 +1,652 @@
+{
+  "Newton's Second Law": {
+    "name": "Newton's Second Law",
+    "expression": "F = m × a",
+    "domain": "mechanics",
+    "variables": {
+      "F": "force (N)",
+      "m": "mass (kg)",
+      "a": "acceleration (m/s²)"
+    },
+    "constants": [],
+    "law": "Force equals mass times acceleration — the fundamental relation between cause (force) and effect (acceleration) in the Natural Domain",
+    "vgm_abstraction": ""
+  },
+  "Kinetic Energy": {
+    "name": "Kinetic Energy",
+    "expression": "E_k = ½mv²",
+    "domain": "mechanics",
+    "variables": {
+      "E_k": "kinetic energy (J)",
+      "m": "mass (kg)",
+      "v": "velocity (m/s)"
+    },
+    "constants": [],
+    "law": "Energy of motion — a state of the entity determined by its mass and velocity",
+    "vgm_abstraction": ""
+  },
+  "Potential Energy (gravitational)": {
+    "name": "Potential Energy (gravitational)",
+    "expression": "E_p = mgh",
+    "domain": "mechanics",
+    "variables": {
+      "E_p": "potential energy (J)",
+      "m": "mass (kg)",
+      "g": "gravitational acceleration (9.81 m/s²)",
+      "h": "height (m)"
+    },
+    "constants": [],
+    "law": "Energy stored in position within a gravitational field",
+    "vgm_abstraction": ""
+  },
+  "Work-Energy Theorem": {
+    "name": "Work-Energy Theorem",
+    "expression": "W = F × d × cos(θ)",
+    "domain": "mechanics",
+    "variables": {
+      "W": "work (J)",
+      "F": "force (N)",
+      "d": "displacement (m)",
+      "θ": "angle between force and displacement"
+    },
+    "constants": [],
+    "law": "Work done equals force times displacement in the direction of force",
+    "vgm_abstraction": ""
+  },
+  "Conservation of Energy": {
+    "name": "Conservation of Energy",
+    "expression": "E_total = E_k + E_p = constant",
+    "domain": "mechanics",
+    "variables": {
+      "E_total": "total mechanical energy"
+    },
+    "constants": [],
+    "law": "Total energy is conserved — a state that cannot be destroyed, only transformed",
+    "vgm_abstraction": ""
+  },
+  "Momentum": {
+    "name": "Momentum",
+    "expression": "p = mv",
+    "domain": "mechanics",
+    "variables": {
+      "p": "momentum (kg·m/s)",
+      "m": "mass (kg)",
+      "v": "velocity (m/s)"
+    },
+    "constants": [],
+    "law": "Quantity of motion — a state of entity determined by mass and velocity",
+    "vgm_abstraction": ""
+  },
+  "Conservation of Momentum": {
+    "name": "Conservation of Momentum",
+    "expression": "m₁v₁ + m₂v₂ = m₁v₁' + m₂v₂'",
+    "domain": "mechanics",
+    "variables": {
+      "m₁,m₂": "masses",
+      "v₁,v₂": "velocities before",
+      "v₁',v₂'": "velocities after"
+    },
+    "constants": [],
+    "law": "Total momentum is conserved in an isolated system",
+    "vgm_abstraction": ""
+  },
+  "Uniform Motion": {
+    "name": "Uniform Motion",
+    "expression": "s = v × t",
+    "domain": "mechanics",
+    "variables": {
+      "s": "displacement (m)",
+      "v": "velocity (m/s)",
+      "t": "time (s)"
+    },
+    "constants": [],
+    "law": "Distance equals velocity times time — the discretization of continuous motion into finite steps",
+    "vgm_abstraction": ""
+  },
+  "Equation of Motion": {
+    "name": "Equation of Motion",
+    "expression": "v = u + at",
+    "domain": "mechanics",
+    "variables": {
+      "v": "final velocity",
+      "u": "initial velocity",
+      "a": "acceleration",
+      "t": "time"
+    },
+    "constants": [],
+    "law": "Velocity changes linearly with time under constant acceleration",
+    "vgm_abstraction": ""
+  },
+  "Gravitational Force": {
+    "name": "Gravitational Force",
+    "expression": "F = G × m₁m₂ / r²",
+    "domain": "gravitation",
+    "variables": {
+      "G": "gravitational constant (6.674×10⁻¹¹)",
+      "m₁,m₂": "masses (kg)",
+      "r": "separation (m)"
+    },
+    "constants": [],
+    "law": "Gravitational attraction between masses — inverse square law",
+    "vgm_abstraction": ""
+  },
+  "Orbital Velocity": {
+    "name": "Orbital Velocity",
+    "expression": "v = √(GM/r)",
+    "domain": "gravitation",
+    "variables": {
+      "G": "gravitational constant",
+      "M": "central mass",
+      "r": "orbital radius"
+    },
+    "constants": [],
+    "law": "Speed required for circular orbit — balance of gravitational and centripetal force",
+    "vgm_abstraction": ""
+  },
+  "Ideal Gas Law": {
+    "name": "Ideal Gas Law",
+    "expression": "PV = nRT",
+    "domain": "thermodynamics",
+    "variables": {
+      "P": "pressure (Pa)",
+      "V": "volume (m³)",
+      "n": "moles",
+      "R": "gas constant (8.314 J/mol·K)",
+      "T": "temperature (K)"
+    },
+    "constants": [],
+    "law": "State equation of an ideal gas — pressure, volume, and temperature are mutually constraining",
+    "vgm_abstraction": ""
+  },
+  "First Law of Thermodynamics": {
+    "name": "First Law of Thermodynamics",
+    "expression": "ΔU = Q - W",
+    "domain": "thermodynamics",
+    "variables": {
+      "ΔU": "change in internal energy",
+      "Q": "heat added",
+      "W": "work done by system"
+    },
+    "constants": [],
+    "law": "Energy is conserved: internal energy change equals heat added minus work done",
+    "vgm_abstraction": ""
+  },
+  "Entropy Change": {
+    "name": "Entropy Change",
+    "expression": "ΔS = Q/T",
+    "domain": "thermodynamics",
+    "variables": {
+      "ΔS": "entropy change (J/K)",
+      "Q": "heat transferred (J)",
+      "T": "temperature (K)"
+    },
+    "constants": [],
+    "law": "Entropy measures disorder — heat at temperature T changes entropy by Q/T",
+    "vgm_abstraction": ""
+  },
+  "Boltzmann Entropy": {
+    "name": "Boltzmann Entropy",
+    "expression": "S = k_B × ln(Ω)",
+    "domain": "thermodynamics",
+    "variables": {
+      "S": "entropy (J/K)",
+      "k_B": "Boltzmann constant (1.381×10⁻²³)",
+      "Ω": "number of microstates"
+    },
+    "constants": [],
+    "law": "Statistical definition of entropy — connects macroscopic state to microscopic counting",
+    "vgm_abstraction": ""
+  },
+  "Stefan-Boltzmann Law": {
+    "name": "Stefan-Boltzmann Law",
+    "expression": "P = σAT⁴",
+    "domain": "thermodynamics",
+    "variables": {
+      "P": "power radiated (W)",
+      "σ": "Stefan-Boltzmann constant (5.67×10⁻⁸)",
+      "A": "surface area (m²)",
+      "T": "temperature (K)"
+    },
+    "constants": [],
+    "law": "Radiated power proportional to fourth power of temperature",
+    "vgm_abstraction": ""
+  },
+  "Coulomb's Law": {
+    "name": "Coulomb's Law",
+    "expression": "F = k × q₁q₂ / r²",
+    "domain": "electromagnetism",
+    "variables": {
+      "k": "Coulomb constant (8.99×10⁹)",
+      "q₁,q₂": "charges (C)",
+      "r": "separation (m)"
+    },
+    "constants": [],
+    "law": "Electric force between charges — same structure as gravitational law",
+    "vgm_abstraction": ""
+  },
+  "Electric Field": {
+    "name": "Electric Field",
+    "expression": "E = F/q = kQ/r²",
+    "domain": "electromagnetism",
+    "variables": {
+      "E": "electric field (V/m)",
+      "F": "force (N)",
+      "q": "test charge (C)",
+      "Q": "source charge (C)"
+    },
+    "constants": [],
+    "law": "Electric field is force per unit charge at a point in space",
+    "vgm_abstraction": ""
+  },
+  "Ohm's Law": {
+    "name": "Ohm's Law",
+    "expression": "V = IR",
+    "domain": "electromagnetism",
+    "variables": {
+      "V": "voltage (V)",
+      "I": "current (A)",
+      "R": "resistance (Ω)"
+    },
+    "constants": [],
+    "law": "Voltage equals current times resistance — linear relation between cause (voltage) and effect (current)",
+    "vgm_abstraction": ""
+  },
+  "Electric Power": {
+    "name": "Electric Power",
+    "expression": "P = IV = I²R = V²/R",
+    "domain": "electromagnetism",
+    "variables": {
+      "P": "power (W)",
+      "I": "current (A)",
+      "V": "voltage (V)",
+      "R": "resistance (Ω)"
+    },
+    "constants": [],
+    "law": "Power dissipated in a circuit — three equivalent forms",
+    "vgm_abstraction": ""
+  },
+  "Capacitance": {
+    "name": "Capacitance",
+    "expression": "C = Q/V",
+    "domain": "electromagnetism",
+    "variables": {
+      "C": "capacitance (F)",
+      "Q": "charge (C)",
+      "V": "voltage (V)"
+    },
+    "constants": [],
+    "law": "Capacity to store charge per unit voltage",
+    "vgm_abstraction": ""
+  },
+  "Magnetic Force": {
+    "name": "Magnetic Force",
+    "expression": "F = qv × B",
+    "domain": "electromagnetism",
+    "variables": {
+      "q": "charge (C)",
+      "v": "velocity (m/s)",
+      "B": "magnetic field (T)"
+    },
+    "constants": [],
+    "law": "Force on a moving charge in a magnetic field — cross product relation",
+    "vgm_abstraction": ""
+  },
+  "Faraday's Law": {
+    "name": "Faraday's Law",
+    "expression": "EMF = -dΦ/dt",
+    "domain": "electromagnetism",
+    "variables": {
+      "EMF": "electromotive force (V)",
+      "Φ": "magnetic flux (Wb)",
+      "t": "time (s)"
+    },
+    "constants": [],
+    "law": "Changing magnetic flux induces EMF — the basis of electromagnetic induction",
+    "vgm_abstraction": ""
+  },
+  "Maxwell's Equation (Gauss)": {
+    "name": "Maxwell's Equation (Gauss)",
+    "expression": "∮E·dA = Q/ε₀",
+    "domain": "electromagnetism",
+    "variables": {
+      "E": "electric field",
+      "A": "surface area",
+      "Q": "enclosed charge",
+      "ε₀": "permittivity of free space"
+    },
+    "constants": [],
+    "law": "Total electric flux through closed surface equals enclosed charge",
+    "vgm_abstraction": ""
+  },
+  "Planck-Einstein Relation": {
+    "name": "Planck-Einstein Relation",
+    "expression": "E = hf = hc/λ",
+    "domain": "quantum_mechanics",
+    "variables": {
+      "E": "energy (J)",
+      "h": "Planck constant (6.626×10⁻³⁴)",
+      "f": "frequency (Hz)",
+      "c": "speed of light",
+      "λ": "wavelength (m)"
+    },
+    "constants": [],
+    "law": "Energy of a photon — the bridge between wave (frequency) and particle (energy) descriptions",
+    "vgm_abstraction": ""
+  },
+  "de Broglie Wavelength": {
+    "name": "de Broglie Wavelength",
+    "expression": "λ = h/p = h/(mv)",
+    "domain": "quantum_mechanics",
+    "variables": {
+      "λ": "wavelength (m)",
+      "h": "Planck constant",
+      "p": "momentum (kg·m/s)"
+    },
+    "constants": [],
+    "law": "Every particle has an associated wavelength — wave-particle duality Law",
+    "vgm_abstraction": ""
+  },
+  "Heisenberg Uncertainty Principle": {
+    "name": "Heisenberg Uncertainty Principle",
+    "expression": "ΔxΔp ≥ ℏ/2",
+    "domain": "quantum_mechanics",
+    "variables": {
+      "Δx": "position uncertainty",
+      "Δp": "momentum uncertainty",
+      "ℏ": "reduced Planck constant (h/2π)"
+    },
+    "constants": [],
+    "law": "Position and momentum cannot be simultaneously known with arbitrary precision",
+    "vgm_abstraction": ""
+  },
+  "Schrödinger Equation (time-dependent)": {
+    "name": "Schrödinger Equation (time-dependent)",
+    "expression": "iℏ ∂ψ/∂t = Ĥψ",
+    "domain": "quantum_mechanics",
+    "variables": {
+      "ψ": "wave function",
+      "ℏ": "reduced Planck constant",
+      "Ĥ": "Hamiltonian operator"
+    },
+    "constants": [],
+    "law": "Evolution of quantum state in time — the Laws of quantum dynamics",
+    "vgm_abstraction": ""
+  },
+  "Energy Levels (hydrogen)": {
+    "name": "Energy Levels (hydrogen)",
+    "expression": "E_n = -13.6 eV / n²",
+    "domain": "quantum_mechanics",
+    "variables": {
+      "E_n": "energy of level n (eV)",
+      "n": "principal quantum number (1,2,3,...)"
+    },
+    "constants": [],
+    "law": "Discrete energy states of hydrogen atom — first quantized energy spectrum",
+    "vgm_abstraction": ""
+  },
+  "Photoelectric Effect": {
+    "name": "Photoelectric Effect",
+    "expression": "E_k = hf - φ",
+    "domain": "quantum_mechanics",
+    "variables": {
+      "E_k": "kinetic energy of ejected electron",
+      "h": "Planck constant",
+      "f": "photon frequency",
+      "φ": "work function"
+    },
+    "constants": [],
+    "law": "Photon ejects electron if its energy exceeds the work function",
+    "vgm_abstraction": ""
+  },
+  "Mass-Energy Equivalence": {
+    "name": "Mass-Energy Equivalence",
+    "expression": "E = mc²",
+    "domain": "special_relativity",
+    "variables": {
+      "E": "energy (J)",
+      "m": "mass (kg)",
+      "c": "speed of light (3×10⁸ m/s)"
+    },
+    "constants": [],
+    "law": "Mass and energy are equivalent — the most famous Law in physics",
+    "vgm_abstraction": ""
+  },
+  "Time Dilation": {
+    "name": "Time Dilation",
+    "expression": "t = t₀ / √(1 - v²/c²)",
+    "domain": "special_relativity",
+    "variables": {
+      "t": "dilated time",
+      "t₀": "proper time",
+      "v": "relative velocity",
+      "c": "speed of light"
+    },
+    "constants": [],
+    "law": "Moving clocks run slower — time is relative to the observer",
+    "vgm_abstraction": ""
+  },
+  "Length Contraction": {
+    "name": "Length Contraction",
+    "expression": "L = L₀√(1 - v²/c²)",
+    "domain": "special_relativity",
+    "variables": {
+      "L": "contracted length",
+      "L₀": "proper length",
+      "v": "relative velocity",
+      "c": "speed of light"
+    },
+    "constants": [],
+    "law": "Moving objects appear shorter in the direction of motion",
+    "vgm_abstraction": ""
+  },
+  "Relativistic Energy": {
+    "name": "Relativistic Energy",
+    "expression": "E² = (pc)² + (mc²)²",
+    "domain": "special_relativity",
+    "variables": {
+      "E": "total energy",
+      "p": "momentum",
+      "m": "rest mass",
+      "c": "speed of light"
+    },
+    "constants": [],
+    "law": "General energy-momentum relation — E=mc² is the special case p=0",
+    "vgm_abstraction": ""
+  },
+  "Lorentz Factor": {
+    "name": "Lorentz Factor",
+    "expression": "γ = 1/√(1 - v²/c²)",
+    "domain": "special_relativity",
+    "variables": {
+      "γ": "Lorentz factor",
+      "v": "velocity",
+      "c": "speed of light"
+    },
+    "constants": [],
+    "law": "Scale factor for relativistic effects — diverges as v→c",
+    "vgm_abstraction": ""
+  },
+  "Pythagorean Theorem": {
+    "name": "Pythagorean Theorem",
+    "expression": "a² + b² = c²",
+    "domain": "geometry",
+    "variables": {
+      "a,b": "legs of right triangle",
+      "c": "hypotenuse"
+    },
+    "constants": [],
+    "law": "Fundamental relation in Euclidean geometry — discovered, not invented",
+    "vgm_abstraction": ""
+  },
+  "Euler's Formula": {
+    "name": "Euler's Formula",
+    "expression": "e^(iθ) = cos(θ) + i·sin(θ)",
+    "domain": "complex_analysis",
+    "variables": {
+      "e": "Euler's number",
+      "i": "imaginary unit",
+      "θ": "angle (radians)"
+    },
+    "constants": [],
+    "law": "The most beautiful formula — connects e, π, i, cos, sin in one expression",
+    "vgm_abstraction": ""
+  },
+  "Euler's Identity": {
+    "name": "Euler's Identity",
+    "expression": "e^(iπ) + 1 = 0",
+    "domain": "complex_analysis",
+    "variables": {
+      "e": "Euler's number",
+      "i": "imaginary unit",
+      "π": "pi"
+    },
+    "constants": [],
+    "law": "Five fundamental constants unified — often called the most beautiful equation",
+    "vgm_abstraction": ""
+  },
+  "Taylor Series": {
+    "name": "Taylor Series",
+    "expression": "f(x) = Σ f⁽ⁿ⁾(a)/n! × (x-a)ⁿ",
+    "domain": "calculus",
+    "variables": {
+      "f": "function",
+      "a": "expansion point",
+      "n": "order"
+    },
+    "constants": [],
+    "law": "Any smooth function expressible as infinite polynomial — bridge between discrete and continuous",
+    "vgm_abstraction": ""
+  },
+  "Fundamental Theorem of Calculus": {
+    "name": "Fundamental Theorem of Calculus",
+    "expression": "∫ₐᵇ f'(x)dx = f(b) - f(a)",
+    "domain": "calculus",
+    "variables": {
+      "f": "function",
+      "f'": "derivative",
+      "a,b": "limits"
+    },
+    "constants": [],
+    "law": "Differentiation and integration are inverse operations — the deepest theorem of calculus",
+    "vgm_abstraction": ""
+  },
+  "Bayes' Theorem": {
+    "name": "Bayes' Theorem",
+    "expression": "P(A|B) = P(B|A)P(A) / P(B)",
+    "domain": "probability",
+    "variables": {
+      "P(A|B)": "probability of A given B",
+      "P(B|A)": "probability of B given A"
+    },
+    "constants": [],
+    "law": "How prior probability updates given new evidence — the Law of rational belief revision",
+    "vgm_abstraction": ""
+  },
+  "Normal Distribution": {
+    "name": "Normal Distribution",
+    "expression": "f(x) = (1/σ√2π) × e^(-(x-μ)²/2σ²)",
+    "domain": "statistics",
+    "variables": {
+      "μ": "mean",
+      "σ": "standard deviation",
+      "x": "value"
+    },
+    "constants": [],
+    "law": "The bell curve — emerges from the Central Limit Theorem as the universal distribution",
+    "vgm_abstraction": ""
+  },
+  "Fourier Transform": {
+    "name": "Fourier Transform",
+    "expression": "F(ω) = ∫f(t)e^(-iωt)dt",
+    "domain": "analysis",
+    "variables": {
+      "F": "frequency domain",
+      "f": "time domain",
+      "ω": "angular frequency"
+    },
+    "constants": [],
+    "law": "Decomposes any signal into constituent frequencies — bridge between time and frequency domains",
+    "vgm_abstraction": ""
+  },
+  "Euler-Lagrange Equation": {
+    "name": "Euler-Lagrange Equation",
+    "expression": "d/dt(∂L/∂q̇) - ∂L/∂q = 0",
+    "domain": "classical_mechanics",
+    "variables": {
+      "L": "Lagrangian (T-V)",
+      "q": "generalized coordinate",
+      "t": "time"
+    },
+    "constants": [],
+    "law": "Equations of motion from energy — the variational principle formulation of dynamics",
+    "vgm_abstraction": ""
+  },
+  "Navier-Stokes Equation": {
+    "name": "Navier-Stokes Equation",
+    "expression": "ρ(∂v/∂t + v·∇v) = -∇p + μ∇²v + F",
+    "domain": "fluid_dynamics",
+    "variables": {
+      "ρ": "density",
+      "v": "velocity field",
+      "p": "pressure",
+      "μ": "viscosity"
+    },
+    "constants": [],
+    "law": "Motion of viscous fluid — one of the Millennium Prize unsolved problems",
+    "vgm_abstraction": ""
+  },
+  "Avogadro's Number": {
+    "name": "Avogadro's Number",
+    "expression": "N_A = 6.02214076 × 10²³ mol⁻¹",
+    "domain": "chemistry",
+    "variables": {
+      "N_A": "Avogadro constant"
+    },
+    "constants": [],
+    "law": "Number of particles in one mole — bridges microscopic and macroscopic scales",
+    "vgm_abstraction": ""
+  },
+  "Arrhenius Equation": {
+    "name": "Arrhenius Equation",
+    "expression": "k = A × e^(-E_a/RT)",
+    "domain": "chemistry",
+    "variables": {
+      "k": "rate constant",
+      "A": "pre-exponential factor",
+      "E_a": "activation energy",
+      "R": "gas constant",
+      "T": "temperature"
+    },
+    "constants": [],
+    "law": "Temperature dependence of reaction rate — activation energy barrier",
+    "vgm_abstraction": ""
+  },
+  "Henderson-Hasselbalch": {
+    "name": "Henderson-Hasselbalch",
+    "expression": "pH = pKa + log([A⁻]/[HA])",
+    "domain": "chemistry",
+    "variables": {
+      "pH": "acidity",
+      "pKa": "acid dissociation",
+      "[A⁻]": "conjugate base",
+      "[HA]": "weak acid"
+    },
+    "constants": [],
+    "law": "pH of buffer solution — used in biochemistry to maintain biological pH",
+    "vgm_abstraction": ""
+  },
+  "Beer-Lambert Law": {
+    "name": "Beer-Lambert Law",
+    "expression": "A = εlc",
+    "domain": "chemistry",
+    "variables": {
+      "A": "absorbance",
+      "ε": "molar absorptivity",
+      "l": "path length",
+      "c": "concentration"
+    },
+    "constants": [],
+    "law": "Absorbance proportional to concentration — basis of spectrophotometry",
+    "vgm_abstraction": ""
+  }
+}

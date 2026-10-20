@@ -1,0 +1,280 @@
+{
+  "change": {
+    "synset": "change.n.01",
+    "definition": "an event that occurs when something passes from one state or phase to another",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "event",
+      "happening",
+      "change"
+    ],
+    "depth": 6
+  },
+  "state": {
+    "synset": "state.n.01",
+    "definition": "the territory occupied by one of the constituent administrative districts of a nation",
+    "chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "location",
+      "region",
+      "district",
+      "administrative district",
+      "state"
+    ],
+    "depth": 8
+  },
+  "entity": {
+    "synset": "entity.n.01",
+    "definition": "that which is perceived or known or inferred to have its own distinct existence (living or nonliving)",
+    "chain": [
+      "entity"
+    ],
+    "depth": 1
+  },
+  "relation": {
+    "synset": "relation.n.01",
+    "definition": "an abstraction belonging to or characteristic of two entities or parts together",
+    "chain": [
+      "entity",
+      "abstraction",
+      "relation"
+    ],
+    "depth": 3
+  },
+  "boundary": {
+    "synset": "boundary.n.01",
+    "definition": "the line or plane indicating the limit or extent of something",
+    "chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "location",
+      "region",
+      "extremity",
+      "boundary"
+    ],
+    "depth": 7
+  },
+  "cause": {
+    "synset": "cause.n.01",
+    "definition": "events that provide the generative force that is the origin of something",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "event",
+      "happening",
+      "beginning",
+      "origin",
+      "cause"
+    ],
+    "depth": 8
+  },
+  "effect": {
+    "synset": "consequence.n.01",
+    "definition": "a phenomenon that follows and is caused by some previous phenomenon",
+    "chain": [
+      "entity",
+      "physical entity",
+      "process",
+      "phenomenon",
+      "consequence"
+    ],
+    "depth": 5
+  },
+  "process": {
+    "synset": "procedure.n.01",
+    "definition": "a particular course of action intended to achieve a result",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "event",
+      "act",
+      "activity",
+      "procedure"
+    ],
+    "depth": 7
+  },
+  "structure": {
+    "synset": "structure.n.01",
+    "definition": "a thing constructed; a complex entity constructed of many parts",
+    "chain": [
+      "entity",
+      "physical entity",
+      "object",
+      "whole",
+      "artifact",
+      "structure"
+    ],
+    "depth": 6
+  },
+  "condition": {
+    "synset": "condition.n.01",
+    "definition": "a state at a particular time",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "state",
+      "condition"
+    ],
+    "depth": 5
+  },
+  "existence": {
+    "synset": "being.n.01",
+    "definition": "the state or fact of existing",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "state",
+      "being"
+    ],
+    "depth": 5
+  },
+  "consciousness": {
+    "synset": "consciousness.n.01",
+    "definition": "an alert cognitive state in which you are aware of yourself and your situation",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "state",
+      "condition",
+      "psychological state",
+      "cognitive state",
+      "consciousness"
+    ],
+    "depth": 8
+  },
+  "perception": {
+    "synset": "percept.n.01",
+    "definition": "the representation of what is perceived; basic component in the formation of a concept",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "cognition",
+      "content",
+      "representation",
+      "percept"
+    ],
+    "depth": 7
+  },
+  "environment": {
+    "synset": "environment.n.01",
+    "definition": "the totality of surrounding conditions",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "state",
+      "situation",
+      "environment"
+    ],
+    "depth": 6
+  },
+  "reality": {
+    "synset": "world.n.03",
+    "definition": "all of your experiences that determine how things appear to you",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "cognition",
+      "content",
+      "experience",
+      "world"
+    ],
+    "depth": 7
+  },
+  "experience": {
+    "synset": "experience.n.01",
+    "definition": "the accumulation of knowledge or skill that results from direct participation in events or activities",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "cognition",
+      "content",
+      "education",
+      "experience"
+    ],
+    "depth": 7
+  },
+  "identity": {
+    "synset": "identity.n.01",
+    "definition": "the distinct personality of an individual regarded as a persisting entity",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "personality",
+      "identity"
+    ],
+    "depth": 5
+  },
+  "emergence": {
+    "synset": "emergence.n.01",
+    "definition": "the gradual beginning or coming forth",
+    "chain": [
+      "entity",
+      "abstraction",
+      "psychological feature",
+      "event",
+      "happening",
+      "beginning",
+      "emergence"
+    ],
+    "depth": 7
+  },
+  "potential": {
+    "synset": "potential.n.01",
+    "definition": "the inherent capacity for coming into being",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "state",
+      "being",
+      "possibility",
+      "potential"
+    ],
+    "depth": 7
+  },
+  "actual": {
+    "synset": "actual.a.01",
+    "definition": "presently existing in fact and not merely potential or possible",
+    "chain": [
+      "actual"
+    ],
+    "depth": 1
+  },
+  "being": {
+    "synset": "being.n.01",
+    "definition": "the state or fact of existing",
+    "chain": [
+      "entity",
+      "abstraction",
+      "attribute",
+      "state",
+      "being"
+    ],
+    "depth": 5
+  },
+  "effecting": {
+    "synset": "effect.v.01",
+    "definition": "produce",
+    "chain": [
+      "make",
+      "cause",
+      "effect"
+    ],
+    "depth": 3
+  }
+}
