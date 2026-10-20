@@ -2,373 +2,373 @@ TAP version 13
 # Subtest: inert, active, replaced and suspended cards select exact server-resolved context
 ok 1 - inert, active, replaced and suspended cards select exact server-resolved context
   ---
-  duration_ms: 88.888484
+  duration_ms: 40.370813
   type: 'test'
   ...
 # Subtest: cached retries avoid duplicate inference and revalidate source availability
 ok 2 - cached retries avoid duplicate inference and revalidate source availability
   ---
-  duration_ms: 5.495855
+  duration_ms: 10.308916
   type: 'test'
   ...
 # Subtest: cross-identity references, invalid part addresses and oversized prompts fail before model
 ok 3 - cross-identity references, invalid part addresses and oversized prompts fail before model
   ---
-  duration_ms: 3.019669
+  duration_ms: 7.003196
   type: 'test'
   ...
 # Subtest: prompt injection remains quoted evidence, no model tools are exposed
 ok 4 - prompt injection remains quoted evidence, no model tools are exposed
   ---
-  duration_ms: 2.401804
+  duration_ms: 3.045778
   type: 'test'
   ...
 # Subtest: daily cap and failed-attempt retry prevent uncontrolled repeated inference
 ok 5 - daily cap and failed-attempt retry prevent uncontrolled repeated inference
   ---
-  duration_ms: 1.020157
+  duration_ms: 1.522143
   type: 'test'
   ...
 # Subtest: explicit context guidance is separate from source evidence
 ok 6 - explicit context guidance is separate from source evidence
   ---
-  duration_ms: 1.2098
+  duration_ms: 2.639213
   type: 'test'
   ...
 # Subtest: failed inference is not automatically repeated for the same request
 ok 7 - failed inference is not automatically repeated for the same request
   ---
-  duration_ms: 1.279125
+  duration_ms: 1.740764
   type: 'test'
   ...
 # Subtest: chunk boundaries preserve exact Unicode, escaping and multiline notation
 ok 8 - chunk boundaries preserve exact Unicode, escaping and multiline notation
   ---
-  duration_ms: 31.029937
+  duration_ms: 40.844244
   type: 'test'
   ...
 # Subtest: checkpoint resumes immediately after a committed object without duplicating it
 ok 9 - checkpoint resumes immediately after a committed object without duplicating it
   ---
-  duration_ms: 13.232733
+  duration_ms: 9.281863
   type: 'test'
   ...
 # Subtest: framing rejects trailing commas, truncated files, non-array and extra content
 ok 10 - framing rejects trailing commas, truncated files, non-array and extra content
   ---
-  duration_ms: 1.040867
+  duration_ms: 0.857588
   type: 'test'
   ...
 # Subtest: per-conversation size limit stops explicitly instead of exhausting archive memory
 ok 11 - per-conversation size limit stops explicitly instead of exhausting archive memory
   ---
-  duration_ms: 0.446679
+  duration_ms: 0.296087
   type: 'test'
   ...
 # Subtest: selected path excludes alternative replies; all-node mode retains both
 ok 12 - selected path excludes alternative replies; all-node mode retains both
   ---
-  duration_ms: 0.367831
+  duration_ms: 0.431453
   type: 'test'
   ...
 # Subtest: missing selected branch is not silently guessed and cycles terminate
 ok 13 - missing selected branch is not silently guessed and cycles terminate
   ---
-  duration_ms: 0.172999
+  duration_ms: 0.189507
   type: 'test'
   ...
 # Subtest: multimodal references and roles are counted without coercing objects to text
 ok 14 - multimodal references and roles are counted without coercing objects to text
   ---
-  duration_ms: 0.282072
+  duration_ms: 0.342509
   type: 'test'
   ...
 # Subtest: invalid mappings fail and missing parents are recorded as structural warnings
 ok 15 - invalid mappings fail and missing parents are recorded as structural warnings
   ---
-  duration_ms: 0.182563
+  duration_ms: 0.214765
   type: 'test'
   ...
 # Subtest: sample fingerprint distinguishes changed sources; record hash tracks exact content
 ok 16 - sample fingerprint distinguishes changed sources; record hash tracks exact content
   ---
-  duration_ms: 16.410759
+  duration_ms: 10.798638
   type: 'test'
   ...
 # Subtest: import preserves duplicate source IDs as distinct ordinal records
 ok 17 - import preserves duplicate source IDs as distinct ordinal records
   ---
-  duration_ms: 3.490163
+  duration_ms: 2.394442
   type: 'test'
   ...
 # Subtest: pause and reselection resume committed progress exactly once
 ok 18 - pause and reselection resume committed progress exactly once
   ---
-  duration_ms: 1.711612
+  duration_ms: 3.224128
   type: 'test'
   ...
 # Subtest: quota failure preserves the last committed checkpoint for a safe retry
 ok 19 - quota failure preserves the last committed checkpoint for a safe retry
   ---
-  duration_ms: 1.701917
+  duration_ms: 1.627913
   type: 'test'
   ...
 # Subtest: malformed later conversation does not erase earlier imported conversations
 ok 20 - malformed later conversation does not erase earlier imported conversations
   ---
-  duration_ms: 1.336651
+  duration_ms: 2.93444
   type: 'test'
   ...
 # Subtest: wrong file cannot append records to an existing dataset
 ok 21 - wrong file cannot append records to an existing dataset
   ---
-  duration_ms: 1.324412
+  duration_ms: 0.85876
   type: 'test'
   ...
 # Subtest: filing listing, mutations and discovery require operator authorization
 ok 22 - filing listing, mutations and discovery require operator authorization
   ---
-  duration_ms: 93.254488
+  duration_ms: 40.721459
   type: 'test'
   ...
 # Subtest: new upload is catalogued before sending bytes and creation retries are idempotent
 ok 23 - new upload is catalogued before sending bytes and creation retries are idempotent
   ---
-  duration_ms: 20.281011
+  duration_ms: 9.840688
   type: 'test'
   ...
 # Subtest: collection creation, file rename and virtual move preserve source bytes
 ok 24 - collection creation, file rename and virtual move preserve source bytes
   ---
-  duration_ms: 14.055284
+  duration_ms: 9.178816
   type: 'test'
   ...
 # Subtest: chunk verification and retry work through filing proxy
 ok 25 - chunk verification and retry work through filing proxy
   ---
-  duration_ms: 6.469271
+  duration_ms: 8.617949
   type: 'test'
   ...
 # Subtest: completed download streams exact bytes as a private attachment
 ok 26 - completed download streams exact bytes as a private attachment
   ---
-  duration_ms: 13.077862
+  duration_ms: 15.498008
   type: 'test'
   ...
 # Subtest: invalid download ticket cannot read bytes
 ok 27 - invalid download ticket cannot read bytes
   ---
-  duration_ms: 6.227179
+  duration_ms: 9.609409
   type: 'test'
   ...
 # Subtest: deleting completed files removes R2 bytes and blocks ticket access
 ok 28 - deleting completed files removes R2 bytes and blocks ticket access
   ---
-  duration_ms: 18.085986
+  duration_ms: 19.204606
   type: 'test'
   ...
 # Subtest: deleting pending file aborts multipart upload
 ok 29 - deleting pending file aborts multipart upload
   ---
-  duration_ms: 13.857688
+  duration_ms: 9.782771
   type: 'test'
   ...
 # Subtest: public upload routes cannot reach internal cabinet operations
 ok 30 - public upload routes cannot reach internal cabinet operations
   ---
-  duration_ms: 4.753483
+  duration_ms: 7.133863
   type: 'test'
   ...
 # Subtest: source creation collisions and unknown collections reject
 ok 31 - source creation collisions and unknown collections reject
   ---
-  duration_ms: 4.357832
+  duration_ms: 5.489425
   type: 'test'
   ...
 # Subtest: unconfigured cabinet is explicitly disabled
 ok 32 - unconfigured cabinet is explicitly disabled
   ---
-  duration_ms: 0.440499
+  duration_ms: 0.364672
   type: 'test'
   ...
 # Subtest: older private sources can be discovered and filed without copying bytes
 ok 33 - older private sources can be discovered and filed without copying bytes
   ---
-  duration_ms: 6.210604
+  duration_ms: 9.232037
   type: 'test'
   ...
 # Subtest: tower preserves the requested bottom-to-top hierarchy
 ok 34 - tower preserves the requested bottom-to-top hierarchy
   ---
-  duration_ms: 1.414367
+  duration_ms: 1.252474
   type: 'test'
   ...
 # Subtest: deep links identify a floor and leave unknown routes outside
 ok 35 - deep links identify a floor and leave unknown routes outside
   ---
-  duration_ms: 0.229433
+  duration_ms: 0.234444
   type: 'test'
   ...
 # Subtest: personal notes are isolated by floor and malformed storage is excluded
 ok 36 - personal notes are isolated by floor and malformed storage is excluded
   ---
-  duration_ms: 0.276964
+  duration_ms: 0.23129
   type: 'test'
   ...
 # Subtest: static preview applies response boundaries without changing assets
 ok 37 - static preview applies response boundaries without changing assets
   ---
-  duration_ms: 25.305351
+  duration_ms: 22.556126
   type: 'test'
   ...
 # Subtest: source size, foundation and part boundaries are validated
 ok 38 - source size, foundation and part boundaries are validated
   ---
-  duration_ms: 3.536853
+  duration_ms: 3.15968
   type: 'test'
   ...
 # Subtest: request readers stop oversized bodies before parsing or storage
 ok 39 - request readers stop oversized bodies before parsing or storage
   ---
-  duration_ms: 30.67103
+  duration_ms: 30.730093
   type: 'test'
   ...
 # Subtest: private upload status rejects missing or wrong capability
 ok 40 - private upload status rejects missing or wrong capability
   ---
-  duration_ms: 11.15876
+  duration_ms: 8.130105
   type: 'test'
   ...
 # Subtest: part retry returns saved result and rejects checksum collisions
 ok 41 - part retry returns saved result and rejects checksum collisions
   ---
-  duration_ms: 7.306134
+  duration_ms: 3.558273
   type: 'test'
   ...
 # Subtest: wrong length, digest and part number do not write R2
 ok 42 - wrong length, digest and part number do not write R2
   ---
-  duration_ms: 6.090915
+  duration_ms: 3.68167
   type: 'test'
   ...
 # Subtest: completion requires all verified parts and is idempotent
 ok 43 - completion requires all verified parts and is idempotent
   ---
-  duration_ms: 8.644256
+  duration_ms: 3.744705
   type: 'test'
   ...
 # Subtest: completion recovers already-stored object after checkpoint interruption
 ok 44 - completion recovers already-stored object after checkpoint interruption
   ---
-  duration_ms: 1.715827
+  duration_ms: 1.158422
   type: 'test'
   ...
 # Subtest: source reads require completion and bounded private ranges
 ok 45 - source reads require completion and bounded private ranges
   ---
-  duration_ms: 3.917302
+  duration_ms: 2.042581
   type: 'test'
   ...
 # Subtest: concurrent duplicate chunks are serialized to one R2 write
 ok 46 - concurrent duplicate chunks are serialized to one R2 write
   ---
-  duration_ms: 2.702725
+  duration_ms: 1.780574
   type: 'test'
   ...
 # Subtest: unconfigured cloud storage is explicit and never accepts an upload
 ok 47 - unconfigured cloud storage is explicit and never accepts an upload
   ---
-  duration_ms: 1.106396
+  duration_ms: 0.99167
   type: 'test'
   ...
 # Subtest: operator code gates source creation; no upload token is in public config
 ok 48 - operator code gates source creation; no upload token is in public config
   ---
-  duration_ms: 3.455241
+  duration_ms: 3.620719
   type: 'test'
   ...
 # Subtest: cloud source card stays inert and resolves only after explicit activation
 ok 49 - cloud source card stays inert and resolves only after explicit activation
   ---
-  duration_ms: 2.550848
+  duration_ms: 2.057132
   type: 'test'
   ...
 # Subtest: cloud evidence cannot silently be reassigned to another identity
 ok 50 - cloud evidence cannot silently be reassigned to another identity
   ---
-  duration_ms: 0.272648
+  duration_ms: 0.324691
   type: 'test'
   ...
 # Subtest: direct, inherited and switch closes before pairing
 ok 51 - direct, inherited and switch closes before pairing
   ---
-  duration_ms: 17.45371
+  duration_ms: 11.750728
   type: 'test'
   ...
 # Subtest: gap taint persists until explicit reactivation
 ok 52 - gap taint persists until explicit reactivation
   ---
-  duration_ms: 0.553228
+  duration_ms: 0.448028
   type: 'test'
   ...
 # Subtest: kept branch only; missing or cyclic branches fail closed
 ok 53 - kept branch only; missing or cyclic branches fail closed
   ---
-  duration_ms: 0.246809
+  duration_ms: 0.223288
   type: 'test'
   ...
 # Subtest: quoted and code invocations, mixed persona and orphan reply reviewed
 ok 54 - quoted and code invocations, mixed persona and orphan reply reviewed
   ---
-  duration_ms: 1.092635
+  duration_ms: 1.237002
   type: 'test'
   ...
 # Subtest: hidden and reasoning excluded; paste flags retain long original
 ok 55 - hidden and reasoning excluded; paste flags retain long original
   ---
-  duration_ms: 0.250165
+  duration_ms: 0.319112
   type: 'test'
   ...
 # Subtest: twelve-hour boundary allowed, missing or backwards time reviewed
 ok 56 - twelve-hour boundary allowed, missing or backwards time reviewed
   ---
-  duration_ms: 0.221842
+  duration_ms: 0.260855
   type: 'test'
   ...
 # Subtest: clear Julian return after other persona is a new session; several replies share real prompt
 ok 57 - clear Julian return after other persona is a new session; several replies share real prompt
   ---
-  duration_ms: 0.283094
+  duration_ms: 0.303819
   type: 'test'
   ...
 # Subtest: operator authorization applies to all tower queries and mutations
 ok 58 - operator authorization applies to all tower queries and mutations
   ---
-  duration_ms: 33.217271
+  duration_ms: 23.18456
   type: 'test'
   ...
 # Subtest: wrong hashes and invalid source identities reject; idempotent content immutable
 ok 59 - wrong hashes and invalid source identities reject; idempotent content immutable
   ---
-  duration_ms: 9.112747
+  duration_ms: 8.101877
   type: 'test'
   ...
 # Subtest: commit, bounded query and stale source fail closed
 ok 60 - commit, bounded query and stale source fail closed
   ---
-  duration_ms: 9.679786
+  duration_ms: 7.11898
   type: 'test'
   ...
 # Subtest: binding checks touch only unique synthetic objects and remove them
 ok 61 - binding checks touch only unique synthetic objects and remove them
   ---
-  duration_ms: 1.709168
+  duration_ms: 2.5911
   type: 'test'
   ...
 # Subtest: invalid Julian tiers and arbitrary addresses reject
 ok 62 - invalid Julian tiers and arbitrary addresses reject
   ---
-  duration_ms: 1.55693
+  duration_ms: 2.151064
   type: 'test'
   ...
 1..62
@@ -379,4 +379,4 @@ ok 62 - invalid Julian tiers and arbitrary addresses reject
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 413.455365
+# duration_ms 349.49325

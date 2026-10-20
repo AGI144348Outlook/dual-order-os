@@ -1,3 +1,4 @@
+test_catalog_references_existing_code_or_explicit_external_branch (test_algorithm_combinations.Tests.test_catalog_references_existing_code_or_explicit_external_branch) ... ok
 test_code_strings_are_data_and_demo_has_no_automatic_execution (test_catalog_box.CatalogTests.test_code_strings_are_data_and_demo_has_no_automatic_execution) ... ok
 test_configuration_edits_leave_template_and_other_instance_intact (test_catalog_box.CatalogTests.test_configuration_edits_leave_template_and_other_instance_intact) ... ok
 test_distinct_glyph_forms_and_duplicate_identity (test_catalog_box.CatalogTests.test_distinct_glyph_forms_and_duplicate_identity) ... ok
@@ -27,6 +28,23 @@ test_source_role_realizer_preserves_roles_and_reversal (test_echo_language.Langu
 test_transitive_path_has_evidence_and_roundtrip (test_echo_language.LanguageTests.test_transitive_path_has_evidence_and_roundtrip) ... ok
 test_unknown_word_is_not_adopted_from_ambient_wordnet (test_echo_language.LanguageTests.test_unknown_word_is_not_adopted_from_ambient_wordnet) ... ok
 test_unproved_relation_and_its_negation_stay_unknown (test_echo_language.LanguageTests.test_unproved_relation_and_its_negation_stay_unknown) ... ok
+test_bad_archive (test_echo_sentence_cards.Tests.test_bad_archive) ... ok
+test_changed_sense_invalidates_edge (test_echo_sentence_cards.Tests.test_changed_sense_invalidates_edge) ... ok
+test_direction (test_echo_sentence_cards.Tests.test_direction) ... ok
+test_generalize_chain_preserves_positions_and_original (test_echo_sentence_cards.Tests.test_generalize_chain_preserves_positions_and_original) ... ok
+test_irregular_has (test_echo_sentence_cards.Tests.test_irregular_has) ... ok
+test_missing_position (test_echo_sentence_cards.Tests.test_missing_position) ... ok
+test_read_only (test_echo_sentence_cards.Tests.test_read_only) ... ok
+test_reorder_does_not_swap_entity_roles (test_echo_sentence_cards.Tests.test_reorder_does_not_swap_entity_roles) ... ok
+test_restart (test_echo_sentence_cards.Tests.test_restart) ... ok
+test_retry_no_revisions (test_echo_sentence_cards.Tests.test_retry_no_revisions) ... ok
+test_sense_separation (test_echo_sentence_cards.Tests.test_sense_separation) ... ok
+test_specialization_is_candidate (test_echo_sentence_cards.Tests.test_specialization_is_candidate) ... ok
+test_stale_write (test_echo_sentence_cards.Tests.test_stale_write) ... ok
+test_universal_and_negative_not_inferred (test_echo_sentence_cards.Tests.test_universal_and_negative_not_inferred) ... ok
+test_unrelated_substitution_no_write (test_echo_sentence_cards.Tests.test_unrelated_substitution_no_write) ... ok
+test_unsupported_conjugation (test_echo_sentence_cards.Tests.test_unsupported_conjugation) ... ok
+test_wrong_role (test_echo_sentence_cards.Tests.test_wrong_role) ... ok
 test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history (test_echo_workspace.IntegratedTests.test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history) ... ok
 test_catalog_template_restores_versions_and_graph (test_echo_workspace.IntegratedTests.test_catalog_template_restores_versions_and_graph) ... ok
 test_duplicate_word_identity_rejected (test_echo_workspace.IntegratedTests.test_duplicate_word_identity_rejected) ... ok
@@ -43,6 +61,6 @@ test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.In
 test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 43 tests in 3.564s
+Ran 61 tests in 1.768s
 
 OK
