@@ -1,0 +1,44 @@
+{
+  "repository": "AGI144348Outlook/Echo_Green_Future",
+  "branch": "autonomous-agency",
+  "commit": "b164bb66850ee946a1b60c9e554172c7af2c639b",
+  "definitions": [
+    {
+      "name": "PeComposer",
+      "source_file": "source_engine.py",
+      "lines": [
+        5998,
+        6118
+      ],
+      "source_sha256": "88a42728eb0820dd81a48f266ef6a6794df54bec7217d16c16c4dac15dfd4157"
+    },
+    {
+      "name": "article",
+      "source_file": "echo_pe_mirror.py",
+      "lines": [
+        60,
+        62
+      ],
+      "source_sha256": "2f0bbed2ff69829bb99f22704d13c2b1bc5767029d51d1cca2195cafd2e08483"
+    },
+    {
+      "name": "HypernymGrammarModule",
+      "source_file": "echo_pe_mirror.py",
+      "lines": [
+        71,
+        179
+      ],
+      "source_sha256": "2f0bbed2ff69829bb99f22704d13c2b1bc5767029d51d1cca2195cafd2e08483"
+    },
+    {
+      "name": "MirrorStep",
+      "source_file": "echo_pe_mirror.py",
+      "lines": [
+        189,
+        353
+      ],
+      "source_sha256": "2f0bbed2ff69829bb99f22704d13c2b1bc5767029d51d1cca2195cafd2e08483"
+    }
+  ],
+  "identification": "A-144 PeComposer, HypernymGrammarModule; A-145 MirrorStep is the located recursive self-expression layer. No separately named RecursiveSentencing algorithm confirmed."
+}
