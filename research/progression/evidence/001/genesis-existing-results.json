@@ -1,0 +1,61 @@
+[
+  {
+    "script": "tests/echo_500round_run.py",
+    "exit": 1,
+    "status": "blocked-missing-input",
+    "seconds": 0.112,
+    "missing": [
+      "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    ]
+  },
+  {
+    "script": "tests/echo_blind_study.py",
+    "exit": 1,
+    "status": "blocked-missing-input",
+    "seconds": 0.103,
+    "missing": [
+      "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    ]
+  },
+  {
+    "script": "tests/multipass_orientation_test.py",
+    "exit": 1,
+    "status": "blocked-missing-input",
+    "seconds": 0.11,
+    "missing": [
+      "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    ]
+  },
+  {
+    "script": "tests/number_integration_test.py",
+    "exit": 0,
+    "status": "executed",
+    "seconds": 0.165,
+    "missing": []
+  },
+  {
+    "script": "tests/pe_ayin_resh_communication.py",
+    "exit": 1,
+    "status": "blocked-missing-input",
+    "seconds": 0.111,
+    "missing": [
+      "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    ]
+  },
+  {
+    "script": "tests/self_governance_test.py",
+    "exit": 1,
+    "status": "blocked-missing-input",
+    "seconds": 0.107,
+    "missing": [
+      "FileNotFoundError: [Errno 2] No such file or directory: '/home/claude/en_thesaurus.jsonl'"
+    ]
+  },
+  {
+    "script": "src/echo_governor_skeleton.py",
+    "exit": 0,
+    "status": "executed",
+    "seconds": 0.121,
+    "missing": []
+  }
+]

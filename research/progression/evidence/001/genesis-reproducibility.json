@@ -1,0 +1,24 @@
+{
+  "same_test_outcomes": true,
+  "same_saved_data_counts": true,
+  "communication_cases": {
+    "entity change": {
+      "identical_output": true
+    },
+    "echo": {
+      "identical_output": false
+    },
+    "zzqvunknownword": {
+      "identical_output": true
+    },
+    "\u05e8\u05e2\u05d9": {
+      "identical_output": true
+    },
+    "|{\u2022}{\u2022}|": {
+      "identical_output": true
+    },
+    "123 3.14": {
+      "identical_output": true
+    }
+  }
+}

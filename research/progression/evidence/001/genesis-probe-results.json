@@ -1,0 +1,372 @@
+{
+  "branch": "genesis-documentary",
+  "commit": "f888091f6d81c60a61e5ca9bbba14d8d28a18093",
+  "method": "unchanged source, temporary external test harness, controlled fixtures and preserved branch data, no network calls or model use",
+  "tests": [
+    {
+      "group": "identity",
+      "name": "Resh requires anchoring",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "identity",
+      "name": "Resh anchor identifies A-000",
+      "status": "PASS",
+      "details": [
+        {
+          "name": "Resh — Governor Identity Anchor",
+          "status": "ACTIVE",
+          "type": "IDENTITY-LETTER",
+          "glyph": "ר",
+          "aliases": [
+            "A-000",
+            "resh",
+            "governor"
+          ],
+          "description": "The Governor and Resh are one and the same — Resh is head, beginning, identity; the Governor reads Resh when it reads itself in the matrix. Identity validation (IDENTIFY→VALIDATE→OPEN) runs through this entry.",
+          "perception_operator": "ayin",
+          "expression_operator": "pe"
+        },
+        null,
+        null
+      ]
+    },
+    {
+      "group": "identity",
+      "name": "Removed anchor is detected",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "governance",
+      "name": "Missing A-000 blocks deployment",
+      "status": "PASS",
+      "details": [
+        {
+          "name": "Governor",
+          "status": "ACTIVE",
+          "identity_symbol": "resh",
+          "identity_glyph": "ר",
+          "identity_letter": "resh",
+          "identity_meaning": "head beginning leader identity"
+        },
+        null
+      ]
+    },
+    {
+      "group": "governance",
+      "name": "Inactive A-000 blocks deployment",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "governance",
+      "name": "Wrong operation order detected",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "governance",
+      "name": "Correct operation order accepted",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "governance",
+      "name": "Prerequisite completion changes gate",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "indexing",
+      "name": "Dictionary ingestion populates typed agents",
+      "status": "PASS",
+      "details": [
+        null,
+        null
+      ]
+    },
+    {
+      "group": "orientation",
+      "name": "Unconfirmed agent blocks orientation",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "orientation",
+      "name": "Discovered relationships are bidirectional",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "orientation",
+      "name": "Reversed ingestion preserves orientation ties",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "orientation",
+      "name": "Repeated orientation preserves nodes and adds tie strength",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "indexing",
+      "name": "Indexed graph supports semantic traversal",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "learning",
+      "name": "Document frequencies count once per document",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "learning",
+      "name": "Success and failure both enter bandit history",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "generalization",
+      "name": "Specific-to-general path retains every level",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "generalization",
+      "name": "Cycles terminate without duplicate levels",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "generalization",
+      "name": "Unknown word remains an explicit singleton",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "generalization",
+      "name": "Saved VGM can be queried with stack provenance",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "generalization",
+      "name": "Invalid grammatical sequence rejected",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "generalization",
+      "name": "Low-generality term rejected",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "hypotheses",
+      "name": "Existing hypothesis test leaves live neighborhood state unchanged",
+      "status": "PASS",
+      "details": {
+        "status": "REJECTED",
+        "baseline_C": 0.508,
+        "sandbox_C": 0.333,
+        "delta_C": -0.175,
+        "accepted": false,
+        "fn_result": {
+          "improved": true,
+          "neighborhoods_cleaned": 1
+        },
+        "note": ""
+      }
+    },
+    {
+      "group": "hypotheses",
+      "name": "Unknown hypothesis operation returns rejected error",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "contract",
+      "name": "Invariant validator rejects a deliberately failing invariant",
+      "status": "FAIL",
+      "details": "observed=True; expected=False"
+    },
+    {
+      "group": "contract",
+      "name": "Governor rejects an over-budget candidate",
+      "status": "FAIL",
+      "details": "observed=True; expected=False"
+    },
+    {
+      "group": "contract",
+      "name": "Generated operation without tests remains unverified",
+      "status": "FAIL",
+      "details": "observed=True; expected=False"
+    },
+    {
+      "group": "contract",
+      "name": "Direct hypothesis registration refuses rejected results",
+      "status": "FAIL",
+      "details": "Direct register() activated rejected hypothesis"
+    },
+    {
+      "group": "contract",
+      "name": "Direct VGM commit refuses failed validation",
+      "status": "FAIL",
+      "details": "observed=1; expected=0"
+    },
+    {
+      "group": "contract",
+      "name": "VGM word lookup excludes substring-only matches",
+      "status": "FAIL",
+      "details": "observed=[{'stmt_id': 's', 'statement': {'words': ['parts'], 'text': 'Contains parts'}, 'matched_word': 'art', 'stack_level': 0, 'score': 0.4, 'text': 'Contains parts', 'words': ['parts'], 'departments': []}]; expected=[]"
+    },
+    {
+      "group": "mathematics",
+      "name": "Expression evaluation matches known arithmetic",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "mathematics",
+      "name": "Numerical integration converges toward known integral",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "mathematics",
+      "name": "Generated algorithm with incorrect expected result fails",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "saved-data",
+      "name": "Preserved vocabulary can be ingested and oriented",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "saved-data",
+      "name": "Real-data orientation ties are bidirectional",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "communication",
+      "name": "Unknown English input is reported as a gap",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "communication",
+      "name": "Known saved vocabulary produces algorithmic output",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "capability",
+      "name": "Hebrew glyph input",
+      "status": "UNSUPPORTED",
+      "details": {
+        "tokens": [],
+        "response": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+      }
+    },
+    {
+      "group": "capability",
+      "name": "Bracket-symbol input",
+      "status": "UNSUPPORTED",
+      "details": {
+        "tokens": [],
+        "response": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+      }
+    },
+    {
+      "group": "capability",
+      "name": "Numeric input",
+      "status": "UNSUPPORTED",
+      "details": {
+        "tokens": [],
+        "response": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+      }
+    },
+    {
+      "group": "formulas",
+      "name": "Formula derivation produces callable operations",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "formulas",
+      "name": "Failed generated candidates are absent from registered IDs",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "learning",
+      "name": "Collapsed generation does not overwrite anchored history",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "balancing",
+      "name": "Two known branches converge at shared genus in either order",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "balancing",
+      "name": "Unrelated unknown inputs report no convergence",
+      "status": "PASS",
+      "details": null
+    },
+    {
+      "group": "contract",
+      "name": "Non-finite generated result fails numerical verification",
+      "status": "FAIL",
+      "details": "observed=True; expected=False"
+    }
+  ],
+  "observations": {
+    "saved_data": {
+      "source_records": 1861,
+      "rebuilt_agents": 1861,
+      "ties": 2385,
+      "vgm_statements": 48,
+      "algorithm_entries": 54,
+      "note": "Fresh ingestion of preserved definitions, not restoration of original runtime state"
+    },
+    "communication_examples": {
+      "entity change": "ר ECHO receives: \"entity change\"\n\nע Ayin perceives:\n  'entity' → ENTITY_NOUN  |  stack depth: 1  |  chain: entity\n  'change' → OBJECT_NOUN  |  stack depth: 1  |  chain: change\n\nפ Pe draws from the Validated Generalization Matrix:\n  15 statements retrieved across 2 input terms\n\n  MATCHED    [exact match]\n    \"The precondition for ethical consideration is the establishment of identity\"\n  MATCHED    [exact match]\n    \"The minimal causal statement requires both an entity and a change\"\n  MATCHED    [exact match]\n    \"Intrinsic value is the identity of the thing itself independent of its function\"\n  MATCHED    [exact match]\n    \"Stewardship and responsibility both terminate at the identity that bears them\"\n  MATCHED    [exact match]\n    \"The center of a dual system is its governing identity\"\n\nפ Pe — indexed neighbors:\n  'entity' connects to: state, system, object, whole, thing, attribute\n  'entity' leads CATEGORY study  |  invited: ['attribute', 'being', 'causal agent', 'consciousness']\n  'change' connects to: make, position, move, chemical, explosive, travel\n  'change' leads CATEGORY study  |  invited: ['change integrity', 'change magnitude', 'chemical', 'escalator clause']",
+      "echo": "ר ECHO receives: \"echo\"\n\nע Ayin perceives:\n  'echo' → ENTITY_NOUN  |  stack depth: 1  |  chain: echo\n\nפ Pe draws from the Validated Generalization Matrix:\n  1 statements retrieved across 1 input terms\n\n  MATCHED    [exact match]\n    \"Echo is relation returning to its source changed by transformation\"\n\nפ Pe — indexed neighbors:\n  'echo' connects to: index, resh, governor, ping\n  'echo' leads CATEGORY study  |  invited: ['governor', 'index', 'ping', 'resh']",
+      "zzqvunknownword": "ר ECHO receives: \"zzqvunknownword\"\n\nע Ayin perceives:\n  'zzqvunknownword' → GAP (not indexed)  |  stack depth: 1  |  chain: zzqvunknownword\n  GAPS (not indexed): ['zzqvunknownword']\n  AcquisitionPlanner queued: ['zzqvunknownword']\n\nפ Pe draws from the Validated Generalization Matrix:\n  No VGM statements matched — vocabulary not indexed.\n  AcquisitionPlanner: acquire corpus covering these terms.",
+      "רעי": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from.",
+      "|{•}{•}|": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from.",
+      "123 3.14": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+    },
+    "formula_generation": {
+      "formulas_exercised": 16,
+      "generated": 62,
+      "registered": 59,
+      "failed": 3,
+      "untested_accepted": 16,
+      "failed_details": [
+        {
+          "name": "COMPUTE_GRAV_FORCE_FROM_GRAVITATIONAL_FORCE",
+          "reason": "Test failed: {'m1': 1e+24, 'm2': 1e+24, 'r': 1000000.0} → 6.6739999999999996e+25 (expected 66740000000.0)"
+        },
+        {
+          "name": "COMPUTE_PRESSURE_FROM_IDEAL_GAS_LAW",
+          "reason": "Test failed: {'V': 1, 'n': 1, 'T': 273.15} → 2270.9691 (expected 2271.13)"
+        },
+        {
+          "name": "COMPUTE_TEMPERATURE_FROM_IDEAL_GAS_LAW",
+          "reason": "Test failed: {'P': 101325, 'V': 0.0224, 'n': 1} → 272.9949482800096 (expected 272.64)"
+        }
+      ]
+    }
+  }
+}

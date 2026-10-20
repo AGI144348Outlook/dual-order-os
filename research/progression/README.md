@@ -1,0 +1,14 @@
+# Narrative research progression
+
+Reports for outside researchers and future collaborators, documenting the project's development with explicit evidence boundaries.
+
+- [001 — From Genesis Documentary to reusable components](001-genesis-to-components.md) — recorded 2026-10-20; covers preserved Genesis tests, glyph algorithm documentation, integration intake, interrupted transfer, glyph-logic probes, and Dual Order OS components.
+- [Supporting evidence for report 001](evidence/001/) — original targeted harnesses and results; reproduction assumptions are documented in the report.
+
+## Reporting practice
+
+During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
+
+Use **implemented**, **tested**, **specified**, **inferred**, and **proposed** distinctly. Keep source claims separate from observed behavior. Corrections should be dated and linked to the superseded statement. A new result does not retroactively validate an earlier hypothesis.
+
+These records aid review; they do not certify intelligence, settle linguistic hypotheses, grant dataset rights, or activate components. References may require authorized repository access. No automatic publishing or background reporting service is configured.

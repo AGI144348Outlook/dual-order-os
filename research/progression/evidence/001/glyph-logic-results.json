@@ -1,0 +1,145 @@
+{
+  "source_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+  "scope": "unchanged Genesis, isolated memory only; controlled fixtures are not approved axioms",
+  "raw_glyph_generation": [
+    {
+      "input": "א",
+      "tokenized": [],
+      "generated": 3,
+      "operations": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "classified": "UNKNOWN_ENTITY",
+      "registered": 3
+    },
+    {
+      "input": "ארת",
+      "tokenized": [],
+      "generated": 3,
+      "operations": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "classified": "UNKNOWN_ENTITY",
+      "registered": 3
+    },
+    {
+      "input": "עפ",
+      "tokenized": [],
+      "generated": 3,
+      "operations": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "classified": "UNKNOWN_ENTITY",
+      "registered": 3
+    },
+    {
+      "input": "פע",
+      "tokenized": [],
+      "generated": 3,
+      "operations": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "classified": "UNKNOWN_ENTITY",
+      "registered": 3
+    },
+    {
+      "input": "|{•}{•}|",
+      "tokenized": [],
+      "generated": 3,
+      "operations": [
+        "CLASSIFY",
+        "INFER",
+        "QUERY"
+      ],
+      "classified": "UNKNOWN_ENTITY",
+      "registered": 3
+    }
+  ],
+  "glyph_record_tools": {
+    "generated": 3,
+    "registered": 3,
+    "query_result": [
+      {
+        "glyph": "ר",
+        "operation": "GOVERN"
+      }
+    ],
+    "classification": "UNKNOWN_ENTITY",
+    "infer": [
+      "Field 'glyph' is present with value type str",
+      "Field 'operation' is present with value type str"
+    ]
+  },
+  "glyph_substitution": {
+    "result": "[DERIVED from TEST-ONLY] ד passes threshold",
+    "registered": 2,
+    "expected_checks": [
+      null,
+      null
+    ],
+    "note": "Threshold meaning supplied by test author, not discovered from glyph."
+  },
+  "letter_lookup": {
+    "א": {
+      "found": false,
+      "letter": null
+    },
+    "aleph": {
+      "found": true,
+      "letter": {
+        "glyph": "א",
+        "val": 1,
+        "class": "Mother",
+        "lhea": "silence/potential/unity — primal breath, the unspoken"
+      }
+    },
+    "ר": {
+      "found": false,
+      "letter": null
+    },
+    "resh": {
+      "found": true,
+      "letter": {
+        "glyph": "ר",
+        "val": 200,
+        "class": "Double",
+        "lhea": "head/beginning/identity/leader — A-000, the Governor itself"
+      }
+    }
+  },
+  "contradiction_challenge": {
+    "candidate": {
+      "text": "entity is connected; therefore, entity is not connected",
+      "rule": "COMPOSE",
+      "sources": [
+        "X",
+        "Y"
+      ],
+      "shared_term": "connected",
+      "specificity_level": "THEOREM",
+      "coherence": 0.68,
+      "note": "Composed from [X] + [Y] via shared term 'connected'"
+    },
+    "accepted_as_theorem": true
+  },
+  "single_glyph_pivot": null,
+  "unrelated_causal_challenge": {
+    "text": "When ד opens, it follows that א vanishes",
+    "rule": "CAUSAL_CHAIN",
+    "sources": [
+      "X",
+      "Y"
+    ],
+    "specificity_level": "THEOREM",
+    "coherence": 0.72,
+    "note": "Causal chain: [X] causes [Y]"
+  }
+}
