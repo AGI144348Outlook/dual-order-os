@@ -1,0 +1,156 @@
+{
+  "battery": "branch-components-diagnostics/1",
+  "cases": [
+    {
+      "group": "typed_inference",
+      "name": "held-out transitive conclusion",
+      "expected": "SUPPORTED",
+      "status": "PASS",
+      "observed": "SUPPORTED"
+    },
+    {
+      "group": "typed_inference",
+      "name": "negation contradicted by explicit path",
+      "expected": "CONTRADICTED",
+      "status": "PASS",
+      "observed": "CONTRADICTED"
+    },
+    {
+      "group": "typed_inference",
+      "name": "no path remains unknown",
+      "expected": "UNKNOWN",
+      "status": "PASS",
+      "observed": "UNKNOWN"
+    },
+    {
+      "group": "typed_inference",
+      "name": "no path does not prove negative",
+      "expected": "UNKNOWN",
+      "status": "PASS",
+      "observed": "UNKNOWN"
+    },
+    {
+      "group": "typed_inference",
+      "name": "contradictory conjunction withheld",
+      "expected": "WITHHOLD",
+      "status": "PASS",
+      "observed": "WITHHOLD"
+    },
+    {
+      "group": "typed_inference",
+      "name": "unsupported glyph operation is not executed",
+      "expected": false,
+      "status": "PASS",
+      "observed": false
+    },
+    {
+      "group": "grammar_roundtrip",
+      "name": "English accepted in bounded grammar",
+      "expected": "SUPPORTED",
+      "status": "PASS",
+      "observed": "SUPPORTED"
+    },
+    {
+      "group": "grammar_roundtrip",
+      "name": "wrong copula outside supported grammar",
+      "expected": "ABSTAIN",
+      "status": "PASS",
+      "observed": "ABSTAIN"
+    },
+    {
+      "group": "grammar_roundtrip",
+      "name": "render parses back",
+      "expected": "PASS",
+      "status": "PASS",
+      "observed": "PASS"
+    },
+    {
+      "group": "provenance",
+      "name": "transitive conclusion cites both edges",
+      "expected": [
+        "r1",
+        "r2"
+      ],
+      "status": "PASS",
+      "observed": [
+        "r1",
+        "r2"
+      ]
+    },
+    {
+      "group": "role_articulation",
+      "name": "held-out transitive sentence",
+      "expected": "A fox chases a hen.",
+      "status": "PASS",
+      "observed": "A fox chases a hen."
+    },
+    {
+      "group": "role_articulation",
+      "name": "role reversal preserved",
+      "expected": "A hen chases a fox.",
+      "status": "PASS",
+      "observed": "A hen chases a fox."
+    },
+    {
+      "group": "role_articulation",
+      "name": "no role invention",
+      "expected": "ABSTAIN",
+      "status": "PASS",
+      "observed": "ABSTAIN"
+    },
+    {
+      "group": "role_articulation",
+      "name": "missing patient abstains",
+      "expected": "ABSTAIN",
+      "status": "PASS",
+      "observed": "ABSTAIN"
+    },
+    {
+      "group": "role_articulation",
+      "name": "ambiguous agent abstains",
+      "expected": "ABSTAIN",
+      "status": "PASS",
+      "observed": "ABSTAIN"
+    },
+    {
+      "group": "english_limits",
+      "name": "mass noun determiner",
+      "expected": "A person drinks water.",
+      "status": "FAIL",
+      "observed": "A person drinks a water."
+    },
+    {
+      "group": "english_limits",
+      "name": "irregular verb",
+      "expected": "A person has a book.",
+      "status": "FAIL",
+      "observed": "A person haves a book."
+    },
+    {
+      "group": "english_limits",
+      "name": "phonetic article",
+      "expected": "An hour changes a plan.",
+      "status": "FAIL",
+      "observed": "A hour changes a plan."
+    }
+  ],
+  "summary": {
+    "PASS": 15,
+    "FAIL": 3
+  },
+  "performance_smoke": [
+    {
+      "vocabulary_cards": 10,
+      "seconds": 0.0122,
+      "python_traced_peak_bytes": 891769,
+      "note": "Synthetic desktop/CI measurement, not Android or browser performance; no target budget defined."
+    },
+    {
+      "vocabulary_cards": 100,
+      "seconds": 0.6795,
+      "python_traced_peak_bytes": 891761,
+      "note": "Synthetic desktop/CI measurement, not Android or browser performance; no target budget defined."
+    }
+  ],
+  "scope": "Small held-out synthetic cases relative to unit fixtures; all rules and lexical realization are authored, not learned. Not standardized benchmark scores."
+}

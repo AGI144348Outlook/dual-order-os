@@ -17,6 +17,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [007 — Integrating Genesis with the catalog and typed relationships](007-unified-echo-integration.md) — isolated integration branch, complete snapshot assembly, combined tests and preserved limitations.
 
+- [008 — Diagnostic checkpoint and branch adoption](008-diagnostics-and-branch-adoption.md) — 50 baseline diagnostics, inventory of 42 branches, recovered bounded language components, and remaining failures.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.

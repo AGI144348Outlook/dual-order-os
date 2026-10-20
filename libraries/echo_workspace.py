@@ -152,6 +152,15 @@ class EchoWorkspace:
         return self._relation(relation_id, 'paperclip', source_id, target_id,
                               {'requested_operation': 'צ paperclipping'})
 
+    def assert_is_a(self, relation_id, source_id, target_id):
+        self._gate('relations:write')
+        for card_id in (source_id, target_id):
+            if self.box.get('cards', card_id)['body'].get('kind') != 'vocabulary':
+                raise ValueError('An asserted is-a relation needs vocabulary residents')
+        return self._relation(relation_id, 'asserted-is-a', source_id, target_id,
+                              {'source': 'explicit caller assertion',
+                               'status': 'assumption-not-independent-verification'})
+
     def stamp(self, relation_id, word_id, profile_id, *, profile_revision=None):
         self._gate('tags:write')
         word = self.box.get('cards', word_id)
@@ -213,6 +222,13 @@ class EchoWorkspace:
         if not isinstance(request, dict):
             raise ValueError('Query must be an object')
         operation = request.get('operation')
+        if operation == 'language':
+            from .echo_language import inspect_language
+            return inspect_language(self, request.get('text'), surface=request.get('surface', 'emel'),
+                                    records=request.get('records'))
+        if operation == 'articulate':
+            from .echo_language import articulate_roles
+            return articulate_roles(request.get('nodes'), request.get('edges'))
         if operation == 'cards':
             return self.box.list('cards', glyph=request.get('glyph'))
         if operation == 'neighbors':

@@ -1,0 +1,19 @@
+{
+  "verified_recovered_source_files": 10,
+  "baseline": {
+    "PASS": 25,
+    "FAIL": 18,
+    "UNSUPPORTED": 7
+  },
+  "same_baseline_tasks_after_import": {
+    "PASS": 25,
+    "FAIL": 18,
+    "UNSUPPORTED": 7
+  },
+  "changed_baseline_outcomes": [],
+  "additional_bounded_language_tasks": {
+    "PASS": 15,
+    "FAIL": 3
+  },
+  "interpretation": "Regression tests and constrained diagnostic cases. Original failures remain visible; no standardized intelligence score or general-language claim."
+}

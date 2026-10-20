@@ -1,0 +1,118 @@
+{
+  "schema": "echo.hebrew-glyph-registry.v0.1",
+  "status": "authoritative-seed-to-be-reconciled-with-existing-project-glyph-registry",
+  "substrate": "hebrew-operational",
+  "separate_from_general_symbol_semantics": true,
+  "records": [
+    {
+      "ordinal": 1,
+      "glyph": "א",
+      "operation": "INITIALIZE"
+    },
+    {
+      "ordinal": 2,
+      "glyph": "ב",
+      "operation": "CONTAIN"
+    },
+    {
+      "ordinal": 3,
+      "glyph": "ג",
+      "operation": "TRAVERSE"
+    },
+    {
+      "ordinal": 4,
+      "glyph": "ד",
+      "operation": "FILTER"
+    },
+    {
+      "ordinal": 5,
+      "glyph": "ה",
+      "operation": "REVEAL"
+    },
+    {
+      "ordinal": 6,
+      "glyph": "ו",
+      "operation": "CONNECT"
+    },
+    {
+      "ordinal": 7,
+      "glyph": "ז",
+      "operation": "TIMESTAMP"
+    },
+    {
+      "ordinal": 8,
+      "glyph": "ח",
+      "operation": "BOUND"
+    },
+    {
+      "ordinal": 9,
+      "glyph": "ט",
+      "operation": "COIL"
+    },
+    {
+      "ordinal": 10,
+      "glyph": "י",
+      "operation": "SEED"
+    },
+    {
+      "ordinal": 11,
+      "glyph": "כ",
+      "operation": "CAPACITY"
+    },
+    {
+      "ordinal": 12,
+      "glyph": "ל",
+      "operation": "DIRECT"
+    },
+    {
+      "ordinal": 13,
+      "glyph": "מ",
+      "operation": "FLOW"
+    },
+    {
+      "ordinal": 14,
+      "glyph": "נ",
+      "operation": "INDIVIDUATE"
+    },
+    {
+      "ordinal": 15,
+      "glyph": "ס",
+      "operation": "CYCLE"
+    },
+    {
+      "ordinal": 16,
+      "glyph": "ע",
+      "operation": "PERCEIVE"
+    },
+    {
+      "ordinal": 17,
+      "glyph": "פ",
+      "operation": "EXPRESS"
+    },
+    {
+      "ordinal": 18,
+      "glyph": "צ",
+      "operation": "HUNT"
+    },
+    {
+      "ordinal": 19,
+      "glyph": "ק",
+      "operation": "SCAN_PERIPHERY"
+    },
+    {
+      "ordinal": 20,
+      "glyph": "ר",
+      "operation": "GOVERN"
+    },
+    {
+      "ordinal": 21,
+      "glyph": "ש",
+      "operation": "TRANSFORM"
+    },
+    {
+      "ordinal": 22,
+      "glyph": "ת",
+      "operation": "SEAL"
+    }
+  ]
+}

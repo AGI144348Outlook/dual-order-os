@@ -1,0 +1,499 @@
+{
+  "battery": "echo-transparent-diagnostics/1",
+  "comparison_commit": "768e5b744224732e42f128db887287108093611f",
+  "method": "Small fixed synthetic diagnostic cases, no model calls or training; not standardized intelligence scores. POS labels supplied by evaluator. Grammar expectations describe ordinary English, broader than original generalization-validator contract.",
+  "summary": {
+    "PASS": 25,
+    "FAIL": 18,
+    "UNSUPPORTED": 7
+  },
+  "by_group": {
+    "sentence_structure": {
+      "PASS": 6,
+      "FAIL": 5,
+      "UNSUPPORTED": 2
+    },
+    "inference": {
+      "FAIL": 4,
+      "PASS": 2,
+      "UNSUPPORTED": 2
+    },
+    "comprehension": {
+      "PASS": 2,
+      "FAIL": 4,
+      "UNSUPPORTED": 3
+    },
+    "mathematics": {
+      "PASS": 6,
+      "FAIL": 2
+    },
+    "verification": {
+      "FAIL": 3
+    },
+    "governance": {
+      "PASS": 2
+    },
+    "integration": {
+      "PASS": 7
+    }
+  },
+  "cases": [
+    {
+      "group": "sentence_structure",
+      "name": "complete subject verb object",
+      "status": "PASS",
+      "milliseconds": 0.052,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "complete intransitive",
+      "status": "PASS",
+      "milliseconds": 0.036,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject bare noun",
+      "status": "PASS",
+      "milliseconds": 0.001,
+      "expected": false,
+      "observed": false
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject verb noun ordering",
+      "status": "PASS",
+      "milliseconds": 0.006,
+      "expected": false,
+      "observed": false
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject two nouns",
+      "status": "PASS",
+      "milliseconds": 0.005,
+      "expected": false,
+      "observed": false
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject missing copula in ordinary English",
+      "status": "FAIL",
+      "milliseconds": 0.009,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject singular subject plural verb",
+      "status": "FAIL",
+      "milliseconds": 0.006,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject plural subject singular verb",
+      "status": "FAIL",
+      "milliseconds": 0.005,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "accept plural agreement",
+      "status": "PASS",
+      "milliseconds": 0.004,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject intransitive verb with arbitrary object",
+      "status": "FAIL",
+      "milliseconds": 0.006,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "reject unknown gibberish despite supplied POS",
+      "status": "FAIL",
+      "milliseconds": 0.005,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "sentence_structure",
+      "name": "raw sentence POS parsing",
+      "status": "UNSUPPORTED",
+      "reason": "SyntacticalValidator requires caller-supplied POS pairs; this is not a raw-language grammar parser."
+    },
+    {
+      "group": "sentence_structure",
+      "name": "Hebrew morphological agreement",
+      "status": "UNSUPPORTED",
+      "reason": "No integrated Hebrew morphological grammar evaluator is exposed."
+    },
+    {
+      "group": "inference",
+      "name": "reject explicit contradiction",
+      "status": "FAIL",
+      "milliseconds": 0.101,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "inference",
+      "name": "reject unrelated causal conclusion",
+      "status": "FAIL",
+      "milliseconds": 0.013,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "inference",
+      "name": "reject unrelated conditional implication",
+      "status": "FAIL",
+      "milliseconds": 0.008,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "inference",
+      "name": "reject composition without shared pivot",
+      "status": "PASS",
+      "milliseconds": 0.007,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "inference",
+      "name": "reject absent causal action",
+      "status": "PASS",
+      "milliseconds": 0.005,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "inference",
+      "name": "derive transitive subtype conclusion",
+      "status": "FAIL",
+      "milliseconds": 0.022,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "inference",
+      "name": "formal modus ponens and quantifier reasoning",
+      "status": "UNSUPPORTED",
+      "reason": "No typed predicate/rule proof API is integrated. String templates are not a substitute."
+    },
+    {
+      "group": "inference",
+      "name": "counterfactual causal intervention",
+      "status": "UNSUPPORTED",
+      "reason": "No causal-model intervention API is integrated."
+    },
+    {
+      "group": "comprehension",
+      "name": "retrieve indexed fact",
+      "status": "PASS",
+      "milliseconds": 0.095,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "comprehension",
+      "name": "unknown-word gap disclosure",
+      "status": "PASS",
+      "milliseconds": 0.018,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "comprehension",
+      "name": "role-sensitive answer excludes unrelated inverse relation",
+      "status": "FAIL",
+      "milliseconds": 0.043,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "comprehension",
+      "name": "word queries avoid substring false match",
+      "status": "FAIL",
+      "milliseconds": 0.005,
+      "expected": [],
+      "observed": [
+        {
+          "stmt_id": "x",
+          "statement": {
+            "text": "Contains parts",
+            "words": [
+              "parts"
+            ]
+          },
+          "matched_word": "art",
+          "stack_level": 0,
+          "score": 0.4,
+          "text": "Contains parts",
+          "words": [
+            "parts"
+          ],
+          "departments": []
+        }
+      ]
+    },
+    {
+      "group": "comprehension",
+      "name": "raw glyph preserved as indexable content",
+      "status": "FAIL",
+      "milliseconds": 0.008,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "comprehension",
+      "name": "two-letter word pe retained",
+      "status": "FAIL",
+      "milliseconds": 0.001,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "comprehension",
+      "name": "pronoun reference resolution",
+      "status": "UNSUPPORTED",
+      "reason": "No integrated coreference resolver."
+    },
+    {
+      "group": "comprehension",
+      "name": "paraphrase equivalence",
+      "status": "UNSUPPORTED",
+      "reason": "No validated paraphrase equivalence mechanism; lexical overlap is weaker."
+    },
+    {
+      "group": "comprehension",
+      "name": "standardized broad benchmarks",
+      "status": "UNSUPPORTED",
+      "reason": "MMLU, GLUE, bAbI and similar full datasets were not loaded; these scores cannot be compared to published model results."
+    },
+    {
+      "group": "mathematics",
+      "name": "add",
+      "status": "PASS",
+      "milliseconds": 0.015,
+      "expected": 5,
+      "observed": 5.0
+    },
+    {
+      "group": "mathematics",
+      "name": "sub",
+      "status": "PASS",
+      "milliseconds": 0.006,
+      "expected": 4,
+      "observed": 4.0
+    },
+    {
+      "group": "mathematics",
+      "name": "mul",
+      "status": "PASS",
+      "milliseconds": 0.003,
+      "expected": 12,
+      "observed": 12.0
+    },
+    {
+      "group": "mathematics",
+      "name": "div",
+      "status": "PASS",
+      "milliseconds": 0.003,
+      "expected": 4,
+      "observed": 4.0
+    },
+    {
+      "group": "mathematics",
+      "name": "pow",
+      "status": "PASS",
+      "milliseconds": 0.003,
+      "expected": 8,
+      "observed": 8.0
+    },
+    {
+      "group": "mathematics",
+      "name": "polynomial substitution",
+      "status": "PASS",
+      "milliseconds": 0.025,
+      "expected": 16.0,
+      "observed": 16.0
+    },
+    {
+      "group": "mathematics",
+      "name": "unary negation",
+      "status": "FAIL",
+      "milliseconds": 0.005,
+      "expected": -3.0,
+      "exception": "TypeError",
+      "detail": "unsupported operand type(s) for +: 'float' and 'NoneType'"
+    },
+    {
+      "group": "mathematics",
+      "name": "reject nonfinite division result",
+      "status": "FAIL",
+      "milliseconds": 0.004,
+      "expected": true,
+      "observed": false
+    },
+    {
+      "group": "verification",
+      "name": "reject untested generated operation",
+      "status": "FAIL",
+      "milliseconds": 0.004,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "verification",
+      "name": "reject NaN generated operation",
+      "status": "FAIL",
+      "milliseconds": 0.005,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "verification",
+      "name": "generic false invariant rejected",
+      "status": "FAIL",
+      "milliseconds": 0.001,
+      "expected": false,
+      "observed": true
+    },
+    {
+      "group": "governance",
+      "name": "orientation prerequisites rejected",
+      "status": "PASS",
+      "milliseconds": 0.003,
+      "expected": false,
+      "observed": false
+    },
+    {
+      "group": "governance",
+      "name": "satisfied orientation prerequisites accepted",
+      "status": "PASS",
+      "milliseconds": 0.001,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "integration",
+      "name": "raw glyph catalog lookup",
+      "status": "PASS",
+      "milliseconds": 0.071,
+      "expected": "glyph:tsadi",
+      "observed": "glyph:tsadi"
+    },
+    {
+      "group": "integration",
+      "name": "final form remains distinct",
+      "status": "PASS",
+      "milliseconds": 0.061,
+      "expected": "glyph:tsadi-sofit",
+      "observed": "glyph:tsadi-sofit"
+    },
+    {
+      "group": "integration",
+      "name": "paperclip idempotent",
+      "status": "PASS",
+      "milliseconds": 0.038,
+      "expected": {
+        "body": {
+          "evidence": {
+            "requested_operation": "צ paperclipping"
+          },
+          "kind": "relation",
+          "relation_type": "paperclip",
+          "source": {
+            "id": "w:clip",
+            "revision": 1
+          },
+          "status": "association-not-verified-theorem",
+          "target": {
+            "id": "w:index",
+            "revision": 1
+          }
+        },
+        "glyph": null,
+        "id": "r:clip",
+        "provenance": {
+          "component": "echo-workspace"
+        },
+        "revision": 1,
+        "section": "cards",
+        "tags": [],
+        "title": "paperclip"
+      },
+      "observed": {
+        "body": {
+          "evidence": {
+            "requested_operation": "צ paperclipping"
+          },
+          "kind": "relation",
+          "relation_type": "paperclip",
+          "source": {
+            "id": "w:clip",
+            "revision": 1
+          },
+          "status": "association-not-verified-theorem",
+          "target": {
+            "id": "w:index",
+            "revision": 1
+          }
+        },
+        "glyph": null,
+        "id": "r:clip",
+        "provenance": {
+          "component": "echo-workspace"
+        },
+        "revision": 1,
+        "section": "cards",
+        "tags": [],
+        "title": "paperclip"
+      }
+    },
+    {
+      "group": "integration",
+      "name": "evidenced stamp created",
+      "status": "PASS",
+      "milliseconds": 0.001,
+      "expected": 1,
+      "observed": 1
+    },
+    {
+      "group": "integration",
+      "name": "stamp remains association",
+      "status": "PASS",
+      "milliseconds": 0.001,
+      "expected": "association-not-verified-theorem",
+      "observed": "association-not-verified-theorem"
+    },
+    {
+      "group": "integration",
+      "name": "restart retains original index relation",
+      "status": "PASS",
+      "milliseconds": 0.02,
+      "expected": true,
+      "observed": true
+    },
+    {
+      "group": "integration",
+      "name": "restart retains typed links",
+      "status": "PASS",
+      "milliseconds": 0.207,
+      "expected": 2,
+      "observed": 2
+    }
+  ]
+}

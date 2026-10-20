@@ -1,0 +1,62 @@
+{
+  "language": {
+    "branch": "ksm-recess-wholesale",
+    "commit": "82810112a959dc094dcf40238419cffca6863670"
+  },
+  "articulation": {
+    "branch": "autonomous-agency",
+    "commit": "d553f503ff12f3f53f7f7b55df74fb228a60fc97"
+  },
+  "files": [
+    {
+      "path": "vendor/echo-language/__init__.py",
+      "source_path": "echo/language/__init__.py",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "vendor/echo-language/ast.py",
+      "source_path": "echo/language/ast.py",
+      "sha": "bdf0ecfb2b0bbf9b9520dfcc3aa129cf06f53d85"
+    },
+    {
+      "path": "vendor/echo-language/lexicon.py",
+      "source_path": "echo/language/lexicon.py",
+      "sha": "57f6e3ffff6cb08d318ef920402fc6310124c3d1"
+    },
+    {
+      "path": "vendor/echo-language/parser.py",
+      "source_path": "echo/language/parser.py",
+      "sha": "c813ff5dc05ebfd38b1994fca199b0c8ad6d3b19"
+    },
+    {
+      "path": "vendor/echo-language/realize.py",
+      "source_path": "echo/language/realize.py",
+      "sha": "9c6cb50bb651ce6729bad2262136006f5cabe34b"
+    },
+    {
+      "path": "vendor/echo-language/english_parse.py",
+      "source_path": "echo/language/english_parse.py",
+      "sha": "ae044b1ffedd903756e6bd5d0b67f63070a8009a"
+    },
+    {
+      "path": "vendor/echo-language/audit.py",
+      "source_path": "echo/language/audit.py",
+      "sha": "18ecd632553b740a4698fb9285a1bf2faab2f2e6"
+    },
+    {
+      "path": "vendor/echo-language/data/hebrew_glyph_registry.json",
+      "source_path": "echo/language/data/hebrew_glyph_registry.json",
+      "sha": "950cbeaa21b12bdc5742a382fde5cf14fb96719b"
+    },
+    {
+      "path": "vendor/echo-language/README.md",
+      "source_path": "echo/language/README.md",
+      "sha": "2a1788a8d281722afc31b28482a274ef5f1d878d"
+    },
+    {
+      "path": "vendor/echo-articulation/evidence_bound_articulation_011.py",
+      "source_path": "experiments/evidence_bound_articulation_011.py",
+      "sha": "e43e17f4c335c6972781df49e268354e20e05369"
+    }
+  ]
+}

@@ -10,6 +10,12 @@ on:
       - 'tools/materialize_genesis.py'
       - 'tools/run_echo_integration.py'
       - 'matrices/echo-integration/source-manifest.json'
+      - 'matrices/echo-integration/branch-components.json'
+      - 'benchmarks/**'
+      - 'tools/check_branch_components.py'
+      - 'tools/run_echo_benchmarks.py'
+      - 'vendor/echo-language/**'
+      - 'vendor/echo-articulation/**'
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -36,11 +42,15 @@ jobs:
         env:
           PYTHONDONTWRITEBYTECODE: '1'
         run: python tools/run_echo_integration.py
+      - name: Verify recovered branch components and run linguistic diagnostics
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: python tools/run_echo_benchmarks.py
       - name: Commit verified snapshot and results to integration branch only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add vendor/echo-genesis reports/echo-integration
+          git add vendor/echo-genesis reports/echo-integration reports/echo-benchmarks
           if ! git diff --cached --quiet; then
             git commit -m 'Preserve complete verified Genesis snapshot and integrated test results'
             git push origin HEAD:integration/echo-genesis-unified
@@ -49,6 +59,8 @@ jobs:
         if: always()
         with:
           name: echo-integration-results
-          path: reports/echo-integration/
+          path: |
+            reports/echo-integration/
+            reports/echo-benchmarks/
           if-no-files-found: ignore
           retention-days: 14

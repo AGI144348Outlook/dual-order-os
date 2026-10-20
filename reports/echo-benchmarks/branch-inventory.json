@@ -1,0 +1,3859 @@
+{
+  "branches": [
+    {
+      "name": "algebra",
+      "commit": "ad8efcea9a5a5d6aa38497360bb7cc7b58a6aef0"
+    },
+    {
+      "name": "autonomous-agency",
+      "commit": "d553f503ff12f3f53f7f7b55df74fb228a60fc97"
+    },
+    {
+      "name": "bridge-experiment",
+      "commit": "fa9d15108ba74a97bd263fd2fe2ef9706aa8aef3"
+    },
+    {
+      "name": "bytebytego-claude",
+      "commit": "bd9e94e0fe27f9d04b51cef731eaf18bba70191f"
+    },
+    {
+      "name": "bytebytego-gpt",
+      "commit": "95cdd9d02d5f771ed7f33bf17cd34a67cbf667ab"
+    },
+    {
+      "name": "bytebytego-hub",
+      "commit": "8c315e2c614235cf2381a21b203ac3217407bb3f"
+    },
+    {
+      "name": "bytebytego-user",
+      "commit": "a87a677ab8a685f01f50a832234773d5f91177a8"
+    },
+    {
+      "name": "chat-archive-pyodide-workbench",
+      "commit": "2d129db69d48f66effd7d47732c03cd394f44755"
+    },
+    {
+      "name": "chatgpt-conversation-archive",
+      "commit": "1b029f5cb2fa02ce80f1aec41ac31c3f1de7f9f2"
+    },
+    {
+      "name": "code-library-registry",
+      "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9"
+    },
+    {
+      "name": "code-library-registry-ivs",
+      "commit": "d8806792ed0c8a5643b0ec3056c87b4e4188df50"
+    },
+    {
+      "name": "contract-000-gpt-team",
+      "commit": "2f26898ca5b0547b1106ad0ed9c847fe2e8aabcd"
+    },
+    {
+      "name": "dev-suite",
+      "commit": "9f61d305676d1c6cf856697e97b7bb6340c53673"
+    },
+    {
+      "name": "dev-suite-algorithms",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "dev-suite-codices",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "dev-suite-datasets",
+      "commit": "f1949f701f352f46ce32ea6bb5324c6d8202114e"
+    },
+    {
+      "name": "dev-suite-indices",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "dev-suite-integration-staging",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "dev-suite-logics",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "dev-suite-matrices",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "dev-suite-registries",
+      "commit": "03978f7eec1950e3a587fb29dea199227d61428a"
+    },
+    {
+      "name": "echo-recess-experiment",
+      "commit": "3128906f922ffc1a6371d01aaae66e7c8bd0b758"
+    },
+    {
+      "name": "experiment-echo-graphql-canvas-000",
+      "commit": "9b2ad008956ff65583ad412df7b334ca0d5ae1c9"
+    },
+    {
+      "name": "genesis-documentary",
+      "commit": "b9a2299820651f0bcc700de4de943f3c70b8c91e"
+    },
+    {
+      "name": "geosensory-crawler-experiment",
+      "commit": "26bc60916fa65f8e24f213ce8f3f9ad047540059"
+    },
+    {
+      "name": "ksm-recess-wholesale",
+      "commit": "82810112a959dc094dcf40238419cffca6863670"
+    },
+    {
+      "name": "library-shared",
+      "commit": "77889b2f025c64b0a79f5b11cccfc4efdefc6232"
+    },
+    {
+      "name": "library-source-transcriptions",
+      "commit": "43612d0b2b171f0001f2fad17ec9474d20c292c7"
+    },
+    {
+      "name": "license-update-2026-09-21",
+      "commit": "4b35ff085b54b869fb4f41351064d3b2a07b0154"
+    },
+    {
+      "name": "main",
+      "commit": "8402a45b41a253cc6e405e16ec139bc4b0a30e86"
+    },
+    {
+      "name": "mashet-parallel-pipeline-test",
+      "commit": "6934351582ac778896d709441f392ceb00695eb9"
+    },
+    {
+      "name": "mirror-chatgpt",
+      "commit": "2fcac0e88befddbdad0990d3d11f5b879237ab51"
+    },
+    {
+      "name": "mirror-chatgpt-root",
+      "commit": "98656aa6cdba4069f0c29e43efc202980de165bc"
+    },
+    {
+      "name": "mirror-claude",
+      "commit": "0a1c54c1376707fd2cf7ceed56b639d1bb805e98"
+    },
+    {
+      "name": "notebook-0.4-as-is",
+      "commit": "9dd4c07e80edd406ec4a0a0644d01e1d8c8af493"
+    },
+    {
+      "name": "personal-library-pwa",
+      "commit": "87760bf2d7edc702f9cd94fd1e91840d0079bc1d"
+    },
+    {
+      "name": "protocol-graft-prune-test",
+      "commit": "8cf2a98f2542db93b84b698ec9b465cc5ae192fd"
+    },
+    {
+      "name": "pwa-hosting-environment",
+      "commit": "70642cf4a2b20b580b8497e7102f27bba689b6a2"
+    },
+    {
+      "name": "research-discourse-registry",
+      "commit": "55ba1f709d8e32dd22a35d54b4b40f52e27c7ec9"
+    },
+    {
+      "name": "resh-lattice-agency",
+      "commit": "2c7616485dc670745433e8647d9467d7fc3b732b"
+    },
+    {
+      "name": "stress-test-002-clean",
+      "commit": "44a8fa60be51ecfecbe000a0d93a91287cf0c329"
+    },
+    {
+      "name": "widgeting-experiment",
+      "commit": "cddcfe2866aee79da1d0115201454d62333a45ce"
+    }
+  ],
+  "unique_snapshots": 36,
+  "inventory": [
+    {
+      "sha": "ad8efcea9a5a5d6aa38497360bb7cc7b58a6aef0",
+      "branch": "algebra",
+      "truncated": false,
+      "files": 278,
+      "code": [
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_question.py",
+          "sha": "7a90f8fd71bac3cc665b353a279c6e8be43898a7",
+          "size": 16026
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_recess.py",
+          "sha": "202d0c78f14ae778c0e0168bedd6f6fa530180c0",
+          "size": 30904
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_school_day.py",
+          "sha": "ed8724b0e06ae0c06e39ca978a38b0568490535a",
+          "size": 6474
+        },
+        {
+          "path": "experiments/autonomous_proposition_construction_009.py",
+          "sha": "5a725701ea6fc7f8b8e932ca5eefc0cbac7794f6",
+          "size": 5943
+        },
+        {
+          "path": "experiments/echo_homework_session_001.py",
+          "sha": "ff2b8fe8f7caac3eef90fe8f0c5d356f82e1628e",
+          "size": 2101
+        },
+        {
+          "path": "experiments/echo_homework_trial_001.py",
+          "sha": "edd1ee2563d61896f0b5c917cc98d881c2b029a0",
+          "size": 2024
+        },
+        {
+          "path": "experiments/echo_microclassroom_001.py",
+          "sha": "95836359ced5d1c4bc29cc3cbadf9c67fdf573ec",
+          "size": 2058
+        },
+        {
+          "path": "experiments/echo_microclassroom_002.py",
+          "sha": "40406e687b09558c744e0927e60fd08cb554081e",
+          "size": 3508
+        },
+        {
+          "path": "experiments/evidence_bound_articulation_011.py",
+          "sha": "e43e17f4c335c6972781df49e268354e20e05369",
+          "size": 5874
+        },
+        {
+          "path": "experiments/glyph_comprehension_transfer_007.py",
+          "sha": "fa2bfee74a5936343033f2e982bd37e083ebb631",
+          "size": 7313
+        },
+        {
+          "path": "experiments/glyph_governor_hypernym_001.py",
+          "sha": "b5d721ac5b57941b778894af158b55ea5c8da68f",
+          "size": 2442
+        },
+        {
+          "path": "experiments/glyph_governor_hypernym_002.py",
+          "sha": "86084546d95693b6525c477fbadb23d3bb429b7a",
+          "size": 4156
+        },
+        {
+          "path": "experiments/glyph_governor_objective_chain_003.py",
+          "sha": "8ab3860c994cbcc18c0b4273ad9b3968f9722a58",
+          "size": 4896
+        },
+        {
+          "path": "experiments/glyph_governor_recursive_comprehension_004.py",
+          "sha": "7706bd09b14812e9f1c432b1a02e0869e382c78c",
+          "size": 6231
+        },
+        {
+          "path": "experiments/lesson_001_definition_closure_013.py",
+          "sha": "07a2bd66a9df69f6404401561659120a36a8a162",
+          "size": 5668
+        },
+        {
+          "path": "experiments/lesson_001_hypernym_spectrum_012.py",
+          "sha": "018d2bfea3d046ee4dc057323769cbf48ba88ef2",
+          "size": 5260
+        },
+        {
+          "path": "experiments/performative_glyph_transfer_008.py",
+          "sha": "314ac38a83cad2dfa95d9fca3ef52d675934bb0c",
+          "size": 6183
+        },
+        {
+          "path": "experiments/reset_language_foundation_010.py",
+          "sha": "f8cf3054f53e953f22003e197240668dff83f011",
+          "size": 8148
+        },
+        {
+          "path": "experiments/resh_hebrew_operational_hypernymization_014.py",
+          "sha": "359d13bbbe146244a59b0149fecb4431fbad6327",
+          "size": 3905
+        },
+        {
+          "path": "experiments/swadesh_dictionary_classroom_gate_005.py",
+          "sha": "f9bf186d16d21c50dc096c6b529d6ba31614a03f",
+          "size": 5818
+        },
+        {
+          "path": "experiments/swadesh_glyph_dictionary_classroom_006.py",
+          "sha": "8276c1fe69b491e500886987e34dbf1b2b7dfea0",
+          "size": 6701
+        },
+        {
+          "path": "generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "notebook/query_workspace/query_engine.py",
+          "sha": "4a48a63e0c102bd48f02ba029f5387f9abb805f8",
+          "size": 3421
+        },
+        {
+          "path": "pwa/public/eve/bootstrap.js",
+          "sha": "4dfd2c6a6a5010287e31198132645c5f914ac22a",
+          "size": 2614
+        },
+        {
+          "path": "pwa/public/eve/classroom/l000_runner.py",
+          "sha": "d2081abac50a4524c7c3f1d97e32a526607ed1d6",
+          "size": 4520
+        },
+        {
+          "path": "pwa/public/eve/classroom/lobby.py",
+          "sha": "96111d12a3e6f77c0129ea21745f58faf5797103",
+          "size": 2439
+        },
+        {
+          "path": "pwa/public/eve/inert_eve.py",
+          "sha": "63d6e1759db2dc174783ca3f656d6691c0640f69",
+          "size": 858
+        },
+        {
+          "path": "pwa/public/service-worker.js",
+          "sha": "e3c6e4ba21e2f6cd82cd00beff285f3e657f40eb",
+          "size": 826
+        },
+        {
+          "path": "pwa/service-worker.js",
+          "sha": "0e1366433d74e13d5108f7e98d71356b777a4fac",
+          "size": 807
+        },
+        {
+          "path": "sandbox/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+          "size": 12902
+        },
+        {
+          "path": "src/alphabet_data.py",
+          "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+          "size": 19851
+        },
+        {
+          "path": "src/build_thesaurus.py",
+          "sha": "53cadf4ce99bd795cae610be21048b17df7bda20",
+          "size": 1693
+        },
+        {
+          "path": "src/echo_classroom.py",
+          "sha": "220f6bedf93a08699862a5cd430941b8e0e826da",
+          "size": 3109
+        },
+        {
+          "path": "src/echo_comprehension_audit.py",
+          "sha": "dd57f603d8537c0473723f6ce9c63cc7d11d42ec",
+          "size": 3186
+        },
+        {
+          "path": "src/echo_comprehension_mirror.py",
+          "sha": "bcaf6c94e589f7e81e043247908a9acef9df8d1f",
+          "size": 2877
+        },
+        {
+          "path": "src/echo_dictionary.py",
+          "sha": "d39292ed95fc66d7508c16412559556b359161cd",
+          "size": 1450
+        },
+        {
+          "path": "src/echo_gf_wordnet.py",
+          "sha": "0fad2e3843479d1dec0910cb27d4094cf6663f08",
+          "size": 2676
+        },
+        {
+          "path": "src/echo_governor_skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "src/echo_homework.py",
+          "sha": "9c6cc55f0c2edfcd25d83b295857137686c0eddf",
+          "size": 2108
+        },
+        {
+          "path": "src/echo_homework_audit.py",
+          "sha": "f5c07fbfe247506ad861d85198fc8e3faf36abe2",
+          "size": 2845
+        },
+        {
+          "path": "src/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "src/echo_imagenet.py",
+          "sha": "92f2660def51a684f932f7084a85bda87c56e5f6",
+          "size": 1620
+        },
+        {
+          "path": "src/echo_live_image_search.py",
+          "sha": "5fbbbdc072d576b9a26a5199757082701a8a1da4",
+          "size": 1462
+        },
+        {
+          "path": "src/echo_pe_mirror.py",
+          "sha": "9da40dd47458360ef7b5398850db375c5753422d",
+          "size": 20100
+        },
+        {
+          "path": "src/echo_sub_governor.py",
+          "sha": "9e915c2fe45fdb2411aee8a861c4b86bd437bdcf",
+          "size": 17044
+        },
+        {
+          "path": "src/generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "src/homework.py",
+          "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+          "size": 9704
+        },
+        {
+          "path": "src/import_hebrew_demo.py",
+          "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+          "size": 6479
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "src/run_homework.py",
+          "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+          "size": 5990
+        },
+        {
+          "path": "tests/echo_500round_run.py",
+          "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+          "size": 22317
+        },
+        {
+          "path": "tests/echo_blind_study.py",
+          "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+          "size": 18233
+        },
+        {
+          "path": "tests/multipass_orientation_test.py",
+          "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+          "size": 9894
+        },
+        {
+          "path": "tests/number_integration_test.py",
+          "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+          "size": 11233
+        },
+        {
+          "path": "tests/pe_ayin_resh_communication.py",
+          "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+          "size": 9848
+        },
+        {
+          "path": "tests/self_governance_test.py",
+          "sha": "4d4f398adc1eeb4a7b88a99ff1d7cf2f815cfad5",
+          "size": 9888
+        },
+        {
+          "path": "tests/test_echo_classroom.py",
+          "sha": "720be1300636de8394f02493cf131b4b6a17fbaa",
+          "size": 922
+        },
+        {
+          "path": "tests/test_echo_homework.py",
+          "sha": "be40efb0bc05ae9c07222da8f62f8937310f8053",
+          "size": 2667
+        },
+        {
+          "path": "tests/trial_015_governed_notebook.py",
+          "sha": "fb68f7e59d71060c604755e2c46fe606b268687b",
+          "size": 4828
+        },
+        {
+          "path": "tests/trial_016_echo_operator_selection.py",
+          "sha": "5292190a9b37b7d532ec8e55451053cf0a02f7b9",
+          "size": 4081
+        },
+        {
+          "path": "tests/trial_017_existing_tool_discrimination.py",
+          "sha": "21e1472072a3b37c565d581158980641550936ff",
+          "size": 2240
+        }
+      ]
+    },
+    {
+      "sha": "d553f503ff12f3f53f7f7b55df74fb228a60fc97",
+      "branch": "autonomous-agency",
+      "truncated": false,
+      "files": 242,
+      "code": [
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_question.py",
+          "sha": "7a90f8fd71bac3cc665b353a279c6e8be43898a7",
+          "size": 16026
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_recess.py",
+          "sha": "202d0c78f14ae778c0e0168bedd6f6fa530180c0",
+          "size": 30904
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_school_day.py",
+          "sha": "ed8724b0e06ae0c06e39ca978a38b0568490535a",
+          "size": 6474
+        },
+        {
+          "path": "experiments/autonomous_proposition_construction_009.py",
+          "sha": "5a725701ea6fc7f8b8e932ca5eefc0cbac7794f6",
+          "size": 5943
+        },
+        {
+          "path": "experiments/echo_homework_session_001.py",
+          "sha": "ff2b8fe8f7caac3eef90fe8f0c5d356f82e1628e",
+          "size": 2101
+        },
+        {
+          "path": "experiments/echo_homework_trial_001.py",
+          "sha": "edd1ee2563d61896f0b5c917cc98d881c2b029a0",
+          "size": 2024
+        },
+        {
+          "path": "experiments/echo_microclassroom_001.py",
+          "sha": "95836359ced5d1c4bc29cc3cbadf9c67fdf573ec",
+          "size": 2058
+        },
+        {
+          "path": "experiments/echo_microclassroom_002.py",
+          "sha": "40406e687b09558c744e0927e60fd08cb554081e",
+          "size": 3508
+        },
+        {
+          "path": "experiments/evidence_bound_articulation_011.py",
+          "sha": "e43e17f4c335c6972781df49e268354e20e05369",
+          "size": 5874
+        },
+        {
+          "path": "experiments/glyph_comprehension_transfer_007.py",
+          "sha": "fa2bfee74a5936343033f2e982bd37e083ebb631",
+          "size": 7313
+        },
+        {
+          "path": "experiments/glyph_governor_hypernym_001.py",
+          "sha": "b5d721ac5b57941b778894af158b55ea5c8da68f",
+          "size": 2442
+        },
+        {
+          "path": "experiments/glyph_governor_hypernym_002.py",
+          "sha": "86084546d95693b6525c477fbadb23d3bb429b7a",
+          "size": 4156
+        },
+        {
+          "path": "experiments/glyph_governor_objective_chain_003.py",
+          "sha": "8ab3860c994cbcc18c0b4273ad9b3968f9722a58",
+          "size": 4896
+        },
+        {
+          "path": "experiments/glyph_governor_recursive_comprehension_004.py",
+          "sha": "7706bd09b14812e9f1c432b1a02e0869e382c78c",
+          "size": 6231
+        },
+        {
+          "path": "experiments/lesson_001_definition_closure_013.py",
+          "sha": "07a2bd66a9df69f6404401561659120a36a8a162",
+          "size": 5668
+        },
+        {
+          "path": "experiments/lesson_001_hypernym_spectrum_012.py",
+          "sha": "018d2bfea3d046ee4dc057323769cbf48ba88ef2",
+          "size": 5260
+        },
+        {
+          "path": "experiments/performative_glyph_transfer_008.py",
+          "sha": "314ac38a83cad2dfa95d9fca3ef52d675934bb0c",
+          "size": 6183
+        },
+        {
+          "path": "experiments/reset_language_foundation_010.py",
+          "sha": "f8cf3054f53e953f22003e197240668dff83f011",
+          "size": 8148
+        },
+        {
+          "path": "experiments/resh_hebrew_operational_hypernymization_014.py",
+          "sha": "359d13bbbe146244a59b0149fecb4431fbad6327",
+          "size": 3905
+        },
+        {
+          "path": "experiments/swadesh_dictionary_classroom_gate_005.py",
+          "sha": "f9bf186d16d21c50dc096c6b529d6ba31614a03f",
+          "size": 5818
+        },
+        {
+          "path": "experiments/swadesh_glyph_dictionary_classroom_006.py",
+          "sha": "8276c1fe69b491e500886987e34dbf1b2b7dfea0",
+          "size": 6701
+        },
+        {
+          "path": "generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "pwa/public/eve/bootstrap.js",
+          "sha": "4dfd2c6a6a5010287e31198132645c5f914ac22a",
+          "size": 2614
+        },
+        {
+          "path": "pwa/public/eve/classroom/l000_runner.py",
+          "sha": "d2081abac50a4524c7c3f1d97e32a526607ed1d6",
+          "size": 4520
+        },
+        {
+          "path": "pwa/public/eve/classroom/lobby.py",
+          "sha": "96111d12a3e6f77c0129ea21745f58faf5797103",
+          "size": 2439
+        },
+        {
+          "path": "pwa/public/eve/inert_eve.py",
+          "sha": "63d6e1759db2dc174783ca3f656d6691c0640f69",
+          "size": 858
+        },
+        {
+          "path": "pwa/public/service-worker.js",
+          "sha": "e3c6e4ba21e2f6cd82cd00beff285f3e657f40eb",
+          "size": 826
+        },
+        {
+          "path": "pwa/service-worker.js",
+          "sha": "0e1366433d74e13d5108f7e98d71356b777a4fac",
+          "size": 807
+        },
+        {
+          "path": "sandbox/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+          "size": 12902
+        },
+        {
+          "path": "src/alphabet_data.py",
+          "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+          "size": 19851
+        },
+        {
+          "path": "src/build_thesaurus.py",
+          "sha": "53cadf4ce99bd795cae610be21048b17df7bda20",
+          "size": 1693
+        },
+        {
+          "path": "src/echo_classroom.py",
+          "sha": "220f6bedf93a08699862a5cd430941b8e0e826da",
+          "size": 3109
+        },
+        {
+          "path": "src/echo_comprehension_audit.py",
+          "sha": "dd57f603d8537c0473723f6ce9c63cc7d11d42ec",
+          "size": 3186
+        },
+        {
+          "path": "src/echo_comprehension_mirror.py",
+          "sha": "bcaf6c94e589f7e81e043247908a9acef9df8d1f",
+          "size": 2877
+        },
+        {
+          "path": "src/echo_dictionary.py",
+          "sha": "d39292ed95fc66d7508c16412559556b359161cd",
+          "size": 1450
+        },
+        {
+          "path": "src/echo_gf_wordnet.py",
+          "sha": "0fad2e3843479d1dec0910cb27d4094cf6663f08",
+          "size": 2676
+        },
+        {
+          "path": "src/echo_governor_skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "src/echo_homework.py",
+          "sha": "9c6cc55f0c2edfcd25d83b295857137686c0eddf",
+          "size": 2108
+        },
+        {
+          "path": "src/echo_homework_audit.py",
+          "sha": "f5c07fbfe247506ad861d85198fc8e3faf36abe2",
+          "size": 2845
+        },
+        {
+          "path": "src/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "src/echo_imagenet.py",
+          "sha": "92f2660def51a684f932f7084a85bda87c56e5f6",
+          "size": 1620
+        },
+        {
+          "path": "src/echo_live_image_search.py",
+          "sha": "5fbbbdc072d576b9a26a5199757082701a8a1da4",
+          "size": 1462
+        },
+        {
+          "path": "src/echo_pe_mirror.py",
+          "sha": "9da40dd47458360ef7b5398850db375c5753422d",
+          "size": 20100
+        },
+        {
+          "path": "src/echo_sub_governor.py",
+          "sha": "9e915c2fe45fdb2411aee8a861c4b86bd437bdcf",
+          "size": 17044
+        },
+        {
+          "path": "src/generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "src/homework.py",
+          "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+          "size": 9704
+        },
+        {
+          "path": "src/import_hebrew_demo.py",
+          "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+          "size": 6479
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "src/run_homework.py",
+          "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+          "size": 5990
+        },
+        {
+          "path": "tests/echo_500round_run.py",
+          "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+          "size": 22317
+        },
+        {
+          "path": "tests/echo_blind_study.py",
+          "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+          "size": 18233
+        },
+        {
+          "path": "tests/multipass_orientation_test.py",
+          "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+          "size": 9894
+        },
+        {
+          "path": "tests/number_integration_test.py",
+          "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+          "size": 11233
+        },
+        {
+          "path": "tests/pe_ayin_resh_communication.py",
+          "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+          "size": 9848
+        },
+        {
+          "path": "tests/self_governance_test.py",
+          "sha": "4d4f398adc1eeb4a7b88a99ff1d7cf2f815cfad5",
+          "size": 9888
+        },
+        {
+          "path": "tests/test_echo_classroom.py",
+          "sha": "720be1300636de8394f02493cf131b4b6a17fbaa",
+          "size": 922
+        },
+        {
+          "path": "tests/test_echo_homework.py",
+          "sha": "be40efb0bc05ae9c07222da8f62f8937310f8053",
+          "size": 2667
+        }
+      ]
+    },
+    {
+      "sha": "fa9d15108ba74a97bd263fd2fe2ef9706aa8aef3",
+      "branch": "bridge-experiment",
+      "truncated": false,
+      "files": 7,
+      "code": [
+        {
+          "path": "bridge/claude/worker.mjs",
+          "sha": "e912294e5344f442de8b39f39e28930ef5092eea",
+          "size": 6378
+        },
+        {
+          "path": "bridge/worker.mjs",
+          "sha": "66ccccda3647a190b859c4d8a0341e40e8078720",
+          "size": 1006
+        }
+      ]
+    },
+    {
+      "sha": "bd9e94e0fe27f9d04b51cef731eaf18bba70191f",
+      "branch": "bytebytego-claude",
+      "truncated": false,
+      "files": 30,
+      "code": [
+        {
+          "path": "Business/ideas/F-001-tam-build/build.py",
+          "sha": "96e4ef3b47f0f4be692337650e61c4596f58ce09",
+          "size": 8500
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/build_pdf.py",
+          "sha": "c029cd67c81c375a34d74ac77baaaf9fdd762524",
+          "size": 2391
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/claim_scan.py",
+          "sha": "31f3dcff486c4c8cc96d514eb425da86834d00c3",
+          "size": 3092
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/epub_check.py",
+          "sha": "176d42ee19f82580702a0bfc1941b0d28932ec31",
+          "size": 7122
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/ledger_map.py",
+          "sha": "8dd95e339b98acbce6816b9e0515d29ccdc8acc9",
+          "size": 6635
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/listing_check.py",
+          "sha": "e329b64d2768deb8fe896a0ed383160c29d7481b",
+          "size": 3127
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/rebuild_datasets.py",
+          "sha": "fa3a62f76549ecaea6e226ba5cca41597000d790",
+          "size": 4466
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/reference-worker.mjs",
+          "sha": "e912294e5344f442de8b39f39e28930ef5092eea",
+          "size": 6378
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/test-worker.mjs",
+          "sha": "e430c4bf9538eb634103d2e0f3af9ff3c196a721",
+          "size": 2553
+        }
+      ]
+    },
+    {
+      "sha": "95cdd9d02d5f771ed7f33bf17cd34a67cbf667ab",
+      "branch": "bytebytego-gpt",
+      "truncated": false,
+      "files": 30,
+      "code": [
+        {
+          "path": "Business/ideas/F-001-tam-build/build.py",
+          "sha": "96e4ef3b47f0f4be692337650e61c4596f58ce09",
+          "size": 8500
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/build_pdf.py",
+          "sha": "c029cd67c81c375a34d74ac77baaaf9fdd762524",
+          "size": 2391
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/claim_scan.py",
+          "sha": "31f3dcff486c4c8cc96d514eb425da86834d00c3",
+          "size": 3092
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/epub_check.py",
+          "sha": "176d42ee19f82580702a0bfc1941b0d28932ec31",
+          "size": 7122
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/ledger_map.py",
+          "sha": "8dd95e339b98acbce6816b9e0515d29ccdc8acc9",
+          "size": 6635
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/listing_check.py",
+          "sha": "e329b64d2768deb8fe896a0ed383160c29d7481b",
+          "size": 3127
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/rebuild_datasets.py",
+          "sha": "fa3a62f76549ecaea6e226ba5cca41597000d790",
+          "size": 4466
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/reference-worker.mjs",
+          "sha": "e912294e5344f442de8b39f39e28930ef5092eea",
+          "size": 6378
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/test-worker.mjs",
+          "sha": "e430c4bf9538eb634103d2e0f3af9ff3c196a721",
+          "size": 2553
+        }
+      ]
+    },
+    {
+      "sha": "8c315e2c614235cf2381a21b203ac3217407bb3f",
+      "branch": "bytebytego-hub",
+      "truncated": false,
+      "files": 30,
+      "code": [
+        {
+          "path": "Business/ideas/F-001-tam-build/build.py",
+          "sha": "96e4ef3b47f0f4be692337650e61c4596f58ce09",
+          "size": 8500
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/build_pdf.py",
+          "sha": "c029cd67c81c375a34d74ac77baaaf9fdd762524",
+          "size": 2391
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/claim_scan.py",
+          "sha": "31f3dcff486c4c8cc96d514eb425da86834d00c3",
+          "size": 3092
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/epub_check.py",
+          "sha": "176d42ee19f82580702a0bfc1941b0d28932ec31",
+          "size": 7122
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/ledger_map.py",
+          "sha": "8dd95e339b98acbce6816b9e0515d29ccdc8acc9",
+          "size": 6635
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/listing_check.py",
+          "sha": "e329b64d2768deb8fe896a0ed383160c29d7481b",
+          "size": 3127
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/rebuild_datasets.py",
+          "sha": "fa3a62f76549ecaea6e226ba5cca41597000d790",
+          "size": 4466
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/reference-worker.mjs",
+          "sha": "e912294e5344f442de8b39f39e28930ef5092eea",
+          "size": 6378
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/test-worker.mjs",
+          "sha": "e430c4bf9538eb634103d2e0f3af9ff3c196a721",
+          "size": 2553
+        }
+      ]
+    },
+    {
+      "sha": "a87a677ab8a685f01f50a832234773d5f91177a8",
+      "branch": "bytebytego-user",
+      "truncated": false,
+      "files": 30,
+      "code": [
+        {
+          "path": "Business/ideas/F-001-tam-build/build.py",
+          "sha": "96e4ef3b47f0f4be692337650e61c4596f58ce09",
+          "size": 8500
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/build_pdf.py",
+          "sha": "c029cd67c81c375a34d74ac77baaaf9fdd762524",
+          "size": 2391
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/claim_scan.py",
+          "sha": "31f3dcff486c4c8cc96d514eb425da86834d00c3",
+          "size": 3092
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/epub_check.py",
+          "sha": "176d42ee19f82580702a0bfc1941b0d28932ec31",
+          "size": 7122
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/ledger_map.py",
+          "sha": "8dd95e339b98acbce6816b9e0515d29ccdc8acc9",
+          "size": 6635
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/listing_check.py",
+          "sha": "e329b64d2768deb8fe896a0ed383160c29d7481b",
+          "size": 3127
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/rebuild_datasets.py",
+          "sha": "fa3a62f76549ecaea6e226ba5cca41597000d790",
+          "size": 4466
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/reference-worker.mjs",
+          "sha": "e912294e5344f442de8b39f39e28930ef5092eea",
+          "size": 6378
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/test-worker.mjs",
+          "sha": "e430c4bf9538eb634103d2e0f3af9ff3c196a721",
+          "size": 2553
+        }
+      ]
+    },
+    {
+      "sha": "2d129db69d48f66effd7d47732c03cd394f44755",
+      "branch": "chat-archive-pyodide-workbench",
+      "truncated": false,
+      "files": 21,
+      "code": [
+        {
+          "path": "app.js",
+          "sha": "e0e476bc9c44436dc35e9894e8ca8bb8511bee6a",
+          "size": 2752
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "sw.js",
+          "sha": "b8be83d0bea7a88193153a1d8c239b5ce2c67150",
+          "size": 293
+        }
+      ]
+    },
+    {
+      "sha": "1b029f5cb2fa02ce80f1aec41ac31c3f1de7f9f2",
+      "branch": "chatgpt-conversation-archive",
+      "truncated": false,
+      "files": 18,
+      "code": [
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+      "branch": "code-library-registry",
+      "truncated": false,
+      "files": 1114,
+      "code": [
+        {
+          "path": "Datasets/crawler/crawl.py",
+          "sha": "baf1d65878490f0280d4278123cd7668dd3a803d",
+          "size": 24026
+        },
+        {
+          "path": "code_library_registry/artifacts/CLR-0043/build/assemble.py",
+          "sha": "8b47b7a808230b0b39dc0730a868033de4123c07",
+          "size": 791
+        },
+        {
+          "path": "code_library_registry/artifacts/CLR-0043/build/enrich.py",
+          "sha": "90e4881e109699b86f3a6ad62cb19fca4f616b65",
+          "size": 1194
+        },
+        {
+          "path": "code_library_registry/artifacts/CLR-0043/build/gen_full.py",
+          "sha": "a34086ede3d8235ddc11e15da107982aba53fda4",
+          "size": 1178
+        },
+        {
+          "path": "code_library_registry/artifacts/CLR-0043/build/gen_starter.py",
+          "sha": "cd8dccf237e9775a532e6afd285c325dd29261bb",
+          "size": 1805
+        },
+        {
+          "path": "code_library_registry/artifacts/CLR-0043/grammar.js",
+          "sha": "c557ec1d590b3a00a9e9011d3b4dcb27d9fac98b",
+          "size": 17035
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/generalized/verified_resource_gate.py",
+          "sha": "ec9bb238d57ab5b16e1dd9cd70a581f39328f489",
+          "size": 5379
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/algorithm_matrix.py",
+          "sha": "f3ad3b1aa95fbca5c84fc4320a912ecc968c9ba3",
+          "size": 5737
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/test_algorithm_matrix.py",
+          "sha": "2fc5f6405f9412d9fee21de9276899325762f89b",
+          "size": 1831
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/validation/test_verified_resource_gate.py",
+          "sha": "ee6e7cc38fd50332b0d1d39ef90dc591203326d8",
+          "size": 2396
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/generalized/bounded_composition_search.py",
+          "sha": "0fe8719503a3f992beba8bff0db26bc626865c86",
+          "size": 6220
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/original/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/validation/test_bounded_composition_search.py",
+          "sha": "8a2764e876c16ca673b15471419cb877a6c02520",
+          "size": 2308
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/generalized/structured_workspace.py",
+          "sha": "f3b63501f0376ebebabc25c7e3acefab85a8f10a",
+          "size": 7252
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/original/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_source_characterization.py",
+          "sha": "a0bc980ffa4cb1ca3bd9113de725a83d9a3f10d0",
+          "size": 2006
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_structured_workspace.py",
+          "sha": "e2a7752ba9ce30660c264a1a5519f980803b5a61",
+          "size": 4217
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/generalized/safe_relative_entry_writer.mjs",
+          "sha": "a6e7bc4b32211baf073a765c7c332cebcaf176e6",
+          "size": 3120
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/original/app.js",
+          "sha": "e0e476bc9c44436dc35e9894e8ca8bb8511bee6a",
+          "size": 2752
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_safe_relative_entry_writer.mjs",
+          "sha": "99057a46c5b9de91ef88620d15dda1230c914a51",
+          "size": 3465
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_source_characterization.mjs",
+          "sha": "eb36f36d3f90dc1e58985629fd465f87e9f08cc4",
+          "size": 2696
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/generalized/bounded_affinity_admission.py",
+          "sha": "ffa435ec9a9feb1514813059b21117260685b426",
+          "size": 8492
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/original/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_bounded_affinity_admission.py",
+          "sha": "dd118c6d87c09fa54208251258337a2cdda6242c",
+          "size": 4535
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_source_characterization.py",
+          "sha": "0b9a3640cc4e8cfefe87e60545532a6db2658b7d",
+          "size": 1244
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/generalized/static_python_flow_outline.py",
+          "sha": "07ba19a7f041bcd698415ea0188434e10672ea27",
+          "size": 6794
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/original/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_source_characterization.py",
+          "sha": "6d705e5fa1d7a46d50bde4338fe8155f7fc45cb4",
+          "size": 903
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_static_python_flow_outline.py",
+          "sha": "0f7fdda017ae8cc916996e0bca2327ce61e13739",
+          "size": 2222
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/generalized/actor_scoped_command_admission.mjs",
+          "sha": "f53f43e86d144168dc6aea7a420b61ed92ee7398",
+          "size": 3033
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/original/widgets.js",
+          "sha": "de6b78994451575eb79eb28c02d30e8eab3b05c2",
+          "size": 10081
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_actor_scoped_command_admission.mjs",
+          "sha": "8b16d531d9b6659cd5523b875ff853e683779cd9",
+          "size": 3020
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_source_characterization.mjs",
+          "sha": "2a81f9f6bb2640f68633ec9ff57f251fc102c3c3",
+          "size": 1691
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0008/generalized/schedule_gate.py",
+          "sha": "26cfdf845eaf9d13a5e3e41855e43d0b1d9a6775",
+          "size": 5037
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0008/generalized/test_schedule_gate.py",
+          "sha": "c876680fc2226e76dae5bf7bb0a41df2e5d3ea48",
+          "size": 2528
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0008/original/schedule_excerpt.py",
+          "sha": "70a539474b051ea13741910ad7161eaaaf051bf3",
+          "size": 3882
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0008/validation/test_original_characterization.py",
+          "sha": "ed63e68b174f1c07546cd7c0bbae7f969e8361a3",
+          "size": 1178
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "d8806792ed0c8a5643b0ec3056c87b4e4188df50",
+      "branch": "code-library-registry-ivs",
+      "truncated": false,
+      "files": 212,
+      "code": [
+        {
+          "path": "IVS/tests/registry-formation-001/registry_former.py",
+          "sha": "e89fa3e4f13ed496d09622261fba25a67f7a3840",
+          "size": 2864
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/generalized/verified_resource_gate.py",
+          "sha": "ec9bb238d57ab5b16e1dd9cd70a581f39328f489",
+          "size": 5379
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/algorithm_matrix.py",
+          "sha": "f3ad3b1aa95fbca5c84fc4320a912ecc968c9ba3",
+          "size": 5737
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/test_algorithm_matrix.py",
+          "sha": "2fc5f6405f9412d9fee21de9276899325762f89b",
+          "size": 1831
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/validation/test_verified_resource_gate.py",
+          "sha": "ee6e7cc38fd50332b0d1d39ef90dc591203326d8",
+          "size": 2396
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/generalized/bounded_composition_search.py",
+          "sha": "0fe8719503a3f992beba8bff0db26bc626865c86",
+          "size": 6220
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/original/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/validation/test_bounded_composition_search.py",
+          "sha": "8a2764e876c16ca673b15471419cb877a6c02520",
+          "size": 2308
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/generalized/structured_workspace.py",
+          "sha": "f3b63501f0376ebebabc25c7e3acefab85a8f10a",
+          "size": 7252
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/original/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_source_characterization.py",
+          "sha": "a0bc980ffa4cb1ca3bd9113de725a83d9a3f10d0",
+          "size": 2006
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_structured_workspace.py",
+          "sha": "e2a7752ba9ce30660c264a1a5519f980803b5a61",
+          "size": 4217
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/generalized/safe_relative_entry_writer.mjs",
+          "sha": "a6e7bc4b32211baf073a765c7c332cebcaf176e6",
+          "size": 3120
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/original/app.js",
+          "sha": "e0e476bc9c44436dc35e9894e8ca8bb8511bee6a",
+          "size": 2752
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_safe_relative_entry_writer.mjs",
+          "sha": "99057a46c5b9de91ef88620d15dda1230c914a51",
+          "size": 3465
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_source_characterization.mjs",
+          "sha": "eb36f36d3f90dc1e58985629fd465f87e9f08cc4",
+          "size": 2696
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/generalized/bounded_affinity_admission.py",
+          "sha": "ffa435ec9a9feb1514813059b21117260685b426",
+          "size": 8492
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/original/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_bounded_affinity_admission.py",
+          "sha": "dd118c6d87c09fa54208251258337a2cdda6242c",
+          "size": 4535
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_source_characterization.py",
+          "sha": "0b9a3640cc4e8cfefe87e60545532a6db2658b7d",
+          "size": 1244
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/generalized/static_python_flow_outline.py",
+          "sha": "07ba19a7f041bcd698415ea0188434e10672ea27",
+          "size": 6794
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/original/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_source_characterization.py",
+          "sha": "6d705e5fa1d7a46d50bde4338fe8155f7fc45cb4",
+          "size": 903
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_static_python_flow_outline.py",
+          "sha": "0f7fdda017ae8cc916996e0bca2327ce61e13739",
+          "size": 2222
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/generalized/actor_scoped_command_admission.mjs",
+          "sha": "f53f43e86d144168dc6aea7a420b61ed92ee7398",
+          "size": 3033
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/original/widgets.js",
+          "sha": "de6b78994451575eb79eb28c02d30e8eab3b05c2",
+          "size": 10081
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_actor_scoped_command_admission.mjs",
+          "sha": "8b16d531d9b6659cd5523b875ff853e683779cd9",
+          "size": 3020
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_source_characterization.mjs",
+          "sha": "2a81f9f6bb2640f68633ec9ff57f251fc102c3c3",
+          "size": 1691
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "2f26898ca5b0547b1106ad0ed9c847fe2e8aabcd",
+      "branch": "contract-000-gpt-team",
+      "truncated": false,
+      "files": 22,
+      "code": [
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "9f61d305676d1c6cf856697e97b7bb6340c53673",
+      "branch": "dev-suite",
+      "truncated": false,
+      "files": 29,
+      "code": [
+        {
+          "path": "pwa/js/app.js",
+          "sha": "11aa85781ade417adcbcf1b19ec1da08789a677a",
+          "size": 1124
+        },
+        {
+          "path": "pwa/js/python-worker.js",
+          "sha": "c1d5817b325929eb8f0ba62d43ace9d7f63b14d5",
+          "size": 1472
+        },
+        {
+          "path": "pwa/python/algorithm_matrix.py",
+          "sha": "f7cf46584a7c787367196ec0d1aae7178dd976e3",
+          "size": 5736
+        },
+        {
+          "path": "pwa/python/test_algorithm_matrix.py",
+          "sha": "21d94fb9f01279e3a1b69d6850e1bf7d38b72948",
+          "size": 1830
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "68c104e6afc28cda880c2f878eb33686e4ee44f1",
+          "size": 687
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "03978f7eec1950e3a587fb29dea199227d61428a",
+      "branch": "dev-suite-registries",
+      "truncated": false,
+      "files": 52,
+      "code": [
+        {
+          "path": "dev-suite/build.py",
+          "sha": "34c6186604d2beb72e3f3350bae3e0aee8d926e4",
+          "size": 4932
+        },
+        {
+          "path": "dev-suite/keyboard/src/app.js",
+          "sha": "051d7c8316b6f0f0dbb3f076cb02e1ed950f3071",
+          "size": 30515
+        },
+        {
+          "path": "dev-suite/keyboard/src/substrate_data.py",
+          "sha": "bd4c26b445f304bbf95b03918bd6268848bf5636",
+          "size": 60733
+        },
+        {
+          "path": "dev-suite/suite/python/build_dict.py",
+          "sha": "fe2d5ebb343517308c5895fb2753da1e8d51f630",
+          "size": 3080
+        },
+        {
+          "path": "dev-suite/suite/python/echo_loader.py",
+          "sha": "3b07735139a8009255dd84f1c18f107fe6db5145",
+          "size": 27393
+        },
+        {
+          "path": "dev-suite/suite/python/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "dev-suite/suite/python/symbols.py",
+          "sha": "ae783d41913186f2adee20a3e0d94b0bc95ed25e",
+          "size": 6402
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "11aa85781ade417adcbcf1b19ec1da08789a677a",
+          "size": 1124
+        },
+        {
+          "path": "pwa/js/python-worker.js",
+          "sha": "c1d5817b325929eb8f0ba62d43ace9d7f63b14d5",
+          "size": 1472
+        },
+        {
+          "path": "pwa/python/algorithm_matrix.py",
+          "sha": "f7cf46584a7c787367196ec0d1aae7178dd976e3",
+          "size": 5736
+        },
+        {
+          "path": "pwa/python/test_algorithm_matrix.py",
+          "sha": "21d94fb9f01279e3a1b69d6850e1bf7d38b72948",
+          "size": 1830
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "68c104e6afc28cda880c2f878eb33686e4ee44f1",
+          "size": 687
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "f1949f701f352f46ce32ea6bb5324c6d8202114e",
+      "branch": "dev-suite-datasets",
+      "truncated": false,
+      "files": 59,
+      "code": [
+        {
+          "path": "dev-suite/build.py",
+          "sha": "34c6186604d2beb72e3f3350bae3e0aee8d926e4",
+          "size": 4932
+        },
+        {
+          "path": "dev-suite/keyboard/src/app.js",
+          "sha": "051d7c8316b6f0f0dbb3f076cb02e1ed950f3071",
+          "size": 30515
+        },
+        {
+          "path": "dev-suite/keyboard/src/substrate_data.py",
+          "sha": "bd4c26b445f304bbf95b03918bd6268848bf5636",
+          "size": 60733
+        },
+        {
+          "path": "dev-suite/suite/python/build_dict.py",
+          "sha": "fe2d5ebb343517308c5895fb2753da1e8d51f630",
+          "size": 3080
+        },
+        {
+          "path": "dev-suite/suite/python/echo_loader.py",
+          "sha": "3b07735139a8009255dd84f1c18f107fe6db5145",
+          "size": 27393
+        },
+        {
+          "path": "dev-suite/suite/python/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "dev-suite/suite/python/symbols.py",
+          "sha": "ae783d41913186f2adee20a3e0d94b0bc95ed25e",
+          "size": 6402
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "11aa85781ade417adcbcf1b19ec1da08789a677a",
+          "size": 1124
+        },
+        {
+          "path": "pwa/js/python-worker.js",
+          "sha": "c1d5817b325929eb8f0ba62d43ace9d7f63b14d5",
+          "size": 1472
+        },
+        {
+          "path": "pwa/python/algorithm_matrix.py",
+          "sha": "f7cf46584a7c787367196ec0d1aae7178dd976e3",
+          "size": 5736
+        },
+        {
+          "path": "pwa/python/test_algorithm_matrix.py",
+          "sha": "21d94fb9f01279e3a1b69d6850e1bf7d38b72948",
+          "size": 1830
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "68c104e6afc28cda880c2f878eb33686e4ee44f1",
+          "size": 687
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "3128906f922ffc1a6371d01aaae66e7c8bd0b758",
+      "branch": "echo-recess-experiment",
+      "truncated": false,
+      "files": 223,
+      "code": [
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_question.py",
+          "sha": "7a90f8fd71bac3cc665b353a279c6e8be43898a7",
+          "size": 16026
+        },
+        {
+          "path": "ECHO_AutonomousAgency/src/echo_recess.py",
+          "sha": "873908f285c9481144c6c1a53d78861d51c0c860",
+          "size": 28261
+        },
+        {
+          "path": "experiments/autonomous_proposition_construction_009.py",
+          "sha": "5a725701ea6fc7f8b8e932ca5eefc0cbac7794f6",
+          "size": 5943
+        },
+        {
+          "path": "experiments/echo_homework_session_001.py",
+          "sha": "ff2b8fe8f7caac3eef90fe8f0c5d356f82e1628e",
+          "size": 2101
+        },
+        {
+          "path": "experiments/echo_homework_trial_001.py",
+          "sha": "edd1ee2563d61896f0b5c917cc98d881c2b029a0",
+          "size": 2024
+        },
+        {
+          "path": "experiments/echo_microclassroom_001.py",
+          "sha": "95836359ced5d1c4bc29cc3cbadf9c67fdf573ec",
+          "size": 2058
+        },
+        {
+          "path": "experiments/echo_microclassroom_002.py",
+          "sha": "40406e687b09558c744e0927e60fd08cb554081e",
+          "size": 3508
+        },
+        {
+          "path": "experiments/evidence_bound_articulation_011.py",
+          "sha": "e43e17f4c335c6972781df49e268354e20e05369",
+          "size": 5874
+        },
+        {
+          "path": "experiments/glyph_comprehension_transfer_007.py",
+          "sha": "fa2bfee74a5936343033f2e982bd37e083ebb631",
+          "size": 7313
+        },
+        {
+          "path": "experiments/glyph_governor_hypernym_001.py",
+          "sha": "b5d721ac5b57941b778894af158b55ea5c8da68f",
+          "size": 2442
+        },
+        {
+          "path": "experiments/glyph_governor_hypernym_002.py",
+          "sha": "86084546d95693b6525c477fbadb23d3bb429b7a",
+          "size": 4156
+        },
+        {
+          "path": "experiments/glyph_governor_objective_chain_003.py",
+          "sha": "8ab3860c994cbcc18c0b4273ad9b3968f9722a58",
+          "size": 4896
+        },
+        {
+          "path": "experiments/glyph_governor_recursive_comprehension_004.py",
+          "sha": "7706bd09b14812e9f1c432b1a02e0869e382c78c",
+          "size": 6231
+        },
+        {
+          "path": "experiments/lesson_001_definition_closure_013.py",
+          "sha": "07a2bd66a9df69f6404401561659120a36a8a162",
+          "size": 5668
+        },
+        {
+          "path": "experiments/lesson_001_hypernym_spectrum_012.py",
+          "sha": "018d2bfea3d046ee4dc057323769cbf48ba88ef2",
+          "size": 5260
+        },
+        {
+          "path": "experiments/performative_glyph_transfer_008.py",
+          "sha": "314ac38a83cad2dfa95d9fca3ef52d675934bb0c",
+          "size": 6183
+        },
+        {
+          "path": "experiments/reset_language_foundation_010.py",
+          "sha": "f8cf3054f53e953f22003e197240668dff83f011",
+          "size": 8148
+        },
+        {
+          "path": "experiments/resh_hebrew_operational_hypernymization_014.py",
+          "sha": "359d13bbbe146244a59b0149fecb4431fbad6327",
+          "size": 3905
+        },
+        {
+          "path": "experiments/swadesh_dictionary_classroom_gate_005.py",
+          "sha": "f9bf186d16d21c50dc096c6b529d6ba31614a03f",
+          "size": 5818
+        },
+        {
+          "path": "experiments/swadesh_glyph_dictionary_classroom_006.py",
+          "sha": "8276c1fe69b491e500886987e34dbf1b2b7dfea0",
+          "size": 6701
+        },
+        {
+          "path": "generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "sandbox/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+          "size": 12902
+        },
+        {
+          "path": "src/alphabet_data.py",
+          "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+          "size": 19851
+        },
+        {
+          "path": "src/build_thesaurus.py",
+          "sha": "53cadf4ce99bd795cae610be21048b17df7bda20",
+          "size": 1693
+        },
+        {
+          "path": "src/echo_classroom.py",
+          "sha": "220f6bedf93a08699862a5cd430941b8e0e826da",
+          "size": 3109
+        },
+        {
+          "path": "src/echo_comprehension_audit.py",
+          "sha": "dd57f603d8537c0473723f6ce9c63cc7d11d42ec",
+          "size": 3186
+        },
+        {
+          "path": "src/echo_comprehension_mirror.py",
+          "sha": "bcaf6c94e589f7e81e043247908a9acef9df8d1f",
+          "size": 2877
+        },
+        {
+          "path": "src/echo_dictionary.py",
+          "sha": "d39292ed95fc66d7508c16412559556b359161cd",
+          "size": 1450
+        },
+        {
+          "path": "src/echo_gf_wordnet.py",
+          "sha": "0fad2e3843479d1dec0910cb27d4094cf6663f08",
+          "size": 2676
+        },
+        {
+          "path": "src/echo_governor_skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "src/echo_homework.py",
+          "sha": "9c6cc55f0c2edfcd25d83b295857137686c0eddf",
+          "size": 2108
+        },
+        {
+          "path": "src/echo_homework_audit.py",
+          "sha": "f5c07fbfe247506ad861d85198fc8e3faf36abe2",
+          "size": 2845
+        },
+        {
+          "path": "src/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "src/echo_imagenet.py",
+          "sha": "92f2660def51a684f932f7084a85bda87c56e5f6",
+          "size": 1620
+        },
+        {
+          "path": "src/echo_live_image_search.py",
+          "sha": "5fbbbdc072d576b9a26a5199757082701a8a1da4",
+          "size": 1462
+        },
+        {
+          "path": "src/echo_pe_mirror.py",
+          "sha": "9da40dd47458360ef7b5398850db375c5753422d",
+          "size": 20100
+        },
+        {
+          "path": "src/echo_sub_governor.py",
+          "sha": "9e915c2fe45fdb2411aee8a861c4b86bd437bdcf",
+          "size": 17044
+        },
+        {
+          "path": "src/generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "src/homework.py",
+          "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+          "size": 9704
+        },
+        {
+          "path": "src/import_hebrew_demo.py",
+          "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+          "size": 6479
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "src/run_homework.py",
+          "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+          "size": 5990
+        },
+        {
+          "path": "tests/echo_500round_run.py",
+          "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+          "size": 22317
+        },
+        {
+          "path": "tests/echo_blind_study.py",
+          "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+          "size": 18233
+        },
+        {
+          "path": "tests/multipass_orientation_test.py",
+          "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+          "size": 9894
+        },
+        {
+          "path": "tests/number_integration_test.py",
+          "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+          "size": 11233
+        },
+        {
+          "path": "tests/pe_ayin_resh_communication.py",
+          "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+          "size": 9848
+        },
+        {
+          "path": "tests/self_governance_test.py",
+          "sha": "4d4f398adc1eeb4a7b88a99ff1d7cf2f815cfad5",
+          "size": 9888
+        },
+        {
+          "path": "tests/test_echo_classroom.py",
+          "sha": "720be1300636de8394f02493cf131b4b6a17fbaa",
+          "size": 922
+        },
+        {
+          "path": "tests/test_echo_homework.py",
+          "sha": "be40efb0bc05ae9c07222da8f62f8937310f8053",
+          "size": 2667
+        }
+      ]
+    },
+    {
+      "sha": "9b2ad008956ff65583ad412df7b334ca0d5ae1c9",
+      "branch": "experiment-echo-graphql-canvas-000",
+      "truncated": false,
+      "files": 33,
+      "code": [
+        {
+          "path": "app.js",
+          "sha": "039fa9472987b6c4134cae5b9d47cb69148bab2b",
+          "size": 2779
+        },
+        {
+          "path": "echo_canvas_bridge.py",
+          "sha": "8a7ae35c9cb0ad966273a2819aa058e30420271f",
+          "size": 2078
+        },
+        {
+          "path": "echo_canvas_experiment.js",
+          "sha": "ca17a1c6ebc09c5962ab8c67451f17f4384f2178",
+          "size": 3578
+        },
+        {
+          "path": "echo_ks_recess_adapter.py",
+          "sha": "db34134515678a4c09b5bcdb6ced04b2f1a7767c",
+          "size": 2561
+        },
+        {
+          "path": "echo_ks_recess_visual.js",
+          "sha": "02f6d29b4674091763d26284549f45bfaffbe78b",
+          "size": 4146
+        },
+        {
+          "path": "echo_neuroplasticity_overlay.py",
+          "sha": "e955fb26ee39f59d89eb2ce51d7bed32d88788a3",
+          "size": 3157
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "sw.js",
+          "sha": "b8be83d0bea7a88193153a1d8c239b5ce2c67150",
+          "size": 293
+        },
+        {
+          "path": "tests/test_dsl_canvas_008.py",
+          "sha": "225275ef495d7d49a16e40efafe50ec7350ff610",
+          "size": 4300
+        },
+        {
+          "path": "tests/test_echo_canvas_bridge.py",
+          "sha": "4b4a635c96777e36c1f73cc79f634d4e9033a6b7",
+          "size": 1154
+        },
+        {
+          "path": "tests/test_glyph_cards_003.py",
+          "sha": "27dde7a5c93bdf2d6fcf07aea134cd8565a9c1ea",
+          "size": 4181
+        },
+        {
+          "path": "tests/test_integration_002.py",
+          "sha": "2d67718ddc3ceda8fac5a0d3d293e1218df2b010",
+          "size": 2769
+        }
+      ]
+    },
+    {
+      "sha": "b9a2299820651f0bcc700de4de943f3c70b8c91e",
+      "branch": "genesis-documentary",
+      "truncated": false,
+      "files": 128,
+      "code": [
+        {
+          "path": "generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/card-chat/service.js",
+          "sha": "ed3012623e7889cb42a6afe6cacad68b0ce2085b",
+          "size": 5983
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/card-chat/service.test.js",
+          "sha": "0e42e174657b57fafbc5560f802055603e3c46f0",
+          "size": 4771
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/archive.test.js",
+          "sha": "9c12258160e0b1043ca3738ed6eabd580118f9f0",
+          "size": 6696
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/filing-live-check.js",
+          "sha": "e105fe75c0a794a4ab0d9e47bc01d14251819434",
+          "size": 3135
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/filing-service.js",
+          "sha": "4919d74b6c9c300bd71600cf81e78407e0660e19",
+          "size": 8910
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/filing.test.js",
+          "sha": "2cdd5f085b663649630b23b501fd81ed98b75315",
+          "size": 8300
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/model.test.js",
+          "sha": "4573b158d37886b474ae19788f7e0d36613c9fe2",
+          "size": 1566
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/upload-service.js",
+          "sha": "5594a552e7f4177a80b02ae12734cc782b7ad2cc",
+          "size": 9176
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/upload.test.js",
+          "sha": "c829b90dd7279a45c33ae57f5e135e3edfcdba4b",
+          "size": 6042
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/worker.js",
+          "sha": "6594b0955e7ede1b29ab4cfe73671d2dd83405f4",
+          "size": 899
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/cards.test.js",
+          "sha": "bb5f89b4e9d2ab16252f2f18cc64c055abe8c7c3",
+          "size": 1435
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/engine.js",
+          "sha": "c0ae653986b22bef51118a357b0764a4bb402f2c",
+          "size": 4210
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/engine.test.js",
+          "sha": "25b1ed641ad7648ee31e2ee775612572b3519fab",
+          "size": 3186
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/service.js",
+          "sha": "db18466f9c12198a271d5f575aa67e0f180672e5",
+          "size": 8152
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/session-towers/service.test.js",
+          "sha": "d27de81e0cc227f6cc05ae894fdaf6ab65bba8d0",
+          "size": 4350
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/adapter-engine.js",
+          "sha": "5937a87141d05dd297b5913fa571e39d19b4e0d6",
+          "size": 6645
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/adapter-ui.js",
+          "sha": "4c859a7104fbb2d29f0183791069174b035780e9",
+          "size": 14529
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-db.js",
+          "sha": "9bc9801d9a4cb34c98e807f92ae3f1698d3748a0",
+          "size": 3089
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-import.js",
+          "sha": "cee4641691412aa5d57b62959d5f6695a146ff27",
+          "size": 2166
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-parser.js",
+          "sha": "4f5d1a4d99ea260cf59bd3345b801bb23abd137a",
+          "size": 5603
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-ui.js",
+          "sha": "8a14c4d85ffdfe9394ca84d0364103282ab45936",
+          "size": 12023
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/archive-worker.js",
+          "sha": "67053a6d2645b52b001adfde19d19bad2229c3fb",
+          "size": 1612
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/chat.js",
+          "sha": "09a94112f41d89382113a700234b5d23fc137293",
+          "size": 4617
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/cloud-source.js",
+          "sha": "cf2cd576d18b384b0645e25435bed782da9f6840",
+          "size": 6269
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/files.js",
+          "sha": "3ee473e0c21504c081b8541f7656a47e41a35a14",
+          "size": 10198
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/filter-towers.js",
+          "sha": "117ef791b4ce47aa6914da9859c18f0e40a437dc",
+          "size": 5412
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/model.js",
+          "sha": "e01218ea854b61121e8924349a1d2f823dfe7072",
+          "size": 4614
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/sessions.js",
+          "sha": "fc02ce2a8e5258c65027fa35c64d1d7fecd9e0ce",
+          "size": 4524
+        },
+        {
+          "path": "integration-inbox/group-canvas-file-cabinet/source/public/tower/tower.js",
+          "sha": "5dd727d2d300719d4d4c6ccce36a10a53416fea4",
+          "size": 6763
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+          "size": 12902
+        },
+        {
+          "path": "src/alphabet_data.py",
+          "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+          "size": 19851
+        },
+        {
+          "path": "src/echo_governor_skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "src/homework.py",
+          "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+          "size": 9704
+        },
+        {
+          "path": "src/import_hebrew_demo.py",
+          "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+          "size": 6479
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "src/run_homework.py",
+          "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+          "size": 5990
+        },
+        {
+          "path": "tests/echo_500round_run.py",
+          "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+          "size": 22317
+        },
+        {
+          "path": "tests/echo_blind_study.py",
+          "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+          "size": 18233
+        },
+        {
+          "path": "tests/multipass_orientation_test.py",
+          "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+          "size": 9894
+        },
+        {
+          "path": "tests/number_integration_test.py",
+          "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+          "size": 11233
+        },
+        {
+          "path": "tests/pe_ayin_resh_communication.py",
+          "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+          "size": 9848
+        },
+        {
+          "path": "tests/self_governance_test.py",
+          "sha": "4d4f398adc1eeb4a7b88a99ff1d7cf2f815cfad5",
+          "size": 9888
+        }
+      ]
+    },
+    {
+      "sha": "26bc60916fa65f8e24f213ce8f3f9ad047540059",
+      "branch": "geosensory-crawler-experiment",
+      "truncated": false,
+      "files": 48,
+      "code": [
+        {
+          "path": "generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+          "size": 12902
+        },
+        {
+          "path": "src/alphabet_data.py",
+          "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+          "size": 19851
+        },
+        {
+          "path": "src/echo_governor_skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "src/geosensory_model.py",
+          "sha": "9101fe89f7f06f9d2416c0be7458ea6f8849da57",
+          "size": 2479
+        },
+        {
+          "path": "src/homework.py",
+          "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+          "size": 9704
+        },
+        {
+          "path": "src/import_hebrew_demo.py",
+          "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+          "size": 6479
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "src/run_homework.py",
+          "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+          "size": 5990
+        },
+        {
+          "path": "tests/echo_500round_run.py",
+          "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+          "size": 22317
+        },
+        {
+          "path": "tests/echo_blind_study.py",
+          "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+          "size": 18233
+        },
+        {
+          "path": "tests/multipass_orientation_test.py",
+          "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+          "size": 9894
+        },
+        {
+          "path": "tests/number_integration_test.py",
+          "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+          "size": 11233
+        },
+        {
+          "path": "tests/pe_ayin_resh_communication.py",
+          "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+          "size": 9848
+        },
+        {
+          "path": "tests/self_governance_test.py",
+          "sha": "4d4f398adc1eeb4a7b88a99ff1d7cf2f815cfad5",
+          "size": 9888
+        },
+        {
+          "path": "tests/test_geosensory_model.py",
+          "sha": "90651915553d3bab69c83c5a256813dcb39e0aaa",
+          "size": 1543
+        }
+      ]
+    },
+    {
+      "sha": "82810112a959dc094dcf40238419cffca6863670",
+      "branch": "ksm-recess-wholesale",
+      "truncated": false,
+      "files": 97,
+      "code": [
+        {
+          "path": "echo/__init__.py",
+          "sha": "4c41eb0750028becf37014ea94310a766de331c1",
+          "size": 571
+        },
+        {
+          "path": "echo/browser_ksm.py",
+          "sha": "bd4d07e39d3126f0accfb299e76793a6d6f5c87e",
+          "size": 2524
+        },
+        {
+          "path": "echo/canvas/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "echo/canvas/ks_recess.py",
+          "sha": "e9970684502a14622f90189ab924917efb05f4bc",
+          "size": 12333
+        },
+        {
+          "path": "echo/kernel/__init__.py",
+          "sha": "a38516ef3dc7b4ed6f2df601c70b6557e6ce7b87",
+          "size": 785
+        },
+        {
+          "path": "echo/kernel/skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "echo/language/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "echo/language/ast.py",
+          "sha": "bdf0ecfb2b0bbf9b9520dfcc3aa129cf06f53d85",
+          "size": 1851
+        },
+        {
+          "path": "echo/language/audit.py",
+          "sha": "18ecd632553b740a4698fb9285a1bf2faab2f2e6",
+          "size": 9776
+        },
+        {
+          "path": "echo/language/compose.py",
+          "sha": "84d7e97828a86076ccc771706d5cf9fa9984322a",
+          "size": 5099
+        },
+        {
+          "path": "echo/language/english_parse.py",
+          "sha": "ae044b1ffedd903756e6bd5d0b67f63070a8009a",
+          "size": 5741
+        },
+        {
+          "path": "echo/language/gov_index.py",
+          "sha": "13d952ecdf80fe8a04dec494b4ac043418a56ff4",
+          "size": 8333
+        },
+        {
+          "path": "echo/language/index_pattern.py",
+          "sha": "a5cd3affa867def91bf7c5a8c435b4c7c728d05a",
+          "size": 6666
+        },
+        {
+          "path": "echo/language/lexicon.py",
+          "sha": "57f6e3ffff6cb08d318ef920402fc6310124c3d1",
+          "size": 2064
+        },
+        {
+          "path": "echo/language/parser.py",
+          "sha": "c813ff5dc05ebfd38b1994fca199b0c8ad6d3b19",
+          "size": 6903
+        },
+        {
+          "path": "echo/language/pyform.py",
+          "sha": "abf3bbf43cc0dbb12b820f4b4c8a09d9af41f279",
+          "size": 6288
+        },
+        {
+          "path": "echo/language/realize.py",
+          "sha": "9c6cb50bb651ce6729bad2262136006f5cabe34b",
+          "size": 4804
+        },
+        {
+          "path": "echo/language/senses.py",
+          "sha": "64b7eb76cb65673361712be29e703a88c134a5fc",
+          "size": 3212
+        },
+        {
+          "path": "echo/matrix/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "echo/matrix/registry.py",
+          "sha": "f2b8e5b36b6e066b9255d79bde6385991f9d6b24",
+          "size": 10566
+        },
+        {
+          "path": "echo/operators/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "echo/operators/invariant.py",
+          "sha": "e8450588acb5879aeab89ae82bbb08b2e4ca5881",
+          "size": 2487
+        },
+        {
+          "path": "echo/operators/lhea.py",
+          "sha": "e505ea628c1b33274c506dc22b6b69bed2523f61",
+          "size": 3064
+        },
+        {
+          "path": "echo/operators/orbit.py",
+          "sha": "cd57369e6f5b7f6c4ddbdc3319c814f7512735f3",
+          "size": 3720
+        },
+        {
+          "path": "echo/operators/proportion.py",
+          "sha": "1bb942763a83d23ee9a9ad706f8342b04bf78f4f",
+          "size": 1449
+        },
+        {
+          "path": "experiments/e12_ks_canvas_recess.py",
+          "sha": "e7a29ff08983f8bc25b99285d0ebdcb7ba83240f",
+          "size": 4103
+        },
+        {
+          "path": "pwa/echo/__init__.py",
+          "sha": "4c41eb0750028becf37014ea94310a766de331c1",
+          "size": 571
+        },
+        {
+          "path": "pwa/echo/bootstrap/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/bootstrap/boot.py",
+          "sha": "e0df8212b3e56bbea3f4a1c377ef1c7203ef015e",
+          "size": 4107
+        },
+        {
+          "path": "pwa/echo/canvas/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/canvas/actor.py",
+          "sha": "4717fc3340397422f5926d5e554fd10a4fe9ee64",
+          "size": 17267
+        },
+        {
+          "path": "pwa/echo/kernel/__init__.py",
+          "sha": "a38516ef3dc7b4ed6f2df601c70b6557e6ce7b87",
+          "size": 785
+        },
+        {
+          "path": "pwa/echo/kernel/skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "pwa/echo/matrix/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/matrix/registry.py",
+          "sha": "f2b8e5b36b6e066b9255d79bde6385991f9d6b24",
+          "size": 10566
+        },
+        {
+          "path": "pwa/echo/mcw/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/mcw/client.py",
+          "sha": "9744d3c7aabac37ce0aec9397b2b667d75499893",
+          "size": 932
+        },
+        {
+          "path": "pwa/echo/operators/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/operators/invariant.py",
+          "sha": "e8450588acb5879aeab89ae82bbb08b2e4ca5881",
+          "size": 2487
+        },
+        {
+          "path": "pwa/echo/operators/lhea.py",
+          "sha": "e505ea628c1b33274c506dc22b6b69bed2523f61",
+          "size": 3064
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "82d8e121a58c5886838e01e6b2456b8a83417c19",
+          "size": 23712
+        },
+        {
+          "path": "pwa/js/bridge.js",
+          "sha": "8fa0a31b77d269c8e6e1a4d25fd7c1b1f47312d8",
+          "size": 3255
+        },
+        {
+          "path": "pwa/js/io.js",
+          "sha": "e9251093a440261ae2247d975697b804810a3e9c",
+          "size": 5113
+        },
+        {
+          "path": "pwa/js/ksm-live.js",
+          "sha": "4ba5b82b326df10985221d185aeb8e8f4bc7a82e",
+          "size": 5209
+        },
+        {
+          "path": "pwa/js/ksm-replay.js",
+          "sha": "b00bf83eaa94cc499ef38736404154dde824ba58",
+          "size": 2584
+        },
+        {
+          "path": "pwa/js/nve.js",
+          "sha": "fb516e19b3b25a94329d5de758059ae0af33764f",
+          "size": 1622
+        },
+        {
+          "path": "pwa/js/panels.js",
+          "sha": "fda2d84e201200ca1395fe47b493ca2c9fd9cfb1",
+          "size": 10377
+        },
+        {
+          "path": "pwa/js/renderer.js",
+          "sha": "a63289b4e29d4bf5b2f1065eb88edd13630e39dc",
+          "size": 3144
+        },
+        {
+          "path": "pwa/js/store.js",
+          "sha": "96bf22a4a889bcedbf6b8b869f5bbf140b14f83a",
+          "size": 6312
+        },
+        {
+          "path": "pwa/js/widgets.js",
+          "sha": "016270d196ef9626b87103d56299e7b69e72c955",
+          "size": 9035
+        },
+        {
+          "path": "pwa/public/eve/bootstrap.js",
+          "sha": "4dfd2c6a6a5010287e31198132645c5f914ac22a",
+          "size": 2614
+        },
+        {
+          "path": "pwa/public/eve/classroom/l000_runner.py",
+          "sha": "d2081abac50a4524c7c3f1d97e32a526607ed1d6",
+          "size": 4520
+        },
+        {
+          "path": "pwa/public/eve/classroom/lobby.py",
+          "sha": "96111d12a3e6f77c0129ea21745f58faf5797103",
+          "size": 2439
+        },
+        {
+          "path": "pwa/public/eve/inert_eve.py",
+          "sha": "63d6e1759db2dc174783ca3f656d6691c0640f69",
+          "size": 858
+        },
+        {
+          "path": "pwa/public/service-worker.js",
+          "sha": "e3c6e4ba21e2f6cd82cd00beff285f3e657f40eb",
+          "size": 826
+        },
+        {
+          "path": "pwa/service-worker.js",
+          "sha": "0e1366433d74e13d5108f7e98d71356b777a4fac",
+          "size": 807
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "9a3c0872cfc76049ce445a7c14f63a5b9aae31c8",
+          "size": 2164
+        },
+        {
+          "path": "pwa/tests/test_runtime.py",
+          "sha": "e23d91f4689078a0c0da199058d672146bc23082",
+          "size": 2129
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "77889b2f025c64b0a79f5b11cccfc4efdefc6232",
+      "branch": "library-shared",
+      "truncated": false,
+      "files": 50,
+      "code": [
+        {
+          "path": "Business/ideas/F-001-tam-build/PROPOSED-pdf_fix.py",
+          "sha": "ccc7052120636fadd6447e616098856ba81b4fe7",
+          "size": 1979
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/build.py",
+          "sha": "ede8da6f9e33631bd7d329f0ace5a880258fac18",
+          "size": 12127
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/build_pdf.py",
+          "sha": "c029cd67c81c375a34d74ac77baaaf9fdd762524",
+          "size": 2391
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/claim_scan.py",
+          "sha": "31f3dcff486c4c8cc96d514eb425da86834d00c3",
+          "size": 3092
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/epub_check.py",
+          "sha": "176d42ee19f82580702a0bfc1941b0d28932ec31",
+          "size": 7122
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/layout_map.py",
+          "sha": "07167e3266c598b65499e73999b2d2730228d07c",
+          "size": 2920
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/ledger_map.py",
+          "sha": "5fbad4c38139431011d63fefaf9d29aed3ef2c4e",
+          "size": 9037
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/ledger_merge.py",
+          "sha": "0f706be4229458ed20a25105ae18b58f90b93ff7",
+          "size": 4052
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/listing_check.py",
+          "sha": "adc3123c303168650e03270701cd3123afe0ce28",
+          "size": 3621
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/rebuild_datasets.py",
+          "sha": "fa3a62f76549ecaea6e226ba5cca41597000d790",
+          "size": 4466
+        },
+        {
+          "path": "Business/ideas/F-001-tam-build/year_close.py",
+          "sha": "56b4b8f831ce7f4c2fb442405edb393ca576a3f5",
+          "size": 6075
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/reference-worker.mjs",
+          "sha": "e912294e5344f442de8b39f39e28930ef5092eea",
+          "size": 6378
+        },
+        {
+          "path": "Workshop/pipelines/P-001-budgeted-inference/test-worker.mjs",
+          "sha": "e430c4bf9538eb634103d2e0f3af9ff3c196a721",
+          "size": 2553
+        }
+      ]
+    },
+    {
+      "sha": "43612d0b2b171f0001f2fad17ec9474d20c292c7",
+      "branch": "library-source-transcriptions",
+      "truncated": false,
+      "files": 979,
+      "code": [
+        {
+          "path": "Datasets/crawler/crawl.py",
+          "sha": "baf1d65878490f0280d4278123cd7668dd3a803d",
+          "size": 24026
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/generalized/verified_resource_gate.py",
+          "sha": "ec9bb238d57ab5b16e1dd9cd70a581f39328f489",
+          "size": 5379
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/algorithm_matrix.py",
+          "sha": "f3ad3b1aa95fbca5c84fc4320a912ecc968c9ba3",
+          "size": 5737
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/test_algorithm_matrix.py",
+          "sha": "2fc5f6405f9412d9fee21de9276899325762f89b",
+          "size": 1831
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/validation/test_verified_resource_gate.py",
+          "sha": "ee6e7cc38fd50332b0d1d39ef90dc591203326d8",
+          "size": 2396
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/generalized/bounded_composition_search.py",
+          "sha": "0fe8719503a3f992beba8bff0db26bc626865c86",
+          "size": 6220
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/original/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/validation/test_bounded_composition_search.py",
+          "sha": "8a2764e876c16ca673b15471419cb877a6c02520",
+          "size": 2308
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/generalized/structured_workspace.py",
+          "sha": "f3b63501f0376ebebabc25c7e3acefab85a8f10a",
+          "size": 7252
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/original/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_source_characterization.py",
+          "sha": "a0bc980ffa4cb1ca3bd9113de725a83d9a3f10d0",
+          "size": 2006
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_structured_workspace.py",
+          "sha": "e2a7752ba9ce30660c264a1a5519f980803b5a61",
+          "size": 4217
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/generalized/safe_relative_entry_writer.mjs",
+          "sha": "a6e7bc4b32211baf073a765c7c332cebcaf176e6",
+          "size": 3120
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/original/app.js",
+          "sha": "e0e476bc9c44436dc35e9894e8ca8bb8511bee6a",
+          "size": 2752
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_safe_relative_entry_writer.mjs",
+          "sha": "99057a46c5b9de91ef88620d15dda1230c914a51",
+          "size": 3465
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_source_characterization.mjs",
+          "sha": "eb36f36d3f90dc1e58985629fd465f87e9f08cc4",
+          "size": 2696
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/generalized/bounded_affinity_admission.py",
+          "sha": "ffa435ec9a9feb1514813059b21117260685b426",
+          "size": 8492
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/original/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_bounded_affinity_admission.py",
+          "sha": "dd118c6d87c09fa54208251258337a2cdda6242c",
+          "size": 4535
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_source_characterization.py",
+          "sha": "0b9a3640cc4e8cfefe87e60545532a6db2658b7d",
+          "size": 1244
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/generalized/static_python_flow_outline.py",
+          "sha": "07ba19a7f041bcd698415ea0188434e10672ea27",
+          "size": 6794
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/original/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_source_characterization.py",
+          "sha": "6d705e5fa1d7a46d50bde4338fe8155f7fc45cb4",
+          "size": 903
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_static_python_flow_outline.py",
+          "sha": "0f7fdda017ae8cc916996e0bca2327ce61e13739",
+          "size": 2222
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/generalized/actor_scoped_command_admission.mjs",
+          "sha": "f53f43e86d144168dc6aea7a420b61ed92ee7398",
+          "size": 3033
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/original/widgets.js",
+          "sha": "de6b78994451575eb79eb28c02d30e8eab3b05c2",
+          "size": 10081
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_actor_scoped_command_admission.mjs",
+          "sha": "8b16d531d9b6659cd5523b875ff853e683779cd9",
+          "size": 3020
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_source_characterization.mjs",
+          "sha": "2a81f9f6bb2640f68633ec9ff57f251fc102c3c3",
+          "size": 1691
+        },
+        {
+          "path": "experiments/nve-d/configuration_lab.py",
+          "sha": "6b19ae3cc06dcde4befd0f3d82e7ea9222e63435",
+          "size": 12833
+        },
+        {
+          "path": "experiments/nve-d/symbolic-kernel.js",
+          "sha": "104401de822f85448acf7084daa4459d6dbb34ea",
+          "size": 2779
+        },
+        {
+          "path": "experiments/nve-d/test_configuration_lab.py",
+          "sha": "a5199fd1dbefeb70ca1da2fd9183c356588cb887",
+          "size": 3360
+        },
+        {
+          "path": "experiments/nve-d/trials/NVE-D-HOURLY-001-compact.py",
+          "sha": "f3d980ad2b2f17cebf11af8dab38cd86835c4eed",
+          "size": 1430
+        },
+        {
+          "path": "experiments/nve-d/trials/NVE-D-HOURLY-029-provenance-comparison-reproducer.py",
+          "sha": "b92f5110004bd1122c1b2281895e62524d73b043",
+          "size": 1204
+        },
+        {
+          "path": "experiments/nve-d/trials/NVE-D-HOURLY-047-shakti-runner.js",
+          "sha": "946aadc29d931e8ed4b085a011cf0c9294401ea9",
+          "size": 6759
+        },
+        {
+          "path": "experiments/nve-d/trials/NVE-D-HOURLY-051-verify.py",
+          "sha": "675ccd29a2aba1b418cb807232df48a819884104",
+          "size": 1045
+        },
+        {
+          "path": "experiments/nve-d/trials/verify_cycle059_archive.py",
+          "sha": "5dedffcabf28b59d53aa6c193fb4ac1b9b24a658",
+          "size": 1838
+        },
+        {
+          "path": "scripts/registry_former/mashet_candidate_registry.py",
+          "sha": "6c4d48545d58f4ee058add1dc3d267e3ce2737b2",
+          "size": 3556
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "4b35ff085b54b869fb4f41351064d3b2a07b0154",
+      "branch": "license-update-2026-09-21",
+      "truncated": false,
+      "files": 2,
+      "code": []
+    },
+    {
+      "sha": "8402a45b41a253cc6e405e16ec139bc4b0a30e86",
+      "branch": "main",
+      "truncated": false,
+      "files": 29,
+      "code": [
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "6934351582ac778896d709441f392ceb00695eb9",
+      "branch": "mashet-parallel-pipeline-test",
+      "truncated": false,
+      "files": 61,
+      "code": [
+        {
+          "path": "dev-suite/build.py",
+          "sha": "34c6186604d2beb72e3f3350bae3e0aee8d926e4",
+          "size": 4932
+        },
+        {
+          "path": "dev-suite/keyboard/src/app.js",
+          "sha": "051d7c8316b6f0f0dbb3f076cb02e1ed950f3071",
+          "size": 30515
+        },
+        {
+          "path": "dev-suite/keyboard/src/substrate_data.py",
+          "sha": "bd4c26b445f304bbf95b03918bd6268848bf5636",
+          "size": 60733
+        },
+        {
+          "path": "dev-suite/suite/python/build_dict.py",
+          "sha": "fe2d5ebb343517308c5895fb2753da1e8d51f630",
+          "size": 3080
+        },
+        {
+          "path": "dev-suite/suite/python/echo_loader.py",
+          "sha": "3b07735139a8009255dd84f1c18f107fe6db5145",
+          "size": 27393
+        },
+        {
+          "path": "dev-suite/suite/python/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "dev-suite/suite/python/symbols.py",
+          "sha": "ae783d41913186f2adee20a3e0d94b0bc95ed25e",
+          "size": 6402
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "11aa85781ade417adcbcf1b19ec1da08789a677a",
+          "size": 1124
+        },
+        {
+          "path": "pwa/js/python-worker.js",
+          "sha": "c1d5817b325929eb8f0ba62d43ace9d7f63b14d5",
+          "size": 1472
+        },
+        {
+          "path": "pwa/python/algorithm_matrix.py",
+          "sha": "f7cf46584a7c787367196ec0d1aae7178dd976e3",
+          "size": 5736
+        },
+        {
+          "path": "pwa/python/test_algorithm_matrix.py",
+          "sha": "21d94fb9f01279e3a1b69d6850e1bf7d38b72948",
+          "size": 1830
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "68c104e6afc28cda880c2f878eb33686e4ee44f1",
+          "size": 687
+        },
+        {
+          "path": "scripts/mashet_parallel_test.py",
+          "sha": "b4a8317b5225be5b4651eccc796761e02677f995",
+          "size": 2867
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "2fcac0e88befddbdad0990d3d11f5b879237ab51",
+      "branch": "mirror-chatgpt",
+      "truncated": false,
+      "files": 3,
+      "code": []
+    },
+    {
+      "sha": "98656aa6cdba4069f0c29e43efc202980de165bc",
+      "branch": "mirror-chatgpt-root",
+      "truncated": false,
+      "files": 159,
+      "code": []
+    },
+    {
+      "sha": "0a1c54c1376707fd2cf7ceed56b639d1bb805e98",
+      "branch": "mirror-claude",
+      "truncated": false,
+      "files": 102,
+      "code": []
+    },
+    {
+      "sha": "9dd4c07e80edd406ec4a0a0644d01e1d8c8af493",
+      "branch": "notebook-0.4-as-is",
+      "truncated": false,
+      "files": 62,
+      "code": [
+        {
+          "path": "pwa/echo/__init__.py",
+          "sha": "4c41eb0750028becf37014ea94310a766de331c1",
+          "size": 571
+        },
+        {
+          "path": "pwa/echo/bootstrap/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/bootstrap/boot.py",
+          "sha": "e0df8212b3e56bbea3f4a1c377ef1c7203ef015e",
+          "size": 4107
+        },
+        {
+          "path": "pwa/echo/canvas/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/canvas/actor.py",
+          "sha": "4717fc3340397422f5926d5e554fd10a4fe9ee64",
+          "size": 17267
+        },
+        {
+          "path": "pwa/echo/kernel/__init__.py",
+          "sha": "a38516ef3dc7b4ed6f2df601c70b6557e6ce7b87",
+          "size": 785
+        },
+        {
+          "path": "pwa/echo/kernel/skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "pwa/echo/matrix/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/matrix/registry.py",
+          "sha": "f2b8e5b36b6e066b9255d79bde6385991f9d6b24",
+          "size": 10566
+        },
+        {
+          "path": "pwa/echo/mcw/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/mcw/client.py",
+          "sha": "9744d3c7aabac37ce0aec9397b2b667d75499893",
+          "size": 932
+        },
+        {
+          "path": "pwa/echo/operators/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/operators/invariant.py",
+          "sha": "e8450588acb5879aeab89ae82bbb08b2e4ca5881",
+          "size": 2487
+        },
+        {
+          "path": "pwa/echo/operators/lhea.py",
+          "sha": "e505ea628c1b33274c506dc22b6b69bed2523f61",
+          "size": 3064
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "5d4f0482c7dcde86c7a7e47e0c7bfebe1efe958f",
+          "size": 23523
+        },
+        {
+          "path": "pwa/js/bridge.js",
+          "sha": "8fa0a31b77d269c8e6e1a4d25fd7c1b1f47312d8",
+          "size": 3255
+        },
+        {
+          "path": "pwa/js/io.js",
+          "sha": "e9251093a440261ae2247d975697b804810a3e9c",
+          "size": 5113
+        },
+        {
+          "path": "pwa/js/nve.js",
+          "sha": "fb516e19b3b25a94329d5de758059ae0af33764f",
+          "size": 1622
+        },
+        {
+          "path": "pwa/js/panels.js",
+          "sha": "fda2d84e201200ca1395fe47b493ca2c9fd9cfb1",
+          "size": 10377
+        },
+        {
+          "path": "pwa/js/renderer.js",
+          "sha": "a63289b4e29d4bf5b2f1065eb88edd13630e39dc",
+          "size": 3144
+        },
+        {
+          "path": "pwa/js/store.js",
+          "sha": "96bf22a4a889bcedbf6b8b869f5bbf140b14f83a",
+          "size": 6312
+        },
+        {
+          "path": "pwa/js/widgets.js",
+          "sha": "016270d196ef9626b87103d56299e7b69e72c955",
+          "size": 9035
+        },
+        {
+          "path": "pwa/public/eve/bootstrap.js",
+          "sha": "4dfd2c6a6a5010287e31198132645c5f914ac22a",
+          "size": 2614
+        },
+        {
+          "path": "pwa/public/eve/classroom/l000_runner.py",
+          "sha": "d2081abac50a4524c7c3f1d97e32a526607ed1d6",
+          "size": 4520
+        },
+        {
+          "path": "pwa/public/eve/classroom/lobby.py",
+          "sha": "96111d12a3e6f77c0129ea21745f58faf5797103",
+          "size": 2439
+        },
+        {
+          "path": "pwa/public/eve/inert_eve.py",
+          "sha": "63d6e1759db2dc174783ca3f656d6691c0640f69",
+          "size": 858
+        },
+        {
+          "path": "pwa/public/service-worker.js",
+          "sha": "e3c6e4ba21e2f6cd82cd00beff285f3e657f40eb",
+          "size": 826
+        },
+        {
+          "path": "pwa/service-worker.js",
+          "sha": "0e1366433d74e13d5108f7e98d71356b777a4fac",
+          "size": 807
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "9a3c0872cfc76049ce445a7c14f63a5b9aae31c8",
+          "size": 2164
+        },
+        {
+          "path": "pwa/tests/test_runtime.py",
+          "sha": "e23d91f4689078a0c0da199058d672146bc23082",
+          "size": 2129
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "87760bf2d7edc702f9cd94fd1e91840d0079bc1d",
+      "branch": "personal-library-pwa",
+      "truncated": false,
+      "files": 56,
+      "code": [
+        {
+          "path": "core-lexicon/eve/build_ep7.py",
+          "sha": "e7d9248c00f576e1702e21c31ca576fe24a3d7ac",
+          "size": 16847
+        },
+        {
+          "path": "core-lexicon/eve/eve_core.py",
+          "sha": "0fafe0e44924579deac31069f23c24dd71f6156b",
+          "size": 5530
+        },
+        {
+          "path": "core-lexicon/eve/eve_indus.py",
+          "sha": "58d718c98b9d10d4fdd17821f67b73797ced2413",
+          "size": 14532
+        },
+        {
+          "path": "core-lexicon/pyodide/pyodide.asm.js",
+          "sha": "fbe05187d1ff212102b226649149c02c3010ccdf",
+          "size": 1229099
+        },
+        {
+          "path": "core-lexicon/pyodide/pyodide.js",
+          "sha": "8e7acbd58e037a970d14e1e39d6d8e39b9358c57",
+          "size": 14761
+        },
+        {
+          "path": "core-lexicon/sw.js",
+          "sha": "7fe415e6fc4a653215f3cf30e5d0ec3e05515cd7",
+          "size": 1392
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "8cf2a98f2542db93b84b698ec9b465cc5ae192fd",
+      "branch": "protocol-graft-prune-test",
+      "truncated": false,
+      "files": 2,
+      "code": []
+    },
+    {
+      "sha": "70642cf4a2b20b580b8497e7102f27bba689b6a2",
+      "branch": "pwa-hosting-environment",
+      "truncated": false,
+      "files": 60,
+      "code": [
+        {
+          "path": "pwa/echo/__init__.py",
+          "sha": "4c41eb0750028becf37014ea94310a766de331c1",
+          "size": 571
+        },
+        {
+          "path": "pwa/echo/bootstrap/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/bootstrap/boot.py",
+          "sha": "e0df8212b3e56bbea3f4a1c377ef1c7203ef015e",
+          "size": 4107
+        },
+        {
+          "path": "pwa/echo/canvas/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/canvas/actor.py",
+          "sha": "4717fc3340397422f5926d5e554fd10a4fe9ee64",
+          "size": 17267
+        },
+        {
+          "path": "pwa/echo/kernel/__init__.py",
+          "sha": "a38516ef3dc7b4ed6f2df601c70b6557e6ce7b87",
+          "size": 785
+        },
+        {
+          "path": "pwa/echo/kernel/skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "pwa/echo/matrix/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/matrix/registry.py",
+          "sha": "f2b8e5b36b6e066b9255d79bde6385991f9d6b24",
+          "size": 10566
+        },
+        {
+          "path": "pwa/echo/mcw/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/mcw/client.py",
+          "sha": "9744d3c7aabac37ce0aec9397b2b667d75499893",
+          "size": 932
+        },
+        {
+          "path": "pwa/echo/operators/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/operators/invariant.py",
+          "sha": "e8450588acb5879aeab89ae82bbb08b2e4ca5881",
+          "size": 2487
+        },
+        {
+          "path": "pwa/echo/operators/lhea.py",
+          "sha": "e505ea628c1b33274c506dc22b6b69bed2523f61",
+          "size": 3064
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "5d4f0482c7dcde86c7a7e47e0c7bfebe1efe958f",
+          "size": 23523
+        },
+        {
+          "path": "pwa/js/bridge.js",
+          "sha": "8fa0a31b77d269c8e6e1a4d25fd7c1b1f47312d8",
+          "size": 3255
+        },
+        {
+          "path": "pwa/js/io.js",
+          "sha": "e9251093a440261ae2247d975697b804810a3e9c",
+          "size": 5113
+        },
+        {
+          "path": "pwa/js/nve.js",
+          "sha": "fb516e19b3b25a94329d5de758059ae0af33764f",
+          "size": 1622
+        },
+        {
+          "path": "pwa/js/panels.js",
+          "sha": "fda2d84e201200ca1395fe47b493ca2c9fd9cfb1",
+          "size": 10377
+        },
+        {
+          "path": "pwa/js/renderer.js",
+          "sha": "a63289b4e29d4bf5b2f1065eb88edd13630e39dc",
+          "size": 3144
+        },
+        {
+          "path": "pwa/js/store.js",
+          "sha": "96bf22a4a889bcedbf6b8b869f5bbf140b14f83a",
+          "size": 6312
+        },
+        {
+          "path": "pwa/js/widgets.js",
+          "sha": "016270d196ef9626b87103d56299e7b69e72c955",
+          "size": 9035
+        },
+        {
+          "path": "pwa/public/eve/bootstrap.js",
+          "sha": "4dfd2c6a6a5010287e31198132645c5f914ac22a",
+          "size": 2614
+        },
+        {
+          "path": "pwa/public/eve/classroom/l000_runner.py",
+          "sha": "d2081abac50a4524c7c3f1d97e32a526607ed1d6",
+          "size": 4520
+        },
+        {
+          "path": "pwa/public/eve/classroom/lobby.py",
+          "sha": "96111d12a3e6f77c0129ea21745f58faf5797103",
+          "size": 2439
+        },
+        {
+          "path": "pwa/public/eve/inert_eve.py",
+          "sha": "63d6e1759db2dc174783ca3f656d6691c0640f69",
+          "size": 858
+        },
+        {
+          "path": "pwa/public/service-worker.js",
+          "sha": "e3c6e4ba21e2f6cd82cd00beff285f3e657f40eb",
+          "size": 826
+        },
+        {
+          "path": "pwa/service-worker.js",
+          "sha": "0e1366433d74e13d5108f7e98d71356b777a4fac",
+          "size": 807
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "9a3c0872cfc76049ce445a7c14f63a5b9aae31c8",
+          "size": 2164
+        },
+        {
+          "path": "pwa/tests/test_runtime.py",
+          "sha": "e23d91f4689078a0c0da199058d672146bc23082",
+          "size": 2129
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "55ba1f709d8e32dd22a35d54b4b40f52e27c7ec9",
+      "branch": "research-discourse-registry",
+      "truncated": false,
+      "files": 48,
+      "code": [
+        {
+          "path": "research-registry/bridge/worker.mjs",
+          "sha": "3785c1dc415c386f48c6cbce533f836cdd050d0a",
+          "size": 964
+        },
+        {
+          "path": "research-registry/discourse/DISC-002-a000-probe.py",
+          "sha": "c92957e8e2fcdcc0f7899f2984af9984a5348b70",
+          "size": 2024
+        },
+        {
+          "path": "research-registry/discourse/DISC-002-invariant-core-probe.py",
+          "sha": "0e4f0a54b03b8875e1d982a2395e3b98a9842942",
+          "size": 3347
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "2c7616485dc670745433e8647d9467d7fc3b732b",
+      "branch": "resh-lattice-agency",
+      "truncated": false,
+      "files": 63,
+      "code": [
+        {
+          "path": "experiments/resh_lattice_agency_runner.py",
+          "sha": "171994508bc73de692a5abac664e98c1f7b88340",
+          "size": 6023
+        },
+        {
+          "path": "experiments/resh_lattice_run7.py",
+          "sha": "79a8e53a1e4bdc4fd3ab29d82ceef556c7a6cbba",
+          "size": 4161
+        },
+        {
+          "path": "generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5aaf8a57d3199f90674739b690d87fa1ce88cdb0",
+          "size": 12902
+        },
+        {
+          "path": "src/alphabet_data.py",
+          "sha": "3ec8330646880e69dd9dd74b35f79fd58409af0e",
+          "size": 19851
+        },
+        {
+          "path": "src/build_thesaurus.py",
+          "sha": "53cadf4ce99bd795cae610be21048b17df7bda20",
+          "size": 1693
+        },
+        {
+          "path": "src/echo_governor_skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "src/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "src/echo_pe_mirror.py",
+          "sha": "64bb45d7d738e27cb8cb7563404cf738566c90b6",
+          "size": 20165
+        },
+        {
+          "path": "src/echo_sub_governor.py",
+          "sha": "9e915c2fe45fdb2411aee8a861c4b86bd437bdcf",
+          "size": 17044
+        },
+        {
+          "path": "src/generate_matrices.py",
+          "sha": "c5bc427443b83033044d80fe84b81a98866a8b3b",
+          "size": 12891
+        },
+        {
+          "path": "src/homework.py",
+          "sha": "7411472aacc69326be8e1a52f171fe9b1339a9d8",
+          "size": 9704
+        },
+        {
+          "path": "src/import_hebrew_demo.py",
+          "sha": "6d5b64728b1c226de9055a0edc6a2c75da614212",
+          "size": 6479
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        },
+        {
+          "path": "src/run_homework.py",
+          "sha": "eb04b8e80f13057c511c2745a05371e1c947ea05",
+          "size": 5990
+        },
+        {
+          "path": "tests/echo_500round_run.py",
+          "sha": "b8346a0a321e16669df7e9287fe58d9c5fd5f90b",
+          "size": 22317
+        },
+        {
+          "path": "tests/echo_blind_study.py",
+          "sha": "82e49256cb474ea5c3aea568dcc430af52db52e1",
+          "size": 18233
+        },
+        {
+          "path": "tests/multipass_orientation_test.py",
+          "sha": "d8102b34165495377e035f69e7a19296e84875f2",
+          "size": 9894
+        },
+        {
+          "path": "tests/number_integration_test.py",
+          "sha": "8d7e44e5406a52fc81ae5d44f45a7c9df70fe6d3",
+          "size": 11233
+        },
+        {
+          "path": "tests/pe_ayin_resh_communication.py",
+          "sha": "64a171a6791f2356006683596b56cbe289cbbdc0",
+          "size": 9848
+        },
+        {
+          "path": "tests/self_governance_test.py",
+          "sha": "3e6c7f071155bc5cfd9504a76305b6c7315a2eef",
+          "size": 10071
+        }
+      ]
+    },
+    {
+      "sha": "44a8fa60be51ecfecbe000a0d93a91287cf0c329",
+      "branch": "stress-test-002-clean",
+      "truncated": false,
+      "files": 179,
+      "code": [
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/generalized/verified_resource_gate.py",
+          "sha": "ec9bb238d57ab5b16e1dd9cd70a581f39328f489",
+          "size": 5379
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/algorithm_matrix.py",
+          "sha": "f3ad3b1aa95fbca5c84fc4320a912ecc968c9ba3",
+          "size": 5737
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/original/test_algorithm_matrix.py",
+          "sha": "2fc5f6405f9412d9fee21de9276899325762f89b",
+          "size": 1831
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/validation/test_verified_resource_gate.py",
+          "sha": "ee6e7cc38fd50332b0d1d39ef90dc591203326d8",
+          "size": 2396
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/generalized/bounded_composition_search.py",
+          "sha": "0fe8719503a3f992beba8bff0db26bc626865c86",
+          "size": 6220
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/original/test_autonomous_agency_a1.py",
+          "sha": "a5d4ece3ad283e576ac0761039332a70c818ba35",
+          "size": 4779
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/validation/test_bounded_composition_search.py",
+          "sha": "8a2764e876c16ca673b15471419cb877a6c02520",
+          "size": 2308
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/generalized/structured_workspace.py",
+          "sha": "f3b63501f0376ebebabc25c7e3acefab85a8f10a",
+          "size": 7252
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/original/echo_matrix_dictionary.py",
+          "sha": "7170daf50c49b5037a0ca9fd7a02ab71f7a4fb1c",
+          "size": 4377
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_source_characterization.py",
+          "sha": "a0bc980ffa4cb1ca3bd9113de725a83d9a3f10d0",
+          "size": 2006
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_structured_workspace.py",
+          "sha": "e2a7752ba9ce30660c264a1a5519f980803b5a61",
+          "size": 4217
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/generalized/safe_relative_entry_writer.mjs",
+          "sha": "a6e7bc4b32211baf073a765c7c332cebcaf176e6",
+          "size": 3120
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/original/app.js",
+          "sha": "e0e476bc9c44436dc35e9894e8ca8bb8511bee6a",
+          "size": 2752
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_safe_relative_entry_writer.mjs",
+          "sha": "99057a46c5b9de91ef88620d15dda1230c914a51",
+          "size": 3465
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_source_characterization.mjs",
+          "sha": "eb36f36d3f90dc1e58985629fd465f87e9f08cc4",
+          "size": 2696
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/generalized/bounded_affinity_admission.py",
+          "sha": "ffa435ec9a9feb1514813059b21117260685b426",
+          "size": 8492
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/original/echo_hourglass.py",
+          "sha": "c635113417a7879a58f3023ec3b729522a9837a5",
+          "size": 6005
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_bounded_affinity_admission.py",
+          "sha": "dd118c6d87c09fa54208251258337a2cdda6242c",
+          "size": 4535
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_source_characterization.py",
+          "sha": "0b9a3640cc4e8cfefe87e60545532a6db2658b7d",
+          "size": 1244
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/generalized/static_python_flow_outline.py",
+          "sha": "07ba19a7f041bcd698415ea0188434e10672ea27",
+          "size": 6794
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/original/libmap.py",
+          "sha": "631cae0d3a816a9bfdd508959f5c0044db2727a8",
+          "size": 5282
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_source_characterization.py",
+          "sha": "6d705e5fa1d7a46d50bde4338fe8155f7fc45cb4",
+          "size": 903
+        },
+        {
+          "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_static_python_flow_outline.py",
+          "sha": "0f7fdda017ae8cc916996e0bca2327ce61e13739",
+          "size": 2222
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    },
+    {
+      "sha": "cddcfe2866aee79da1d0115201454d62333a45ce",
+      "branch": "widgeting-experiment",
+      "truncated": false,
+      "files": 61,
+      "code": [
+        {
+          "path": "pwa/echo/__init__.py",
+          "sha": "4c41eb0750028becf37014ea94310a766de331c1",
+          "size": 571
+        },
+        {
+          "path": "pwa/echo/bootstrap/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/bootstrap/boot.py",
+          "sha": "e0df8212b3e56bbea3f4a1c377ef1c7203ef015e",
+          "size": 4107
+        },
+        {
+          "path": "pwa/echo/canvas/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/canvas/actor.py",
+          "sha": "4717fc3340397422f5926d5e554fd10a4fe9ee64",
+          "size": 17267
+        },
+        {
+          "path": "pwa/echo/kernel/__init__.py",
+          "sha": "a38516ef3dc7b4ed6f2df601c70b6557e6ce7b87",
+          "size": 785
+        },
+        {
+          "path": "pwa/echo/kernel/skeleton.py",
+          "sha": "63eb982989b4f3478d649430b555c8f4ba755c27",
+          "size": 445603
+        },
+        {
+          "path": "pwa/echo/matrix/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/matrix/registry.py",
+          "sha": "f2b8e5b36b6e066b9255d79bde6385991f9d6b24",
+          "size": 10566
+        },
+        {
+          "path": "pwa/echo/mcw/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/mcw/client.py",
+          "sha": "9744d3c7aabac37ce0aec9397b2b667d75499893",
+          "size": 932
+        },
+        {
+          "path": "pwa/echo/operators/__init__.py",
+          "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "size": 0
+        },
+        {
+          "path": "pwa/echo/operators/invariant.py",
+          "sha": "e8450588acb5879aeab89ae82bbb08b2e4ca5881",
+          "size": 2487
+        },
+        {
+          "path": "pwa/echo/operators/lhea.py",
+          "sha": "e505ea628c1b33274c506dc22b6b69bed2523f61",
+          "size": 3064
+        },
+        {
+          "path": "pwa/js/app.js",
+          "sha": "5d4f0482c7dcde86c7a7e47e0c7bfebe1efe958f",
+          "size": 23523
+        },
+        {
+          "path": "pwa/js/bridge.js",
+          "sha": "8fa0a31b77d269c8e6e1a4d25fd7c1b1f47312d8",
+          "size": 3255
+        },
+        {
+          "path": "pwa/js/io.js",
+          "sha": "e9251093a440261ae2247d975697b804810a3e9c",
+          "size": 5113
+        },
+        {
+          "path": "pwa/js/nve.js",
+          "sha": "fb516e19b3b25a94329d5de758059ae0af33764f",
+          "size": 1622
+        },
+        {
+          "path": "pwa/js/panels.js",
+          "sha": "fda2d84e201200ca1395fe47b493ca2c9fd9cfb1",
+          "size": 10377
+        },
+        {
+          "path": "pwa/js/renderer.js",
+          "sha": "a63289b4e29d4bf5b2f1065eb88edd13630e39dc",
+          "size": 3144
+        },
+        {
+          "path": "pwa/js/store.js",
+          "sha": "96bf22a4a889bcedbf6b8b869f5bbf140b14f83a",
+          "size": 6312
+        },
+        {
+          "path": "pwa/js/widgets.js",
+          "sha": "de6b78994451575eb79eb28c02d30e8eab3b05c2",
+          "size": 10081
+        },
+        {
+          "path": "pwa/public/eve/bootstrap.js",
+          "sha": "4dfd2c6a6a5010287e31198132645c5f914ac22a",
+          "size": 2614
+        },
+        {
+          "path": "pwa/public/eve/classroom/l000_runner.py",
+          "sha": "d2081abac50a4524c7c3f1d97e32a526607ed1d6",
+          "size": 4520
+        },
+        {
+          "path": "pwa/public/eve/classroom/lobby.py",
+          "sha": "96111d12a3e6f77c0129ea21745f58faf5797103",
+          "size": 2439
+        },
+        {
+          "path": "pwa/public/eve/inert_eve.py",
+          "sha": "63d6e1759db2dc174783ca3f656d6691c0640f69",
+          "size": 858
+        },
+        {
+          "path": "pwa/public/service-worker.js",
+          "sha": "e3c6e4ba21e2f6cd82cd00beff285f3e657f40eb",
+          "size": 826
+        },
+        {
+          "path": "pwa/service-worker.js",
+          "sha": "0e1366433d74e13d5108f7e98d71356b777a4fac",
+          "size": 807
+        },
+        {
+          "path": "pwa/sw.js",
+          "sha": "9a3c0872cfc76049ce445a7c14f63a5b9aae31c8",
+          "size": 2164
+        },
+        {
+          "path": "pwa/tests/test_runtime.py",
+          "sha": "e23d91f4689078a0c0da199058d672146bc23082",
+          "size": 2129
+        },
+        {
+          "path": "src/a159_cloudflare_migrator.py",
+          "sha": "5c876187156ee0fc0057eb38e3ccabd357c6fbeb",
+          "size": 9332
+        },
+        {
+          "path": "src/index.js",
+          "sha": "22e348f504dbba8a1d7eb92bfbb9f5a1a515c7ca",
+          "size": 6370
+        }
+      ]
+    }
+  ],
+  "scope": "All branch trees inventoried; selected candidates inspected in source. This is not an exhaustive code audit."
+}
