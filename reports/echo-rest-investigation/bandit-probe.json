@@ -1,0 +1,17 @@
+{
+  "first_generation_choices": [
+    "INTRODUCE",
+    "INTRODUCE",
+    "INTRODUCE",
+    "INTRODUCE"
+  ],
+  "checkpoint": {
+    "decision": "ANCHORED",
+    "reason": "generation rate 1.00 vs anchored baseline n/a \u2014 healthy, merged into baseline",
+    "current_rate": 1.0,
+    "baseline_rate": null,
+    "attempts": 4
+  },
+  "next_choice_after_checkpoint": "ALIGN",
+  "scope": "Actual preserved A-101/A-113 calls; supplied arms and Boolean fixture outcomes, not a new autonomous agent"
+}

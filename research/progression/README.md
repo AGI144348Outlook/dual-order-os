@@ -27,6 +27,12 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [012 — Five readings of the Consent Paradox](012-consent-paradox-five-reading-passes.md) — exact source copy, repeated exposure, unedited outputs and remaining comprehension limits.
 
+- [013 — Perception and identification vocabulary](013-perception-identification-vocabulary.md) — source-sense clips for ע/ר, vocabulary gaps and 93 Python regression tests.
+
+- [014 — Recess with glyph blocks](014-recess-with-glyph-blocks.md) — bounded integrated observation; no spontaneous dispatch. Report 015 narrows the broader claim about missing selection mechanisms.
+
+- [015 — Rest selector and executor investigation](015-rest-selector-executor-investigation.md) — 30 repositories, 98 branch inventories, recovered selectors/composition mechanisms, 63 fresh module/scaffold tests and remaining integration gaps.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
@@ -34,3 +40,4 @@ During subsequent authorized work, add a numbered progression report or a dated 
 Use **implemented**, **tested**, **specified**, **inferred**, and **proposed** distinctly. Keep source claims separate from observed behavior. Corrections should be dated and linked to the superseded statement. A new result does not retroactively validate an earlier hypothesis.
 
 These records aid review; they do not certify intelligence, settle linguistic hypotheses, grant dataset rights, or activate components. References may require authorized repository access. No automatic publishing or background reporting service is configured.
+

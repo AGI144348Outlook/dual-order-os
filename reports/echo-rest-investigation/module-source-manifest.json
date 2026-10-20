@@ -1,0 +1,138 @@
+[
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/generalized/verified_resource_gate.py",
+    "git_blob": "ec9bb238d57ab5b16e1dd9cd70a581f39328f489",
+    "bytes": 5379
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0001-verified-resource-gate/validation/test_verified_resource_gate.py",
+    "git_blob": "ee6e7cc38fd50332b0d1d39ef90dc591203326d8",
+    "bytes": 2396
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/generalized/bounded_composition_search.py",
+    "git_blob": "0fe8719503a3f992beba8bff0db26bc626865c86",
+    "bytes": 6220
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0002-bounded-composition-search/validation/test_bounded_composition_search.py",
+    "git_blob": "8a2764e876c16ca673b15471419cb877a6c02520",
+    "bytes": 2308
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/generalized/structured_workspace.py",
+    "git_blob": "f3b63501f0376ebebabc25c7e3acefab85a8f10a",
+    "bytes": 7252
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0003-structured-workspace-registry/validation/test_structured_workspace.py",
+    "git_blob": "e2a7752ba9ce30660c264a1a5519f980803b5a61",
+    "bytes": 4217
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/generalized/safe_relative_entry_writer.mjs",
+    "git_blob": "a6e7bc4b32211baf073a765c7c332cebcaf176e6",
+    "bytes": 3120
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0004-safe-relative-entry-writer/validation/test_safe_relative_entry_writer.mjs",
+    "git_blob": "99057a46c5b9de91ef88620d15dda1230c914a51",
+    "bytes": 3465
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/generalized/bounded_affinity_admission.py",
+    "git_blob": "ffa435ec9a9feb1514813059b21117260685b426",
+    "bytes": 8492
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0005-bounded-affinity-admission/validation/test_bounded_affinity_admission.py",
+    "git_blob": "dd118c6d87c09fa54208251258337a2cdda6242c",
+    "bytes": 4535
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/generalized/static_python_flow_outline.py",
+    "git_blob": "07ba19a7f041bcd698415ea0188434e10672ea27",
+    "bytes": 6794
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0006-static-python-flow-outline/validation/test_static_python_flow_outline.py",
+    "git_blob": "0f7fdda017ae8cc916996e0bca2327ce61e13739",
+    "bytes": 2222
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/generalized/actor_scoped_command_admission.mjs",
+    "git_blob": "f53f43e86d144168dc6aea7a420b61ed92ee7398",
+    "bytes": 3033
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0007-actor-scoped-command-admission/validation/test_actor_scoped_command_admission.mjs",
+    "git_blob": "8b16d531d9b6659cd5523b875ff853e683779cd9",
+    "bytes": 3020
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0008/generalized/CONTRACT.md",
+    "git_blob": "901f142fba64025817497bee6eb4754b6c12f27f",
+    "bytes": 738
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0008/generalized/schedule_gate.py",
+    "git_blob": "26cfdf845eaf9d13a5e3e41855e43d0b1d9a6775",
+    "bytes": 5037
+  },
+  {
+    "repository": "AGI144348Outlook/Echo_Green_Future",
+    "branch": "code-library-registry",
+    "commit": "8311da62ba90ce547a61b27d2c2836b8f89550a9",
+    "path": "code_library_registry/modules/MOD-0008/generalized/test_schedule_gate.py",
+    "git_blob": "c876680fc2226e76dae5bf7bb0a41df2e5d3ea48",
+    "bytes": 2528
+  }
+]

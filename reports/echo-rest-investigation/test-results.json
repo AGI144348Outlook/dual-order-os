@@ -1,0 +1,56 @@
+[
+  {
+    "module": "MOD-0001-verified-resource-gate",
+    "test": "test_verified_resource_gate.py",
+    "exit": 0,
+    "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.001s\n\nOK\n"
+  },
+  {
+    "module": "MOD-0002-bounded-composition-search",
+    "test": "test_bounded_composition_search.py",
+    "exit": 0,
+    "output": ".......\n----------------------------------------------------------------------\nRan 7 tests in 0.000s\n\nOK\n"
+  },
+  {
+    "module": "MOD-0003-structured-workspace-registry",
+    "test": "test_structured_workspace.py",
+    "exit": 0,
+    "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.002s\n\nOK\n"
+  },
+  {
+    "module": "MOD-0004-safe-relative-entry-writer",
+    "test": "test_safe_relative_entry_writer.mjs",
+    "exit": 0,
+    "output": "\u2714 normalizes a bounded relative file path (1.344484ms)\n\u2714 rejects ambiguous, absolute, traversal and directory-only paths (0.440724ms)\n\u2714 enforces depth, total length and segment length budgets (0.186817ms)\n\u2714 invalid paths cause no destination or source mutation (0.418481ms)\n\u2714 creates validated directory handles and streams one file (0.674109ms)\n\u2714 propagates a streaming failure without reporting success (0.279344ms)\n\u2139 tests 6\n\u2139 suites 0\n\u2139 pass 6\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 9.975131\n"
+  },
+  {
+    "module": "MOD-0005-bounded-affinity-admission",
+    "test": "test_bounded_affinity_admission.py",
+    "exit": 0,
+    "output": ".......\n----------------------------------------------------------------------\nRan 7 tests in 0.000s\n\nOK\n"
+  },
+  {
+    "module": "MOD-0006-static-python-flow-outline",
+    "test": "test_static_python_flow_outline.py",
+    "exit": 0,
+    "output": ".......\n----------------------------------------------------------------------\nRan 7 tests in 0.001s\n\nOK\n"
+  },
+  {
+    "module": "MOD-0007-actor-scoped-command-admission",
+    "test": "test_actor_scoped_command_admission.mjs",
+    "exit": 0,
+    "output": "\u2714 rejects malformed commands and unknown principals or actions (1.506624ms)\n\u2714 open requires a registered kind and bounded finite geometry (0.210111ms)\n\u2714 agent cannot claim human ownership when opening (0.131374ms)\n\u2714 agent cannot rebind an existing human resource even to null (0.161189ms)\n\u2714 agent cannot mutate human-owned resources (0.182591ms)\n\u2714 focus remains available to an agent on a human resource (0.298382ms)\n\u2714 human and owning agent receive geometry validation (0.159316ms)\n\u2714 admission is pure and returns a frozen decision (0.153417ms)\n\u2139 tests 8\n\u2139 suites 0\n\u2139 pass 8\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 10.858992\n"
+  },
+  {
+    "module": "MOD-0008",
+    "test": "test_schedule_gate.py",
+    "exit": 0,
+    "output": ".........\n----------------------------------------------------------------------\nRan 9 tests in 0.008s\n\nOK\n"
+  },
+  {
+    "module": "NVE-D",
+    "test": "test_configuration_lab.py",
+    "exit": 0,
+    "output": "test_240_ordered_pairs (test_configuration_lab.ConfigurationLabTests.test_240_ordered_pairs) ... ok\ntest_candidate_moves_never_mutate_parent (test_configuration_lab.ConfigurationLabTests.test_candidate_moves_never_mutate_parent) ... ok\ntest_canonical_independent_of_insertion_order (test_configuration_lab.ConfigurationLabTests.test_canonical_independent_of_insertion_order) ... ok\ntest_duplicate_tracking (test_configuration_lab.ConfigurationLabTests.test_duplicate_tracking) ... ok\ntest_judge_agreement_for_open_and_equal (test_configuration_lab.ConfigurationLabTests.test_judge_agreement_for_open_and_equal) ... ok\ntest_no_unpinned_registry (test_configuration_lab.ConfigurationLabTests.test_no_unpinned_registry) ... ok\ntest_registry_ref_is_part_of_identity (test_configuration_lab.ConfigurationLabTests.test_registry_ref_is_part_of_identity) ... ok\ntest_seed_reproducibility_and_budgets (test_configuration_lab.ConfigurationLabTests.test_seed_reproducibility_and_budgets) ... ok\ntest_tamper_detected (test_configuration_lab.ConfigurationLabTests.test_tamper_detected) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.039s\n\nOK\n"
+  }
+]
