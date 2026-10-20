@@ -13,6 +13,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [005 — Catalog box Matrix and reusable configurations](005-catalog-box.md) — persistent card versions, saved-template capture, independent restoration, and 13 passing tests.
 
+- [006 — Claude export preservation in shared private R2](006-claude-export-preservation.md) — six archives and original manifest transferred and read-back verified; frames archive absent.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
