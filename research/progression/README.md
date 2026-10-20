@@ -19,6 +19,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [008 — Diagnostic checkpoint and branch adoption](008-diagnostics-and-branch-adoption.md) — 50 baseline diagnostics, inventory of 42 branches, recovered bounded language components, and remaining failures.
 
+- [009 — Sentence cards and dictionary observation](009-sentence-cards-and-dictionary-observation.md) — 1,000 dictionary words, 1,491 sense cards, 14 mapped blocks, 61 Python tests, and explicit boundaries around unprompted behavior.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.

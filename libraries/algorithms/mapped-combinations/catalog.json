@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "combinations": [
+    {
+      "id": "GEN-EXPRESSION",
+      "status": "implemented-heuristic",
+      "code": [
+        {
+          "path": "libraries/algorithms/mapped-combinations/recipes.py",
+          "callable": "retrieve_generalizations"
+        },
+        {
+          "path": "vendor/echo-genesis/src/echo_governor_skeleton.py",
+          "callable": "AlgorithmicCommunicator.communicate"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "GEN-UNDERSTANDING",
+      "status": "implemented-heuristic",
+      "code": [
+        {
+          "path": "libraries/algorithms/mapped-combinations/recipes.py",
+          "callable": "candidate_understandings"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "GEN-LOGIC",
+      "status": "implemented-known-unsoundness",
+      "code": [
+        {
+          "path": "vendor/echo-genesis/src/echo_governor_skeleton.py",
+          "callable": "LogicReasoningMatrix.generate"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "LOBBY-EVOLUTION",
+      "status": "implemented-programmed-policy",
+      "code": [
+        {
+          "path": "vendor/echo-genesis/src/echo_governor_skeleton.py",
+          "callable": "LobbyEvolutionGovernor.evolve"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "CARD-SENTENCE",
+      "status": "new-tested-bounded",
+      "code": [
+        {
+          "path": "libraries/echo_sentence_cards.py",
+          "callable": "SentenceCards.transform"
+        },
+        {
+          "path": "libraries/echo_sentence_cards.py",
+          "callable": "SentenceCards.reorder"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "CARD-RETURN",
+      "status": "proposed-not-implemented",
+      "code": [],
+      "auto_dispatch": false
+    },
+    {
+      "id": "CARD-CLIP",
+      "status": "implemented-tested",
+      "code": [
+        {
+          "path": "libraries/echo_workspace.py",
+          "callable": "EchoWorkspace.paperclip"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "CARD-STAMP",
+      "status": "implemented-tested-association",
+      "code": [
+        {
+          "path": "libraries/echo_workspace.py",
+          "callable": "EchoWorkspace.stamp_matches"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "CARD-TEMPLATE",
+      "status": "implemented-tested",
+      "code": [
+        {
+          "path": "libraries/catalog_box.py",
+          "callable": "CatalogBox.instantiate"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "EVIDENCE-LANGUAGE",
+      "status": "implemented-tested-bounded",
+      "code": [
+        {
+          "path": "libraries/echo_language.py",
+          "callable": "inspect_language"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "ROLE-ARTICULATION",
+      "status": "implemented-known-limits",
+      "code": [
+        {
+          "path": "libraries/echo_language.py",
+          "callable": "articulate_roles"
+        }
+      ],
+      "auto_dispatch": false
+    },
+    {
+      "id": "MIRROR-RETURN",
+      "status": "separate-branch-only",
+      "code": [
+        {
+          "path": "libraries/echo_sentence/runtime.py",
+          "callable": "RecursiveSentencePipeline.run"
+        }
+      ],
+      "auto_dispatch": false,
+      "source_branch": "echo-grammar-recursive-sentencing"
+    },
+    {
+      "id": "JOINT-SENSE",
+      "status": "source-not-integrated",
+      "code": [
+        {
+          "path": "libraries/eve/wsd/sentence_matrix.py",
+          "callable": "SentenceMatrix.collapse"
+        }
+      ],
+      "auto_dispatch": false,
+      "source_branch": "main"
+    },
+    {
+      "id": "DSL-INVERSION",
+      "status": "specified-not-implemented",
+      "code": [],
+      "auto_dispatch": false
+    }
+  ]
+}

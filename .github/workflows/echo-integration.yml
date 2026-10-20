@@ -6,6 +6,8 @@ on:
       - '.github/workflows/echo-integration.yml'
       - 'libraries/echo_*.py'
       - 'libraries/catalog_box.py'
+      - 'libraries/algorithms/**'
+      - 'tools/observe_echo_dictionary.py'
       - 'tests/**'
       - 'tools/materialize_genesis.py'
       - 'tools/run_echo_integration.py'
@@ -46,11 +48,17 @@ jobs:
         env:
           PYTHONDONTWRITEBYTECODE: '1'
         run: python tools/run_echo_benchmarks.py
+      - name: Observe bounded dictionary behavior without a sentence task
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: |
+          PYTHONHASHSEED=42 python tools/observe_echo_dictionary.py --archive vendor/echo-genesis/integration-inbox/core-lexicon/core-lexicon.zip --output reports/echo-cards/complete-42
+          PYTHONHASHSEED=7 python tools/observe_echo_dictionary.py --archive vendor/echo-genesis/integration-inbox/core-lexicon/core-lexicon.zip --output reports/echo-cards/complete-7
       - name: Commit verified snapshot and results to integration branch only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add vendor/echo-genesis reports/echo-integration reports/echo-benchmarks
+          git add vendor/echo-genesis reports/echo-integration reports/echo-benchmarks reports/echo-cards/complete-42/result.json reports/echo-cards/complete-7/result.json
           if ! git diff --cached --quiet; then
             git commit -m 'Preserve complete verified Genesis snapshot and integrated test results'
             git push origin HEAD:integration/echo-genesis-unified
@@ -62,5 +70,6 @@ jobs:
           path: |
             reports/echo-integration/
             reports/echo-benchmarks/
+            reports/echo-cards/**/*.json
           if-no-files-found: ignore
           retention-days: 14
