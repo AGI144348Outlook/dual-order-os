@@ -1,0 +1,26 @@
+{
+  "status": "experimental catalogue; no Governor numbering assigned",
+  "entries": [
+    {
+      "id": "EXP-RELATION-ROUTING",
+      "path": "Algorithms/relation-training",
+      "status": "tested_bounded",
+      "tests": 10,
+      "limit": "Familiar supplied task cues; not novel language understanding"
+    },
+    {
+      "id": "EXP-SEVEN-SLOTS",
+      "path": "Algorithms/seven-slot-trial",
+      "status": "tested_bounded",
+      "checks": 8,
+      "limit": "Supplied filters and synthetic seven-dimension curriculum; glyph placement unidentifiable"
+    },
+    {
+      "id": "MIGRATED-SENTENCE-MODULES",
+      "path": "libraries/echo_sentence",
+      "status": "tested_adapter",
+      "tests": 10,
+      "limit": "Exact Recursive Sentencing identity and moved Lexicon grammar integration unresolved"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "relation_learning": {
+    "training_trials": 1920,
+    "initial_correct": 1,
+    "final_correct": 16,
+    "tasks": 16,
+    "corrections": 1344,
+    "limits": "learned selection among 16 supplied relation operations for familiar task cues; new test entities only; manually supplied grammar frames and facts; not novel phrase interpretation, autonomous discovery or demonstrated full understanding"
+  },
+  "seven_slots": {
+    "candidate_configurations": 120,
+    "selection_trials": 600,
+    "trained_exact_accuracy": 1.0,
+    "untrained_exact_accuracy": 0.0,
+    "checks": {
+      "seven_identities_preserved": true,
+      "trained_context_exact_on_holdout": true,
+      "untrained_context_worse": true,
+      "no_slot_context_worse": true,
+      "renaming_slot_assignments_keeps_score": true,
+      "source_records_preserved": true,
+      "each_selected_function_needed_in_fixture": true,
+      "unknown_operation_rejected": true
+    },
+    "limits": [
+      "Synthetic closed curriculum constructed to need seven filtering dimensions.",
+      "Operations supplied by developer; Echo selected combinations, did not invent them.",
+      "Holdout changes entities/contexts, not schema or relation language.",
+      "Filters commute; data cannot identify unique glyph meanings or optimal ordering.",
+      "No invariant slot semantics promoted; no native glyph execution or free-language understanding established."
+    ]
+  },
+  "validation": "Relation 10 tests and seven-slot 8 assertions rerun from migration layout. Full generated logs remain in saved experiment packages; scripts regenerate local logs and histories."
+}
