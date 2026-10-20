@@ -1,0 +1,9 @@
+{
+  "mobile_viewport": "390x844",
+  "browser": "Chromium",
+  "touch": true,
+  "checks": "cards, transformations, role protection, conjugation abstention, save/reload/replay, tags, evidence, injection, catalog and overflow passed",
+  "page_errors": [],
+  "original_python_pyodide_tested": true,
+  "private_dated_records_loaded": 42120
+}

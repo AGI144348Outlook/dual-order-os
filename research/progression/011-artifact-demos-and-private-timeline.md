@@ -25,3 +25,13 @@ Run 39510523837 (Group Canvas, source commit 7a154e8990d3fc8fd2246a1943b8721ac64
 Local Chromium launch was blocked by the execution environment's socket restriction. Dedicated CI browser QA checks a 390×844 touch viewport, transformations, saved-trial replay, unknown/contradictory answers, text injection, overflow, timeline controls and optional original Python. Hosted QA also loads the actual private index without taking private-data screenshots. Browser results are separate artifacts and must be consulted before claiming those checks passed. Synthetic screenshots are safe to publish; private timeline records are not.
 
 Next: review timestamp anomalies and milestone candidates against source passages, rather than promoting keyword/date mentions directly into historical facts. Keep inferred event time distinct from message creation time. The indexing assistant role becomes educationally meaningful only when explicit state changes and held-out skill checks are recorded; a role title alone is not evidence of learning.
+
+## Verified hosted result
+
+The isolated demo is live at https://group-canvas-echo-demos.agi144348.workers.dev/ (use `#timeline` to open chronology). Group Canvas run **39511411464** passed all hosted mobile checks, original Python/Pyodide execution, and loading the **42,120-record actual private index**. The browser reported no page errors. Screenshots were taken with fictional data before private import; only aggregate actual-data counts were retained in QA output.
+
+The private snapshot contains **1,114 conversations** (1,000 OpenAI and 114 Claude), across 11 source objects, from **2024-04-05T03:29:29.492401Z** through **2026-10-20T10:54:23.639708Z**. Ten completed OpenAI source files were processed; two pending files remain excluded. The index is 38,883,127 bytes. See `reports/echo-demos/timeline-summary.json` and `browser-result.json` for aggregate evidence.
+
+A first hosted QA run exposed startup timing in the test sequence; controls now remain disabled until initialization finishes. A subsequent hosted assertion attempted string evaluation prohibited by the production CSP. The test was corrected to use locator assertions; the production policy was not relaxed to accommodate test evaluation. Standalone and hosted checks then passed. Actual Android hardware was not directly tested: the browser uses a 390×844 touch viewport.
+
+Regression status at this checkpoint: 88 Python tests and 62 archived cabinet tests passed; 25 additional JavaScript demo checks passed. These do not repair or supersede the previously reported reasoning and language diagnostic failures.

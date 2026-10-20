@@ -1,5 +1,7 @@
 # Interactive Echo artifacts
 
+[Open the live phone-friendly demos](https://group-canvas-echo-demos.agi144348.workers.dev/) · [Open the timeline](https://group-canvas-echo-demos.agi144348.workers.dev/#timeline)
+
 Open [Echo prototypes](echo-prototypes/index.html) after downloading the repository, or download that **single HTML file** and open it in Android Chrome. GitHub's normal file page displays source rather than running HTML. No Python setup or API key is needed for the default browser mode. The downloadable artifact is about 65 KB.
 
 The same file includes four views:
