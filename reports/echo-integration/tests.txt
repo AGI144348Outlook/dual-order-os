@@ -89,8 +89,10 @@ test_read_only_caller_cannot_mutate (test_echo_workspace.IntegratedTests.test_re
 test_reopen_rebuilds_genesis_and_preserves_relations (test_echo_workspace.IntegratedTests.test_reopen_rebuilds_genesis_and_preserves_relations) ... ok
 test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.IntegratedTests.test_stamp_evidence_pins_profile_and_remains_association) ... ok
 test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
+test_perception_and_identification_are_separate_sets (test_glyph_vocabulary.VocabularyClippingTests.test_perception_and_identification_are_separate_sets) ... ok
+test_sense_specific_clips_survive_reopen_without_profile_changes (test_glyph_vocabulary.VocabularyClippingTests.test_sense_specific_clips_survive_reopen_without_profile_changes) ... ok
 
 ----------------------------------------------------------------------
-Ran 91 tests in 1.467s
+Ran 93 tests in 1.859s
 
 OK

@@ -873,7 +873,7 @@
   "persistence_verified": true,
   "final_cards": 1547,
   "logical_card_hash": "c12d891f99233e4e46ffab895cd46a6b7436bc5559fc055966073cd6fb241b8e",
-  "duration_seconds": 3.268,
+  "duration_seconds": 2.985,
   "limits": [
     "No autonomous dispatcher connects the available blocks.",
     "No independently chosen sentence goal, invented algorithm, or self-initiated sentence-card use observed.",
