@@ -12,6 +12,9 @@ test_saved_configuration_becomes_reusable_snapshot (test_catalog_box.CatalogTest
 test_template_pins_card_revisions (test_catalog_box.CatalogTests.test_template_pins_card_revisions) ... ok
 test_templates_can_be_versioned_and_explicitly_restored (test_catalog_box.CatalogTests.test_templates_can_be_versioned_and_explicitly_restored) ... ok
 test_two_clients_reject_stale_revision (test_catalog_box.CatalogTests.test_two_clients_reject_stale_revision) ... ok
+test_budget (test_consent_reading.Tests.test_budget) ... ok
+test_repetition_is_not_new_word_identity (test_consent_reading.Tests.test_repetition_is_not_new_word_identity) ... ok
+test_source_copy_identity (test_consent_reading.Tests.test_source_copy_identity) ... ok
 test_arity_audit (test_echo_language.LanguageTests.test_arity_audit) ... ok
 test_bounded_english_input_and_malformed_input (test_echo_language.LanguageTests.test_bounded_english_input_and_malformed_input) ... ok
 test_contradictory_join_does_not_become_asserted_sentence (test_echo_language.LanguageTests.test_contradictory_join_does_not_become_asserted_sentence) ... ok
@@ -88,6 +91,6 @@ test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.In
 test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 88 tests in 1.371s
+Ran 91 tests in 1.467s
 
 OK
