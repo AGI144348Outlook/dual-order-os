@@ -41,3 +41,9 @@ The destination is a physical R2 prefix. It is not automatically entered in the 
 Echo Green Future was publicly visible at inspection. The existing source archives there were not removed, and repository visibility/history were not changed. Private R2 preservation does not eliminate public source exposure. This was disclosed to Timothy without independently changing repository settings.
 
 The original archives, existing GPT objects, Genesis code and Dual Order executable components were unchanged by the transfer. This report records the verified storage step and the missing category explicitly.
+
+## Follow-up — source upload deletion authorized by Timothy
+
+On 2026-10-20, after the R2 transfer succeeded, Timothy explicitly requested deletion of the exported Claude files from the source repository. Echo Green Future commit `8402a45b41a253cc6e405e16ec139bc4b0a30e86` removes exactly the six transferred ZIPs and original export manifest from current `main/docs/`. Each candidate's Git blob identity was checked against the pinned transfer manifest before removal. The resulting diff contained only those seven deletions; CI was skipped for this file cleanup.
+
+The private R2 copies were not deleted or changed. This is ordinary branch-tip deletion, not history rewriting: the original upload commit and file contents remain retrievable from Git history. It does not establish complete erasure of previously public copies. No other source documentation or executable code was removed.
