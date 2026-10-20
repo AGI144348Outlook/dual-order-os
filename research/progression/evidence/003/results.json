@@ -1,0 +1,43 @@
+{
+  "method": "Unmodified Dual Order OS index. Experimental root/sense labels and TEST_ONLY opcodes have no assigned glyph semantics. No persistent index or repository code changes.",
+  "separate_forms": {
+    "צ": [
+      "test-module-a"
+    ],
+    "ץ": [
+      "test-module-b"
+    ],
+    "reverse_a": "צ",
+    "reverse_b": "ץ"
+  },
+  "additive_expansion": {
+    "original_four_preserved": true,
+    "tsadi_entries": 2,
+    "sofit_entries": 1
+  },
+  "conflicting_registration": {
+    "reverse_result": "ץ",
+    "forward_tsadi_still_contains_old_mapping": true,
+    "conflict_rejected": false
+  },
+  "duplicate_registration": {
+    "rows": 2,
+    "deduplicated": false
+  },
+  "external_mutation": {
+    "lookup_under_old_glyph_reports": [
+      "ץ"
+    ],
+    "reverse_result": "ץ",
+    "lookup_under_new_glyph_rows": 0
+  },
+  "unsupported_contracts": [
+    "explicit parent/child attachment",
+    "versioned profiles",
+    "write permissions",
+    "conflict rejection",
+    "transactional commit",
+    "persistent serialization",
+    "root/sense correction or removal"
+  ]
+}

@@ -7,6 +7,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [002 — Tracing ר צ פ ע ק ש ת through Echo](002-seven-glyph-processing.md) — fresh per-glyph input, lookup, generation and query checks, distinguished from earlier mechanism tests.
 
+- [003 — צ / ץ and modular index expansion](003-tsadi-modular-index.md) — distinct-form and additive-expansion checks, with duplicate, conflict and mutation counterexamples.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
