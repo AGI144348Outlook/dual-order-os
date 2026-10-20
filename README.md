@@ -1,3 +1,18 @@
+# Integrated Echo workspace — integration branch
+
+This branch combines the preserved Genesis Documentary snapshot with Dual Order OS's catalog and a new tested adapter. **Complete source copy: 128 files verified. Tests: 27 Python + 62 archived cabinet tests passed.** Two original Genesis programs completed; five historical runs remain blocked by missing corpus data. Known Genesis validation/reasoning limitations remain recorded.
+
+- [Start here: component and usage guide](components/echo-integration/README.md)
+- [Complete preserved Genesis snapshot](vendor/echo-genesis/)
+- [Combined results](reports/echo-integration/results.json) and [restored-workspace demonstration](reports/echo-integration/demo.json)
+- [Integration Matrix](matrices/echo-integration/) and [progression report](research/progression/007-unified-echo-integration.md)
+
+Run locally in Python: `python -m libraries.echo_demo`. No model API, training or cloud deployment is required. There is no newly hosted Canvas UI. This work is isolated on `integration/echo-genesis-unified`; the source Genesis branch and Dual Order main remain unchanged by this integration.
+
+The original project overview below predates later populated libraries and matrices; its “empty shelves” statements are historical and are superseded by the live component catalog and integration results above.
+
+---
+
 # dual-order-os
 
 Shared infrastructure for every framework (Mashet, LHEA, eve3/MashetEVE, JurisDictionary, and

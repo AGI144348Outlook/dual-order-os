@@ -13,3 +13,13 @@ The integration evaluation includes the catalog tests, new cross-component tests
 The archived Group Canvas cabinet and lexicon are included in the source copy but not automatically deployed, unpacked into approved meanings, or attached to live R2 credentials. No public API, hosted UI, training or infrastructure deployment is part of this integration. The configuration graph does not implement §DSL§ inversion; that definition remains unresolved. The component's trusted-caller permissions are not a replacement for production authentication or complete Genesis governance.
 
 See [component guide](../../components/echo-integration/README.md) and [test results](../../reports/echo-integration/results.json). This report records the intended scope and evaluation procedure. A dated verification addendum should record the actual assembly commit, counts and failures after the workflow has completed.
+
+## Verified assembly and evaluation
+
+[GitHub Actions run 39492335598](https://github.com/AGI144348Outlook/dual-order-os/actions/runs/39492335598) completed successfully. Assembly commit `f9e85a48fb642537d2b6d52f0e2c65a4aaadf8e9` contains the complete snapshot and generated reports. Independent inspection of the destination Git tree found all 128 expected source files with matching blob SHAs and file modes, including the 7.4 MB core lexicon archive. The earlier incomplete-transfer limitation is resolved on this integration branch.
+
+Results: 27 Python tests passed (13 catalog and 14 adapter/integration tests); 62 archived cabinet tests passed. The original number-integration script and Governor standalone demo completed. Five historical programs remain blocked by missing `/home/claude/en_thesaurus.jsonl`. No replacement corpus was silently supplied.
+
+The close/reopen demonstration restored the catalog, rebuilt the original index, recovered a paperclip relation and an associative stamp, and retained the pinned configuration graph. Its synthetic paperclip vocabulary was classified as PROCESS_VERB and remained connected to index. This demonstrates the bounded integration behavior, not general intelligence or unrestricted glyph execution.
+
+Known-gap diagnostics confirmed the generic validation/budget stubs still permit candidates, contradictory composition still produces a theorem candidate, and the original communicator still discards raw Hebrew glyph input. These limitations remain explicit alongside the passing adapter tests. No claim of complete governance, sound inference or §DSL§ inversion is made.
