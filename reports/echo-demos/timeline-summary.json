@@ -1,0 +1,18 @@
+{
+  "format": "echo-timeline-run/1",
+  "conversations": 1114,
+  "dated_messages": 42120,
+  "undated_messages": 0,
+  "source_objects": 11,
+  "first": "2024-04-05T03:29:29.492401Z",
+  "last": "2026-10-20T10:54:23.639708Z",
+  "sourceFilesRead": 10,
+  "exactDuplicateFilesSkipped": 0,
+  "openaiConversationOccurrences": 1000,
+  "pendingFiles": 2,
+  "sourceUnchanged": true,
+  "derivedReadbackVerified": true,
+  "outputBytes": 38883127,
+  "transcriptTextCopied": false,
+  "autonomousLearning": false
+}

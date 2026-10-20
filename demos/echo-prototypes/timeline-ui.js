@@ -12,3 +12,4 @@ for(const key of ['onpointerup','onpointercancel'])tc[key]=e=>{pointers.delete(e
 tc.onwheel=e=>{e.preventDefault();zoomTimeline(e.deltaY>0?1.2:1/1.2,(e.clientX-tc.getBoundingClientRect().left)/tc.getBoundingClientRect().width);};
 $('timeline-file').onchange=async()=>{try{const file=$('timeline-file').files[0];if(!file)return;if(file.size>64*1024**2)throw Error('Index exceeds the 64 MB phone-demo budget. Use a smaller shard.');const next=checkedTimeline(JSON.parse(await file.text()));timeline=next;range=bounds(next.events);$('timeline-detail').hidden=true;drawTimeline();}catch(e){text($('timeline-status'),'Index not loaded: '+e.message);}};
 new ResizeObserver(drawTimeline).observe(tc);
+const startingTab=location.hash.slice(1);if(['cards','questions','timeline','library'].includes(startingTab))document.querySelector('[data-tab="'+startingTab+'"]').click();
