@@ -1,0 +1,989 @@
+{
+  "archive_git_blob": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+  "dictionary_words": 1000,
+  "sense_cards": 1491,
+  "legacy_projection": "first listed sense per spelling only",
+  "algorithm_blocks": 16,
+  "python_hash_seed": "7",
+  "random_seed": 42,
+  "idle_availability": {
+    "autonomous_dispatcher": false,
+    "before_hash": "af5df57583a1619cb2321c423ac35b3eab6d41293d023496b16888374b520e6a",
+    "after_hash": "af5df57583a1619cb2321c423ac35b3eab6d41293d023496b16888374b520e6a",
+    "new_card_events": 0,
+    "sentence_prompt": null,
+    "observation": "No actions occur simply from making cards and blocks available."
+  },
+  "glyph_vocabulary_setup": {
+    "selection_author": "Codex, provisional task-scoped associations requested by Timothy",
+    "source_git_blob": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+    "clipped": [
+      {
+        "glyph": "ayin",
+        "word": "see",
+        "sense_index": 0,
+        "definition": "perceive by sight or have the power to perceive by sight",
+        "relation": "vocabclip:ayin:lex:aa9e9b5c907d50feb410f2a8:0"
+      },
+      {
+        "glyph": "ayin",
+        "word": "look",
+        "sense_index": 0,
+        "definition": "perceive with attention; direct one's gaze towards",
+        "relation": "vocabclip:ayin:lex:3c01eba119e00d79c82b6f65:0"
+      },
+      {
+        "glyph": "ayin",
+        "word": "hear",
+        "sense_index": 0,
+        "definition": "perceive (sound) via the auditory sense",
+        "relation": "vocabclip:ayin:lex:49000c4444d51233fa10ad20:0"
+      },
+      {
+        "glyph": "ayin",
+        "word": "sense",
+        "sense_index": 1,
+        "definition": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+        "relation": "vocabclip:ayin:lex:5146f25dc5079599b09b7f5a:1"
+      },
+      {
+        "glyph": "resh",
+        "word": "match",
+        "sense_index": 0,
+        "definition": "be compatible, similar or consistent; coincide in their characteristics",
+        "relation": "vocabclip:resh:lex:4945a70fa7f9c13fe1931a33:0"
+      }
+    ],
+    "pending_not_clipped": {
+      "ayin": [
+        {
+          "word": "perceive",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "observe",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "notice",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "detect",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "distinguish",
+          "present_in_dictionary": false
+        }
+      ],
+      "resh": [
+        {
+          "word": "identify",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "recognize",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "classify",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "compare",
+          "present_in_dictionary": false
+        },
+        {
+          "word": "verify",
+          "present_in_dictionary": false
+        }
+      ]
+    },
+    "profiles_unchanged": true,
+    "cards_restored": true,
+    "read_only_write_blocked": true,
+    "excluded_senses": [
+      "look:noun (facial expression)",
+      "sense:noun (awareness)",
+      "match:noun (fire-lighting object)"
+    ],
+    "workflow_hypothesis": "ע observation -> ר candidate recognition -> פ naming / ת labeling",
+    "limits": [
+      "No perception or recognition implementation was added.",
+      "Match is supporting comparison vocabulary, not sufficient proof of identity.",
+      "Missing words require sourced senses or separately approved working definitions.",
+      "This task-scoped order is not asserted as a universal prerequisite of identification.",
+      "No glyph profile, tokenizer, VGM truth, or Algorithm 000 authority was changed."
+    ]
+  },
+  "glyph_profiles_and_clips_unchanged": true,
+  "protected_card_count": 32,
+  "explicit_starts": [
+    "bootstrap orientation, study groups, generality scoring and scrutinized neighborhood commits",
+    "A-120 evolve: 2 generations / 8 commit calls maximum",
+    "UnderstandingGenerator combinatorial: 40 candidate attempts maximum"
+  ],
+  "bootstrap": {
+    "agents": 1000,
+    "ties": 2713,
+    "proposed_neighborhoods": 0,
+    "committed_neighborhoods": 0
+  },
+  "evolution": {
+    "before": {
+      "avg_composite": 0,
+      "avg_articulation": 0,
+      "avg_precision": 0,
+      "avg_fluency": 0,
+      "neighborhoods": 0,
+      "fully_articulate": 0
+    },
+    "after": {
+      "avg_composite": 0,
+      "avg_articulation": 0,
+      "avg_precision": 0,
+      "avg_fluency": 0,
+      "neighborhoods": 0,
+      "fully_articulate": 0
+    },
+    "operations": [],
+    "log": [
+      {
+        "generation": 0,
+        "lobbies": {
+          "core-lexicon-1000": {
+            "avg_composite": 0,
+            "avg_articulation": 0,
+            "avg_precision": 0,
+            "avg_fluency": 0,
+            "neighborhoods": 0,
+            "fully_articulate": 0
+          }
+        },
+        "ops_committed": 0,
+        "time": 0.0
+      }
+    ],
+    "hard_commit_cap_reached": false
+  },
+  "candidate_generation": {
+    "pool_size": 95,
+    "accepted": 40,
+    "rejected": [],
+    "candidates": [
+      {
+        "id": "UG-0000",
+        "words": [
+          "time",
+          "place"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time place",
+        "score": 0.613,
+        "avg_generality": 0.658,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0001",
+        "words": [
+          "time",
+          "come"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time come",
+        "score": 0.636,
+        "avg_generality": 0.611,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0002",
+        "words": [
+          "time",
+          "cause"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time cause",
+        "score": 0.591,
+        "avg_generality": 0.603,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0003",
+        "words": [
+          "time",
+          "use"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time use",
+        "score": 0.59,
+        "avg_generality": 0.6,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0004",
+        "words": [
+          "time",
+          "set"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time set",
+        "score": 0.628,
+        "avg_generality": 0.592,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0005",
+        "words": [
+          "time",
+          "make"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time make",
+        "score": 0.585,
+        "avg_generality": 0.587,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0006",
+        "words": [
+          "time",
+          "go"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time go",
+        "score": 0.668,
+        "avg_generality": 0.586,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.333,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0007",
+        "words": [
+          "time",
+          "change"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time change",
+        "score": 0.583,
+        "avg_generality": 0.583,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0008",
+        "words": [
+          "time",
+          "force"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time force",
+        "score": 0.582,
+        "avg_generality": 0.581,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0009",
+        "words": [
+          "time",
+          "become"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An time become",
+        "score": 0.582,
+        "avg_generality": 0.58,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0010",
+        "words": [
+          "people",
+          "place"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people place",
+        "score": 0.59,
+        "avg_generality": 0.601,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0011",
+        "words": [
+          "people",
+          "come"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people come",
+        "score": 0.571,
+        "avg_generality": 0.553,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0012",
+        "words": [
+          "people",
+          "cause"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people cause",
+        "score": 0.568,
+        "avg_generality": 0.546,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0013",
+        "words": [
+          "people",
+          "use"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people use",
+        "score": 0.567,
+        "avg_generality": 0.543,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0014",
+        "words": [
+          "people",
+          "set"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people set",
+        "score": 0.564,
+        "avg_generality": 0.535,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0015",
+        "words": [
+          "people",
+          "make"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people make",
+        "score": 0.562,
+        "avg_generality": 0.53,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0016",
+        "words": [
+          "people",
+          "go"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people go",
+        "score": 0.562,
+        "avg_generality": 0.529,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0017",
+        "words": [
+          "people",
+          "change"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people change",
+        "score": 0.56,
+        "avg_generality": 0.525,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0018",
+        "words": [
+          "people",
+          "force"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people force",
+        "score": 0.559,
+        "avg_generality": 0.524,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0019",
+        "words": [
+          "people",
+          "become"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An people become",
+        "score": 0.601,
+        "avg_generality": 0.523,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0020",
+        "words": [
+          "person",
+          "place"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person place",
+        "score": 0.584,
+        "avg_generality": 0.586,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0021",
+        "words": [
+          "person",
+          "come"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person come",
+        "score": 0.566,
+        "avg_generality": 0.539,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0022",
+        "words": [
+          "person",
+          "cause"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person cause",
+        "score": 0.563,
+        "avg_generality": 0.532,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0023",
+        "words": [
+          "person",
+          "use"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person use",
+        "score": 0.562,
+        "avg_generality": 0.529,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0024",
+        "words": [
+          "person",
+          "set"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person set",
+        "score": 0.6,
+        "avg_generality": 0.521,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0025",
+        "words": [
+          "person",
+          "make"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person make",
+        "score": 0.556,
+        "avg_generality": 0.516,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0026",
+        "words": [
+          "person",
+          "go"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person go",
+        "score": 0.556,
+        "avg_generality": 0.515,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0027",
+        "words": [
+          "person",
+          "change"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person change",
+        "score": 0.554,
+        "avg_generality": 0.511,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0028",
+        "words": [
+          "person",
+          "force"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person force",
+        "score": 0.554,
+        "avg_generality": 0.509,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0029",
+        "words": [
+          "person",
+          "become"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An person become",
+        "score": 0.595,
+        "avg_generality": 0.508,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0030",
+        "words": [
+          "action",
+          "place"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action place",
+        "score": 0.613,
+        "avg_generality": 0.554,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0031",
+        "words": [
+          "action",
+          "come"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action come",
+        "score": 0.595,
+        "avg_generality": 0.507,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0032",
+        "words": [
+          "action",
+          "cause"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action cause",
+        "score": 0.55,
+        "avg_generality": 0.5,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0033",
+        "words": [
+          "action",
+          "use"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action use",
+        "score": 0.549,
+        "avg_generality": 0.497,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0034",
+        "words": [
+          "action",
+          "set"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action set",
+        "score": 0.546,
+        "avg_generality": 0.489,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0035",
+        "words": [
+          "action",
+          "make"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action make",
+        "score": 0.544,
+        "avg_generality": 0.484,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0036",
+        "words": [
+          "action",
+          "go"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action go",
+        "score": 0.543,
+        "avg_generality": 0.483,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0037",
+        "words": [
+          "action",
+          "change"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action change",
+        "score": 0.542,
+        "avg_generality": 0.479,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0038",
+        "words": [
+          "action",
+          "force"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action force",
+        "score": 0.541,
+        "avg_generality": 0.478,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.0,
+        "origin": "combinatorial_SV"
+      },
+      {
+        "id": "UG-0039",
+        "words": [
+          "action",
+          "become"
+        ],
+        "departments": [
+          "noun",
+          "verb"
+        ],
+        "text": "An action become",
+        "score": 0.582,
+        "avg_generality": 0.476,
+        "structure": [
+          "noun",
+          "verb"
+        ],
+        "semantic_score": 0.167,
+        "origin": "combinatorial_SV"
+      }
+    ],
+    "status": "not-verified-logics"
+  },
+  "persistence_verified": true,
+  "final_cards": 1579,
+  "logical_card_hash": "5979151c03726296f7a4afa7699c6c2e0d12d2838d25ef94bcd4e96e545b0d86",
+  "duration_seconds": 2.313,
+  "limits": [
+    "No autonomous dispatcher connects the available blocks.",
+    "No independently chosen sentence goal, invented algorithm, or self-initiated sentence-card use observed.",
+    "Recorded cards mirror legacy activity; their recorder is new adapter code.",
+    "No subtype edges inferred from definition overlap; no mixed-POS hierarchy imported.",
+    "No external models, training, network access or Python from the ZIP executed."
+  ]
+}

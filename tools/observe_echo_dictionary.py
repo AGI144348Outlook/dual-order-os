@@ -19,9 +19,14 @@ class BudgetStop(Exception):pass
 
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('--archive',required=True);parser.add_argument('--output',required=True)
+    parser.add_argument('--glyph-vocabulary',action='store_true',help='Include current perception/identification clips and glyph profile cards')
     args=parser.parse_args();out=Path(args.output);out.mkdir(parents=True,exist_ok=True)
     if (out/'cards.sqlite').exists():raise ValueError('Use a fresh output directory')
     random.seed(42);started=time.monotonic();dictionary=lexicon_from_zip(args.archive);e=genesis()
+    glyph_setup=None
+    if args.glyph_vocabulary:
+        from tools.test_glyph_vocabulary import experiment
+        glyph_setup=experiment(args.archive,out/'cards.sqlite')
     cards=SentenceCards(out/'cards.sqlite')
     senses=cards.ingest(dictionary,source={'archive_git_blob':LEXICON_BLOB,'member':'core-lexicon/words.json'})
     catalog=json.loads((ROOT/'libraries/algorithms/mapped-combinations/catalog.json').read_text())
@@ -29,6 +34,7 @@ def main():
         cards.box.put_card('block:'+block['id'],block['id'],{'kind':'algorithm-block',**block})
     # Availability is not dispatch. Inspect state without calling any work runner.
     before=cards.box.list('cards');events=len(cards.box.events())
+    protected={c['id']:c for c in before if c['body'].get('kind') in ('glyph-profile','relation')}
     after=cards.box.list('cards')
     idle={'autonomous_dispatcher':False,'before_hash':digest(before),'after_hash':digest(after),
           'new_card_events':len(cards.box.events())-events,'sentence_prompt':None,
@@ -78,11 +84,14 @@ def main():
             'claim_status':'heuristic-acceptance-not-proof'},provenance={'selected_by':'existing UnderstandingGenerator',
             'persisted_by':'observation adapter'})
     end=cards.box.list('cards');logical_hash=digest(end);cards.close()
+    protected_unchanged=all(next(c for c in end if c['id']==cid)==record for cid,record in protected.items())
     reopened=SentenceCards(out/'cards.sqlite',writable=False)
     restored=digest(reopened.box.list('cards'))==logical_hash;reopened.close()
     report={'archive_git_blob':LEXICON_BLOB,'dictionary_words':len(dictionary),'sense_cards':senses,
         'legacy_projection':'first listed sense per spelling only','algorithm_blocks':len(catalog['combinations']),
         'python_hash_seed':os.environ.get('PYTHONHASHSEED'),'random_seed':42,'idle_availability':idle,
+        'glyph_vocabulary_setup':glyph_setup,'glyph_profiles_and_clips_unchanged':protected_unchanged,
+        'protected_card_count':len(protected),
         'explicit_starts':['bootstrap orientation, study groups, generality scoring and scrutinized neighborhood commits','A-120 evolve: 2 generations / 8 commit calls maximum',
                            'UnderstandingGenerator combinatorial: 40 candidate attempts maximum'],
         'bootstrap':{'agents':len(lobby.agents),'ties':len(lobby.ties),'proposed_neighborhoods':len(proposals),'committed_neighborhoods':len(initial_neighborhoods)},
