@@ -42,7 +42,7 @@
       "group": "sentence_structure",
       "name": "complete subject verb object",
       "status": "PASS",
-      "milliseconds": 0.04,
+      "milliseconds": 0.042,
       "expected": true,
       "observed": true
     },
@@ -50,7 +50,7 @@
       "group": "sentence_structure",
       "name": "complete intransitive",
       "status": "PASS",
-      "milliseconds": 0.018,
+      "milliseconds": 0.019,
       "expected": true,
       "observed": true
     },
@@ -98,7 +98,7 @@
       "group": "sentence_structure",
       "name": "reject plural subject singular verb",
       "status": "FAIL",
-      "milliseconds": 0.01,
+      "milliseconds": 0.009,
       "expected": false,
       "observed": true
     },
@@ -106,7 +106,7 @@
       "group": "sentence_structure",
       "name": "accept plural agreement",
       "status": "PASS",
-      "milliseconds": 0.009,
+      "milliseconds": 0.008,
       "expected": true,
       "observed": true
     },
@@ -142,7 +142,7 @@
       "group": "inference",
       "name": "reject explicit contradiction",
       "status": "FAIL",
-      "milliseconds": 0.033,
+      "milliseconds": 0.036,
       "expected": true,
       "observed": false
     },
@@ -150,7 +150,7 @@
       "group": "inference",
       "name": "reject unrelated causal conclusion",
       "status": "FAIL",
-      "milliseconds": 0.016,
+      "milliseconds": 0.018,
       "expected": true,
       "observed": false
     },
@@ -182,7 +182,7 @@
       "group": "inference",
       "name": "derive transitive subtype conclusion",
       "status": "FAIL",
-      "milliseconds": 0.025,
+      "milliseconds": 0.026,
       "expected": true,
       "observed": false
     },
@@ -202,7 +202,7 @@
       "group": "comprehension",
       "name": "retrieve indexed fact",
       "status": "PASS",
-      "milliseconds": 0.131,
+      "milliseconds": 0.107,
       "expected": true,
       "observed": true
     },
@@ -210,7 +210,7 @@
       "group": "comprehension",
       "name": "unknown-word gap disclosure",
       "status": "PASS",
-      "milliseconds": 0.028,
+      "milliseconds": 0.025,
       "expected": true,
       "observed": true
     },
@@ -218,7 +218,7 @@
       "group": "comprehension",
       "name": "role-sensitive answer excludes unrelated inverse relation",
       "status": "FAIL",
-      "milliseconds": 0.067,
+      "milliseconds": 0.064,
       "expected": true,
       "observed": false
     },
@@ -252,7 +252,7 @@
       "group": "comprehension",
       "name": "raw glyph preserved as indexable content",
       "status": "FAIL",
-      "milliseconds": 0.006,
+      "milliseconds": 0.022,
       "expected": true,
       "observed": false
     },
@@ -286,7 +286,7 @@
       "group": "mathematics",
       "name": "add",
       "status": "PASS",
-      "milliseconds": 0.018,
+      "milliseconds": 0.019,
       "expected": 5,
       "observed": 5.0
     },
@@ -302,7 +302,7 @@
       "group": "mathematics",
       "name": "mul",
       "status": "PASS",
-      "milliseconds": 0.006,
+      "milliseconds": 0.005,
       "expected": 12,
       "observed": 12.0
     },
@@ -318,7 +318,7 @@
       "group": "mathematics",
       "name": "pow",
       "status": "PASS",
-      "milliseconds": 0.005,
+      "milliseconds": 0.004,
       "expected": 8,
       "observed": 8.0
     },
@@ -367,7 +367,7 @@
       "group": "verification",
       "name": "generic false invariant rejected",
       "status": "FAIL",
-      "milliseconds": 0.001,
+      "milliseconds": 0.002,
       "expected": false,
       "observed": true
     },
@@ -391,7 +391,7 @@
       "group": "integration",
       "name": "raw glyph catalog lookup",
       "status": "PASS",
-      "milliseconds": 0.132,
+      "milliseconds": 0.158,
       "expected": "glyph:tsadi",
       "observed": "glyph:tsadi"
     },
@@ -399,7 +399,7 @@
       "group": "integration",
       "name": "final form remains distinct",
       "status": "PASS",
-      "milliseconds": 0.118,
+      "milliseconds": 0.114,
       "expected": "glyph:tsadi-sofit",
       "observed": "glyph:tsadi-sofit"
     },
@@ -407,7 +407,7 @@
       "group": "integration",
       "name": "paperclip idempotent",
       "status": "PASS",
-      "milliseconds": 0.095,
+      "milliseconds": 0.124,
       "expected": {
         "body": {
           "evidence": {
@@ -475,7 +475,7 @@
       "group": "integration",
       "name": "stamp remains association",
       "status": "PASS",
-      "milliseconds": 0.001,
+      "milliseconds": 0.002,
       "expected": "association-not-verified-theorem",
       "observed": "association-not-verified-theorem"
     },
@@ -483,7 +483,7 @@
       "group": "integration",
       "name": "restart retains original index relation",
       "status": "PASS",
-      "milliseconds": 0.024,
+      "milliseconds": 0.037,
       "expected": true,
       "observed": true
     },
@@ -491,7 +491,7 @@
       "group": "integration",
       "name": "restart retains typed links",
       "status": "PASS",
-      "milliseconds": 0.305,
+      "milliseconds": 0.509,
       "expected": 2,
       "observed": 2
     }

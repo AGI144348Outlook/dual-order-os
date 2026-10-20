@@ -62,6 +62,16 @@ test_universal_and_negative_not_inferred (test_echo_sentence_cards.Tests.test_un
 test_unrelated_substitution_no_write (test_echo_sentence_cards.Tests.test_unrelated_substitution_no_write) ... ok
 test_unsupported_conjugation (test_echo_sentence_cards.Tests.test_unsupported_conjugation) ... ok
 test_wrong_role (test_echo_sentence_cards.Tests.test_wrong_role) ... ok
+test_branches_preserved (test_echo_timeline.Tests.test_branches_preserved) ... ok
+test_conflict_retained (test_echo_timeline.Tests.test_conflict_retained) ... ok
+test_duplicate_merges_source_refs (test_echo_timeline.Tests.test_duplicate_merges_source_refs) ... ok
+test_invalid_unresolved (test_echo_timeline.Tests.test_invalid_unresolved) ... ok
+test_naive_date_unresolved (test_echo_timeline.Tests.test_naive_date_unresolved) ... ok
+test_private_text_not_copied (test_echo_timeline.Tests.test_private_text_not_copied) ... ok
+test_provider_namespaces (test_echo_timeline.Tests.test_provider_namespaces) ... ok
+test_seconds_milliseconds_equal (test_echo_timeline.Tests.test_seconds_milliseconds_equal) ... ok
+test_text_dates_not_timeline_positions (test_echo_timeline.Tests.test_text_dates_not_timeline_positions) ... ok
+test_timezone (test_echo_timeline.Tests.test_timezone) ... ok
 test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history (test_echo_workspace.IntegratedTests.test_batch_stamps_are_idempotent_and_profile_changes_do_not_rewrite_history) ... ok
 test_catalog_template_restores_versions_and_graph (test_echo_workspace.IntegratedTests.test_catalog_template_restores_versions_and_graph) ... ok
 test_duplicate_word_identity_rejected (test_echo_workspace.IntegratedTests.test_duplicate_word_identity_rejected) ... ok
@@ -78,6 +88,6 @@ test_stamp_evidence_pins_profile_and_remains_association (test_echo_workspace.In
 test_unrelated_stamp_is_rejected (test_echo_workspace.IntegratedTests.test_unrelated_stamp_is_rejected) ... ok
 
 ----------------------------------------------------------------------
-Ran 78 tests in 1.582s
+Ran 88 tests in 1.371s
 
 OK
