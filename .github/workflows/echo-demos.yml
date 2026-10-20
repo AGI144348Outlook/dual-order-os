@@ -1,0 +1,37 @@
+name: Validate interactive Echo artifacts
+on:
+  push:
+    branches: [integration/echo-genesis-unified]
+    paths: ['demos/**', 'libraries/echo_sentence_cards.py', 'libraries/echo_question_tags.py', 'libraries/echo_timeline.py', 'libraries/catalog_box.py', '.github/workflows/echo-demos.yml']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rebuild and verify counterparts
+        run: |
+          python demos/echo-prototypes/build.py
+          python demos/echo-prototypes/build_hosted.py
+          python demos/echo-prototypes/make_fixtures.py
+          node demos/echo-prototypes/tests.mjs
+          node --check demos/echo-prototypes/ui.js
+          node --check demos/echo-prototypes/timeline-ui.js
+      - name: Install browser test controller
+        run: python -m pip install playwright==1.55.0
+      - name: Exercise mobile artifact and original Python
+        run: python demos/echo-prototypes/browser_test.py --python
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: echo-demo-browser-evidence
+          path: demos/echo-prototypes/qa/
+          retention-days: 7

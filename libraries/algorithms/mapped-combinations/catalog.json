@@ -173,6 +173,21 @@
           "callable": "answer_role"
         }
       ]
+    },
+    {
+      "id": "ECHO-TIMELINE",
+      "status": "new-tested-private-source-index",
+      "auto_dispatch": false,
+      "code": [
+        {
+          "path": "libraries/echo_timeline.py",
+          "callable": "TimelineIndexer.add"
+        },
+        {
+          "path": "libraries/echo_timeline.py",
+          "callable": "TimelineIndexer.report"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,734 @@
+{
+  "tags": [
+    {
+      "word": "morning",
+      "pos": "noun",
+      "definition": "early part of day",
+      "category": "time-interval",
+      "expected": {
+        "possible_questions": [
+          "what",
+          "when"
+        ],
+        "status": "candidate-not-contextual-answer",
+        "definition_hints": []
+      }
+    },
+    {
+      "word": "clock",
+      "pos": "noun",
+      "definition": "an object measuring time",
+      "category": "",
+      "expected": {
+        "possible_questions": [
+          "what"
+        ],
+        "status": "candidate-not-contextual-answer",
+        "definition_hints": [
+          {
+            "category": "time-interval",
+            "matched_text": [
+              "time"
+            ],
+            "status": "definition-keyword-candidate-not-proof"
+          }
+        ]
+      }
+    },
+    {
+      "word": "tomorrow",
+      "pos": "adv",
+      "definition": "on the next day",
+      "category": "",
+      "expected": {
+        "possible_questions": [],
+        "status": "candidate-not-contextual-answer",
+        "definition_hints": []
+      }
+    },
+    {
+      "word": "teacher",
+      "pos": "noun",
+      "definition": "a person teaching",
+      "category": "person",
+      "expected": {
+        "possible_questions": [
+          "what",
+          "who"
+        ],
+        "status": "candidate-not-contextual-answer",
+        "definition_hints": [
+          {
+            "category": "person",
+            "matched_text": [
+              "person"
+            ],
+            "status": "definition-keyword-candidate-not-proof"
+          }
+        ]
+      }
+    },
+    {
+      "word": "school",
+      "pos": "noun",
+      "definition": "a place of learning",
+      "category": "place",
+      "expected": {
+        "possible_questions": [
+          "what",
+          "where"
+        ],
+        "status": "candidate-not-contextual-answer",
+        "definition_hints": [
+          {
+            "category": "place",
+            "matched_text": [
+              "place"
+            ],
+            "status": "definition-keyword-candidate-not-proof"
+          }
+        ]
+      }
+    }
+  ],
+  "answers": [
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "agent",
+      "question": "who",
+      "expected": {
+        "decision": "SUPPORTED",
+        "answers": [
+          "Julian"
+        ],
+        "evidence": [
+          "s1"
+        ],
+        "scope": "Relative to supplied typed facts, not independently extracted from text"
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "patient",
+      "question": "what",
+      "expected": {
+        "decision": "SUPPORTED",
+        "answers": [
+          "card"
+        ],
+        "evidence": [
+          "s2"
+        ],
+        "scope": "Relative to supplied typed facts, not independently extracted from text"
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "time",
+      "question": "when",
+      "expected": {
+        "decision": "SUPPORTED",
+        "answers": [
+          "morning"
+        ],
+        "evidence": [
+          "s3"
+        ],
+        "scope": "Relative to supplied typed facts, not independently extracted from text"
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "owner",
+      "question": "whose",
+      "expected": {
+        "decision": "UNKNOWN",
+        "answers": [],
+        "evidence": []
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "cause",
+      "question": "why",
+      "expected": {
+        "decision": "UNKNOWN",
+        "answers": [],
+        "evidence": []
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "other",
+      "role": "agent",
+      "question": "who",
+      "expected": {
+        "decision": "UNKNOWN",
+        "answers": [],
+        "evidence": []
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "s2",
+          "event": "placement",
+          "role": "patient",
+          "value": "card",
+          "category": "object",
+          "polarity": "positive"
+        },
+        {
+          "id": "s3",
+          "event": "placement",
+          "role": "time",
+          "value": "morning",
+          "category": "time-interval",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "agent",
+      "question": "which",
+      "expected": {
+        "decision": "ABSTAIN",
+        "reason": "Unsupported question/role combination"
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "negative"
+        }
+      ],
+      "event": "placement",
+      "role": "agent",
+      "question": "who",
+      "expected": {
+        "decision": "UNKNOWN",
+        "answers": [],
+        "evidence": [
+          "s1"
+        ]
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "positive"
+        },
+        {
+          "id": "n1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "category": "person",
+          "polarity": "negative"
+        }
+      ],
+      "event": "placement",
+      "role": "agent",
+      "question": "who",
+      "expected": {
+        "decision": "WITHHOLD",
+        "reason": "Contradictory supplied facts",
+        "evidence": [
+          "s1",
+          "n1"
+        ]
+      }
+    },
+    {
+      "facts": [
+        {
+          "id": "s1",
+          "event": "placement",
+          "role": "agent",
+          "value": "Julian",
+          "polarity": "positive"
+        }
+      ],
+      "event": "placement",
+      "role": "agent",
+      "question": "who",
+      "expected": {
+        "decision": "WITHHOLD",
+        "reason": "Person typing not established for all answers"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "command": {
+        "operation": "init",
+        "predicate": "carry"
+      },
+      "expected": {
+        "revision": 1,
+        "slots": [
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "poodle",
+            "alternatives": [
+              "poodle"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "carry",
+            "alternatives": [
+              "carry"
+            ]
+          },
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "CANDIDATE",
+          "sentence": "Some poodle carries some parcel.",
+          "claim_status": "input-assumption-not-world-verification",
+          "execution": false
+        }
+      }
+    },
+    {
+      "command": {
+        "operation": "transform",
+        "position": "s:0",
+        "target": "animal",
+        "mode": "generalize"
+      },
+      "expected": {
+        "revision": 2,
+        "slots": [
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "animal",
+            "alternatives": [
+              "poodle",
+              "animal"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "carry",
+            "alternatives": [
+              "carry"
+            ]
+          },
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "CANDIDATE",
+          "sentence": "Some animal carries some parcel.",
+          "claim_status": "input-assumption-not-world-verification",
+          "execution": false
+        }
+      }
+    },
+    {
+      "command": {
+        "operation": "transform",
+        "position": "s:0",
+        "target": "poodle",
+        "mode": "specialize"
+      },
+      "expected": {
+        "revision": 3,
+        "slots": [
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "poodle",
+            "alternatives": [
+              "poodle",
+              "animal"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "carry",
+            "alternatives": [
+              "carry"
+            ]
+          },
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "CANDIDATE",
+          "sentence": "Some poodle carries some parcel.",
+          "claim_status": "candidate-needs-instance-evidence",
+          "execution": false
+        }
+      }
+    },
+    {
+      "command": {
+        "operation": "reorder",
+        "positions": [
+          "s:2",
+          "s:1",
+          "s:0"
+        ]
+      },
+      "expected": {
+        "revision": 4,
+        "slots": [
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "carry",
+            "alternatives": [
+              "carry"
+            ]
+          },
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "poodle",
+            "alternatives": [
+              "poodle",
+              "animal"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "ABSTAIN",
+          "reason": "Outside supported SVO order"
+        }
+      }
+    },
+    {
+      "command": {
+        "operation": "reorder",
+        "positions": [
+          "s:0",
+          "s:1",
+          "s:2"
+        ]
+      },
+      "expected": {
+        "revision": 5,
+        "slots": [
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "poodle",
+            "alternatives": [
+              "poodle",
+              "animal"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "carry",
+            "alternatives": [
+              "carry"
+            ]
+          },
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "CANDIDATE",
+          "sentence": "Some poodle carries some parcel.",
+          "claim_status": "candidate-needs-grammar-audit",
+          "execution": false
+        }
+      }
+    },
+    {
+      "command": {
+        "operation": "init",
+        "predicate": "have"
+      },
+      "expected": {
+        "revision": 1,
+        "slots": [
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "poodle",
+            "alternatives": [
+              "poodle"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "have",
+            "alternatives": [
+              "have"
+            ]
+          },
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "CANDIDATE",
+          "sentence": "Some poodle has some parcel.",
+          "claim_status": "input-assumption-not-world-verification",
+          "execution": false
+        }
+      }
+    },
+    {
+      "command": {
+        "operation": "init",
+        "predicate": "sleep"
+      },
+      "expected": {
+        "revision": 1,
+        "slots": [
+          {
+            "position_id": "s:0",
+            "role": "agent",
+            "word": "poodle",
+            "alternatives": [
+              "poodle"
+            ]
+          },
+          {
+            "position_id": "s:1",
+            "role": "predicate",
+            "word": "sleep",
+            "alternatives": [
+              "sleep"
+            ]
+          },
+          {
+            "position_id": "s:2",
+            "role": "patient",
+            "word": "parcel",
+            "alternatives": [
+              "parcel"
+            ]
+          }
+        ],
+        "output": {
+          "decision": "ABSTAIN",
+          "reason": "No tested inflection for predicate"
+        }
+      }
+    }
+  ]
+}

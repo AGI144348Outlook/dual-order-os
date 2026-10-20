@@ -1,0 +1,33 @@
+✔ Python tag parity: morning (1.802748ms)
+✔ Python tag parity: clock (0.193377ms)
+✔ Python tag parity: tomorrow (0.127018ms)
+✔ Python tag parity: teacher (0.249239ms)
+✔ Python tag parity: school (0.197602ms)
+✔ Python answer parity 0 who (0.653407ms)
+✔ Python answer parity 1 what (0.092126ms)
+✔ Python answer parity 2 when (0.076523ms)
+✔ Python answer parity 3 whose (0.151574ms)
+✔ Python answer parity 4 why (0.311912ms)
+✔ Python answer parity 5 who (0.337669ms)
+✔ Python answer parity 6 which (0.083834ms)
+✔ Python answer parity 7 who (0.164012ms)
+✔ Python answer parity 8 who (3.765742ms)
+✔ Python answer parity 9 who (0.113558ms)
+✔ Python sentence-card replay parity (1.357098ms)
+✔ Unsupported substitution does not mutate state (0.572727ms)
+✔ Bad permutation rejected (0.177092ms)
+✔ Historical snapshots retain original selection (0.286004ms)
+✔ Source data cannot execute through definition text (0.095451ms)
+✔ Fixture answers are not embedded in artifact (0.341435ms)
+✔ Timeline orders a long span (0.226866ms)
+✔ Timeline viewport and filters (0.107529ms)
+✔ Timeline bins retain all counts (18.687503ms)
+✔ Timeline invalid index rejected (0.293625ms)
+ℹ tests 25
+ℹ suites 0
+ℹ pass 25
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 39.830891

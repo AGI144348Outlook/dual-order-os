@@ -1,0 +1,16 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import {Cards,tags,answer} from './engine.mjs';
+const fixtures=JSON.parse(fs.readFileSync(new URL('./fixtures.json',import.meta.url),'utf8'));
+for(const c of fixtures.tags)test('Python tag parity: '+c.word,()=>assert.deepEqual(tags(c.word,c.pos,c.definition,c.category),c.expected));
+for(const [i,c] of fixtures.answers.entries())test('Python answer parity '+i+' '+c.question,()=>assert.deepEqual(answer(c.facts,c.event,c.role,c.question),c.expected));
+test('Python sentence-card replay parity',()=>{let e;for(const c of fixtures.cards){const p=c.command;if(p.operation==='init'){e=new Cards();const s=e.slots.find(s=>s.role==='predicate');s.word=p.predicate;s.alternatives=[p.predicate];}else if(p.operation==='transform')e.transform(p.position,p.target,p.mode);else e.reorder(p.positions);const actual={revision:e.revision,slots:e.slots,output:e.render()};assert.deepEqual(actual,c.expected);}});
+test('Unsupported substitution does not mutate state',()=>{const e=new Cards(),before=e.state();assert.throws(()=>e.transform('s:0','object','generalize'));assert.deepEqual(e.state(),before);});
+test('Bad permutation rejected',()=>{const e=new Cards();assert.throws(()=>e.reorder(['s:0','s:0','s:2']));});
+test('Historical snapshots retain original selection',()=>{const e=new Cards();e.transform('s:0','dog','generalize');assert.equal(e.snapshots[0].slots[0].word,'poodle');assert.equal(e.snapshots[1].slots[0].word,'dog');});
+test('Source data cannot execute through definition text',()=>{const r=tags('x','noun','<script>throw Error(1)</script>','');assert.deepEqual(r.possible_questions,['what']);});
+test('Fixture answers are not embedded in artifact',()=>{const html=fs.readFileSync(new URL('./index.html',import.meta.url),'utf8');assert.ok(!html.includes('"expected"'));assert.ok(html.includes('width=device-width'));assert.ok(html.includes('Original Python'));});
+import {checkedTimeline,bounds,visibleEvents,bins} from './timeline.mjs';
+test('Timeline orders a long span',()=>{const t=checkedTimeline({format:'echo-conversation-timeline/1',events:[{id:'b',time:'2026-01-01T00:00:00Z',provider:'claude',title:'B'},{id:'a',time:'2024-01-01T00:00:00Z',provider:'openai',title:'A'}]});assert.equal(t.events[0].id,'a');assert.ok(bounds(t.events)[1]>t.events[1].t);});
+test('Timeline viewport and filters',()=>{const es=[{t:10,provider:'openai',title:'Registry'},{t:20,provider:'claude',title:'Other'}];assert.equal(visibleEvents(es,0,30,'openai','reg').length,1);assert.equal(visibleEvents(es,11,30,'openai').length,0);});
+test('Timeline bins retain all counts',()=>{const es=Array.from({length:50000},()=>({t:10,provider:'openai'}));assert.equal(bins(es,0,100,390).reduce((n,b)=>n+b.count,0),50000);assert.equal(bins(es,0,100,390).length,1);});
+test('Timeline invalid index rejected',()=>{assert.throws(()=>checkedTimeline({events:[]}));assert.throws(()=>checkedTimeline({format:'echo-conversation-timeline/1',events:[{time:'bad',provider:'openai',title:'bad'}]}));});

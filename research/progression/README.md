@@ -23,6 +23,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [010 — Question tags and developmental curriculum](010-question-tags-and-developmental-curriculum.md) — provisional question roles, contextual evidence, dictionary annotation counts and stage boundaries.
 
+- [011 — Interactive demos and private chronology](011-artifact-demos-and-private-timeline.md) — mobile artifacts, original Python option, source indexing and private R2 timeline.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.

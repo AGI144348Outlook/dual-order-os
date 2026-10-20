@@ -20,6 +20,7 @@ Experimental library on `integration/echo-genesis-unified`; original Genesis sou
 | MIRROR-RETURN | hypernym grammar → A-145 MirrorStep → bounded repeat | Separate branch, not merged here; not indexed Recursive Return |
 | JOINT-SENSE | alternative sense sets → joint coherence selection | Source on main; WordNet/NLTK dependency; not integrated into card prototype |
 | QUESTION-TAGS | sense-specific affordances → contextual roles → supplied evidence → answer/withhold | New bounded prototype; no free-text extraction |
+| ECHO-TIMELINE | provider records → UTC ordering → source cards → bounded Canvas view | New deterministic private-source index; no inferred milestones |
 | DSL-INVERSION | Registry → % → infrastructural §DSL§ → governed manifestations | Specification only; not implemented by these recipes |
 
 ## Use
