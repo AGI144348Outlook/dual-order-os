@@ -1,0 +1,103 @@
+{
+  "selection_author": "Codex, provisional task-scoped associations requested by Timothy",
+  "source_git_blob": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+  "clipped": [
+    {
+      "glyph": "ayin",
+      "word": "see",
+      "sense_index": 0,
+      "definition": "perceive by sight or have the power to perceive by sight",
+      "relation": "vocabclip:ayin:lex:aa9e9b5c907d50feb410f2a8:0"
+    },
+    {
+      "glyph": "ayin",
+      "word": "look",
+      "sense_index": 0,
+      "definition": "perceive with attention; direct one's gaze towards",
+      "relation": "vocabclip:ayin:lex:3c01eba119e00d79c82b6f65:0"
+    },
+    {
+      "glyph": "ayin",
+      "word": "hear",
+      "sense_index": 0,
+      "definition": "perceive (sound) via the auditory sense",
+      "relation": "vocabclip:ayin:lex:49000c4444d51233fa10ad20:0"
+    },
+    {
+      "glyph": "ayin",
+      "word": "sense",
+      "sense_index": 1,
+      "definition": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+      "relation": "vocabclip:ayin:lex:5146f25dc5079599b09b7f5a:1"
+    },
+    {
+      "glyph": "resh",
+      "word": "match",
+      "sense_index": 0,
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "relation": "vocabclip:resh:lex:4945a70fa7f9c13fe1931a33:0"
+    }
+  ],
+  "pending_not_clipped": {
+    "ayin": [
+      {
+        "word": "perceive",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "observe",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "notice",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "detect",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "distinguish",
+        "present_in_dictionary": false
+      }
+    ],
+    "resh": [
+      {
+        "word": "identify",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "recognize",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "classify",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "compare",
+        "present_in_dictionary": false
+      },
+      {
+        "word": "verify",
+        "present_in_dictionary": false
+      }
+    ]
+  },
+  "profiles_unchanged": true,
+  "cards_restored": true,
+  "read_only_write_blocked": true,
+  "excluded_senses": [
+    "look:noun (facial expression)",
+    "sense:noun (awareness)",
+    "match:noun (fire-lighting object)"
+  ],
+  "workflow_hypothesis": "ע observation -> ר candidate recognition -> פ naming / ת labeling",
+  "limits": [
+    "No perception or recognition implementation was added.",
+    "Match is supporting comparison vocabulary, not sufficient proof of identity.",
+    "Missing words require sourced senses or separately approved working definitions.",
+    "This task-scoped order is not asserted as a universal prerequisite of identification.",
+    "No glyph profile, tokenizer, VGM truth, or Algorithm 000 authority was changed."
+  ]
+}
