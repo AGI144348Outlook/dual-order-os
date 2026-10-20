@@ -21,6 +21,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [009 — Sentence cards and dictionary observation](009-sentence-cards-and-dictionary-observation.md) — 1,000 dictionary words, 1,491 sense cards, 14 mapped blocks, 61 Python tests, and explicit boundaries around unprompted behavior.
 
+- [010 — Question tags and developmental curriculum](010-question-tags-and-developmental-curriculum.md) — provisional question roles, contextual evidence, dictionary annotation counts and stage boundaries.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.

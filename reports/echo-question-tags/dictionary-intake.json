@@ -1,0 +1,41 @@
+{
+  "source_archive_git_blob": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+  "sense_cards": 1491,
+  "annotation_cards": 1491,
+  "provisional_affordance_counts": {
+    "what": 658
+  },
+  "unapproved_definition_hint_counts": {
+    "time-interval": 80,
+    "place": 64,
+    "person": 71
+  },
+  "automatic_category_promotions": 0,
+  "persistence_verified": true,
+  "training": false,
+  "scope": "Explicit noun->What candidates only without curated categories; keywords are review hints, not answers.",
+  "manual_category_example": {
+    "kind": "question-affordances",
+    "possible_questions": [
+      "what",
+      "when"
+    ],
+    "reasons": {
+      "what": [
+        "noun-role candidate; context and sense still required",
+        {
+          "category": "time-interval",
+          "source": "illustrative lesson assumption"
+        }
+      ],
+      "when": [
+        {
+          "category": "time-interval",
+          "source": "illustrative lesson assumption"
+        }
+      ]
+    },
+    "status": "candidate-not-contextual-answer",
+    "rule_version": "question-tags-v1"
+  }
+}

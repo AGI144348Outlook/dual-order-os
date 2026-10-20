@@ -154,6 +154,25 @@
       "status": "specified-not-implemented",
       "code": [],
       "auto_dispatch": false
+    },
+    {
+      "id": "QUESTION-TAGS",
+      "status": "new-tested-structured-facts-only",
+      "auto_dispatch": false,
+      "code": [
+        {
+          "path": "libraries/echo_question_tags.py",
+          "callable": "candidate_tags"
+        },
+        {
+          "path": "libraries/echo_question_tags.py",
+          "callable": "save_tags"
+        },
+        {
+          "path": "libraries/echo_question_tags.py",
+          "callable": "answer_role"
+        }
+      ]
     }
   ]
 }

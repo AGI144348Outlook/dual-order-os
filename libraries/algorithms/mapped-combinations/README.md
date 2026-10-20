@@ -19,6 +19,7 @@ Experimental library on `integration/echo-genesis-unified`; original Genesis sou
 | ROLE-ARTICULATION | agent/patient edges → ambiguity checks → clause realizer | Existing bounded wrapper; known mass-noun/irregular/article failures |
 | MIRROR-RETURN | hypernym grammar → A-145 MirrorStep → bounded repeat | Separate branch, not merged here; not indexed Recursive Return |
 | JOINT-SENSE | alternative sense sets → joint coherence selection | Source on main; WordNet/NLTK dependency; not integrated into card prototype |
+| QUESTION-TAGS | sense-specific affordances → contextual roles → supplied evidence → answer/withhold | New bounded prototype; no free-text extraction |
 | DSL-INVERSION | Registry → % → infrastructural §DSL§ → governed manifestations | Specification only; not implemented by these recipes |
 
 ## Use
