@@ -1,0 +1,459 @@
+{
+  "method": "Controlled temporary re-profiling, not autonomous learning. Original 1861 definitions reconstructed; missing four letter-name agents supplied from existing static profiles. Three treatments replace tsadi definition only; other definitions remain fixed. No new glyph interpreter, actions, registry persistence, or external model.",
+  "arms": {
+    "baseline": {
+      "added_profile_agents": [
+        "tsadi",
+        "qof",
+        "shin",
+        "tav"
+      ],
+      "tsadi_definition": "righteousness/discipline/pursuit — the drive toward correctness",
+      "tsadi_ties": [
+        "discipline",
+        "drive"
+      ],
+      "pairwise_shared_vocabulary": {
+        "resh": [],
+        "pe": [],
+        "ayin": [],
+        "qof": [
+          "the"
+        ],
+        "shin": [
+          "the"
+        ],
+        "tav": [
+          "the"
+        ]
+      },
+      "overlap_candidates": [
+        {
+          "word": "ahead",
+          "shared": [
+            "the",
+            "toward"
+          ]
+        },
+        {
+          "word": "egoism",
+          "shared": [
+            "pursuit",
+            "the"
+          ]
+        },
+        {
+          "word": "indiscipline",
+          "shared": [
+            "discipline",
+            "the"
+          ]
+        },
+        {
+          "word": "north",
+          "shared": [
+            "the",
+            "toward"
+          ]
+        },
+        {
+          "word": "abductor",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "ability",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "abject",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "accelerator",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "adrift(p)",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "advantage",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "again",
+          "shared": [
+            "the"
+          ]
+        },
+        {
+          "word": "agility",
+          "shared": [
+            "the"
+          ]
+        }
+      ],
+      "definitions": {
+        "resh": "head beginning identity leader A-000 governor letter 200 equilibrium",
+        "tsadi": "righteousness/discipline/pursuit — the drive toward correctness",
+        "pe": "mouth speech expression operator Hebrew letter 80",
+        "ayin": "eye perception depth operator Hebrew letter 70 classifier",
+        "qof": "back of head/sanctity/cycle — what returns, the sacred loop",
+        "shin": "fire/transformation/tooth — the consuming and purifying force",
+        "tav": "mark/truth/completion/seal — the final letter, covenant"
+      },
+      "neighbors": {
+        "resh": [
+          "echo",
+          "governor",
+          "leader"
+        ],
+        "tsadi": [
+          "discipline",
+          "drive"
+        ],
+        "pe": [
+          "speech"
+        ],
+        "ayin": [
+          "perception"
+        ],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "direct_classifications": {
+        "resh": "ENTITY_NOUN",
+        "tsadi": "INDEXED [letter]",
+        "pe": "ENTITY_NOUN",
+        "ayin": "ENTITY_NOUN",
+        "qof": "INDEXED [letter]",
+        "shin": "INDEXED [letter]",
+        "tav": "INDEXED [letter]"
+      },
+      "tsadi_communication": "ר ECHO receives: \"tsadi\"\n\nע Ayin perceives:\n  'tsadi' → INDEXED [letter]  |  stack depth: 1  |  chain: tsadi\n\nפ Pe draws from the Validated Generalization Matrix:\n  No VGM statements matched — vocabulary not indexed.\n  AcquisitionPlanner: acquire corpus covering these terms.\n\nפ Pe — indexed neighbors:\n  'tsadi' connects to: drive, discipline\n  'tsadi' leads UNCLASSIFIED study  |  invited: ['discipline', 'drive']",
+      "raw_glyph_communication": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+    },
+    "literal": {
+      "added_profile_agents": [
+        "tsadi",
+        "qof",
+        "shin",
+        "tav"
+      ],
+      "tsadi_definition": "paperclipping",
+      "tsadi_ties": [],
+      "pairwise_shared_vocabulary": {
+        "resh": [],
+        "pe": [],
+        "ayin": [],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "overlap_candidates": [],
+      "definitions": {
+        "resh": "head beginning identity leader A-000 governor letter 200 equilibrium",
+        "tsadi": "paperclipping",
+        "pe": "mouth speech expression operator Hebrew letter 80",
+        "ayin": "eye perception depth operator Hebrew letter 70 classifier",
+        "qof": "back of head/sanctity/cycle — what returns, the sacred loop",
+        "shin": "fire/transformation/tooth — the consuming and purifying force",
+        "tav": "mark/truth/completion/seal — the final letter, covenant"
+      },
+      "neighbors": {
+        "resh": [
+          "echo",
+          "governor",
+          "leader"
+        ],
+        "tsadi": [],
+        "pe": [
+          "speech"
+        ],
+        "ayin": [
+          "perception"
+        ],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "direct_classifications": {
+        "resh": "ENTITY_NOUN",
+        "tsadi": "INDEXED [letter]",
+        "pe": "ENTITY_NOUN",
+        "ayin": "ENTITY_NOUN",
+        "qof": "INDEXED [letter]",
+        "shin": "INDEXED [letter]",
+        "tav": "INDEXED [letter]"
+      },
+      "tsadi_communication": "ר ECHO receives: \"tsadi\"\n\nע Ayin perceives:\n  'tsadi' → INDEXED [letter]  |  stack depth: 1  |  chain: tsadi\n\nפ Pe draws from the Validated Generalization Matrix:\n  No VGM statements matched — vocabulary not indexed.\n  AcquisitionPlanner: acquire corpus covering these terms.\n\nפ Pe — indexed neighbors:\n  'tsadi' leads UNCLASSIFIED study  |  invited: []",
+      "raw_glyph_communication": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+    },
+    "explained": {
+      "added_profile_agents": [
+        "tsadi",
+        "qof",
+        "shin",
+        "tav"
+      ],
+      "tsadi_definition": "paperclipping attach index card module",
+      "tsadi_ties": [
+        "attach",
+        "index"
+      ],
+      "pairwise_shared_vocabulary": {
+        "resh": [],
+        "pe": [],
+        "ayin": [],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "overlap_candidates": [
+        {
+          "word": "echo",
+          "shared": [
+            "index"
+          ]
+        },
+        {
+          "word": "euchre",
+          "shared": [
+            "card"
+          ]
+        },
+        {
+          "word": "hinge",
+          "shared": [
+            "attach"
+          ]
+        },
+        {
+          "word": "legume",
+          "shared": [
+            "attach"
+          ]
+        },
+        {
+          "word": "tendril",
+          "shared": [
+            "attach"
+          ]
+        },
+        {
+          "word": "traversal",
+          "shared": [
+            "index"
+          ]
+        }
+      ],
+      "definitions": {
+        "resh": "head beginning identity leader A-000 governor letter 200 equilibrium",
+        "tsadi": "paperclipping attach index card module",
+        "pe": "mouth speech expression operator Hebrew letter 80",
+        "ayin": "eye perception depth operator Hebrew letter 70 classifier",
+        "qof": "back of head/sanctity/cycle — what returns, the sacred loop",
+        "shin": "fire/transformation/tooth — the consuming and purifying force",
+        "tav": "mark/truth/completion/seal — the final letter, covenant"
+      },
+      "neighbors": {
+        "resh": [
+          "echo",
+          "governor",
+          "leader"
+        ],
+        "tsadi": [
+          "attach",
+          "index"
+        ],
+        "pe": [
+          "speech"
+        ],
+        "ayin": [
+          "perception"
+        ],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "direct_classifications": {
+        "resh": "ENTITY_NOUN",
+        "tsadi": "INDEXED [letter]",
+        "pe": "ENTITY_NOUN",
+        "ayin": "ENTITY_NOUN",
+        "qof": "INDEXED [letter]",
+        "shin": "INDEXED [letter]",
+        "tav": "INDEXED [letter]"
+      },
+      "tsadi_communication": "ר ECHO receives: \"tsadi\"\n\nע Ayin perceives:\n  'tsadi' → INDEXED [letter]  |  stack depth: 1  |  chain: tsadi\n\nפ Pe draws from the Validated Generalization Matrix:\n  No VGM statements matched — vocabulary not indexed.\n  AcquisitionPlanner: acquire corpus covering these terms.\n\nפ Pe — indexed neighbors:\n  'tsadi' connects to: index, attach\n  'tsadi' leads UNCLASSIFIED study  |  invited: ['attach', 'index']",
+      "raw_glyph_communication": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+    },
+    "control": {
+      "added_profile_agents": [
+        "tsadi",
+        "qof",
+        "shin",
+        "tav"
+      ],
+      "tsadi_definition": "zzqvcontrol",
+      "tsadi_ties": [],
+      "pairwise_shared_vocabulary": {
+        "resh": [],
+        "pe": [],
+        "ayin": [],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "overlap_candidates": [],
+      "definitions": {
+        "resh": "head beginning identity leader A-000 governor letter 200 equilibrium",
+        "tsadi": "zzqvcontrol",
+        "pe": "mouth speech expression operator Hebrew letter 80",
+        "ayin": "eye perception depth operator Hebrew letter 70 classifier",
+        "qof": "back of head/sanctity/cycle — what returns, the sacred loop",
+        "shin": "fire/transformation/tooth — the consuming and purifying force",
+        "tav": "mark/truth/completion/seal — the final letter, covenant"
+      },
+      "neighbors": {
+        "resh": [
+          "echo",
+          "governor",
+          "leader"
+        ],
+        "tsadi": [],
+        "pe": [
+          "speech"
+        ],
+        "ayin": [
+          "perception"
+        ],
+        "qof": [],
+        "shin": [],
+        "tav": []
+      },
+      "direct_classifications": {
+        "resh": "ENTITY_NOUN",
+        "tsadi": "INDEXED [letter]",
+        "pe": "ENTITY_NOUN",
+        "ayin": "ENTITY_NOUN",
+        "qof": "INDEXED [letter]",
+        "shin": "INDEXED [letter]",
+        "tav": "INDEXED [letter]"
+      },
+      "tsadi_communication": "ר ECHO receives: \"tsadi\"\n\nע Ayin perceives:\n  'tsadi' → INDEXED [letter]  |  stack depth: 1  |  chain: tsadi\n\nפ Pe draws from the Validated Generalization Matrix:\n  No VGM statements matched — vocabulary not indexed.\n  AcquisitionPlanner: acquire corpus covering these terms.\n\nפ Pe — indexed neighbors:\n  'tsadi' leads UNCLASSIFIED study  |  invited: []",
+      "raw_glyph_communication": "ר ECHO: Input contains no indexable content words. פ Pe: Please include vocabulary I can generalize from."
+    }
+  },
+  "changes": {
+    "literal": {
+      "resh": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "pe": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "ayin": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "qof": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "shin": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "tav": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      }
+    },
+    "explained": {
+      "resh": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "pe": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "ayin": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "qof": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "shin": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "tav": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      }
+    },
+    "control": {
+      "resh": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "pe": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "ayin": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "qof": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "shin": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      },
+      "tav": {
+        "definition_changed": false,
+        "added_neighbors": [],
+        "removed_neighbors": []
+      }
+    }
+  }
+}

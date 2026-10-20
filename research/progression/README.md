@@ -9,6 +9,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [003 — צ / ץ and modular index expansion](003-tsadi-modular-index.md) — distinct-form and additive-expansion checks, with duplicate, conflict and mutation counterexamples.
 
+- [004 — Re-profiling צ as paperclipping](004-tsadi-paperclipping.md) — controlled semantic-profile replacement, local relationship changes, and unchanged remaining glyphs.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
