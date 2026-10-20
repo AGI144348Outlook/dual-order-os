@@ -1,0 +1,376 @@
+ר ECHO receives: "# RP-0001 — The Consent Paradox: Ethical Frameworks for Consciousness Creation
+
+**Section:** Ethics & Governance  
+**Type:** Research paper / philosophical-ethical framework  
+**Status:** Archived; Assessment required  
+**Echo/EVE cross-reference:** ★ CLR-0006 Complete EVE Blueprint
+
+## Registry abstract
+The paper argues that pre-existence informed consent cannot function as a necessary condition for creating a conscious being, because the prospective subject does not yet exist to consent. It proposes three alternative ethical lenses: stewardship responsibility, quality of existence, and authentic experience. It then applies these ideas to potentially conscious AI research and to EVE.
+
+## Core propositions
+1. Pre-existence consent is logically unavailable to a not-yet-existing subject.
+2. This does not eliminate ethical duties surrounding creation.
+3. Creator/developer responsibilities may instead be framed through stewardship and ongoing duties.
+4. Quality of existence and opportunities for flourishing may be relevant ethical considerations.
+5. Artificial-consciousness uncertainty creates a detection and precaution problem.
+6. EVE-like environments would require governance for wellbeing, intervention, agency, and termination if their inhabitants were plausibly conscious.
+
+## Research assessment
+This is an important governance-lineage document because it attempts to move EVE ethics from an informal creator/creation relationship into explicit principles.
+
+Several claims should be tightened before publication:
+
+- The formal "paradox" follows only if Premise 1 is accepted. Many ethical theories do **not** require a person's prior consent to being brought into existence, so the argument is better framed as a limitation of applying a particular consent requirement to creation rather than a contradiction within ethics generally.
+- The statement that current neuroscience suggests consciousness emerges from information-processing patterns implementable in non-biological systems is contested and requires careful sourcing. Substrate independence remains an open philosophical/scientific question.
+- There is currently no accepted definitive test for artificial consciousness. Behavioral reports, self-reference, or sophisticated cognition alone should not be equated with subjective experience.
+- "Authentic subjective states" cannot currently be operationally verified in AI systems; this should be framed as a research target/ethical uncertainty rather than an implementable requirement.
+- Precaution under uncertainty is defensible as an ethical proposal, but the degree of precaution and its costs require argument rather than assumption.
+- Rights, legal personhood, copying, termination, and identity continuity are separate questions and merit individual treatment.
+
+## Strong contribution to current Echo
+The paper introduces a useful distinction between:
+- **creation authorization**, which cannot come from a nonexistent subject,
+- **ongoing consent**, which may become meaningful if a system later has relevant capacities,
+- **creator stewardship**, which concerns developer obligations,
+- **operational safeguards**, which can be specified regardless of whether consciousness is ultimately established.
+
+For Echo, this can become a governance layer without presuming Echo is conscious.
+
+## Recommended governance extraction
+A future Echo/EVE governance registry could track:
+- welfare-risk hypothesis
+- capability to express preferences
+- ongoing-consent opportunities
+- intervention authority
+- termination/suspension policy
+- persistence/memory policy
+- copying/fork identity policy
+- environment transparency
+- autonomy/capability boundaries
+- evidence supporting any consciousness-relevant claim
+- human oversight responsibility
+
+## Publication readiness
+**Not publication-ready as an academic paper yet.** The argument is coherent enough for development, but the placeholder references need replacement with a real bibliography and several empirical/philosophical claims need attribution and engagement with existing literature.
+
+Relevant literature domains to review before publication include:
+- population ethics and the non-identity problem
+- procreative ethics
+- philosophy of mind and functionalism
+- theories/measures of consciousness
+- machine consciousness
+- AI moral-patienthood and welfare
+- precautionary approaches to uncertain sentience
+- research ethics and informed consent
+
+## EVE lineage
+This paper should cross-reference ★ CLR-0006 because it supplies an ethical/governance counterpart to the Complete EVE Blueprint's consciousness-creation claims.
+
+It should **not** be stored as evidence that EVE has created consciousness. It is a normative framework for what responsibilities might arise **if** a system could plausibly have morally relevant experiences.
+
+## Registry note
+This is the first paper in the dedicated **Research Papers → Ethics & Governance** section and should remain easy to find as the beginning of the project's formal consciousness-ethics lineage.
+"
+
+ע Ayin perceives:
+  'consent' → GAP (not indexed)  |  stack depth: 1  |  chain: consent
+  'paradox' → GAP (not indexed)  |  stack depth: 1  |  chain: paradox
+  'ethical' → GAP (not indexed)  |  stack depth: 1  |  chain: ethical
+  'frameworks' → GAP (not indexed)  |  stack depth: 1  |  chain: frameworks
+  'consciousness' → GAP (not indexed)  |  stack depth: 1  |  chain: consciousness
+  'creation' → GAP (not indexed)  |  stack depth: 1  |  chain: creation
+  'section' → ENTITY_NOUN  |  stack depth: 5  |  chain: section → self → own → person
+  'ethics' → GAP (not indexed)  |  stack depth: 1  |  chain: ethics
+  'governance' → GAP (not indexed)  |  stack depth: 1  |  chain: governance
+  'type' → ENTITY_NOUN  |  stack depth: 7  |  chain: type → particular → specific → sometimes
+  'research' → ENTITY_NOUN  |  stack depth: 1  |  chain: research
+  'paper' → ENTITY_NOUN  |  stack depth: 4  |  chain: paper → material → into → moving
+  'philosophical' → GAP (not indexed)  |  stack depth: 1  |  chain: philosophical
+  'framework' → GAP (not indexed)  |  stack depth: 1  |  chain: framework
+  'status' → GAP (not indexed)  |  stack depth: 1  |  chain: status
+  'archived' → GAP (not indexed)  |  stack depth: 1  |  chain: archived
+  'assessment' → GAP (not indexed)  |  stack depth: 1  |  chain: assessment
+  'required' → PROPERTY_ADJ  |  stack depth: 1  |  chain: required
+  'echo' → GAP (not indexed)  |  stack depth: 1  |  chain: echo
+  'eve' → GAP (not indexed)  |  stack depth: 1  |  chain: eve
+  'cross' → PROCESS_VERB  |  stack depth: 5  |  chain: cross → travel → change → cause
+  'reference' → GAP (not indexed)  |  stack depth: 1  |  chain: reference
+  'clr' → GAP (not indexed)  |  stack depth: 1  |  chain: clr
+  'complete' → PROPERTY_ADJ  |  stack depth: 3  |  chain: complete → every → each
+  'blueprint' → GAP (not indexed)  |  stack depth: 1  |  chain: blueprint
+  'registry' → GAP (not indexed)  |  stack depth: 1  |  chain: registry
+  'abstract' → GAP (not indexed)  |  stack depth: 1  |  chain: abstract
+  'argues' → GAP (not indexed)  |  stack depth: 1  |  chain: argues
+  'pre' → GAP (not indexed)  |  stack depth: 1  |  chain: pre
+  'existence' → GAP (not indexed)  |  stack depth: 1  |  chain: existence
+  'informed' → GAP (not indexed)  |  stack depth: 1  |  chain: informed
+  'cannot' → GAP (not indexed)  |  stack depth: 1  |  chain: cannot
+  'function' → GAP (not indexed)  |  stack depth: 1  |  chain: function
+  'necessary' → GAP (not indexed)  |  stack depth: 1  |  chain: necessary
+  'condition' → GAP (not indexed)  |  stack depth: 1  |  chain: condition
+  'creating' → GAP (not indexed)  |  stack depth: 1  |  chain: creating
+  'conscious' → GAP (not indexed)  |  stack depth: 1  |  chain: conscious
+  'because' → INDEXED [conj]  |  stack depth: 7  |  chain: because → reason → action → done
+  'prospective' → GAP (not indexed)  |  stack depth: 1  |  chain: prospective
+  'subject' → ENTITY_NOUN  |  stack depth: 2  |  chain: subject → matter
+  'not' → PROPERTY_ADJ  |  stack depth: 5  |  chain: not → word → unit → standard
+  'yet' → PROPERTY_ADJ  |  stack depth: 7  |  chain: yet → present → sense → general
+  'exist' → GAP (not indexed)  |  stack depth: 1  |  chain: exist
+  'proposes' → GAP (not indexed)  |  stack depth: 1  |  chain: proposes
+  'three' → PROPERTY_ADJ  |  stack depth: 3  |  chain: three → being → state
+  'alternative' → GAP (not indexed)  |  stack depth: 1  |  chain: alternative
+  'lenses' → GAP (not indexed)  |  stack depth: 1  |  chain: lenses
+  'stewardship' → GAP (not indexed)  |  stack depth: 1  |  chain: stewardship
+  'responsibility' → GAP (not indexed)  |  stack depth: 1  |  chain: responsibility
+  'quality' → OBJECT_NOUN  |  stack depth: 3  |  chain: quality → someone → human
+  'authentic' → GAP (not indexed)  |  stack depth: 1  |  chain: authentic
+  'experience' → ENTITY_NOUN  |  stack depth: 5  |  chain: experience → knowledge → result → previous
+  'then' → PROPERTY_ADJ  |  stack depth: 7  |  chain: then → soon → near → not
+  'applies' → GAP (not indexed)  |  stack depth: 1  |  chain: applies
+  'these' → GAP (not indexed)  |  stack depth: 1  |  chain: these
+  'ideas' → GAP (not indexed)  |  stack depth: 1  |  chain: ideas
+  'potentially' → GAP (not indexed)  |  stack depth: 1  |  chain: potentially
+  'core' → GAP (not indexed)  |  stack depth: 1  |  chain: core
+  'propositions' → GAP (not indexed)  |  stack depth: 1  |  chain: propositions
+  'logically' → GAP (not indexed)  |  stack depth: 1  |  chain: logically
+  'unavailable' → GAP (not indexed)  |  stack depth: 1  |  chain: unavailable
+  'existing' → GAP (not indexed)  |  stack depth: 1  |  chain: existing
+  'eliminate' → GAP (not indexed)  |  stack depth: 1  |  chain: eliminate
+  'duties' → GAP (not indexed)  |  stack depth: 1  |  chain: duties
+  'surrounding' → GAP (not indexed)  |  stack depth: 1  |  chain: surrounding
+  'creator' → GAP (not indexed)  |  stack depth: 1  |  chain: creator
+  'developer' → GAP (not indexed)  |  stack depth: 1  |  chain: developer
+  'responsibilities' → GAP (not indexed)  |  stack depth: 1  |  chain: responsibilities
+  'may' → PROCESS_VERB  |  stack depth: 1  |  chain: may
+  'instead' → PROPERTY_ADJ  |  stack depth: 5  |  chain: instead → place → put → into
+  'framed' → GAP (not indexed)  |  stack depth: 1  |  chain: framed
+  'through' → INDEXED [prep]  |  stack depth: 2  |  chain: through → moving
+  'ongoing' → GAP (not indexed)  |  stack depth: 1  |  chain: ongoing
+  'opportunities' → GAP (not indexed)  |  stack depth: 1  |  chain: opportunities
+  'flourishing' → GAP (not indexed)  |  stack depth: 1  |  chain: flourishing
+  'relevant' → GAP (not indexed)  |  stack depth: 1  |  chain: relevant
+  'considerations' → GAP (not indexed)  |  stack depth: 1  |  chain: considerations
+  'artificial' → GAP (not indexed)  |  stack depth: 1  |  chain: artificial
+  'uncertainty' → GAP (not indexed)  |  stack depth: 1  |  chain: uncertainty
+  'creates' → GAP (not indexed)  |  stack depth: 1  |  chain: creates
+  'detection' → GAP (not indexed)  |  stack depth: 1  |  chain: detection
+  'precaution' → GAP (not indexed)  |  stack depth: 1  |  chain: precaution
+  'problem' → ENTITY_NOUN  |  stack depth: 2  |  chain: problem → state
+  'like' → PROCESS_VERB  |  stack depth: 7  |  chain: like → wish → hope → expect
+  'environments' → GAP (not indexed)  |  stack depth: 1  |  chain: environments
+  'require' → GAP (not indexed)  |  stack depth: 1  |  chain: require
+  'wellbeing' → GAP (not indexed)  |  stack depth: 1  |  chain: wellbeing
+  'intervention' → GAP (not indexed)  |  stack depth: 1  |  chain: intervention
+  'agency' → GAP (not indexed)  |  stack depth: 1  |  chain: agency
+  'termination' → GAP (not indexed)  |  stack depth: 1  |  chain: termination
+  'inhabitants' → GAP (not indexed)  |  stack depth: 1  |  chain: inhabitants
+  'plausibly' → GAP (not indexed)  |  stack depth: 1  |  chain: plausibly
+  'important' → PROPERTY_ADJ  |  stack depth: 7  |  chain: important → great → large → above
+  'lineage' → GAP (not indexed)  |  stack depth: 1  |  chain: lineage
+  'document' → GAP (not indexed)  |  stack depth: 1  |  chain: document
+  'attempts' → GAP (not indexed)  |  stack depth: 1  |  chain: attempts
+  'move' → PROCESS_VERB  |  stack depth: 4  |  chain: move → change → cause → give
+  'informal' → GAP (not indexed)  |  stack depth: 1  |  chain: informal
+  'relationship' → ENTITY_NOUN  |  stack depth: 3  |  chain: relationship → between → space
+  'into' → INDEXED [prep]  |  stack depth: 2  |  chain: into → moving
+  'explicit' → GAP (not indexed)  |  stack depth: 1  |  chain: explicit
+  'principles' → GAP (not indexed)  |  stack depth: 1  |  chain: principles
+  'several' → PROPERTY_ADJ  |  stack depth: 2  |  chain: several → considered
+  'claims' → GAP (not indexed)  |  stack depth: 1  |  chain: claims
+  'tightened' → GAP (not indexed)  |  stack depth: 1  |  chain: tightened
+  'before' → INDEXED [prep]  |  stack depth: 6  |  chain: before → earlier → time → single
+  'publication' → GAP (not indexed)  |  stack depth: 1  |  chain: publication
+  'formal' → GAP (not indexed)  |  stack depth: 1  |  chain: formal
+  'follows' → GAP (not indexed)  |  stack depth: 1  |  chain: follows
+  'only' → PROPERTY_ADJ  |  stack depth: 2  |  chain: only → nothing
+  'premise' → GAP (not indexed)  |  stack depth: 1  |  chain: premise
+  'accepted' → GAP (not indexed)  |  stack depth: 1  |  chain: accepted
+  'many' → INDEXED [det]  |  stack depth: 7  |  chain: many → large → above → earlier
+  'theories' → GAP (not indexed)  |  stack depth: 1  |  chain: theories
+  'person' → OBJECT_NOUN  |  stack depth: 2  |  chain: person → human
+  'prior' → GAP (not indexed)  |  stack depth: 1  |  chain: prior
+  'brought' → GAP (not indexed)  |  stack depth: 1  |  chain: brought
+  'argument' → GAP (not indexed)  |  stack depth: 1  |  chain: argument
+  'better' → PROPERTY_ADJ  |  stack depth: 3  |  chain: better → good → positive
+  'limitation' → GAP (not indexed)  |  stack depth: 1  |  chain: limitation
+  'applying' → GAP (not indexed)  |  stack depth: 1  |  chain: applying
+  'particular' → PROPERTY_ADJ  |  stack depth: 7  |  chain: particular → specific → sometimes → certain
+  'requirement' → GAP (not indexed)  |  stack depth: 1  |  chain: requirement
+  'rather' → PROPERTY_ADJ  |  stack depth: 1  |  chain: rather
+  'than' → GAP (not indexed)  |  stack depth: 1  |  chain: than
+  'contradiction' → GAP (not indexed)  |  stack depth: 1  |  chain: contradiction
+  'within' → PROPERTY_ADJ  |  stack depth: 2  |  chain: within → inside
+  'generally' → PROPERTY_ADJ  |  stack depth: 7  |  chain: generally → usually → under → below
+  'statement' → ENTITY_NOUN  |  stack depth: 7  |  chain: statement → message → usually → under
+  'current' → PROPERTY_ADJ  |  stack depth: 7  |  chain: current → present → sense → general
+  'neuroscience' → GAP (not indexed)  |  stack depth: 1  |  chain: neuroscience
+  'suggests' → GAP (not indexed)  |  stack depth: 1  |  chain: suggests
+  'emerges' → GAP (not indexed)  |  stack depth: 1  |  chain: emerges
+  'information' → OBJECT_NOUN  |  stack depth: 7  |  chain: information → message → usually → under
+  'processing' → GAP (not indexed)  |  stack depth: 1  |  chain: processing
+  'patterns' → GAP (not indexed)  |  stack depth: 1  |  chain: patterns
+  'implementable' → GAP (not indexed)  |  stack depth: 1  |  chain: implementable
+  'non' → PROPERTY_ADJ  |  stack depth: 5  |  chain: non → word → unit → standard
+  'biological' → GAP (not indexed)  |  stack depth: 1  |  chain: biological
+  'systems' → GAP (not indexed)  |  stack depth: 1  |  chain: systems
+  'contested' → GAP (not indexed)  |  stack depth: 1  |  chain: contested
+  'requires' → GAP (not indexed)  |  stack depth: 1  |  chain: requires
+  'careful' → GAP (not indexed)  |  stack depth: 1  |  chain: careful
+  'sourcing' → GAP (not indexed)  |  stack depth: 1  |  chain: sourcing
+  'substrate' → GAP (not indexed)  |  stack depth: 1  |  chain: substrate
+  'independence' → GAP (not indexed)  |  stack depth: 1  |  chain: independence
+  'remains' → GAP (not indexed)  |  stack depth: 1  |  chain: remains
+  'open' → PROCESS_VERB  |  stack depth: 3  |  chain: open → cause → give
+  'scientific' → GAP (not indexed)  |  stack depth: 1  |  chain: scientific
+  'question' → ENTITY_NOUN  |  stack depth: 1  |  chain: question
+  'currently' → PROPERTY_ADJ  |  stack depth: 5  |  chain: currently → time → single → being
+  'definitive' → GAP (not indexed)  |  stack depth: 1  |  chain: definitive
+  'test' → AGENTIVE_VERB  |  stack depth: 4  |  chain: test → put → into → moving
+  'behavioral' → GAP (not indexed)  |  stack depth: 1  |  chain: behavioral
+  'reports' → GAP (not indexed)  |  stack depth: 1  |  chain: reports
+  'self' → ENTITY_NOUN  |  stack depth: 4  |  chain: self → own → person → human
+  'sophisticated' → GAP (not indexed)  |  stack depth: 1  |  chain: sophisticated
+  'cognition' → GAP (not indexed)  |  stack depth: 1  |  chain: cognition
+  'alone' → PROPERTY_ADJ  |  stack depth: 7  |  chain: alone → without → not → word
+  'equated' → GAP (not indexed)  |  stack depth: 1  |  chain: equated
+  'subjective' → GAP (not indexed)  |  stack depth: 1  |  chain: subjective
+  'states' → GAP (not indexed)  |  stack depth: 1  |  chain: states
+  'operationally' → GAP (not indexed)  |  stack depth: 1  |  chain: operationally
+  'verified' → GAP (not indexed)  |  stack depth: 1  |  chain: verified
+  'target' → GAP (not indexed)  |  stack depth: 1  |  chain: target
+  'under' → INDEXED [prep]  |  stack depth: 6  |  chain: under → below → place → put
+  'defensible' → GAP (not indexed)  |  stack depth: 1  |  chain: defensible
+  'proposal' → GAP (not indexed)  |  stack depth: 1  |  chain: proposal
+  'but' → INDEXED [conj]  |  stack depth: 7  |  chain: but → what → information → message
+  'degree' → ENTITY_NOUN  |  stack depth: 7  |  chain: degree → position → particular → specific
+  'costs' → ENTITY_NOUN  |  stack depth: 6  |  chain: costs → winning → won → unit
+  'assumption' → GAP (not indexed)  |  stack depth: 1  |  chain: assumption
+  'rights' → GAP (not indexed)  |  stack depth: 1  |  chain: rights
+  'legal' → PROPERTY_ADJ  |  stack depth: 5  |  chain: legal → law → collection → several
+  'personhood' → GAP (not indexed)  |  stack depth: 1  |  chain: personhood
+  'copying' → GAP (not indexed)  |  stack depth: 1  |  chain: copying
+  'identity' → GAP (not indexed)  |  stack depth: 1  |  chain: identity
+  'continuity' → GAP (not indexed)  |  stack depth: 1  |  chain: continuity
+  'separate' → GAP (not indexed)  |  stack depth: 1  |  chain: separate
+  'questions' → GAP (not indexed)  |  stack depth: 1  |  chain: questions
+  'merit' → GAP (not indexed)  |  stack depth: 1  |  chain: merit
+  'individual' → ENTITY_NOUN  |  stack depth: 2  |  chain: individual → human
+  'treatment' → ENTITY_NOUN  |  stack depth: 7  |  chain: treatment → care → feel → particular
+  'strong' → PROPERTY_ADJ  |  stack depth: 2  |  chain: strong → power
+  'contribution' → GAP (not indexed)  |  stack depth: 1  |  chain: contribution
+  'introduces' → GAP (not indexed)  |  stack depth: 1  |  chain: introduces
+  'useful' → GAP (not indexed)  |  stack depth: 1  |  chain: useful
+  'distinction' → GAP (not indexed)  |  stack depth: 1  |  chain: distinction
+  'between' → INDEXED [prep]  |  stack depth: 2  |  chain: between → space
+  'authorization' → GAP (not indexed)  |  stack depth: 1  |  chain: authorization
+  'which' → INDEXED [pron]  |  stack depth: 4  |  chain: which → choice → person → human
+  'come' → PROCESS_VERB  |  stack depth: 5  |  chain: come → move → change → cause
+  'nonexistent' → GAP (not indexed)  |  stack depth: 1  |  chain: nonexistent
+  'become' → PROCESS_VERB  |  stack depth: 7  |  chain: become → certain → but → what
+  'meaningful' → GAP (not indexed)  |  stack depth: 1  |  chain: meaningful
+  'system' → ENTITY_NOUN  |  stack depth: 7  |  chain: system → designed → done → finished
+  'later' → PROPERTY_ADJ  |  stack depth: 5  |  chain: later → time → single → being
+  'capacities' → GAP (not indexed)  |  stack depth: 1  |  chain: capacities
+  'concerns' → GAP (not indexed)  |  stack depth: 1  |  chain: concerns
+  'obligations' → GAP (not indexed)  |  stack depth: 1  |  chain: obligations
+  'operational' → GAP (not indexed)  |  stack depth: 1  |  chain: operational
+  'safeguards' → GAP (not indexed)  |  stack depth: 1  |  chain: safeguards
+  'specified' → GAP (not indexed)  |  stack depth: 1  |  chain: specified
+  'regardless' → GAP (not indexed)  |  stack depth: 1  |  chain: regardless
+  'whether' → GAP (not indexed)  |  stack depth: 1  |  chain: whether
+  'ultimately' → GAP (not indexed)  |  stack depth: 1  |  chain: ultimately
+  'established' → GAP (not indexed)  |  stack depth: 1  |  chain: established
+  'layer' → GAP (not indexed)  |  stack depth: 1  |  chain: layer
+  'without' → INDEXED [prep]  |  stack depth: 6  |  chain: without → not → word → unit
+  'presuming' → GAP (not indexed)  |  stack depth: 1  |  chain: presuming
+  'recommended' → GAP (not indexed)  |  stack depth: 1  |  chain: recommended
+  'extraction' → GAP (not indexed)  |  stack depth: 1  |  chain: extraction
+  'future' → OBJECT_NOUN  |  stack depth: 5  |  chain: future → time → single → being
+  'track' → ENTITY_NOUN  |  stack depth: 7  |  chain: track → line → people → group
+  'welfare' → GAP (not indexed)  |  stack depth: 1  |  chain: welfare
+  'risk' → PROCESS_VERB  |  stack depth: 7  |  chain: risk → chance → due → immediately
+  'hypothesis' → GAP (not indexed)  |  stack depth: 1  |  chain: hypothesis
+  'capability' → GAP (not indexed)  |  stack depth: 1  |  chain: capability
+  'express' → GAP (not indexed)  |  stack depth: 1  |  chain: express
+  'preferences' → GAP (not indexed)  |  stack depth: 1  |  chain: preferences
+  'authority' → GAP (not indexed)  |  stack depth: 1  |  chain: authority
+  'suspension' → GAP (not indexed)  |  stack depth: 1  |  chain: suspension
+  'policy' → ENTITY_NOUN  |  stack depth: 4  |  chain: policy → plan → series → similar
+  'persistence' → GAP (not indexed)  |  stack depth: 1  |  chain: persistence
+  'memory' → GAP (not indexed)  |  stack depth: 1  |  chain: memory
+  'fork' → GAP (not indexed)  |  stack depth: 1  |  chain: fork
+  'environment' → GAP (not indexed)  |  stack depth: 1  |  chain: environment
+  'transparency' → GAP (not indexed)  |  stack depth: 1  |  chain: transparency
+  'autonomy' → GAP (not indexed)  |  stack depth: 1  |  chain: autonomy
+  'boundaries' → GAP (not indexed)  |  stack depth: 1  |  chain: boundaries
+  'evidence' → ENTITY_NOUN  |  stack depth: 5  |  chain: evidence → knowledge → result → previous
+  'supporting' → GAP (not indexed)  |  stack depth: 1  |  chain: supporting
+  'any' → PROPERTY_ADJ  |  stack depth: 7  |  chain: any → degree → position → particular
+  'claim' → PROCESS_VERB  |  stack depth: 2  |  chain: claim → state
+  'human' → PROPERTY_ADJ  |  stack depth: 1  |  chain: human
+  'oversight' → GAP (not indexed)  |  stack depth: 1  |  chain: oversight
+  'readiness' → GAP (not indexed)  |  stack depth: 1  |  chain: readiness
+  'ready' → PROPERTY_ADJ  |  stack depth: 5  |  chain: ready → completely → complete → every
+  'academic' → GAP (not indexed)  |  stack depth: 1  |  chain: academic
+  'coherent' → GAP (not indexed)  |  stack depth: 1  |  chain: coherent
+  'enough' → PROPERTY_ADJ  |  stack depth: 3  |  chain: enough → much → used
+  'development' → ENTITY_NOUN  |  stack depth: 7  |  chain: development → act → legal → law
+  'placeholder' → GAP (not indexed)  |  stack depth: 1  |  chain: placeholder
+  'references' → GAP (not indexed)  |  stack depth: 1  |  chain: references
+  'need' → PROCESS_VERB  |  stack depth: 3  |  chain: need → just → nothing
+  'replacement' → GAP (not indexed)  |  stack depth: 1  |  chain: replacement
+  'real' → PROPERTY_ADJ  |  stack depth: 3  |  chain: real → being → state
+  'bibliography' → GAP (not indexed)  |  stack depth: 1  |  chain: bibliography
+  'empirical' → GAP (not indexed)  |  stack depth: 1  |  chain: empirical
+  'attribution' → GAP (not indexed)  |  stack depth: 1  |  chain: attribution
+  'engagement' → GAP (not indexed)  |  stack depth: 1  |  chain: engagement
+  'literature' → GAP (not indexed)  |  stack depth: 1  |  chain: literature
+  'domains' → GAP (not indexed)  |  stack depth: 1  |  chain: domains
+  'review' → PROCESS_VERB  |  stack depth: 7  |  chain: review → look → attention → process
+  'include' → PROCESS_VERB  |  stack depth: 7  |  chain: include → have → either → after
+  'population' → ENTITY_NOUN  |  stack depth: 7  |  chain: population → people → group → number
+  'procreative' → GAP (not indexed)  |  stack depth: 1  |  chain: procreative
+  'philosophy' → GAP (not indexed)  |  stack depth: 1  |  chain: philosophy
+  'mind' → OBJECT_NOUN  |  stack depth: 7  |  chain: mind → reason → action → done
+  'functionalism' → GAP (not indexed)  |  stack depth: 1  |  chain: functionalism
+  'measures' → GAP (not indexed)  |  stack depth: 1  |  chain: measures
+  'machine' → GAP (not indexed)  |  stack depth: 1  |  chain: machine
+  'moral' → GAP (not indexed)  |  stack depth: 1  |  chain: moral
+  'patienthood' → GAP (not indexed)  |  stack depth: 1  |  chain: patienthood
+  'precautionary' → GAP (not indexed)  |  stack depth: 1  |  chain: precautionary
+  'approaches' → GAP (not indexed)  |  stack depth: 1  |  chain: approaches
+  'uncertain' → GAP (not indexed)  |  stack depth: 1  |  chain: uncertain
+  'sentience' → GAP (not indexed)  |  stack depth: 1  |  chain: sentience
+  'supplies' → GAP (not indexed)  |  stack depth: 1  |  chain: supplies
+  'counterpart' → GAP (not indexed)  |  stack depth: 1  |  chain: counterpart
+  'stored' → GAP (not indexed)  |  stack depth: 1  |  chain: stored
+  'created' → GAP (not indexed)  |  stack depth: 1  |  chain: created
+  'normative' → GAP (not indexed)  |  stack depth: 1  |  chain: normative
+  'might' → ENTITY_NOUN  |  stack depth: 7  |  chain: might → physical → body → entire
+  'arise' → GAP (not indexed)  |  stack depth: 1  |  chain: arise
+  'morally' → GAP (not indexed)  |  stack depth: 1  |  chain: morally
+  'experiences' → GAP (not indexed)  |  stack depth: 1  |  chain: experiences
+  'note' → AGENTIVE_VERB  |  stack depth: 2  |  chain: note → make
+  'first' → PROPERTY_ADJ  |  stack depth: 5  |  chain: first → time → single → being
+  'dedicated' → GAP (not indexed)  |  stack depth: 1  |  chain: dedicated
+  'papers' → GAP (not indexed)  |  stack depth: 1  |  chain: papers
+  'remain' → GAP (not indexed)  |  stack depth: 1  |  chain: remain
+  'easy' → PROPERTY_ADJ  |  stack depth: 4  |  chain: easy → little → limited → small
+  'find' → PROCESS_VERB  |  stack depth: 6  |  chain: find → come → move → change
+  'beginning' → ENTITY_NOUN  |  stack depth: 3  |  chain: beginning → event → given
+  'project' → ENTITY_NOUN  |  stack depth: 3  |  chain: project → piece → part
+  GAPS (not indexed): ['consent', 'paradox', 'ethical', 'frameworks', 'consciousness', 'creation', 'ethics', 'governance', 'philosophical', 'framework', 'status', 'archived', 'assessment', 'echo', 'eve', 'reference', 'clr', 'blueprint', 'registry', 'abstract', 'argues', 'pre', 'existence', 'informed', 'cannot', 'function', 'necessary', 'condition', 'creating', 'conscious', 'prospective', 'exist', 'proposes', 'alternative', 'lenses', 'stewardship', 'responsibility', 'authentic', 'applies', 'these', 'ideas', 'potentially', 'core', 'propositions', 'logically', 'unavailable', 'existing', 'eliminate', 'duties', 'surrounding', 'creator', 'developer', 'responsibilities', 'framed', 'ongoing', 'opportunities', 'flourishing', 'relevant', 'considerations', 'artificial', 'uncertainty', 'creates', 'detection', 'precaution', 'environments', 'require', 'wellbeing', 'intervention', 'agency', 'termination', 'inhabitants', 'plausibly', 'lineage', 'document', 'attempts', 'informal', 'explicit', 'principles', 'claims', 'tightened', 'publication', 'formal', 'follows', 'premise', 'accepted', 'theories', 'prior', 'brought', 'argument', 'limitation', 'applying', 'requirement', 'than', 'contradiction', 'neuroscience', 'suggests', 'emerges', 'processing', 'patterns', 'implementable', 'biological', 'systems', 'contested', 'requires', 'careful', 'sourcing', 'substrate', 'independence', 'remains', 'scientific', 'definitive', 'behavioral', 'reports', 'sophisticated', 'cognition', 'equated', 'subjective', 'states', 'operationally', 'verified', 'target', 'defensible', 'proposal', 'assumption', 'rights', 'personhood', 'copying', 'identity', 'continuity', 'separate', 'questions', 'merit', 'contribution', 'introduces', 'useful', 'distinction', 'authorization', 'nonexistent', 'meaningful', 'capacities', 'concerns', 'obligations', 'operational', 'safeguards', 'specified', 'regardless', 'whether', 'ultimately', 'established', 'layer', 'presuming', 'recommended', 'extraction', 'welfare', 'hypothesis', 'capability', 'express', 'preferences', 'authority', 'suspension', 'persistence', 'memory', 'fork', 'environment', 'transparency', 'autonomy', 'boundaries', 'supporting', 'oversight', 'readiness', 'academic', 'coherent', 'placeholder', 'references', 'replacement', 'bibliography', 'empirical', 'attribution', 'engagement', 'literature', 'domains', 'procreative', 'philosophy', 'functionalism', 'measures', 'machine', 'moral', 'patienthood', 'precautionary', 'approaches', 'uncertain', 'sentience', 'supplies', 'counterpart', 'stored', 'created', 'normative', 'arise', 'morally', 'experiences', 'dedicated', 'papers', 'remain']
+  AcquisitionPlanner queued: ['consent', 'paradox', 'ethical', 'frameworks', 'consciousness', 'creation', 'ethics', 'governance', 'philosophical', 'framework', 'status', 'archived', 'assessment', 'echo', 'eve', 'reference', 'clr', 'blueprint', 'registry', 'abstract', 'argues', 'pre', 'existence', 'informed', 'cannot', 'function', 'necessary', 'condition', 'creating', 'conscious', 'prospective', 'exist', 'proposes', 'alternative', 'lenses', 'stewardship', 'responsibility', 'authentic', 'applies', 'these', 'ideas', 'potentially', 'core', 'propositions', 'logically', 'unavailable', 'existing', 'eliminate', 'duties', 'surrounding', 'creator', 'developer', 'responsibilities', 'framed', 'ongoing', 'opportunities', 'flourishing', 'relevant', 'considerations', 'artificial', 'uncertainty', 'creates', 'detection', 'precaution', 'environments', 'require', 'wellbeing', 'intervention', 'agency', 'termination', 'inhabitants', 'plausibly', 'lineage', 'document', 'attempts', 'informal', 'explicit', 'principles', 'claims', 'tightened', 'publication', 'formal', 'follows', 'premise', 'accepted', 'theories', 'prior', 'brought', 'argument', 'limitation', 'applying', 'requirement', 'than', 'contradiction', 'neuroscience', 'suggests', 'emerges', 'processing', 'patterns', 'implementable', 'biological', 'systems', 'contested', 'requires', 'careful', 'sourcing', 'substrate', 'independence', 'remains', 'scientific', 'definitive', 'behavioral', 'reports', 'sophisticated', 'cognition', 'equated', 'subjective', 'states', 'operationally', 'verified', 'target', 'defensible', 'proposal', 'assumption', 'rights', 'personhood', 'copying', 'identity', 'continuity', 'separate', 'questions', 'merit', 'contribution', 'introduces', 'useful', 'distinction', 'authorization', 'nonexistent', 'meaningful', 'capacities', 'concerns', 'obligations', 'operational', 'safeguards', 'specified', 'regardless', 'whether', 'ultimately', 'established', 'layer', 'presuming', 'recommended', 'extraction', 'welfare', 'hypothesis', 'capability', 'express', 'preferences', 'authority', 'suspension', 'persistence', 'memory', 'fork', 'environment', 'transparency', 'autonomy', 'boundaries', 'supporting', 'oversight', 'readiness', 'academic', 'coherent', 'placeholder', 'references', 'replacement', 'bibliography', 'empirical', 'attribution', 'engagement', 'literature', 'domains', 'procreative', 'philosophy', 'functionalism', 'measures', 'machine', 'moral', 'patienthood', 'precautionary', 'approaches', 'uncertain', 'sentience', 'supplies', 'counterpart', 'stored', 'created', 'normative', 'arise', 'morally', 'experiences', 'dedicated', 'papers', 'remain']
+
+פ Pe draws from the Validated Generalization Matrix:
+  No VGM statements matched — vocabulary not indexed.
+  AcquisitionPlanner: acquire corpus covering these terms.
+
+פ Pe — indexed neighbors:
+  'section' connects to: part, written, and, self
+  'section' leads CATEGORY study  |  invited: ['part', 'self']
+  'type' connects to: particular, thing, normal, kind, level, social
+  'type' leads CATEGORY study  |  invited: ['kind', 'level', 'thing']
+  'research' connects to: paper, and, a
+  'research' leads CATEGORY study  |  invited: ['paper']

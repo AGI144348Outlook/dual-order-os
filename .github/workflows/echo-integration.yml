@@ -9,6 +9,8 @@ on:
       - 'libraries/algorithms/**'
       - 'tools/observe_echo_dictionary.py'
       - 'tools/run_question_tag_intake.py'
+      - 'tools/read_consent_paradox.py'
+      - 'libraries/research-papers/**'
       - 'tests/**'
       - 'tools/materialize_genesis.py'
       - 'tools/run_echo_integration.py'
@@ -57,11 +59,15 @@ jobs:
           PYTHONHASHSEED=7 python tools/observe_echo_dictionary.py --archive vendor/echo-genesis/integration-inbox/core-lexicon/core-lexicon.zip --output reports/echo-cards/complete-7
       - name: Reproduce provisional dictionary question tags
         run: python tools/run_question_tag_intake.py --archive vendor/echo-genesis/integration-inbox/core-lexicon/core-lexicon.zip --output reports/echo-question-tags/dictionary-intake.json
+      - name: Read preserved Consent Paradox record five times
+        env:
+          PYTHONHASHSEED: '42'
+        run: python tools/read_consent_paradox.py --archive vendor/echo-genesis/integration-inbox/core-lexicon/core-lexicon.zip
       - name: Commit verified snapshot and results to integration branch only
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add vendor/echo-genesis reports/echo-integration reports/echo-benchmarks reports/echo-cards/complete-42/result.json reports/echo-cards/complete-7/result.json reports/echo-question-tags/dictionary-intake.json
+          git add vendor/echo-genesis reports/echo-integration reports/echo-benchmarks reports/echo-cards/complete-42/result.json reports/echo-cards/complete-7/result.json reports/echo-question-tags/dictionary-intake.json reports/echo-consent-reading
           if ! git diff --cached --quiet; then
             git commit -m 'Preserve complete verified Genesis snapshot and integrated test results'
             git push origin HEAD:integration/echo-genesis-unified
@@ -75,5 +81,6 @@ jobs:
             reports/echo-benchmarks/
             reports/echo-cards/**/*.json
             reports/echo-question-tags/
+            reports/echo-consent-reading/
           if-no-files-found: ignore
           retention-days: 14

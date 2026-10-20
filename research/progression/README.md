@@ -25,6 +25,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [011 — Interactive demos and private chronology](011-artifact-demos-and-private-timeline.md) — mobile artifacts, original Python option, source indexing and private R2 timeline.
 
+- [012 — Five readings of the Consent Paradox](012-consent-paradox-five-reading-passes.md) — exact source copy, repeated exposure, unedited outputs and remaining comprehension limits.
+
 ## Reporting practice
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
