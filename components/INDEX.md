@@ -41,3 +41,8 @@ External references only; no code copied, dependencies installed, or game-specif
 | [XMage](https://github.com/magefree/mage) | Reference for abilities, legal moves, and game-state transitions |
 
 These candidates require code, dependency, and licensing assessment before reuse. Source-code licensing does not automatically grant rights to associated commercial card images or other game content.
+
+## Catalog box Matrix
+
+- [Catalog box component](catalog-box/README.md) — implemented local SQLite catalog for cards, versioned configuration templates, and independent restored configurations. Thirteen targeted tests passed; Genesis/API/Canvas integration remains separate.
+- [Matrix definition](../matrices/catalog-box/) and [component lookup index](../indices/by-component/README.md).

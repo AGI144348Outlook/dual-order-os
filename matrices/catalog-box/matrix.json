@@ -1,0 +1,18 @@
+{
+  "matrix_id": "echo-catalog-box",
+  "schema_version": 1,
+  "status": "implemented-component-not-wired-to-genesis",
+  "implementation": "libraries/catalog_box.py:CatalogBox",
+  "storage": "caller-selected SQLite file",
+  "identity": ["section", "id", "revision"],
+  "sections": {
+    "cards": {"purpose": "Index cards", "fields": ["title", "glyph", "body", "tags", "provenance"]},
+    "templates": {"purpose": "Saved configuration templates", "fields": ["title", "configuration", "card_refs", "provenance"]},
+    "configurations": {"purpose": "Independent restored configurations", "fields": ["title", "configuration", "card_refs", "template_origin"]}
+  },
+  "reference": {"target_section": "cards", "fields": ["id", "revision"], "version_policy": "pin exact revision"},
+  "lookup_directions": ["section/id/revision to record", "section/glyph to current records"],
+  "template_capture": "save_as_template(configuration_id, template_id, title)",
+  "template_restore": "instantiate(template_id, configuration_id)",
+  "execution": "Data only; never execute configuration or card bodies"
+}

@@ -1,0 +1,18 @@
+test_code_strings_are_data_and_demo_has_no_automatic_execution (test_catalog_box.CatalogTests.test_code_strings_are_data_and_demo_has_no_automatic_execution) ... ok
+test_configuration_edits_leave_template_and_other_instance_intact (test_catalog_box.CatalogTests.test_configuration_edits_leave_template_and_other_instance_intact) ... ok
+test_distinct_glyph_forms_and_duplicate_identity (test_catalog_box.CatalogTests.test_distinct_glyph_forms_and_duplicate_identity) ... ok
+test_duplicate_instance_does_not_overwrite (test_catalog_box.CatalogTests.test_duplicate_instance_does_not_overwrite) ... ok
+test_json_contract_and_identity_validation (test_catalog_box.CatalogTests.test_json_contract_and_identity_validation) ... ok
+test_missing_or_duplicate_refs_do_not_create_template_or_event (test_catalog_box.CatalogTests.test_missing_or_duplicate_refs_do_not_create_template_or_event) ... ok
+test_reopen_restores_cards_templates_and_instances (test_catalog_box.CatalogTests.test_reopen_restores_cards_templates_and_instances) ... ok
+test_return_and_input_mutation_do_not_change_storage (test_catalog_box.CatalogTests.test_return_and_input_mutation_do_not_change_storage) ... ok
+test_revision_changes_lookup_without_losing_history (test_catalog_box.CatalogTests.test_revision_changes_lookup_without_losing_history) ... ok
+test_saved_configuration_becomes_reusable_snapshot (test_catalog_box.CatalogTests.test_saved_configuration_becomes_reusable_snapshot) ... ok
+test_template_pins_card_revisions (test_catalog_box.CatalogTests.test_template_pins_card_revisions) ... ok
+test_templates_can_be_versioned_and_explicitly_restored (test_catalog_box.CatalogTests.test_templates_can_be_versioned_and_explicitly_restored) ... ok
+test_two_clients_reject_stale_revision (test_catalog_box.CatalogTests.test_two_clients_reject_stale_revision) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.014s
+
+OK

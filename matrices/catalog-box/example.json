@@ -1,0 +1,63 @@
+{
+  "configuration": {
+    "card_refs": [
+      {
+        "id": "tsadi",
+        "revision": 1
+      },
+      {
+        "id": "tav",
+        "revision": 1
+      }
+    ],
+    "configuration": {
+      "automatic_execution": false,
+      "columns": [
+        "word",
+        "attachments",
+        "glyph_tags"
+      ]
+    },
+    "glyph": null,
+    "id": "review-001",
+    "revision": 1,
+    "section": "configurations",
+    "template_origin": {
+      "id": "review-layout",
+      "revision": 1
+    },
+    "title": "Attachment and tag review"
+  },
+  "cards": [
+    {
+      "body": {
+        "status": "proposed",
+        "verb": "attach"
+      },
+      "glyph": "צ",
+      "id": "tsadi",
+      "provenance": {
+        "source": "Timothy: צ for paperclipping"
+      },
+      "revision": 1,
+      "section": "cards",
+      "tags": [],
+      "title": "Paperclip"
+    },
+    {
+      "body": {
+        "status": "proposed",
+        "verb": "stamp"
+      },
+      "glyph": "ת",
+      "id": "tav",
+      "provenance": {
+        "source": "Timothy: glyph association stamps"
+      },
+      "revision": 1,
+      "section": "cards",
+      "tags": [],
+      "title": "Associative stamp"
+    }
+  ]
+}

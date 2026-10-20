@@ -1,0 +1,10 @@
+{
+  "tests": 13,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "passed": true,
+  "command": "python -m unittest discover -s tests -p 'test_catalog_box.py' -v",
+  "environment": "3.12.14",
+  "scope": "SQLite standard-library component tests; no cloud, browser or Genesis runtime integration tested"
+}
