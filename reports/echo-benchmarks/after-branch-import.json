@@ -42,7 +42,7 @@
       "group": "sentence_structure",
       "name": "complete subject verb object",
       "status": "PASS",
-      "milliseconds": 0.04,
+      "milliseconds": 0.044,
       "expected": true,
       "observed": true
     },
@@ -50,7 +50,7 @@
       "group": "sentence_structure",
       "name": "complete intransitive",
       "status": "PASS",
-      "milliseconds": 0.02,
+      "milliseconds": 0.019,
       "expected": true,
       "observed": true
     },
@@ -66,7 +66,7 @@
       "group": "sentence_structure",
       "name": "reject verb noun ordering",
       "status": "PASS",
-      "milliseconds": 0.008,
+      "milliseconds": 0.007,
       "expected": false,
       "observed": false
     },
@@ -74,7 +74,7 @@
       "group": "sentence_structure",
       "name": "reject two nouns",
       "status": "PASS",
-      "milliseconds": 0.008,
+      "milliseconds": 0.007,
       "expected": false,
       "observed": false
     },
@@ -82,7 +82,7 @@
       "group": "sentence_structure",
       "name": "reject missing copula in ordinary English",
       "status": "FAIL",
-      "milliseconds": 0.016,
+      "milliseconds": 0.015,
       "expected": false,
       "observed": true
     },
@@ -90,7 +90,7 @@
       "group": "sentence_structure",
       "name": "reject singular subject plural verb",
       "status": "FAIL",
-      "milliseconds": 0.012,
+      "milliseconds": 0.01,
       "expected": false,
       "observed": true
     },
@@ -98,7 +98,7 @@
       "group": "sentence_structure",
       "name": "reject plural subject singular verb",
       "status": "FAIL",
-      "milliseconds": 0.011,
+      "milliseconds": 0.01,
       "expected": false,
       "observed": true
     },
@@ -106,7 +106,7 @@
       "group": "sentence_structure",
       "name": "accept plural agreement",
       "status": "PASS",
-      "milliseconds": 0.01,
+      "milliseconds": 0.009,
       "expected": true,
       "observed": true
     },
@@ -114,7 +114,7 @@
       "group": "sentence_structure",
       "name": "reject intransitive verb with arbitrary object",
       "status": "FAIL",
-      "milliseconds": 0.013,
+      "milliseconds": 0.011,
       "expected": false,
       "observed": true
     },
@@ -142,7 +142,7 @@
       "group": "inference",
       "name": "reject explicit contradiction",
       "status": "FAIL",
-      "milliseconds": 0.035,
+      "milliseconds": 0.045,
       "expected": true,
       "observed": false
     },
@@ -150,7 +150,7 @@
       "group": "inference",
       "name": "reject unrelated causal conclusion",
       "status": "FAIL",
-      "milliseconds": 0.019,
+      "milliseconds": 0.02,
       "expected": true,
       "observed": false
     },
@@ -182,7 +182,7 @@
       "group": "inference",
       "name": "derive transitive subtype conclusion",
       "status": "FAIL",
-      "milliseconds": 0.026,
+      "milliseconds": 0.029,
       "expected": true,
       "observed": false
     },
@@ -202,7 +202,7 @@
       "group": "comprehension",
       "name": "retrieve indexed fact",
       "status": "PASS",
-      "milliseconds": 0.117,
+      "milliseconds": 0.122,
       "expected": true,
       "observed": true
     },
@@ -218,7 +218,7 @@
       "group": "comprehension",
       "name": "role-sensitive answer excludes unrelated inverse relation",
       "status": "FAIL",
-      "milliseconds": 0.072,
+      "milliseconds": 0.07,
       "expected": true,
       "observed": false
     },
@@ -226,7 +226,7 @@
       "group": "comprehension",
       "name": "word queries avoid substring false match",
       "status": "FAIL",
-      "milliseconds": 0.008,
+      "milliseconds": 0.007,
       "expected": [],
       "observed": [
         {
@@ -286,7 +286,7 @@
       "group": "mathematics",
       "name": "add",
       "status": "PASS",
-      "milliseconds": 0.018,
+      "milliseconds": 0.022,
       "expected": 5,
       "observed": 5.0
     },
@@ -294,7 +294,7 @@
       "group": "mathematics",
       "name": "sub",
       "status": "PASS",
-      "milliseconds": 0.01,
+      "milliseconds": 0.009,
       "expected": 4,
       "observed": 4.0
     },
@@ -302,7 +302,7 @@
       "group": "mathematics",
       "name": "mul",
       "status": "PASS",
-      "milliseconds": 0.006,
+      "milliseconds": 0.005,
       "expected": 12,
       "observed": 12.0
     },
@@ -310,7 +310,7 @@
       "group": "mathematics",
       "name": "div",
       "status": "PASS",
-      "milliseconds": 0.006,
+      "milliseconds": 0.005,
       "expected": 4,
       "observed": 4.0
     },
@@ -326,7 +326,7 @@
       "group": "mathematics",
       "name": "polynomial substitution",
       "status": "PASS",
-      "milliseconds": 0.012,
+      "milliseconds": 0.013,
       "expected": 16.0,
       "observed": 16.0
     },
@@ -351,7 +351,7 @@
       "group": "verification",
       "name": "reject untested generated operation",
       "status": "FAIL",
-      "milliseconds": 0.005,
+      "milliseconds": 0.007,
       "expected": false,
       "observed": true
     },
@@ -375,7 +375,7 @@
       "group": "governance",
       "name": "orientation prerequisites rejected",
       "status": "PASS",
-      "milliseconds": 0.003,
+      "milliseconds": 0.004,
       "expected": false,
       "observed": false
     },
@@ -399,7 +399,7 @@
       "group": "integration",
       "name": "final form remains distinct",
       "status": "PASS",
-      "milliseconds": 0.119,
+      "milliseconds": 0.118,
       "expected": "glyph:tsadi-sofit",
       "observed": "glyph:tsadi-sofit"
     },
@@ -407,7 +407,7 @@
       "group": "integration",
       "name": "paperclip idempotent",
       "status": "PASS",
-      "milliseconds": 0.096,
+      "milliseconds": 0.092,
       "expected": {
         "body": {
           "evidence": {
@@ -483,7 +483,7 @@
       "group": "integration",
       "name": "restart retains original index relation",
       "status": "PASS",
-      "milliseconds": 0.025,
+      "milliseconds": 0.035,
       "expected": true,
       "observed": true
     },

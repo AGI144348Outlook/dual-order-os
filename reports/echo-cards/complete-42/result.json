@@ -14,6 +14,9 @@
     "sentence_prompt": null,
     "observation": "No actions occur simply from making cards and blocks available."
   },
+  "glyph_vocabulary_setup": null,
+  "glyph_profiles_and_clips_unchanged": true,
+  "protected_card_count": 0,
   "explicit_starts": [
     "bootstrap orientation, study groups, generality scoring and scrutinized neighborhood commits",
     "A-120 evolve: 2 generations / 8 commit calls maximum",
@@ -873,7 +876,7 @@
   "persistence_verified": true,
   "final_cards": 1547,
   "logical_card_hash": "c12d891f99233e4e46ffab895cd46a6b7436bc5559fc055966073cd6fb241b8e",
-  "duration_seconds": 2.985,
+  "duration_seconds": 2.148,
   "limits": [
     "No autonomous dispatcher connects the available blocks.",
     "No independently chosen sentence goal, invented algorithm, or self-initiated sentence-card use observed.",

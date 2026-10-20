@@ -93,6 +93,6 @@ test_perception_and_identification_are_separate_sets (test_glyph_vocabulary.Voca
 test_sense_specific_clips_survive_reopen_without_profile_changes (test_glyph_vocabulary.VocabularyClippingTests.test_sense_specific_clips_survive_reopen_without_profile_changes) ... ok
 
 ----------------------------------------------------------------------
-Ran 93 tests in 1.859s
+Ran 93 tests in 1.990s
 
 OK
