@@ -27,3 +27,7 @@ See [Mashet Alamaket proposal and handoff](proposals/mashet-alamaket/README.md) 
 ## Classroom protocol: next teaching design
 
 [Personal dictionary, indexboard, first-priority notes and last-priority Recess](CLASSROOM-PROTOCOL.md) preserves Timothy's red/yellow/green statuses, particular פ keyboard role, proposed mouse-like tool sequence, mandatory handover/grading, and the restricted-vocabulary admission test. It is specified, not implemented; the learner remains empty.
+
+## Pronouns, interrogatives and entity/story decks
+
+[Next lesson direction and identity/reference-card proposal](ENTITY-AND-QUESTION-LESSONS.md) records Timothy's question-tool proposal, articulation practice, entity ownership/reference distinctions and story-deck idea. The five interrogatives, צ/ץ portfolio and identity integration remain explicitly scoped proposals; no new lessons have run.
