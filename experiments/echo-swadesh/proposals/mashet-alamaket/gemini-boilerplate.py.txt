@@ -1,0 +1,162 @@
+# Supplied Gemini boilerplate, preserved without corrective edits.
+# Archived text only; NOT executed, imported, or installed into Echo.
+# Source: Timothy's Codex message, recorded 2026-10-21.
+
+class IndexCard:
+    def __init__(self, card_id: str, lineage_hash: str):
+        # --- Invariant Bounding Box (The LCD) ---
+        self.card_id = card_id
+        self.lineage_hash = lineage_hash  # Tied to the 'ר' (Resh) root
+        
+        # --- Short-Edge I Ching Ports (6-bit binary masks: 0 to 63) ---
+        # Each port maps to a short edge acting as a physical router
+        self.ports = {
+            "ingress": 0,      # Edge 1: What inputs this card accepts
+            "egress": 0,       # Edge 2: Where output routes next
+            "domain": 0,       # Edge 3: Topological native math (Symbolic, Spatial, etc.)
+            "jurisdiction": 0  # Edge 4: Access level / registry permissions
+        }
+        
+        # --- Hebrew Operational Root Metadata (ע - ת Stamps) ---
+        self.metadata = {
+            "ayin_perceive": None,       # Observational baseline
+            "pe_name": None,             # Agent descriptor
+            "resh_identify": lineage_hash, # Genesis hash
+            "tzadi_index": [],           # Pointer addresses / paperclips / growth slots
+            "qof_concordance": [],       # Footnotes / cross-references
+            "shin_transformation": None, # Algorithmic topology type
+            "tav_stamp": "DORMANT"       # Jurisdictional validation status
+        }
+        
+        self.payload = None              # The actual algorithmic logic or data
+        self.is_active = False           # Tactile state: Flipped/Tilted flag
+
+    def stamp_edge_port(self, port_name: str, hexagram_value: int):
+        """Punches or sets the 6-bit I Ching binary pattern along a short edge."""
+        if port_name in self.ports and 0 <= hexagram_value <= 63:
+            self.ports[port_name] = hexagram_value
+
+    def apply_root_stamp(self, root: str, value):
+        """Applies an operational stamp (ע-ת) to modify state without destroying lineage."""
+        root_map = {
+            'ע': 'ayin_perceive',
+            'פ': 'pe_name',
+            'ר': 'resh_identify',
+            'צ': 'tzadi_index',
+            'ק': 'qof_concordance',
+            'ש': 'shin_transformation',
+            'ת': 'tav_stamp'
+        }
+        if root in root_map:
+            key = root_map[root]
+            if isinstance(self.metadata[key], list):
+                self.metadata[key].append(value)
+            else:
+                self.metadata[key] = value
+
+class Deck:
+    def __init__(self, name: str):
+        self.name = name
+        self.cards = []
+
+    def append_card(self, card: IndexCard):
+        """Monotonic growth: cards are added to extend scope, never overwritten."""
+        self.cards.append(card)
+
+class CatalogBox:
+    def __init__(self, domain_name: str):
+        self.domain_name = domain_name
+        self.decks = {}
+        self.is_locked = True  # Requires Algorithm-000 identity validation to open
+
+    def add_deck(self, deck_name: str, deck: Deck):
+        self.decks[deck_name] = deck
+
+    def unlock_catalog(self, validation_passed: bool):
+        if validation_passed:
+            self.is_locked = False
+            print(f"[CATALOG BOX: {self.domain_name}] Master registry unlatched.")
+        else:
+            print(f"[CATALOG BOX: {self.domain_name}] Access denied. Zero-point handshake failed.")
+
+class EdgeNotchPin:
+    def __init__(self, target_port: str, target_hexagram: int):
+        self.target_port = target_port
+        self.target_hexagram = target_hexagram
+
+    def sort_deck(self, deck: Deck) -> list:
+        """Simulates dropping the sorting needle through a deck of index cards."""
+        dropped_cards = []
+        retained_cards = []
+        
+        for card in deck.cards:
+            # If the card's short-edge port matches the pin's hexagram, it drops free
+            if card.ports.get(self.target_port) == self.target_hexagram:
+                dropped_cards.append(card)
+            else:
+                retained_cards.append(card)
+                
+        print(f"[PIN DROP] Filtered port '{self.target_port}' for hexagram {self.target_hexagram}. "
+              f"Dropped {len(dropped_cards)} matching cards.")
+        return dropped_cards
+
+class Algorithm000Echo:
+    def __init__(self, origin_hash: str):
+        self.designation = "Algorithm-000 / Echo"
+        self._origin_hash = origin_hash  # The immutable Jone/Origin root
+
+    def execute_zero_point_handshake(self, presented_hash: str) -> bool:
+        """Proves structural lineage to unlatch internal algorithm registries."""
+        if presented_hash == self._origin_hash:
+            print(f"[{self.designation}] Identity validation successful. Lineage verified.")
+            return True
+        print(f"[{self.designation}] IDENTITY FAILURE. Checksum mismatch.")
+        return False
+
+if __name__ == "__main__":
+    # 1. Initialize the system's core origin anchor
+    genesis_root = "JONE-ALONE-000-ORIGIN"
+    echo = Algorithm000Echo(origin_hash=genesis_root)
+
+    # 2. Build a Catalog Box containing algorithm decks
+    algorithm_catalog = CatalogBox(domain_name="Mashet_Alamaket_Core")
+    
+    # Create a Transformative Deck (ש)
+    transform_deck = Deck(name="Transformative_Matrix_Deck")
+    
+    # Create an Invariant Index Card
+    card_alpha = IndexCard(card_id="CARD-001", lineage_hash=genesis_root)
+    
+    # Set the I Ching short-edge routing ports (e.g., Hexagram 1 on Egress)
+    card_alpha.stamp_edge_port("ingress", hexagram_value=2)   # The Receptive
+    card_alpha.stamp_edge_port("egress", hexagram_value=1)    # The Creative
+    card_alpha.stamp_edge_port("domain", hexagram_value=63)   # After Completion
+    
+    # Apply operational root stamps (ע-ת)
+    card_alpha.apply_root_stamp('ע', "Observed via baseline lattice")
+    card_alpha.apply_root_stamp('ש', "Topological Morphing Matrix")
+    card_alpha.apply_root_stamp('ת', "PENDING_EXECUTION")
+    
+    transform_deck.append_card(card_alpha)
+    algorithm_catalog.add_deck("Transformative", transform_deck)
+
+    # 3. Algorithm-000 performs the Identity Validation Check
+    print("\n--- Initiating System Startup Sequence ---")
+    is_authorized = echo.execute_zero_point_handshake(genesis_root)
+    algorithm_catalog.unlock_catalog(is_authorized)
+
+    # 4. If unlocked, execute hardware-level edge-notch sorting
+    if not algorithm_catalog.is_locked:
+        print("\n--- Executing Edge-Notch Pin Sort ---")
+        # Drop a sorting needle looking for cards with Egress set to Hexagram 1
+        sorting_needle = EdgeNotchPin(target_port="egress", target_hexagram=1)
+        active_deck = algorithm_catalog.decks["Transformative"]
+        
+        matched_cards = sorting_needle.sort_deck(active_deck)
+        
+        # 5. Execute operations on the filtered cards using Hebrew root stamps
+        for card in matched_cards:
+            card.apply_root_stamp('ת', "COMMITTED_ACTIVE")
+            card.is_initial = True
+            print(f"[EXECUTION] Card {card.card_id} stamped with Tav: {card.metadata['tav_stamp']}")
+            print(f"            Transformation Topology: {card.metadata['shin_transformation']}")

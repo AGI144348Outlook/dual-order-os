@@ -19,3 +19,7 @@ Use a new path for each fresh run. Existing files are refused atomically; no old
 ## Validation
 
 Pre-test plan and post-test report: https://github.com/AGI144348Outlook/dual-order-os/issues/5 . Four bounded diagnostic checks passed: empty state, retained identity/governor, reopening the empty state, and refusal to overwrite an existing database. These are fresh-profile checks, not vocabulary or comprehension learning. No R2 data, external inference, model training or original-branch changes were involved.
+
+## Subsequent design discussion preserved
+
+See [Mashet Alamaket proposal and handoff](proposals/mashet-alamaket/README.md) for Timothy's supplied Gemini architecture and boilerplate, Codex's source-inspection review, proposed integration sequence, developmental stages and unresolved glyph roles. This is an inert research inbox; no supplied code or vocabulary is loaded by the fresh profile.
