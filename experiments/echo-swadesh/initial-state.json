@@ -1,0 +1,16 @@
+{
+  "format": "echo-swadesh-initial-state/1",
+  "sourceCommit": "6c0cf810b0026c02e3afce8dccbaeb84b1b93ab6",
+  "cards": 0,
+  "templates": 0,
+  "configurations": 0,
+  "events": 0,
+  "lexical_agents": 0,
+  "indexed_entries": 0,
+  "content_units": 0,
+  "documents_seen": 0,
+  "identity_valid": true,
+  "governor_active": true,
+  "curriculumAdmitted": false,
+  "codeLevelSymbolicPriorsRetained": true
+}
