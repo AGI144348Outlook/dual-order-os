@@ -23,3 +23,9 @@ The supplied 93-page Library produced 210 candidate entries and changed raw asso
 - The current assignment is preservation plus private dictionary recovery with Echo's bounded assistance. It does not authorize finalizing recovered definitions or silently promoting old archival proposals to current rules.
 
 This is a contextual account of the visible discussion, not a reconstructed quotation from inaccessible historical messages. Future archive recovery must add exact source links and distinguish historical interpretations from current direction.
+
+## Subsequent direction — resume the timeline, vocabulary-first placement
+
+Timothy specified that the additional determination to create a new Matrix folder must be the **last** placement determination. All encountered information should first receive the same Vocabulary Matrix-based red/green assessment as definition-back cards. Codex assists Timothy; Echo is developed to assist Codex through explicit, evidenced operations. Observations and proposals remain distinct from authorized structural changes.
+
+He resumed the timeline: lay out the GPT source blocks evenly on an extendable line, use calendar months as an arbitrary metric, and filter blocks one at a time. His estimate of roughly eleven blocks is a count to verify, not a target to manufacture. Equal block spacing is an editorial arrangement; actual source timestamps supply monthly activity. The first artifact does metadata selection only, with vocabulary/semantic assessment visibly pending. See PA-028 and Group Canvas issue #4.

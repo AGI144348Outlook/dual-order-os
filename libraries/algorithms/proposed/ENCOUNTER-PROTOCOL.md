@@ -58,3 +58,19 @@ Repository files/functions/registries/matrices also need structural entity cards
 Unknown encounter creates one stable candidate; repeated encounter adds provenance without duplicate identities; source definitions remain literal; green requires the relevant qualification; unknown definition words stay red; ambiguous senses remain unresolved; contradictory context remains retrievable; new slot versions preserve old contexts; red-word dependency cycles stop within budget; failed/cancelled operations do not corrupt the stack; restoring saved state preserves the exact assignments and evidence.
 
 These tests are planned criteria, not results of this documentation work.
+
+## Placement ordering — Timothy's subsequent instruction
+
+Apply the Vocabulary Matrix assessment to **all encountered information**, not solely definition backs. Preserve the full expression, source identity and uncertain sense/context alongside individual word/symbol spans. The red/green evidence rules above still apply.
+
+```text
+preserve source and encounter
+  → assess words, symbols, senses and context against Vocabulary Matrix evidence
+  → record known / unqualified / unresolved spans without guessing understanding
+  → observe and propose placement
+  → consider existing cards, context stacks, registries, indices and matrices
+  → retain unresolved placement when evidence is insufficient
+  → consider creating a new Matrix folder LAST
+```
+
+This ordering does not grant Echo repository write authority or define automatic folder-creation thresholds. Metadata inventory/month filtering may precede content review but must be labeled as metadata work; it does not satisfy vocabulary assessment or authorize semantic placement. PA-028 preserves this user-directed sequence.

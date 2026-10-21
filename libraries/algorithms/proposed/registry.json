@@ -191,7 +191,7 @@
       "origin": "Timothy objective; proposed assignment",
       "discussion_context": "Develop observation, attribution, classification, comprehension, inference, sentence construction and transfer through source-linked milestones.",
       "dependencies": "Reference labels; PA-004; archived-source access",
-      "unresolved": "Paused by Timothy while foundations and dictionary intake are addressed."
+      "unresolved": "Resumed by Timothy on 2026-10-21: source blocks evenly spaced alongside UTC months, one block at a time. Initial artifact is metadata navigation only; semantic comprehension and vocabulary qualification remain pending."
     },
     {
       "id": "PA-022",
@@ -246,8 +246,17 @@
       "discussion_context": "Stage recovered definitions and examples as inert candidates with exact source/branch/speaker/version links; separately test sense admission and comprehension.",
       "dependencies": "PA-004; PA-005; PA-018; private dictionary guide",
       "unresolved": "441 focused messages are not 441 verified entries; partial excerpts and earlier report omissions remain."
+    },
+    {
+      "id": "PA-028",
+      "title": "Vocabulary-first encounter placement; new Matrix last",
+      "status": "user-directed-ordering-implementation-pending",
+      "origin": "Timothy, 2026-10-21 clarification",
+      "discussion_context": "Assess all encountered information against the Vocabulary Matrix first, using the same red/green distinction requested for definition-back cards. Observe and propose; determine an existing destination before considering creation of a new Matrix folder as the last placement determiner.",
+      "dependencies": "PA-001; PA-003; PA-004; PA-017; PA-020; source/sense/context provenance",
+      "unresolved": "Mixed senses, absent definitions and unqualified uses must remain visibly unresolved. Token presence is not comprehension; exact qualification tests and placement criteria require further development. The month artifact implements metadata navigation, not this semantic gate."
     }
   ],
-  "recovery_issue": "https://github.com/AGI144348Outlook/Group_Canvas/issues/3"
+  "recovery_issue": "https://github.com/AGI144348Outlook/Group_Canvas/issues/3",
+  "timeline_issue": "https://github.com/AGI144348Outlook/Group_Canvas/issues/4"
 }
-
