@@ -219,6 +219,35 @@
       "discussion_context": "Investigate linked discrete evaluators {✓, X, =, ≈, ≠, ±, <, >}, contradiction handling and fixed-point propagation instead of unrelated decimal weights.",
       "dependencies": "Explicit evaluator semantics and domain constraints",
       "unresolved": "Hydraulic/gravitational descriptions are analogies; the four-token NVE-D alphabet is a separate provisional protocol."
+    },
+    {
+      "id": "PA-025",
+      "title": "Recovered layered dictionary-entry template",
+      "status": "historical-source-proposal-not-current-authority",
+      "origin": "Private recovered source candidates",
+      "discussion_context": "Core definitions, narrative examples, thought-provoking questions, AI insights and cross-connections can be represented as separate card facets. Supplied narratives are not observed events.",
+      "dependencies": "PA-003; PA-005; source provenance",
+      "unresolved": "Which historical template/version Timothy wants active; preserve source attribution."
+    },
+    {
+      "id": "PA-026",
+      "title": "Dictionary template and semantic revision lineage",
+      "status": "historical-source-proposal-not-current-authority",
+      "origin": "Recovered dictionary revisions",
+      "discussion_context": "Retain old and revised templates/meanings, including later conceptual glyph metadata. Do not turn conceptual frequency/color descriptors into scientific measurements or silently replace earlier definitions.",
+      "dependencies": "PA-008; immutable source identities",
+      "unresolved": "Recorded discussion date does not prove invention date or current authority."
+    },
+    {
+      "id": "PA-027",
+      "title": "Source-preserving recovered-example inbox",
+      "status": "proposed-next-step-not-implemented",
+      "origin": "Codex interpretation of the recovery and Timothy context-card direction",
+      "discussion_context": "Stage recovered definitions and examples as inert candidates with exact source/branch/speaker/version links; separately test sense admission and comprehension.",
+      "dependencies": "PA-004; PA-005; PA-018; private dictionary guide",
+      "unresolved": "441 focused messages are not 441 verified entries; partial excerpts and earlier report omissions remain."
     }
-  ]
+  ],
+  "recovery_issue": "https://github.com/AGI144348Outlook/Group_Canvas/issues/3"
 }
+

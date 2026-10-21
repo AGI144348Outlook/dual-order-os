@@ -33,9 +33,12 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [015 — Rest selector and executor investigation](015-rest-selector-executor-investigation.md) — 30 repositories, 98 branch inventories, recovered selectors/composition mechanisms, 63 fresh module/scaffold tests and remaining integration gaps.
 
+- [016 — Receiving the attached Mashet Dictionary/Library](016-mashet-library-reception.md) — prospective issue, complete PDF exposure, 210 candidate cards, measured indexing changes and remaining language-intake limits.
+
+- [017 — Proposal preservation and private dictionary recovery](017-proposal-preservation-and-dictionary-recovery.md) — 27 preserved proposals, private source recovery, 441 focused candidate messages and explicit limits.
+
 ## Reporting practice
 
-- [016 — Receiving the attached Mashet Dictionary/Library](016-mashet-library-reception.md) — prospective issue, complete PDF exposure, 210 candidate cards, measured indexing changes and remaining language-intake limits.
 
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
 

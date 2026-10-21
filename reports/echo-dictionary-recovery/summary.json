@@ -1,0 +1,66 @@
+{
+  "broad_search": {
+    "format": "echo-dictionary-recovery/1",
+    "conversations": 1114,
+    "messages_scanned": 42120,
+    "source_objects": 11,
+    "matching_message_occurrences": 8463,
+    "unique_matching_messages": 8463,
+    "retained_candidates": 5000,
+    "omitted_by_report_budget": 3463,
+    "definition_shaped_candidates": 3239,
+    "julian_context_candidates": 834,
+    "roles": {
+      "assistant": 4212,
+      "user": 788
+    },
+    "providers": {
+      "claude": 596,
+      "openai": 4404
+    },
+    "matched_terms": {
+      "define": 4458,
+      "definition": 1793,
+      "glossary": 48,
+      "example usage": 30,
+      "lexicon": 1585,
+      "dictionary": 894,
+      "usage example": 14,
+      "structural logic": 27,
+      "functional translation": 9,
+      "state shift": 29,
+      "mashet": 3156,
+      "\u05de\u05e9\u05ea": 46,
+      "ai dictionary": 4
+    },
+    "nontext_messages": 2114,
+    "excluded_other_roles": 0,
+    "echo_documents_indexed": 5000,
+    "echo_indexed_units": 114801,
+    "echo_identity_valid": true,
+    "echo_core_git_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+    "echo_role": "actual index_content and Jaccard content_similarity calls on retained bounded excerpts",
+    "automatic_definition_admission": false,
+    "neural_training": false,
+    "sourceFilesRead": 10,
+    "exactDuplicateFilesSkipped": 0,
+    "openaiConversationOccurrences": 1000,
+    "pendingFiles": 2,
+    "sourceUnchanged": true,
+    "derivedReadbackVerified": true,
+    "outputBytes": 18119134
+  },
+  "focused_search": {
+    "focused_candidate_messages": 441,
+    "julian_context_candidates": 88,
+    "user_messages": 36,
+    "assistant_messages": 405,
+    "records_are_definition_claims_not_verified_entries": true,
+    "selection_from_retained_broad_candidates_only": true
+  },
+  "source_run": "39548789838",
+  "focus_run": "39549194345",
+  "sources_mutated": false,
+  "definition_admission": false,
+  "private_collection": "Dictionary recovery \u00b7 Echo"
+}

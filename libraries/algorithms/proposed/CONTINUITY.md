@@ -11,3 +11,10 @@ Current instruction: preserve recent proposed algorithms and their discussion, t
 7. No raw personal conversation export or private dictionary excerpts may be committed to the public repository. Keep originals unchanged and cross-link private cabinet artifacts instead.
 
 Local attachment reception catalog (not a deployed service): /workspace/private-echo-intake/mashet-library-4566617b/reception.sqlite. It contains source/candidate cards, not verified lexical knowledge. Availability of local paths must be checked in future environments.
+
+
+## Recovery completed — 2026-10-21
+
+Group Canvas issue #3 records the completed source search and focused guide. Private cabinet collection **Dictionary recovery · Echo** contains echo-dictionary-candidates.json, echo-dictionary-recovery.md, echo-dictionary-provenance.json, echo-dictionary-focused.json and echo-dictionary-focused-guide.md. Broad: 1,114 conversations / 42,120 messages, 8,463 matches, 5,000 retained; focus: 441 messages, 88 Julian-context candidates. Two pending files excluded. Ten distinct synthetic cases passed; no neural calls or definition admission.
+
+Next: inspect source-linked entry versions/examples before proposing admission tests. Reopen existing derived files rather than rerunning source scans. Heuristic matches are not entry counts or verified authorship. See report 017 and PA-025–PA-027.
