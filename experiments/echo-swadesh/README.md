@@ -23,3 +23,7 @@ Pre-test plan and post-test report: https://github.com/AGI144348Outlook/dual-ord
 ## Subsequent design discussion preserved
 
 See [Mashet Alamaket proposal and handoff](proposals/mashet-alamaket/README.md) for Timothy's supplied Gemini architecture and boilerplate, Codex's source-inspection review, proposed integration sequence, developmental stages and unresolved glyph roles. This is an inert research inbox; no supplied code or vocabulary is loaded by the fresh profile.
+
+## Classroom protocol: next teaching design
+
+[Personal dictionary, indexboard, first-priority notes and last-priority Recess](CLASSROOM-PROTOCOL.md) preserves Timothy's red/yellow/green statuses, particular פ keyboard role, proposed mouse-like tool sequence, mandatory handover/grading, and the restricted-vocabulary admission test. It is specified, not implemented; the learner remains empty.
