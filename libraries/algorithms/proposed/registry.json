@@ -1,0 +1,224 @@
+{
+  "format": "echo-proposed-algorithms/1",
+  "recorded_at": "2026-10-21",
+  "tracking_issue": "https://github.com/AGI144348Outlook/dual-order-os/issues/4",
+  "scope": "Current encounter/card/Vocabulary Matrix/Rest/repository discussion, with links to earlier preserved algorithm catalogs; not a claim to exhaustively recover the archives.",
+  "proposals": [
+    {
+      "id": "PA-001",
+      "title": "Encounter-to-index protocol",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy",
+      "discussion_context": "An encountered word/symbol routes through ע perception and ר recognition to its established index stack; an unfamiliar term starts a candidate stack.",
+      "dependencies": "Source-linked observation; stable entity/sense identity",
+      "unresolved": "Do not equate matrix presence with comprehension."
+    },
+    {
+      "id": "PA-002",
+      "title": "Definition-backed acquisition card",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy",
+      "discussion_context": "צ pulls a fresh index card; its back holds a sourced definition. Words in that definition are marked green/red for demonstrated understanding/presence or outstanding learning.",
+      "dependencies": "PA-001; PA-003; PA-004",
+      "unresolved": "How are unresolved senses displayed without falsely claiming understanding?"
+    },
+    {
+      "id": "PA-003",
+      "title": "Vocabulary Matrix with sense-scoped admission",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy request; Codex proposal",
+      "discussion_context": "Separate encountered candidate vocabulary from senses admitted for particular uses. Keep a single retrievable Matrix rather than treating text exposure as admission.",
+      "dependencies": "Source/entry cards; versioned test evidence",
+      "unresolved": "Recognition, retrieval, composition, inference and execution need distinct qualifications."
+    },
+    {
+      "id": "PA-004",
+      "title": "Per-word comprehension and usage qualification",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy request; Codex proposal",
+      "discussion_context": "Require sense discrimination, examples/counterexamples, contrast, contextual use, grammar, inference limits, uncertainty, retention and transfer as applicable.",
+      "dependencies": "PA-003; independent references and held-out tasks",
+      "unresolved": "No finite test establishes complete comprehension; define bounded demonstrated competence."
+    },
+    {
+      "id": "PA-005",
+      "title": "Context/use-case card capture",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy",
+      "discussion_context": "Record actual conversational occurrences and dictionary examples as context cards, with role, source, situation, sense and relation to existing cards.",
+      "dependencies": "PA-001; original source locators",
+      "unresolved": "A quoted example, user report and observed outcome are different evidence kinds."
+    },
+    {
+      "id": "PA-006",
+      "title": "ת record / צ attachment lifecycle",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy direction; Codex decomposition",
+      "discussion_context": "Create a blank context card, record its contribution/status through the proposed ת workflow, then צ-link it to the word stack.",
+      "dependencies": "PA-005; source provenance; revisions",
+      "unresolved": "Existing ת is associative stamping; allocating/filling/sealing context cards is not implemented by that method."
+    },
+    {
+      "id": "PA-007",
+      "title": "Context novelty and repetition handling",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Codex proposal",
+      "discussion_context": "Link repeated encounters to existing context evidence; create new cards for distinct examples, qualifications, contradictions and questions.",
+      "dependencies": "PA-005",
+      "unresolved": "Repeated claims are not independent corroboration; deduplication must preserve occurrences."
+    },
+    {
+      "id": "PA-008",
+      "title": "Replaceable sense slots and revision-pinned context",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy earlier index-card model; Codex proposal",
+      "discussion_context": "Keep stable word identity while replacing an active interpretation; context records pin the sense revision used and retain alternatives.",
+      "dependencies": "PA-003; PA-005; existing card revision history",
+      "unresolved": "Do not rewrite old context when a new sense card occupies the slot."
+    },
+    {
+      "id": "PA-009",
+      "title": "Common index-card representation with adaptive policies",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy question; Codex proposal",
+      "discussion_context": "Reuse general cards as records; adaptivity belongs to selection, activation, replacement and evidence policies.",
+      "dependencies": "CatalogBox; tower adapter state machine",
+      "unresolved": "Tower code currently allows user commands and Self/Julian scopes only."
+    },
+    {
+      "id": "PA-010",
+      "title": "Echo-operated adapter experiment bridge",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy request",
+      "discussion_context": "Let Echo propose, activate experimentally, compare, revise and retain context/retrieval/algorithm configurations.",
+      "dependencies": "PA-004; PA-009; executor permissions",
+      "unresolved": "User-only actor labels must not be bypassed; trial logging does not automatically adapt selection."
+    },
+    {
+      "id": "PA-011",
+      "title": "Rest controller and consolidation",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy definition",
+      "discussion_context": "When no external task is active, Rest consolidates recorded experience and supports hypotheses and algorithm trials over accessible material.",
+      "dependencies": "Task-state detection; checkpoint/lease; budget/cancellation",
+      "unresolved": "Rest is active computation; preserve originals and interrupt safely for a new task."
+    },
+    {
+      "id": "PA-012",
+      "title": "Experiment-objective selection",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy request; alternatives from Codex",
+      "discussion_context": "Select research questions from gaps, contradictions, untried compatible compositions and transfer checks.",
+      "dependencies": "Question records; PA-011",
+      "unresolved": "A-101 chooses supplied arms; it does not choose a worthwhile objective from arbitrary cards."
+    },
+    {
+      "id": "PA-013",
+      "title": "Bounded block-composition search",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Existing module; proposed integration",
+      "discussion_context": "Reuse MOD-0002 search/replay for eligible typed glyph-block compositions against explicit predicates.",
+      "dependencies": "Implementation bindings; immutable/copy trial state; PA-012",
+      "unresolved": "Trusted callables can mutate inputs or hang; search bounds alone are not isolation."
+    },
+    {
+      "id": "PA-014",
+      "title": "Typed governed experiment executor",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy need; Codex proposal",
+      "discussion_context": "Resolve allowed implementations, types and preconditions; isolate trial state; record traces, cancellation, invariants and outcomes.",
+      "dependencies": "PA-013; capability registry",
+      "unresolved": "A named glyph or source description never grants execution authority."
+    },
+    {
+      "id": "PA-015",
+      "title": "Selection feedback without repeated-failure starvation",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Observation-driven proposal",
+      "discussion_context": "Separate attempted-arm exploration from trusted successful evidence; preserve failed trials so a rejected generation does not repeat one arm indefinitely.",
+      "dependencies": "A-101/A-113; historical KSM trace",
+      "unresolved": "Must compare policies and preserve the existing baseline; do not silently alter protected core."
+    },
+    {
+      "id": "PA-016",
+      "title": "Up/down experiment-priority votes",
+      "status": "tentative-not-adopted",
+      "origin": "Timothy suggestion; tentative",
+      "discussion_context": "Use attributable votes to prioritize eligible experiments, with anti-inflation and exploration slots.",
+      "dependencies": "PA-012; evidence and eligibility rules",
+      "unresolved": "Timothy said Maybe; not adopted as the settled priority algorithm. Votes are not truth."
+    },
+    {
+      "id": "PA-017",
+      "title": "Standard source-to-card intake",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy",
+      "discussion_context": "Represent incoming documents, passages, lexical senses, claims, observations and algorithms with appropriate source-linked card types.",
+      "dependencies": "Stable references; chunk/branch/order preservation",
+      "unresolved": "Do not atomize every input into disconnected word cards or drop original artifacts."
+    },
+    {
+      "id": "PA-018",
+      "title": "Library candidate-to-lexical-contract admission",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Library intake finding; Codex proposal",
+      "discussion_context": "Connect the 210 preserved library candidates to explicit sense-aware dictionary/interface records without promoting prose to executable logic.",
+      "dependencies": "PA-003; PA-004; PDF provenance",
+      "unresolved": "Current raw indexing creates associations but no new WordAgents."
+    },
+    {
+      "id": "PA-019",
+      "title": "Recursive Return sentence and topic engine",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy earlier definition",
+      "discussion_context": "Suspend unresolved positions/branches, return with new evidence, preserve original sequence and revision relationships; revisit topics during Rest.",
+      "dependencies": "Stable position IDs; continuation state; evidence",
+      "unresolved": "Current bounded reflection is not a complete suspended-continuation implementation."
+    },
+    {
+      "id": "PA-020",
+      "title": "Repository inventory and change-management assistant",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy objective; Codex proposal",
+      "discussion_context": "Track files, directories, registries, matrices, algorithms and dependencies as entities; detect add/edit/rename/delete before proposing changes.",
+      "dependencies": "PA-017; permissions; source/commit provenance",
+      "unresolved": "Lexical identity and repository-entity identity are distinct; source observation is not permission to write."
+    },
+    {
+      "id": "PA-021",
+      "title": "Timeline assistance as developmental curriculum",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy objective; proposed assignment",
+      "discussion_context": "Develop observation, attribution, classification, comprehension, inference, sentence construction and transfer through source-linked milestones.",
+      "dependencies": "Reference labels; PA-004; archived-source access",
+      "unresolved": "Paused by Timothy while foundations and dictionary intake are addressed."
+    },
+    {
+      "id": "PA-022",
+      "title": "ע perception / ר identification vocabulary portfolios",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy direction",
+      "discussion_context": "Keep perception and recognition/identification senses available to their tool stacks, with פ naming and ת labeling distinct.",
+      "dependencies": "Existing five source-sense clips; candidate vocabulary",
+      "unresolved": "Existing match comparison is not identity proof; missing source definitions remain acquisition targets."
+    },
+    {
+      "id": "PA-023",
+      "title": "Generalization and specification with role preservation",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy earlier direction",
+      "discussion_context": "Compose with general candidates, specialize with evidence, and generalize sentences while keeping stable positions, roles and alternatives.",
+      "dependencies": "Sense evidence; subtype direction; sentence-card history",
+      "unresolved": "Positive existential transformations are bounded; universal/negative transfer must not be assumed."
+    },
+    {
+      "id": "PA-024",
+      "title": "Relational evaluator propagation",
+      "status": "proposed-integration-not-authoritative",
+      "origin": "Timothy earlier proposal",
+      "discussion_context": "Investigate linked discrete evaluators {✓, X, =, ≈, ≠, ±, <, >}, contradiction handling and fixed-point propagation instead of unrelated decimal weights.",
+      "dependencies": "Explicit evaluator semantics and domain constraints",
+      "unresolved": "Hydraulic/gravitational descriptions are analogies; the four-token NVE-D alphabet is a separate provisional protocol."
+    }
+  ]
+}
