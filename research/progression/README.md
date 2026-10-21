@@ -37,6 +37,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [017 — Proposal preservation and private dictionary recovery](017-proposal-preservation-and-dictionary-recovery.md) — 27 preserved proposals, private source recovery, 441 focused candidate messages and explicit limits.
 
+- [018 — GPT source blocks on an extendable month line](018-month-block-line.md) — verified inventory, private Android-oriented artifact, live access correction, 20 synthetic and 7 browser checks; vocabulary assessment remains pending.
+
 ## Reporting practice
 
 
