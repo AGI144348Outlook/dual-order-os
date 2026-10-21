@@ -35,6 +35,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 ## Reporting practice
 
+- [016 — Receiving the attached Mashet Dictionary/Library](016-mashet-library-reception.md) — prospective issue, complete PDF exposure, 210 candidate cards, measured indexing changes and remaining language-intake limits.
+
 During subsequent authorized work, add a numbered progression report or a dated continuation when there is a meaningful development. Record motivation, pinned repository state, actions, tests, failed or blocked attempts, interpretation, and outstanding decisions.
 
 Use **implemented**, **tested**, **specified**, **inferred**, and **proposed** distinctly. Keep source claims separate from observed behavior. Corrections should be dated and linked to the superseded statement. A new result does not retroactively validate an earlier hypothesis.
