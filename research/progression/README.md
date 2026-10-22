@@ -41,6 +41,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [019 — Correction learning and turn-based classroom](019-correction-learning-classroom.md) — actual A-101/A-113 and new B1-c bridge results, persistent lesson evidence, and interactive phone classroom; scoped limits retained.
 
+- [020 — Lesson review and priority-card prototypes](020-lesson2-and-priority-cards.md) — 40-question frozen reference transfer, first-priority notes, bounded last-priority Recess and teacher handover, with explicit learning limits.
+
 ## Reporting practice
 
 
