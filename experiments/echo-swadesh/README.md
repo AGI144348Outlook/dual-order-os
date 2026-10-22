@@ -31,3 +31,7 @@ See [Mashet Alamaket proposal and handoff](proposals/mashet-alamaket/README.md) 
 ## Pronouns, interrogatives and entity/story decks
 
 [Next lesson direction and identity/reference-card proposal](ENTITY-AND-QUESTION-LESSONS.md) records Timothy's question-tool proposal, articulation practice, entity ownership/reference distinctions and story-deck idea. The five interrogatives, צ/ץ portfolio and identity integration remain explicitly scoped proposals; no new lessons have run.
+
+## First bounded classroom experiment
+
+[Echo classroom implementation and evidence](../echo-classroom/README.md) adds a separately initialized synthetic lesson session, preserving this empty starter profile. The Neuroplasticity library remains a proposal collection; the new B1-c bridge and preserved A-101/A-113 calls are identified separately. Tests and interpretation: https://github.com/AGI144348Outlook/dual-order-os/issues/6 . A narrow role-reference score does not admit the words as fully green vocabulary.
