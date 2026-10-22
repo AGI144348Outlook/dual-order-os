@@ -39,6 +39,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [018 — GPT source blocks on an extendable month line](018-month-block-line.md) — verified inventory, private Android-oriented artifact, live access correction, 20 synthetic and 7 browser checks; vocabulary assessment remains pending.
 
+- [019 — Correction learning and turn-based classroom](019-correction-learning-classroom.md) — actual A-101/A-113 and new B1-c bridge results, persistent lesson evidence, and interactive phone classroom; scoped limits retained.
+
 ## Reporting practice
 
 
