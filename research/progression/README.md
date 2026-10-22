@@ -43,6 +43,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [020 — Lesson review and priority-card prototypes](020-lesson2-and-priority-cards.md) — 40-question frozen reference transfer, first-priority notes, bounded last-priority Recess and teacher handover, with explicit learning limits.
 
+- [021 — צ portfolio and Who-only פצ turns](021-tsadi-questioning-tool.md) — front/back tool card, exact-copy receipt, controlled questioning/expansion/attachment, teacher reply and phone evidence.
+
 ## Reporting practice
 
 

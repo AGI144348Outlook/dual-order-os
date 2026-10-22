@@ -39,3 +39,7 @@ See [Mashet Alamaket proposal and handoff](proposals/mashet-alamaket/README.md) 
 ## Lesson 2 and first/last-priority prototypes
 
 [Progress report 020](../../research/progression/020-lesson2-and-priority-cards.md) reviews Lesson 1 and records novel-layout/missing-context checks, first-priority notes, and opt-in step-driven Recess with teacher handover. [Algorithm/template profile cards](../echo-classroom/priority-algorithm-cards.json) describe the bounded new adapters. No full vocabulary admission or autonomous idle-learning loop is claimed; the empty starter profile remains unchanged.
+
+## צ portfolio introduction
+
+[Progress report 021](../../research/progression/021-tsadi-questioning-tool.md) records the teacher-directed Who-only questioning slot, front/back copy exercise, expansion and paperclip functions, and turn-based פצ session. What remains locked. Question phrases are supplied scaffolding, not an independent grammar-learning result; source authority and the empty starter profile remain preserved.
