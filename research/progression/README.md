@@ -45,6 +45,8 @@ Reports for outside researchers and future collaborators, documenting the projec
 
 - [021 — צ portfolio and Who-only פצ turns](021-tsadi-questioning-tool.md) — front/back tool card, exact-copy receipt, controlled questioning/expansion/attachment, teacher reply and phone evidence.
 
+- [022 — Reading-only classroom documentary](022-reading-only-classroom.md) — separates the observation surface from actual teaching, preserves scripted-run attribution and archives participation for later.
+
 ## Reporting practice
 
 
