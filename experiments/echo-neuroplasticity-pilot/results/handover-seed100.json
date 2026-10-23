@@ -1,0 +1,905 @@
+{
+ "report": {
+  "big": "green",
+  "bird": "green",
+  "birds": "green",
+  "black": "green",
+  "cold": "green",
+  "different": "green",
+  "dog": "green",
+  "dogs": "green",
+  "dry": "green (claimed at recess, verified)",
+  "fin": "green",
+  "fish": "green",
+  "green": "green",
+  "hot": "green",
+  "leaf": "green",
+  "leg": "not yet (recognition 1.00, use 0.00)",
+  "many": "green",
+  "no": "green",
+  "not": "untested in pilot",
+  "one": "green",
+  "opposite": "green",
+  "part": "not yet (recognition 1.00, use 0.33)",
+  "red": "green",
+  "root": "green",
+  "same": "green",
+  "small": "green",
+  "stone": "green",
+  "stones": "green",
+  "sun": "green",
+  "suns": "not yet (recognition 0.33, use 1.00)",
+  "tail": "not yet (recognition 0.33, use 0.00)",
+  "tree": "green",
+  "trees": "green",
+  "two": "green",
+  "wet": "green",
+  "what": "untested in pilot",
+  "white": "green",
+  "who": "green (carried)",
+  "wing": "green",
+  "yellow": "green",
+  "yes": "green"
+ },
+ "claims": {
+  "dry": "accepted",
+  "suns": "rejected (recognition 0.33, use 1.00)"
+ },
+ "green": [
+  "big",
+  "bird",
+  "birds",
+  "black",
+  "cold",
+  "different",
+  "dog",
+  "dogs",
+  "dry",
+  "fin",
+  "fish",
+  "green",
+  "hot",
+  "leaf",
+  "many",
+  "no",
+  "one",
+  "opposite",
+  "red",
+  "root",
+  "same",
+  "small",
+  "stone",
+  "stones",
+  "sun",
+  "tree",
+  "trees",
+  "two",
+  "wet",
+  "white",
+  "who",
+  "wing",
+  "yellow",
+  "yes"
+ ],
+ "lessons": {
+  "ע": [
+   {
+    "assignment": "ע-1",
+    "name": "encounter board",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "ע-2",
+    "name": "same/different demo",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "ע-3",
+    "name": "same/different, ✓/X only",
+    "mode": "check",
+    "score": 1.0
+   },
+   {
+    "assignment": "ע-4",
+    "name": "same/different, answers shown",
+    "mode": "reveal",
+    "score": 1.0
+   },
+   {
+    "assignment": "ע-5",
+    "name": "quiz: same/different, new cards",
+    "mode": "quiz",
+    "score": 0.938
+   }
+  ],
+  "פ": [
+   {
+    "assignment": "פ-1",
+    "name": "naming practice",
+    "mode": "reveal",
+    "score": 0.792
+   },
+   {
+    "assignment": "פ-2",
+    "name": "phrase board",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "פ-3",
+    "name": "describe practice",
+    "mode": "reveal",
+    "score": 0.5
+   },
+   {
+    "assignment": "פ-4",
+    "name": "quiz: describe new combinations",
+    "mode": "quiz",
+    "score": 0.5
+   },
+   {
+    "assignment": "פ-5",
+    "name": "remediation + retest",
+    "mode": "quiz",
+    "score": 0.667
+   }
+  ],
+  "צ": [
+   {
+    "assignment": "צ-1",
+    "name": "what demo (questions unlocked)",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "צ-2",
+    "name": "matching columns",
+    "mode": "reveal",
+    "score": 1.0
+   },
+   {
+    "assignment": "צ-3",
+    "name": "naming with questions allowed",
+    "mode": "reveal",
+    "score": 0.9
+   },
+   {
+    "assignment": "צ-4",
+    "name": "quiz: matching columns",
+    "mode": "quiz",
+    "score": 0.833
+   }
+  ],
+  "ר": [
+   {
+    "assignment": "ר-1",
+    "name": "find the card",
+    "mode": "reveal",
+    "score": 0.9
+   },
+   {
+    "assignment": "ר-2",
+    "name": "yes/no demo",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "ר-3",
+    "name": "yes/no, ✓/X only",
+    "mode": "check",
+    "score": 0.6
+   },
+   {
+    "assignment": "ר-4",
+    "name": "quiz: two-word find + yes/no",
+    "mode": "quiz",
+    "score": 0.812
+   }
+  ],
+  "ץ": [
+   {
+    "assignment": "ץ-1",
+    "name": "envelope board: X part Y",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "ץ-2",
+    "name": "sort into envelopes",
+    "mode": "reveal",
+    "score": 0.917
+   },
+   {
+    "assignment": "ץ-3",
+    "name": "quiz: sort every component",
+    "mode": "quiz",
+    "score": 1.0
+   }
+  ],
+  "ש": [
+   {
+    "assignment": "ש-1",
+    "name": "count board",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "ש-2",
+    "name": "plural describe practice",
+    "mode": "reveal",
+    "score": 0.75
+   },
+   {
+    "assignment": "ש-3",
+    "name": "opposites board + practice",
+    "mode": "reveal",
+    "score": 1.0
+   },
+   {
+    "assignment": "ש-4",
+    "name": "quiz: new plurals + new opposite pair",
+    "mode": "quiz",
+    "score": 1.0
+   }
+  ],
+  "ק": [
+   {
+    "assignment": "ק-1",
+    "name": "where did you meet it",
+    "mode": "reveal",
+    "score": 1.0
+   },
+   {
+    "assignment": "ק-2",
+    "name": "find a new example",
+    "mode": "reveal",
+    "score": 0.833
+   },
+   {
+    "assignment": "ק-3",
+    "name": "quiz: sources + examples",
+    "mode": "quiz",
+    "score": 0.938
+   }
+  ],
+  "ת": [
+   {
+    "assignment": "ת-1",
+    "name": "delay: recess only",
+    "mode": "board",
+    "score": null
+   },
+   {
+    "assignment": "ת-2",
+    "name": "retention quiz, all lesson types",
+    "mode": "quiz",
+    "score": 0.917
+   },
+   {
+    "assignment": "ת-3",
+    "name": "handover: green tests",
+    "mode": "board",
+    "score": null
+   }
+  ]
+ },
+ "echo_state": {
+  "words": {
+   "big": {
+    "n": 10.777758644152067,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.5446415584428731,
+    "protect": 0.7500000000000001,
+    "dormant": false,
+    "box": 4
+   },
+   "hot": {
+    "n": 18.452426281395336,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "small": {
+    "n": 11.354857170504383,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "cold": {
+    "n": 19.02041629302248,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 1.3864942888399887,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "dog": {
+    "n": 14.493919157619285,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.28710780666871305,
+    "protect": 0.75,
+    "dormant": false,
+    "box": 4
+   },
+   "stone": {
+    "n": 5.787394712816095,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.7500000000000001,
+    "dormant": false,
+    "box": 4
+   },
+   "wet": {
+    "n": 7.749186558367693,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.8000000000000003,
+    "dormant": false,
+    "box": 3
+   },
+   "red": {
+    "n": 3.810449250310684,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.6,
+    "dormant": false,
+    "box": 4
+   },
+   "fish": {
+    "n": 10.490873910242096,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.13906189733481417,
+    "protect": 0.5,
+    "dormant": false,
+    "box": 4
+   },
+   "dry": {
+    "n": 12.887682077539221,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "yellow": {
+    "n": 5.0237225993817844,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.5,
+    "dormant": false,
+    "box": 3
+   },
+   "sun": {
+    "n": 7.503196598220725,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.6249906260608071,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 2
+   },
+   "white": {
+    "n": 0.823880102079958,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.6225243264190886,
+    "protect": 0.39999999999999997,
+    "dormant": false,
+    "box": 3
+   },
+   "bird": {
+    "n": 8.232400681672152,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.1967434793901267,
+    "protect": 0.6,
+    "dormant": false,
+    "box": 4
+   },
+   "black": {
+    "n": 0.7464346996398753,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.1506322567494948,
+    "protect": 0.49999999999999994,
+    "dormant": false,
+    "box": 4
+   },
+   "green": {
+    "n": 3.711116698756382,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.5499999999999999,
+    "dormant": false,
+    "box": 4
+   },
+   "same": {
+    "n": 8.628844004004835,
+    "trace_n": 0.0,
+    "nwin": 10.341736288036167,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "different": {
+    "n": 11.191806199960691,
+    "trace_n": 0.0,
+    "nwin": 3.273142124832997,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "tree": {
+    "n": 6.397338400167591,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.49999999999999994,
+    "dormant": false,
+    "box": 3
+   },
+   "what": {
+    "n": 0.6408493873913074,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.3,
+    "dormant": false,
+    "box": 3
+   },
+   "yes": {
+    "n": 1.6556145252888166,
+    "trace_n": 0.0,
+    "nwin": 1.7871815041013877,
+    "nloss": 1.7871815041013877,
+    "protect": 0.5499999999999999,
+    "dormant": false,
+    "box": 3
+   },
+   "no": {
+    "n": 2.7510508282192805,
+    "trace_n": 0.0,
+    "nwin": 3.5057953605490035,
+    "nloss": 1.5024837259495736,
+    "protect": 0.7999999999999999,
+    "dormant": false,
+    "box": 4
+   },
+   "wing": {
+    "n": 1.1284505769689765,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.3,
+    "dormant": false,
+    "box": 3
+   },
+   "part": {
+    "n": 15.865019986786304,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 4
+   },
+   "tail": {
+    "n": 1.6234963366410353,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "leg": {
+    "n": 1.6339812313384503,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "fin": {
+    "n": 1.6339812313384503,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "leaf": {
+    "n": 1.6339812313384503,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "root": {
+    "n": 3.810319597419732,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.9,
+    "dormant": false,
+    "box": 2
+   },
+   "many": {
+    "n": 7.313304485129925,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "dogs": {
+    "n": 5.428594171148262,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "two": {
+    "n": 6.048298626451026,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.3,
+    "dormant": false,
+    "box": 3
+   },
+   "trees": {
+    "n": 1.71558625472081,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.3,
+    "dormant": false,
+    "box": 3
+   },
+   "birds": {
+    "n": 4.657118781227697,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "one": {
+    "n": 6.417360846926562,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   },
+   "opposite": {
+    "n": 2.1877450697611738,
+    "trace_n": 0.0,
+    "nwin": 0.0,
+    "nloss": 0.0,
+    "protect": 0.44999999999999996,
+    "dormant": false,
+    "box": 4
+   }
+  },
+  "routes": {
+   "part": {
+    "chan_eq_val_ne": [
+     0.0,
+     12.0
+    ],
+    "val_eq": [
+     0.0,
+     12.0
+    ],
+    "chan_ne": [
+     0.0,
+     12.0
+    ],
+    "obj_co": [
+     12.0,
+     0.0
+    ]
+   },
+   "leaf": {
+    "chan_eq_val_ne": [
+     0.0,
+     2.0
+    ],
+    "val_eq": [
+     0.0,
+     2.0
+    ],
+    "chan_ne": [
+     0.0,
+     2.0
+    ],
+    "obj_co": [
+     2.0,
+     0.0
+    ]
+   },
+   "wing": {
+    "chan_eq_val_ne": [
+     0.0,
+     2.0
+    ],
+    "val_eq": [
+     0.0,
+     2.0
+    ],
+    "chan_ne": [
+     0.0,
+     2.0
+    ],
+    "obj_co": [
+     0.0,
+     2.0
+    ]
+   },
+   "root": {
+    "chan_eq_val_ne": [
+     0.0,
+     2.0
+    ],
+    "val_eq": [
+     0.0,
+     2.0
+    ],
+    "chan_ne": [
+     0.0,
+     2.0
+    ],
+    "obj_co": [
+     2.0,
+     0.0
+    ]
+   },
+   "leg": {
+    "chan_eq_val_ne": [
+     0.0,
+     2.0
+    ],
+    "val_eq": [
+     0.0,
+     2.0
+    ],
+    "chan_ne": [
+     0.0,
+     2.0
+    ],
+    "obj_co": [
+     0.0,
+     2.0
+    ]
+   },
+   "tail": {
+    "chan_eq_val_ne": [
+     0.0,
+     2.0
+    ],
+    "val_eq": [
+     0.0,
+     2.0
+    ],
+    "chan_ne": [
+     0.0,
+     2.0
+    ],
+    "obj_co": [
+     0.0,
+     2.0
+    ]
+   },
+   "fin": {
+    "chan_eq_val_ne": [
+     0.0,
+     2.0
+    ],
+    "val_eq": [
+     0.0,
+     2.0
+    ],
+    "chan_ne": [
+     0.0,
+     2.0
+    ],
+    "obj_co": [
+     0.0,
+     2.0
+    ]
+   },
+   "opposite": {
+    "chan_eq_val_ne": [
+     12.0,
+     0.0
+    ],
+    "val_eq": [
+     0.0,
+     12.0
+    ],
+    "chan_ne": [
+     0.0,
+     12.0
+    ],
+    "obj_co": [
+     0.0,
+     12.0
+    ]
+   },
+   "big": {
+    "chan_eq_val_ne": [
+     0.0,
+     3.0
+    ],
+    "val_eq": [
+     0.0,
+     3.0
+    ],
+    "chan_ne": [
+     0.0,
+     3.0
+    ],
+    "obj_co": [
+     0.0,
+     3.0
+    ]
+   },
+   "small": {
+    "chan_eq_val_ne": [
+     0.0,
+     3.0
+    ],
+    "val_eq": [
+     0.0,
+     3.0
+    ],
+    "chan_ne": [
+     0.0,
+     3.0
+    ],
+    "obj_co": [
+     3.0,
+     0.0
+    ]
+   },
+   "hot": {
+    "chan_eq_val_ne": [
+     0.0,
+     3.0
+    ],
+    "val_eq": [
+     0.0,
+     3.0
+    ],
+    "chan_ne": [
+     0.0,
+     3.0
+    ],
+    "obj_co": [
+     3.0,
+     0.0
+    ]
+   },
+   "cold": {
+    "chan_eq_val_ne": [
+     0.0,
+     3.0
+    ],
+    "val_eq": [
+     0.0,
+     3.0
+    ],
+    "chan_ne": [
+     0.0,
+     3.0
+    ],
+    "obj_co": [
+     0.0,
+     3.0
+    ]
+   }
+  },
+  "order_tokens": {
+   "c924413>c232864": 10,
+   "c232864>c850934": 9,
+   "c850934>c27001": 7,
+   "c232864>c742522": 8,
+   "c742522>c27001": 54,
+   "c924413>c850934": 9,
+   "c924413>c742522": 13,
+   "c850934>c742522": 7,
+   "c801401>c27001": 66,
+   "c540549>c27001": 42
+  },
+  "form_tokens": [
+   {
+    "suffix": "s",
+    "chan": "c27001",
+    "trigger": [
+     [
+      "c540549",
+      "v43836"
+     ],
+     [
+      "c540549",
+      "v511788"
+     ]
+    ],
+    "support": 3
+   }
+  ],
+  "form_unchanged": [
+   "fish"
+  ],
+  "marks": {
+   "big": "met",
+   "hot": "met",
+   "small": "met",
+   "cold": "met",
+   "dog": "met",
+   "stone": "met",
+   "wet": "met",
+   "red": "met",
+   "fish": "met",
+   "dry": "claimed",
+   "yellow": "met",
+   "sun": "met",
+   "white": "met",
+   "bird": "met",
+   "black": "met",
+   "green": "met",
+   "same": "met",
+   "different": "met",
+   "tree": "met",
+   "what": "met",
+   "yes": "met",
+   "no": "met",
+   "wing": "met",
+   "part": "met",
+   "tail": "met",
+   "leg": "met",
+   "fin": "met",
+   "leaf": "met",
+   "root": "met",
+   "many": "met",
+   "dogs": "met",
+   "two": "met",
+   "trees": "met",
+   "birds": "met",
+   "one": "met",
+   "opposite": "met",
+   "suns": "claimed"
+  }
+ }
+}

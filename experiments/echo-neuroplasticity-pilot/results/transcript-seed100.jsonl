@@ -1,0 +1,839 @@
+{"turn": "board", "label": "ע-1", "words": ["big", "hot"], "cards": ["one big hot dry yellow fish"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "cold", "dog"], "cards": ["one small cold wet black dog [tail, leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "hot", "stone"], "cards": ["one big hot dry yellow stone"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "wet", "stone"], "cards": ["one small cold wet black stone"]}
+{"turn": "board", "label": "ע-1", "words": ["hot", "red", "fish"], "cards": ["one small hot dry red fish [fin, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "dry"], "cards": ["one small cold dry yellow stone"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "red"], "cards": ["one big cold dry red stone"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "cold", "wet"], "cards": ["one big cold wet yellow stone"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "wet", "yellow"], "cards": ["one big cold wet yellow bird [wing, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "dog"], "cards": ["one small hot dry red dog [leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "hot", "red"], "cards": ["one big hot dry red sun"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "hot", "dry"], "cards": ["one small hot dry black tree"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "wet"], "cards": ["one big cold wet white bird [wing, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["hot", "yellow"], "cards": ["one small hot dry yellow dog [tail, leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["wet", "sun"], "cards": ["one small cold wet white sun"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "fish"], "cards": ["one big cold dry white fish [fin, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["wet", "yellow", "fish"], "cards": ["one small cold wet yellow fish [fin, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["hot", "dry", "red"], "cards": ["one small hot dry red sun"]}
+{"turn": "board", "label": "ע-1", "words": ["hot", "dry", "dog"], "cards": ["one small hot dry red dog [tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "dog"], "cards": ["one big cold dry green dog [tail, leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "wet"], "cards": ["one small hot wet red dog [tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "white", "bird"], "cards": ["one small cold wet white bird [wing, leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "cold"], "cards": ["one big cold dry black fish [tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "dry"], "cards": ["one small cold dry white fish [fin]"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "yellow", "stone"], "cards": ["one big cold dry yellow stone"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "red"], "cards": ["one small cold dry red bird [wing, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["wet", "black", "bird"], "cards": ["one big cold wet black bird [wing]"]}
+{"turn": "board", "label": "ע-1", "words": ["cold", "dry"], "cards": ["one big cold dry black dog"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "cold"], "cards": ["one small cold wet yellow fish [fin]"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "hot", "dry"], "cards": ["one big hot dry yellow sun"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "hot", "stone"], "cards": ["one big hot wet black stone"]}
+{"turn": "board", "label": "ע-1", "words": ["big", "dry"], "cards": ["one big hot dry red fish [fin, tail]"]}
+{"turn": "board", "label": "ע-1", "words": ["wet", "green"], "cards": ["one big hot wet green dog [tail, leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["wet", "red", "bird"], "cards": ["one small cold wet red bird [wing, tail, leg]"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "wet", "stone"], "cards": ["one small hot wet black stone"]}
+{"turn": "board", "label": "ע-1", "words": ["small", "dry", "yellow"], "cards": ["one small hot dry yellow fish [fin, tail]"]}
+{"turn": "board", "label": "ע-2", "words": ["same"], "cards": ["one small cold wet white sun", "one small cold wet white sun"]}
+{"turn": "board", "label": "ע-2", "words": ["different"], "cards": ["one small cold wet white sun", "one big cold wet white sun"]}
+{"turn": "board", "label": "ע-2", "words": ["same"], "cards": ["one big cold wet red stone", "one big cold wet red stone"]}
+{"turn": "board", "label": "ע-2", "words": ["different"], "cards": ["one big cold wet red stone", "one big cold dry red stone"]}
+{"turn": "board", "label": "ע-2", "words": ["same"], "cards": ["one big hot dry red stone", "one big hot dry red stone"]}
+{"turn": "board", "label": "ע-2", "words": ["different"], "cards": ["one big hot dry red stone", "one big hot dry red bird [wing, tail, leg]"]}
+{"turn": "echo", "label": "ע-3", "task": "one small hot dry yellow stone vs one small hot dry yellow stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big hot dry white fish [fin, tail] vs one big hot dry green fish [fin, tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big cold wet green tree [leaf, root] vs one big cold wet green tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big cold dry yellow dog [tail, leg] vs one big cold dry yellow dog [tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold wet red stone vs one big cold wet red stone", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small hot dry green tree [leaf] vs one small hot dry green tree [leaf]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold wet red sun vs one small cold wet red sun", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold dry green tree [leaf, root] vs one small cold dry green tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold wet yellow fish vs one small cold wet yellow fish", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold dry white fish [tail] vs one small hot dry white fish [tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold dry black stone vs one small cold dry black stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big cold dry red stone vs one big cold dry red stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small hot wet yellow bird [wing, tail, leg] vs one small hot wet yellow bird [wing, tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small hot wet black dog [tail, leg] vs one small hot wet black dog [tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small hot wet yellow sun vs one small hot wet yellow sun", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big hot wet red fish [fin, tail] vs one big hot dry red fish [fin, tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big hot wet yellow fish [fin] vs one big hot wet yellow fish [fin]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small hot wet green tree [leaf, root] vs one small hot wet green tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one small cold wet black tree [leaf, root] vs one small cold wet black tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-3", "task": "one big cold wet green sun vs one big cold dry green sun", "answer": "different", "verdict": "✓"}
+{"turn": "grade", "label": "ע-3", "mode": "check", "score": 1.0}
+{"turn": "echo", "label": "ע-4", "task": "one big cold dry red stone vs one big cold dry red stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small hot dry green dog [tail] vs one small hot dry green dog [tail]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big cold dry green sun vs one big hot dry green sun", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small cold dry red stone vs one small cold dry red fish", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small hot wet white bird [wing] vs one small cold wet white bird [wing]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big hot dry black stone vs one big cold dry black stone", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big cold wet red dog [tail, leg] vs one big cold wet red dog [tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big cold dry yellow stone vs one big cold wet yellow stone", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small hot wet yellow sun vs one small hot dry yellow sun", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big cold wet white fish [fin] vs one big cold wet black fish [fin]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small cold wet yellow fish [tail] vs one small cold wet yellow fish [tail]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small cold dry red dog vs one small cold wet red dog", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big cold wet black fish [fin, tail] vs one big cold wet green fish [fin, tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small hot dry yellow stone vs one small hot dry yellow stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big cold dry green dog [tail, leg] vs one big cold dry green dog [tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small cold dry red fish [tail] vs one small hot dry red fish [tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small cold wet yellow stone vs one small cold wet yellow stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one big hot wet yellow sun vs one big hot wet yellow sun", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small hot wet green dog [tail] vs one small cold wet green dog [tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-4", "task": "one small cold wet yellow bird [wing, tail, leg] vs one small cold dry yellow bird [wing, tail, leg]", "answer": "different", "verdict": "✓"}
+{"turn": "grade", "label": "ע-4", "mode": "reveal", "score": 1.0}
+{"turn": "echo", "label": "ע-5", "task": "one small hot dry green tree [root] vs one big hot dry green tree [root]", "answer": "same", "verdict": "X"}
+{"turn": "echo", "label": "ע-5", "task": "one small cold wet green stone vs one small hot wet green stone", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small hot dry green bird [tail, leg] vs one small hot dry green sun", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small hot wet white sun vs one small hot wet yellow sun", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small cold wet green sun vs one small cold wet green sun", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small cold wet black sun vs one small hot wet black sun", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small hot wet yellow dog [tail, leg] vs one small hot wet yellow bird [wing, tail, leg]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one big cold wet red tree [leaf, root] vs one big cold wet red tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one big hot dry red sun vs one big hot dry red sun", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one big cold wet yellow tree [leaf, root] vs one big cold wet yellow tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one big cold wet green bird [wing, tail, leg] vs one big cold wet green bird [wing, tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small hot wet yellow fish [fin, tail] vs one small hot wet yellow fish [fin, tail]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small cold dry white tree [leaf, root] vs one small cold dry white tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one big hot wet red stone vs one big hot wet red stone", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small hot dry red dog [tail] vs one small hot dry red dog [tail]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ע-5", "task": "one small hot wet white sun vs one small hot wet white sun", "answer": "same", "verdict": "✓"}
+{"turn": "grade", "label": "ע-5", "mode": "quiz", "score": 0.938}
+{"turn": "echo", "label": "פ-1", "task": "name the temp of one small cold dry black bird [tail, leg]", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the kind of one small hot wet black tree [leaf, root]", "answer": "cold", "verdict": "X"}
+{"turn": "echo", "label": "פ-1", "task": "name the temp of one big cold wet black dog [leg]", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the color of one small hot dry red bird [tail]", "answer": "red", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the kind of one big hot dry black stone", "answer": "stone", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the temp of one small hot wet yellow dog [tail, leg]", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the color of one big cold dry yellow dog [leg]", "answer": "yellow", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one big hot dry red dog", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one small hot dry yellow dog [tail, leg]", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one small hot dry black dog [tail]", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the size of one small cold wet yellow bird [wing, tail, leg]", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one big hot wet black dog [tail]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the kind of one big cold wet green dog [tail]", "answer": "bird", "verdict": "X"}
+{"turn": "echo", "label": "פ-1", "task": "name the kind of one big hot wet yellow stone", "answer": "stone", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one small cold dry white bird [wing, tail, leg]", "answer": "fish", "verdict": "X"}
+{"turn": "echo", "label": "פ-1", "task": "name the temp of one small cold wet black fish [fin]", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the size of one small hot wet yellow sun", "answer": "black", "verdict": "X"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one big hot wet yellow bird [wing, tail, leg]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the color of one small cold wet black bird [tail, leg]", "answer": "dog", "verdict": "X"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one big hot wet black fish [tail]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the kind of one small cold dry yellow dog", "answer": "dog", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the wet of one big hot wet black dog [tail, leg]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the temp of one big hot dry red fish [tail]", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "פ-1", "task": "name the color of one big cold dry yellow stone", "answer": "yellow", "verdict": "✓"}
+{"turn": "grade", "label": "פ-1", "mode": "reveal", "score": 0.792}
+{"turn": "board", "label": "פ-2", "words": ["green", "dog"], "cards": ["one small hot wet green dog"]}
+{"turn": "board", "label": "פ-2", "words": ["small", "red", "stone"], "cards": ["one small cold wet red stone"]}
+{"turn": "board", "label": "פ-2", "words": ["small", "green", "dog"], "cards": ["one small hot wet green dog [tail, leg]"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "bird"], "cards": ["one big cold dry yellow bird [wing, tail]"]}
+{"turn": "board", "label": "פ-2", "words": ["big", "red", "stone"], "cards": ["one big hot dry red stone"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "sun"], "cards": ["one big cold wet yellow sun"]}
+{"turn": "board", "label": "פ-2", "words": ["big", "green", "dog"], "cards": ["one big hot wet green dog"]}
+{"turn": "board", "label": "פ-2", "words": ["green", "dog"], "cards": ["one small cold wet green dog [tail]"]}
+{"turn": "board", "label": "פ-2", "words": ["big", "yellow", "fish"], "cards": ["one big cold dry yellow fish [tail]"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "stone"], "cards": ["one big cold dry yellow stone"]}
+{"turn": "board", "label": "פ-2", "words": ["red", "stone"], "cards": ["one small cold dry red stone"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "fish"], "cards": ["one big cold wet yellow fish [fin, tail]"]}
+{"turn": "board", "label": "פ-2", "words": ["red", "bird"], "cards": ["one small hot dry red bird [wing, tail, leg]"]}
+{"turn": "board", "label": "פ-2", "words": ["red", "stone"], "cards": ["one big cold wet red stone"]}
+{"turn": "board", "label": "פ-2", "words": ["big", "yellow", "dog"], "cards": ["one big cold dry yellow dog [leg]"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "sun"], "cards": ["one small cold dry yellow sun"]}
+{"turn": "board", "label": "פ-2", "words": ["small", "red", "bird"], "cards": ["one small cold wet red bird [wing, tail, leg]"]}
+{"turn": "board", "label": "פ-2", "words": ["red", "stone"], "cards": ["one big hot dry red stone"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "stone"], "cards": ["one big cold dry yellow stone"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "bird"], "cards": ["one small hot dry yellow bird [wing, tail]"]}
+{"turn": "board", "label": "פ-2", "words": ["big", "red", "sun"], "cards": ["one big hot wet red sun"]}
+{"turn": "board", "label": "פ-2", "words": ["yellow", "sun"], "cards": ["one small hot wet yellow sun"]}
+{"turn": "board", "label": "פ-2", "words": ["red", "fish"], "cards": ["one small cold dry red fish [fin, tail]"]}
+{"turn": "board", "label": "פ-2", "words": ["green", "dog"], "cards": ["one small cold wet green dog [tail]"]}
+{"turn": "echo", "label": "פ-3", "task": "describe one small cold dry yellow fish [fin, tail] (example: black tree)", "answer": ["fish", "tree"], "verdict": "X"}
+{"turn": "echo", "label": "פ-3", "task": "describe one big hot wet green sun (example: white bird)", "answer": ["green", "tree"], "verdict": "X"}
+{"turn": "echo", "label": "פ-3", "task": "describe one big hot dry red bird [wing, tail] (example: black tree)", "answer": ["black", "bird"], "verdict": "X"}
+{"turn": "echo", "label": "פ-3", "task": "describe one big cold wet yellow sun (example: red fish)", "answer": ["yellow", "sun"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-3", "task": "describe one big hot wet red fish [fin, tail] (example: white sun)", "answer": ["red", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-3", "task": "describe one small cold dry red fish [fin] (example: black dog)", "answer": ["red", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-3", "task": "describe one small cold dry yellow fish [fin, tail] (example: green tree)", "answer": ["yellow", "tree"], "verdict": "X"}
+{"turn": "echo", "label": "פ-3", "task": "describe one big hot dry yellow stone (example: red fish)", "answer": ["yellow", "stone"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-3", "task": "describe one big cold wet yellow sun (example: yellow dog)", "answer": ["yellow", "sun"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-3", "task": "describe one small cold wet green tree [leaf] (example: white sun)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-3", "task": "describe one small hot wet green tree [leaf] (example: green sun)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-3", "task": "describe one small cold dry yellow stone (example: red dog)", "answer": ["yellow", "stone"], "verdict": "✓"}
+{"turn": "grade", "label": "פ-3", "mode": "reveal", "score": 0.5}
+{"turn": "echo", "label": "פ-4", "task": "describe one small hot wet white tree [leaf, root] (example: white bird)", "answer": ["white", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-4", "task": "describe one small cold dry yellow tree [leaf] (example: black bird)", "answer": ["yellow", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-4", "task": "describe one small hot wet green fish [fin, tail] (example: black bird)", "answer": ["green", "tree"], "verdict": "X"}
+{"turn": "echo", "label": "פ-4", "task": "describe one small hot dry green stone (example: white sun)", "answer": ["green", "stone"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-4", "task": "describe one big cold dry white stone (example: yellow fish)", "answer": ["white", "stone"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-4", "task": "describe one big cold dry green bird [wing, tail] (example: green dog)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-4", "task": "describe one big cold dry red tree [leaf] (example: small green sun)", "answer": ["big", "red", "stone"], "verdict": "X"}
+{"turn": "echo", "label": "פ-4", "task": "describe one small hot dry green bird [wing, tail, leg] (example: big black tree)", "answer": ["small", "green", "bird"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-4", "task": "describe one big hot dry yellow tree [root] (example: big red stone)", "answer": ["big", "yellow", "stone"], "verdict": "X"}
+{"turn": "echo", "label": "פ-4", "task": "describe one big cold dry white dog [leg] (example: big red stone)", "answer": ["big", "white", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-4", "task": "describe one big hot wet yellow tree [leaf, root] (example: big red sun)", "answer": ["big", "yellow", "sun"], "verdict": "X"}
+{"turn": "echo", "label": "פ-4", "task": "describe one small cold wet green bird [wing, tail, leg] (example: small white fish)", "answer": ["small", "green", "dog"], "verdict": "X"}
+{"turn": "grade", "label": "פ-4", "mode": "quiz", "score": 0.5}
+{"turn": "echo", "label": "פ-5", "task": "describe one small cold wet red stone (example: black fish)", "answer": ["red", "stone"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5", "task": "describe one small cold wet green sun (example: black fish)", "answer": ["green", "sun"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5", "task": "describe one small cold dry yellow stone (example: black tree)", "answer": ["yellow", "bird"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5", "task": "describe one big cold wet yellow sun (example: red bird)", "answer": ["yellow", "bird"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5", "task": "describe one big hot dry yellow sun (example: yellow fish)", "answer": ["yellow", "sun"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5", "task": "describe one big hot dry yellow sun (example: black tree)", "answer": ["yellow", "bird"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5", "task": "describe one small hot dry green tree [leaf, root] (example: green dog)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5", "task": "describe one small cold dry green dog [tail, leg] (example: red stone)", "answer": ["green", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5", "task": "describe one big hot dry green tree [root] (example: yellow sun)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5", "task": "describe one small hot dry yellow fish [fin, tail] (example: black stone)", "answer": ["yellow", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5", "task": "describe one small hot wet green dog (example: black fish)", "answer": ["green", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5", "task": "describe one big hot dry green tree [leaf, root] (example: red stone)", "answer": ["green", "tree"], "verdict": "✓"}
+{"turn": "grade", "label": "פ-5", "mode": "reveal", "score": 0.583}
+{"turn": "echo", "label": "פ-5r", "task": "describe one big hot wet white tree [leaf, root] (example: black dog)", "answer": ["white", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one big cold wet white stone (example: red fish)", "answer": ["white", "stone"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one small cold dry black sun (example: yellow stone)", "answer": ["black", "sun"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one small hot dry green bird [wing, tail, leg] (example: green dog)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one big cold wet red tree [leaf, root] (example: white fish)", "answer": ["red", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one small cold wet green bird [wing, leg] (example: black fish)", "answer": ["green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one big cold wet yellow tree [leaf, root] (example: small black stone)", "answer": ["big", "yellow", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one big cold dry red tree [root] (example: small white bird)", "answer": ["big", "red", "bird"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one small hot wet green fish [fin] (example: small red stone)", "answer": ["small", "green", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one big cold dry green bird [wing, tail] (example: big green sun)", "answer": ["big", "green", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one small hot dry red tree [leaf, root] (example: big red sun)", "answer": ["small", "red", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "פ-5r", "task": "describe one small hot wet white stone (example: big green dog)", "answer": ["small", "white", "stone"], "verdict": "✓"}
+{"turn": "grade", "label": "פ-5r", "mode": "quiz", "score": 0.667}
+{"turn": "board", "label": "צ-1", "words": ["what", "sun"], "cards": ["one small cold dry red sun"]}
+{"turn": "board", "label": "צ-1", "words": ["what", "big"], "cards": ["one big hot dry red bird [wing, tail]"]}
+{"turn": "board", "label": "צ-1", "words": ["what", "big"], "cards": ["one big cold wet black fish"]}
+{"turn": "board", "label": "צ-1", "words": ["what", "cold"], "cards": ["one big cold wet red sun"]}
+{"turn": "echo", "label": "צ-2", "task": "match ['small', 'stone', 'tree', 'cold'] to ['one small hot dry red sun', 'one big hot dry white stone', 'one big hot dry red tree [root]', 'one big cold wet white dog [tail]']", "answer": {"tree": 2, "stone": 1, "small": 0, "cold": 3}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['red', 'sun', 'big', 'dog'] to ['one small hot dry red bird [wing, tail]', 'one small cold dry yellow sun', 'one big hot wet yellow fish [fin, tail]', 'one small cold dry yellow dog [leg]']", "answer": {"red": 0, "big": 2, "sun": 1, "dog": 3}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['stone', 'sun', 'big', 'bird'] to ['one small cold wet black stone', 'one small cold dry green sun', 'one big hot dry red tree [leaf]', 'one small hot wet green bird [tail, leg]']", "answer": {"stone": 0, "sun": 1, "big": 2, "bird": 3}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['red', 'tree', 'dog', 'green'] to ['one big hot dry red stone', 'one small cold dry black tree [leaf]', 'one big cold wet black dog [tail, leg]', 'one small cold dry green sun']", "answer": {"red": 0, "tree": 1, "dog": 2, "green": 3}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['hot', 'bird', 'small', 'tree'] to ['one big hot wet yellow stone', 'one big cold wet yellow bird [wing, tail, leg]', 'one small cold wet yellow sun', 'one big cold wet green tree [leaf, root]']", "answer": {"tree": 3, "bird": 1, "hot": 0, "small": 2}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['black', 'stone', 'sun', 'green'] to ['one big hot wet black fish [fin, tail]', 'one big cold dry red stone', 'one small cold dry white sun', 'one small hot wet green tree [leaf]']", "answer": {"green": 3, "stone": 1, "sun": 2, "black": 0}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['tree', 'sun', 'dog', 'hot'] to ['one small cold dry green tree [leaf]', 'one small cold wet yellow sun', 'one small cold wet yellow dog [tail, leg]', 'one big hot dry yellow stone']", "answer": {"tree": 0, "sun": 1, "dog": 2, "hot": 3}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-2", "task": "match ['white', 'fish', 'dog', 'sun'] to ['one big cold dry white bird [wing, leg]', 'one big hot dry yellow fish [tail]', 'one big hot wet black dog [tail]', 'one big hot wet red sun']", "answer": {"white": 0, "sun": 3, "fish": 1, "dog": 2}, "verdict": "✓"}
+{"turn": "grade", "label": "צ-2", "mode": "reveal", "score": 1.0}
+{"turn": "echo", "label": "צ-3", "task": "name the temp of one big cold dry red dog [tail, leg]", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the size of one big cold dry white sun", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the temp of one big hot wet yellow stone", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one big cold wet red fish [fin]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the temp of one small cold dry red dog [leg]", "answer": "cold", "verdict": "✓"}
+{"turn": "echo-asks", "label": "צ-3", "tool": "צ", "about": "cold"}
+{"turn": "echo", "label": "צ-3", "task": "name the temp of one big cold dry green tree [leaf, root]", "answer": "white", "verdict": "X"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one big hot dry red dog [tail, leg]", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the size of one big hot wet white sun", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one small hot dry red dog [tail, leg]", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the size of one small cold wet black bird [tail]", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one big hot wet green dog [tail, leg]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the temp of one big hot dry yellow dog [leg]", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the size of one small cold dry green sun", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one big cold wet yellow fish [fin, tail]", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the size of one big cold dry yellow stone", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one small cold dry green dog [tail]", "answer": "dry", "verdict": "✓"}
+{"turn": "echo-asks", "label": "צ-3", "tool": "צ", "about": "hot"}
+{"turn": "echo", "label": "צ-3", "task": "name the temp of one small hot wet green sun", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one big cold dry red stone", "answer": "white", "verdict": "X"}
+{"turn": "echo", "label": "צ-3", "task": "name the size of one small cold wet black tree [leaf]", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "צ-3", "task": "name the wet of one small hot wet yellow bird [wing, tail]", "answer": "wet", "verdict": "✓"}
+{"turn": "grade", "label": "צ-3", "mode": "reveal", "score": 0.9}
+{"turn": "echo", "label": "צ-4", "task": "match ['dog', 'bird', 'yellow', 'red'] to ['one small hot wet black dog [tail]', 'one big hot dry white bird [leg]', 'one big cold wet yellow stone', 'one small cold wet red fish [fin, tail]']", "answer": {"red": 3, "yellow": 2, "dog": 0, "bird": 1}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-4", "task": "match ['fish', 'cold', 'white', 'dog'] to ['one big hot dry green fish [tail]', 'one big cold dry yellow bird [wing, tail]', 'one small hot dry white sun', 'one big hot wet green dog [tail]']", "answer": {"dog": 3, "white": 1, "fish": 0, "cold": 2}, "verdict": "X"}
+{"turn": "echo", "label": "צ-4", "task": "match ['tree', 'green', 'dog', 'red'] to ['one big cold dry white tree [leaf]', 'one small hot wet green bird [wing, leg]', 'one small hot dry yellow dog [tail, leg]', 'one big cold wet red sun']", "answer": {"tree": 0, "green": 1, "dog": 2, "red": 3}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-4", "task": "match ['fish', 'white', 'sun', 'dog'] to ['one big hot wet red fish [tail]', 'one small hot dry white stone', 'one big hot wet red sun', 'one big hot wet red dog [tail, leg]']", "answer": {"sun": 2, "dog": 3, "white": 1, "fish": 0}, "verdict": "✓"}
+{"turn": "echo", "label": "צ-4", "task": "match ['bird', 'dog', 'stone', 'white'] to ['one big cold wet black bird [tail, leg]', 'one big hot wet yellow dog [leg]', 'one big cold wet black stone', 'one big hot dry white fish [fin]']", "answer": {"stone": 2, "white": 0, "dog": 1, "bird": 3}, "verdict": "X"}
+{"turn": "echo", "label": "צ-4", "task": "match ['tree', 'bird', 'dog', 'sun'] to ['one small hot wet white tree', 'one big cold dry black bird [wing]', 'one small cold dry black dog [tail]', 'one small hot dry white sun']", "answer": {"tree": 0, "sun": 3, "dog": 2, "bird": 1}, "verdict": "✓"}
+{"turn": "grade", "label": "צ-4", "mode": "quiz", "score": 0.833}
+{"turn": "echo", "label": "ר-1", "task": "find wet among ['one big hot dry red fish [tail]', 'one small cold dry black bird [wing, tail, leg]', 'one big cold dry green tree [leaf, root]', 'one big cold wet yellow fish [fin, tail]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find dog among ['one small hot dry white sun', 'one small hot wet red stone', 'one small hot dry black tree [leaf]', 'one small hot wet black dog [tail, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find dry among ['one small hot dry red dog [tail, leg]', 'one small hot wet yellow sun', 'one small hot wet green tree [leaf, root]', 'one small hot wet red bird [wing, leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find white among ['one small hot dry green tree [leaf, root]', 'one big hot wet white sun', 'one big hot wet red dog [leg]', 'one small cold wet black dog']", "answer": "card 3", "verdict": "X"}
+{"turn": "echo", "label": "ר-1", "task": "find small among ['one small hot wet white sun', 'one big hot dry green sun', 'one big hot wet green dog [tail, leg]', 'one big hot dry green tree [leaf, root]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find small among ['one big cold dry green tree [leaf]', 'one small hot dry red stone', 'one big cold wet white bird [wing, leg]', 'one big hot wet yellow stone']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find cold among ['one big cold wet white fish [fin, tail]', 'one small hot wet yellow bird [wing]', 'one small hot wet yellow bird [wing, tail, leg]', 'one small hot wet green sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find small among ['one big cold wet yellow sun', 'one big cold wet yellow sun', 'one big hot wet yellow fish [fin]', 'one small hot wet red bird [wing, tail, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find big among ['one small hot dry black fish [tail]', 'one small cold wet green sun', 'one big cold wet green tree', 'one small cold dry white bird [wing, leg]']", "answer": "card 0", "verdict": "X"}
+{"turn": "echo", "label": "ר-1", "task": "find dry among ['one small hot wet black stone', 'one big hot wet black dog [tail, leg]', 'one small hot wet green tree [root]', 'one big hot dry yellow fish [fin, tail]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find wet among ['one small hot wet black fish [fin]', 'one big hot dry black fish [tail]', 'one small cold dry black fish [fin, tail]', 'one big hot dry yellow stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find hot among ['one big cold dry red stone', 'one small hot wet black fish [fin]', 'one big cold dry white fish [tail]', 'one big cold dry white sun']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find hot among ['one big cold wet yellow dog [tail, leg]', 'one big hot wet green dog [tail, leg]', 'one big cold wet red dog [tail]', 'one small cold dry white fish [fin, tail]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find dry among ['one small hot wet white fish [fin, tail]', 'one big cold dry red bird [wing, leg]', 'one big hot wet black fish [fin, tail]', 'one big hot wet red stone']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find big among ['one small cold wet yellow fish [fin, tail]', 'one big hot dry black tree [leaf, root]', 'one small hot wet white sun', 'one small hot dry black stone']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find hot among ['one big cold dry white sun', 'one small hot wet red dog [tail, leg]', 'one big cold wet yellow sun', 'one big cold wet black dog [tail, leg]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find bird among ['one big hot wet black dog [leg]', 'one small cold dry red stone', 'one big hot dry green dog [tail]', 'one big hot wet white bird [tail, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find dry among ['one big cold wet yellow dog [tail, leg]', 'one big hot wet black fish [fin, tail]', 'one small cold dry black stone', 'one big cold wet white bird [wing]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find white among ['one small hot wet black bird [wing, tail, leg]', 'one small hot wet yellow fish [fin, tail]', 'one big hot dry yellow stone', 'one big hot wet white bird [wing, tail, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-1", "task": "find cold among ['one small hot wet black dog [tail, leg]', 'one big hot wet yellow dog [tail, leg]', 'one small cold dry black fish [fin, tail]', 'one big hot wet black tree [leaf, root]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ר-1", "mode": "reveal", "score": 0.9}
+{"turn": "board", "label": "ר-2", "words": ["small", "yes"], "cards": ["one small cold wet white fish [tail]"]}
+{"turn": "board", "label": "ר-2", "words": ["big", "no"], "cards": ["one small cold wet white fish [tail]"]}
+{"turn": "board", "label": "ר-2", "words": ["hot", "yes"], "cards": ["one big hot wet white sun"]}
+{"turn": "board", "label": "ר-2", "words": ["cold", "no"], "cards": ["one big hot wet white sun"]}
+{"turn": "board", "label": "ר-2", "words": ["dog", "yes"], "cards": ["one small hot wet yellow dog [tail, leg]"]}
+{"turn": "board", "label": "ר-2", "words": ["bird", "no"], "cards": ["one small hot wet yellow dog [tail, leg]"]}
+{"turn": "board", "label": "ר-2", "words": ["fish", "yes"], "cards": ["one small hot dry yellow fish [fin]"]}
+{"turn": "board", "label": "ר-2", "words": ["sun", "no"], "cards": ["one small hot dry yellow fish [fin]"]}
+{"turn": "echo", "label": "ר-3", "task": "small? one big hot wet red bird [tail, leg]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "wet? one big cold wet black bird [tail]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "hot? one small cold wet black fish [fin, tail]", "answer": "yes", "verdict": "X"}
+{"turn": "echo", "label": "ר-3", "task": "wet? one big cold dry red fish [fin]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "dry? one small hot dry white bird [wing, tail, leg]", "answer": "no", "verdict": "X"}
+{"turn": "echo-asks", "label": "ר-3", "tool": "צ", "about": "yes"}
+{"turn": "echo", "label": "ר-3", "task": "big? one small cold dry red dog [tail]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "dry? one small cold wet white sun", "answer": "yes", "verdict": "X"}
+{"turn": "echo-asks", "label": "ר-3", "tool": "צ", "about": "no"}
+{"turn": "echo", "label": "ר-3", "task": "small? one big cold wet yellow dog [tail]", "answer": "no", "verdict": "✓"}
+{"turn": "echo-asks", "label": "ר-3", "tool": "צ", "about": "yes"}
+{"turn": "echo", "label": "ר-3", "task": "hot? one big hot dry black dog [leg]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "cold? one small cold wet yellow stone", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "dry? one small cold wet green dog [leg]", "answer": "no", "verdict": "✓"}
+{"turn": "echo-asks", "label": "ר-3", "tool": "צ", "about": "yes"}
+{"turn": "echo", "label": "ר-3", "task": "red? one small hot wet white bird [leg]", "answer": "yes", "verdict": "X"}
+{"turn": "echo", "label": "ר-3", "task": "yellow? one small cold dry red dog [tail]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "big? one big cold wet yellow dog [tail, leg]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "big? one small hot dry black fish [fin]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "tree? one small hot wet green tree [root]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-3", "task": "stone? one small cold dry red stone", "answer": "no", "verdict": "X"}
+{"turn": "echo", "label": "ר-3", "task": "dog? one small cold wet green tree [leaf, root]", "answer": "yes", "verdict": "X"}
+{"turn": "echo", "label": "ר-3", "task": "wet? one small hot wet red bird [wing, tail, leg]", "answer": "no", "verdict": "X"}
+{"turn": "echo", "label": "ר-3", "task": "cold? one big hot wet yellow bird [wing, tail, leg]", "answer": "yes", "verdict": "X"}
+{"turn": "grade", "label": "ר-3", "mode": "check", "score": 0.6}
+{"turn": "echo", "label": "ר-4", "task": "find black sun", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "find green bird", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "find red tree", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "find yellow tree", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "find yellow tree", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "find green fish", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "find black sun", "answer": "card 2", "verdict": "X"}
+{"turn": "echo", "label": "ר-4", "task": "find green fish", "answer": "card 1", "verdict": "X"}
+{"turn": "echo", "label": "ר-4", "task": "hot? one big cold wet yellow fish [fin, tail]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "small? one small hot dry black sun", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "sun? one big hot dry green sun", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "black? one big cold wet black dog [tail, leg]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "small? one small cold dry green fish [fin, tail]", "answer": "no", "verdict": "X"}
+{"turn": "echo", "label": "ר-4", "task": "white? one small cold dry black tree [leaf]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "cold? one big hot dry green dog [tail]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ר-4", "task": "stone? one big hot dry green stone", "answer": "yes", "verdict": "✓"}
+{"turn": "grade", "label": "ר-4", "mode": "quiz", "score": 0.812}
+{"turn": "board", "label": "ץ-1", "words": ["wing", "part", "bird"], "cards": ["one big hot wet white bird [wing, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["wing", "part", "bird"], "cards": ["one big cold wet black bird [wing, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["wing", "part", "bird"], "cards": ["one big cold dry black bird [wing, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["wing", "part", "bird"], "cards": ["one small cold wet yellow bird [wing, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["tail", "part", "bird"], "cards": ["one small cold wet black bird [tail, wing]"]}
+{"turn": "board", "label": "ץ-1", "words": ["tail", "part", "fish"], "cards": ["one small hot wet black fish [tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["tail", "part", "dog"], "cards": ["one big hot wet yellow dog [tail, leg]"]}
+{"turn": "board", "label": "ץ-1", "words": ["tail", "part", "bird"], "cards": ["one small cold wet yellow bird [tail, wing]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leg", "part", "bird"], "cards": ["one small cold wet black bird [leg, wing, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leg", "part", "dog"], "cards": ["one big cold dry yellow dog [leg]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leg", "part", "bird"], "cards": ["one small hot dry white bird [leg, wing]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leg", "part", "dog"], "cards": ["one small cold wet yellow dog [leg, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["fin", "part", "fish"], "cards": ["one big hot wet white fish [fin, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["fin", "part", "fish"], "cards": ["one small cold wet black fish [fin]"]}
+{"turn": "board", "label": "ץ-1", "words": ["fin", "part", "fish"], "cards": ["one small cold dry red fish [fin, tail]"]}
+{"turn": "board", "label": "ץ-1", "words": ["fin", "part", "fish"], "cards": ["one big hot wet black fish [fin]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leaf", "part", "tree"], "cards": ["one small cold dry green tree [leaf, root]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leaf", "part", "tree"], "cards": ["one big hot wet black tree [leaf, root]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leaf", "part", "tree"], "cards": ["one big hot dry green tree [leaf, root]"]}
+{"turn": "board", "label": "ץ-1", "words": ["leaf", "part", "tree"], "cards": ["one small cold dry green tree [leaf]"]}
+{"turn": "board", "label": "ץ-1", "words": ["root", "part", "tree"], "cards": ["one small cold dry green tree [root, leaf]"]}
+{"turn": "board", "label": "ץ-1", "words": ["root", "part", "tree"], "cards": ["one small cold dry green tree [root, leaf]"]}
+{"turn": "board", "label": "ץ-1", "words": ["root", "part", "tree"], "cards": ["one small hot dry green tree [root]"]}
+{"turn": "board", "label": "ץ-1", "words": ["root", "part", "tree"], "cards": ["one big cold wet black tree [root]"]}
+{"turn": "echo", "label": "ץ-2", "task": "leaf goes in which envelope(s)?", "answer": [], "verdict": "X"}
+{"turn": "echo", "label": "ץ-2", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "leg goes in which envelope(s)?", "answer": ["bird", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "tail goes in which envelope(s)?", "answer": ["bird", "dog", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "leg goes in which envelope(s)?", "answer": ["bird", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "tail goes in which envelope(s)?", "answer": ["bird", "dog", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-2", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "grade", "label": "ץ-2", "mode": "reveal", "score": 0.917}
+{"turn": "echo", "label": "ץ-3", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "tail goes in which envelope(s)?", "answer": ["bird", "dog", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "leg goes in which envelope(s)?", "answer": ["bird", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "tail goes in which envelope(s)?", "answer": ["bird", "dog", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "leg goes in which envelope(s)?", "answer": ["bird", "dog"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ץ-3", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "grade", "label": "ץ-3", "mode": "quiz", "score": 1.0}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many small hot wet red fish"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "dogs"], "cards": ["many small hot dry green dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two small hot dry green dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two big hot dry red dog [tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "trees"], "cards": ["two big cold wet green tree"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "birds"], "cards": ["many small hot dry yellow bird [tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two big cold wet red dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "birds"], "cards": ["many big hot wet black bird [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many small hot wet yellow fish [fin]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "dogs"], "cards": ["many big hot dry yellow dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "fish"], "cards": ["one big cold wet yellow fish [fin]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "bird"], "cards": ["one small hot wet red bird [wing, tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "dog"], "cards": ["one small cold wet red dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "fish"], "cards": ["one big hot dry yellow fish [fin, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "fish"], "cards": ["two big hot wet yellow fish"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two small cold dry yellow dog [leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "tree"], "cards": ["one small cold dry green tree"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "birds"], "cards": ["many big cold dry red bird [wing, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "birds"], "cards": ["two small hot wet black bird"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "fish"], "cards": ["one small hot dry yellow fish [fin]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many small cold wet yellow fish [fin, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "dog"], "cards": ["one small cold wet black dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "birds"], "cards": ["many big cold dry white bird [wing, tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "tree"], "cards": ["one small cold wet black tree [leaf, root]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "trees"], "cards": ["many big hot dry green tree [leaf, root]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "dog"], "cards": ["one small hot wet red dog"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "birds"], "cards": ["two big cold wet white bird [tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two small cold wet green dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "dog"], "cards": ["one small hot wet yellow dog [tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many big hot dry yellow fish [fin, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "birds"], "cards": ["two small hot dry black bird [wing]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "dogs"], "cards": ["many big hot wet red dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "birds"], "cards": ["many big cold dry red bird [wing, tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many big hot dry black fish [fin, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "trees"], "cards": ["two big cold dry green tree [leaf, root]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "dog"], "cards": ["one small hot dry yellow dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "fish"], "cards": ["two small cold wet yellow fish [fin, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "trees"], "cards": ["many small cold wet green tree [root]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "birds"], "cards": ["two small cold wet yellow bird [wing]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two small hot dry yellow dog [tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many big hot dry white fish [fin]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "dogs"], "cards": ["two big hot wet red dog [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "bird"], "cards": ["one big hot dry red bird [wing, tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "bird"], "cards": ["one big hot wet white bird [wing]"]}
+{"turn": "board", "label": "ש-1", "words": ["one", "fish"], "cards": ["one big hot dry red fish [fin, tail]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "birds"], "cards": ["many small cold dry yellow bird [tail, leg]"]}
+{"turn": "board", "label": "ש-1", "words": ["many", "fish"], "cards": ["many big cold dry red fish [fin]"]}
+{"turn": "board", "label": "ש-1", "words": ["two", "birds"], "cards": ["two big hot dry black bird [wing, tail, leg]"]}
+{"turn": "echo", "label": "ש-2", "task": "describe many big cold dry white bird [wing, tail] (example: many dogs)", "answer": ["many", "birds"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe one big hot dry black dog (example: one fish)", "answer": ["two", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "ש-2", "task": "describe two small hot wet green dog (example: two trees)", "answer": ["two", "dogs"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe many small hot dry green dog [tail, leg] (example: many birds)", "answer": ["many", "dogs"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe two small cold dry green tree [leaf] (example: two fish)", "answer": ["two", "trees"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe one small cold dry black dog [leg] (example: one bird)", "answer": ["two", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "ש-2", "task": "describe two small cold dry white fish [tail] (example: two dogs)", "answer": ["two", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe two small cold dry black dog [leg] (example: two trees)", "answer": ["two", "dogs"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe one small cold wet green tree [leaf] (example: one dog)", "answer": ["green", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe one big hot wet green dog [leg] (example: one bird)", "answer": ["two", "dog"], "verdict": "X"}
+{"turn": "echo", "label": "ש-2", "task": "describe two big cold wet white fish [fin, tail] (example: two dogs)", "answer": ["two", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-2", "task": "describe many big cold dry black dog [tail, leg] (example: many trees)", "answer": ["many", "dogs"], "verdict": "✓"}
+{"turn": "grade", "label": "ש-2", "mode": "reveal", "score": 0.75}
+{"turn": "board", "label": "ש-opp", "words": ["opposite", "big", "small"], "cards": ["one big hot wet red fish [tail]", "one small hot wet red sun"]}
+{"turn": "board", "label": "ש-opp", "words": ["opposite", "big", "small"], "cards": ["one big hot dry black stone", "one small cold wet green sun"]}
+{"turn": "board", "label": "ש-opp", "words": ["opposite", "hot", "cold"], "cards": ["one small hot dry black dog [tail]", "one big cold dry black tree [leaf, root]"]}
+{"turn": "board", "label": "ש-opp", "words": ["opposite", "hot", "cold"], "cards": ["one small hot dry green sun", "one small cold dry yellow stone"]}
+{"turn": "echo", "label": "ש-3", "task": "opposite of big", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of small", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of hot", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of cold", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of big", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of small", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of hot", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of cold", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of big", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of small", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of hot", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ש-3", "task": "opposite of cold", "answer": "hot", "verdict": "✓"}
+{"turn": "grade", "label": "ש-3", "mode": "reveal", "score": 1.0}
+{"turn": "echo", "label": "ש-4", "task": "describe two small cold wet red stone (example: two suns)", "answer": ["two", "stones"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe many big cold dry yellow stone (example: many suns)", "answer": ["many", "stones"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe many small cold dry green sun (example: many stones)", "answer": ["many", "suns"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe many big hot wet red stone (example: many suns)", "answer": ["many", "stones"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe two big hot wet white sun (example: two stones)", "answer": ["two", "suns"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe two small cold dry red stone (example: two suns)", "answer": ["two", "stones"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe many big cold dry yellow fish [fin] (example: many trees)", "answer": ["many", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "describe many small hot wet red fish [fin, tail] (example: many birds)", "answer": ["many", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "opposite of wet", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "opposite of dry", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "opposite of wet", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "ש-4", "task": "opposite of dry", "answer": "wet", "verdict": "✓"}
+{"turn": "grade", "label": "ש-4", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"white\" most?", "answer": "ע-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"many\" most?", "answer": "ש-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"white\" most?", "answer": "ע-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"what\" most?", "answer": "צ-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"many\" most?", "answer": "ש-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"stone\" most?", "answer": "פ-2", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"dog\" most?", "answer": "פ-2", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"bird\" most?", "answer": "ץ-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"hot\" most?", "answer": "ע-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"black\" most?", "answer": "ע-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"one\" most?", "answer": "ש-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-1", "task": "where did you meet \"green\" most?", "answer": "פ-2", "verdict": "✓"}
+{"turn": "grade", "label": "ק-1", "mode": "reveal", "score": 1.0}
+{"turn": "echo", "label": "ק-2", "task": "find cold among ['one big hot wet red sun', 'one big hot dry red sun', 'one big hot wet white dog [tail, leg]', 'one small cold wet yellow bird [tail, leg]']", "answer": "card 1", "verdict": "X"}
+{"turn": "echo", "label": "ק-2", "task": "find dry among ['one small hot dry black stone', 'one big cold wet red tree', 'one small hot wet red sun', 'one big hot wet red bird [wing, tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find stone among ['one big hot dry yellow fish [fin, tail]', 'one big hot dry black stone', 'one small hot wet black bird [wing, tail, leg]', 'one small hot wet red fish [fin]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find yellow among ['one big hot wet red stone', 'one big hot dry yellow fish [fin, tail]', 'one small cold wet red tree [leaf, root]', 'one big hot dry green tree']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find sun among ['one small hot dry green stone', 'one big hot wet yellow tree', 'one small hot dry green sun', 'one small cold wet red stone']", "answer": "card 1", "verdict": "X"}
+{"turn": "echo", "label": "ק-2", "task": "find cold among ['one big hot wet green bird [wing, tail, leg]', 'one big hot wet red sun', 'one big cold dry black tree [leaf, root]', 'one small hot wet white sun']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find small among ['one small hot dry green stone', 'one big cold wet red fish [tail]', 'one big hot wet red bird [tail, leg]', 'one big cold wet white sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find hot among ['one big cold dry green sun', 'one small hot dry green dog [tail, leg]', 'one small cold dry green sun', 'one small cold dry green sun']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find yellow among ['one small hot dry yellow stone', 'one big hot wet green bird [wing, leg]', 'one big cold wet red sun', 'one small hot dry red fish']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find dry among ['one small cold wet red tree', 'one small hot wet red tree [leaf, root]', 'one big cold wet red dog [tail, leg]', 'one big hot dry black fish [fin, tail]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find hot among ['one big hot wet white stone', 'one small cold wet green stone', 'one big cold dry black dog [tail, leg]', 'one small cold dry black stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-2", "task": "find cold among ['one big hot wet black stone', 'one small cold wet white stone', 'one small hot dry yellow tree [leaf, root]', 'one small hot dry green dog [leg]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ק-2", "mode": "reveal", "score": 0.833}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"wing\" most?", "answer": "ץ-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"small\" most?", "answer": "ע-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"cold\" most?", "answer": "ע-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"no\" most?", "answer": "ר-2", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"tree\" most?", "answer": "ץ-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"what\" most?", "answer": "צ-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"same\" most?", "answer": "ע-2", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "where did you meet \"many\" most?", "answer": "ש-1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find wet among ['one small hot wet black tree [leaf]', 'one small hot dry white bird [wing, tail]', 'one small hot dry red bird [tail]', 'one big cold dry green sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find big among ['one small cold wet black tree [leaf]', 'one big cold dry green bird [tail, leg]', 'one small cold wet red stone', 'one small cold dry black sun']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find stone among ['one small cold wet white stone', 'one big hot wet red fish [fin, tail]', 'one small hot dry green bird [wing, leg]', 'one big hot dry green tree [root]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find wet among ['one big hot dry white sun', 'one big cold dry green stone', 'one small cold dry white sun', 'one small cold wet red sun']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find dry among ['one big hot dry white fish [fin, tail]', 'one big cold wet green fish [tail]', 'one big hot wet white bird [wing]', 'one big hot wet green dog [leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find black among ['one small cold dry black tree [leaf, root]', 'one big cold wet green fish [fin, tail]', 'one big cold wet green dog [tail, leg]', 'one small cold dry red tree [leaf]']", "answer": "card 1", "verdict": "X"}
+{"turn": "echo", "label": "ק-3", "task": "find sun among ['one small cold wet red dog [tail, leg]', 'one small cold dry green fish [fin, tail]', 'one big cold dry green tree [leaf, root]', 'one big hot wet white sun']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ק-3", "task": "find big among ['one big cold wet white stone', 'one small hot wet white stone', 'one small hot dry yellow sun', 'one small hot dry yellow fish [tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ק-3", "mode": "quiz", "score": 0.938}
+{"turn": "board", "label": "ת-1", "words": [], "cards": [], "note": "6 recess cycles, no lessons"}
+{"turn": "echo", "label": "ת-2", "task": "name the kind of one small hot dry white dog", "answer": "dog", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "name the color of one big cold wet green bird [wing, tail, leg]", "answer": "white", "verdict": "X"}
+{"turn": "echo", "label": "ת-2", "task": "name the wet of one big hot dry yellow sun", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "name the temp of one small cold dry green stone", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "name the wet of one big hot dry green stone", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "name the color of one small cold dry yellow tree [root]", "answer": "yellow", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "one big hot wet red bird [wing, tail] vs one big hot wet red bird [wing, tail]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "one big cold wet red bird [wing, leg] vs one big cold wet red dog [tail, leg]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "one big hot dry black bird [wing, tail] vs one small hot dry black bird [wing, tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "one small cold dry black dog [tail, leg] vs one small cold dry black dog [tail, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "big? one small hot dry yellow stone", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "sun? one small hot dry yellow sun", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "red? one small hot dry red sun", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "yellow? one big hot dry yellow dog [tail, leg]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "describe one big hot dry red tree [leaf, root] (example: red stone)", "answer": ["red", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "describe one small hot dry red tree (example: yellow dog)", "answer": ["red", "tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "describe one small cold dry green fish [fin, tail] (example: yellow bird)", "answer": ["green", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "describe one small hot wet green fish [tail] (example: red stone)", "answer": ["green", "fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "tail goes in which envelope(s)?", "answer": ["bird"], "verdict": "X"}
+{"turn": "echo", "label": "ת-2", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "opposite of big", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "opposite of cold", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "ת-2", "task": "opposite of wet", "answer": "dry", "verdict": "✓"}
+{"turn": "grade", "label": "ת-2", "mode": "quiz", "score": 0.917}
+{"turn": "echo", "label": "ת-3:big:rec", "task": "find big among ['one small hot wet green tree', 'one big hot wet green fish [tail]', 'one small hot wet black sun', 'one small cold wet red sun']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:big:rec", "task": "find big among ['one small cold wet yellow dog [tail, leg]', 'one small cold wet black fish [tail]', 'one big cold dry black tree [root]', 'one small hot wet yellow stone']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:big:rec", "task": "find big among ['one big cold wet green dog [tail, leg]', 'one small hot dry white dog [tail]', 'one small hot wet white tree [leaf]', 'one small hot dry red fish [tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:big:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:big:use", "task": "name big", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:big:use", "task": "name big", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:big:use", "task": "name big", "answer": "big", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:big:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:bird:rec", "task": "find bird among ['one big cold wet green sun', 'one small hot wet yellow fish [fin, tail]', 'one small cold dry yellow fish [fin]', 'one big hot dry white bird [wing, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:bird:rec", "task": "find bird among ['one big cold dry yellow bird [wing, tail, leg]', 'one small hot dry yellow sun', 'one small hot dry black dog [tail]', 'one small cold wet red stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:bird:rec", "task": "find bird among ['one big hot wet green sun', 'one big hot dry white bird [leg]', 'one small hot dry red tree [leaf]', 'one small hot dry green stone']", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:bird:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:bird:use", "task": "name bird", "answer": "bird", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:bird:use", "task": "name bird", "answer": "bird", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:bird:use", "task": "name bird", "answer": "bird", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:bird:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:birds:rec", "task": "find birds", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:birds:rec", "task": "find birds", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:birds:rec", "task": "find birds", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:birds:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:birds:use", "task": "describe many small cold wet black bird [wing, tail, leg] (example: many fish)", "answer": ["many", "birds"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:birds:use", "task": "describe two small hot wet black bird [tail, leg] (example: two fish)", "answer": ["two", "birds"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:birds:use", "task": "describe many small cold dry yellow bird [leg] (example: many fish)", "answer": ["many", "birds"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:birds:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:black:rec", "task": "find black among ['one small cold dry white stone', 'one small cold dry white dog [tail, leg]', 'one small hot wet yellow stone', 'one small cold wet black bird [wing, tail, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:black:rec", "task": "find black among ['one small hot wet red fish [fin, tail]', 'one small hot dry yellow dog [leg]', 'one small hot wet black bird [wing, tail]', 'one big hot wet white stone']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:black:rec", "task": "find black among ['one big hot wet green tree [leaf]', 'one big hot dry red stone', 'one small hot dry green fish [fin, tail]', 'one big hot wet black fish [fin, tail]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:black:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:black:use", "task": "name black", "answer": "black", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:black:use", "task": "name black", "answer": "black", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:black:use", "task": "name black", "answer": "black", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:black:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:cold:rec", "task": "find cold among ['one big cold dry red bird [wing, tail, leg]', 'one small hot dry black fish [fin, tail]', 'one big hot dry green fish [tail]', 'one small hot dry green sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:cold:rec", "task": "find cold among ['one small cold wet red fish [fin, tail]', 'one small hot dry yellow stone', 'one small hot wet red stone', 'one small hot dry black dog [tail, leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:cold:rec", "task": "find cold among ['one big hot dry red stone', 'one small cold wet white stone', 'one big hot dry white tree [leaf, root]', 'one big hot dry red dog [leg]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:cold:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:cold:use", "task": "name cold", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:cold:use", "task": "name cold", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:cold:use", "task": "name cold", "answer": "cold", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:cold:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:different:rec", "task": "one big cold wet black bird [wing, tail, leg] vs one big hot wet black bird [wing, tail, leg]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:different:rec", "task": "one small cold dry white tree [root] vs one small cold dry red tree [root]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:different:rec", "task": "one small hot wet red dog [leg] vs one small hot wet red bird [tail, leg]", "answer": "different", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:different:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:different:use", "task": "one small hot dry white dog [tail, leg] vs one big hot dry white dog [tail, leg]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:different:use", "task": "one small hot wet red fish [fin, tail] vs one small hot dry red fish [fin, tail]", "answer": "different", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:different:use", "task": "one big cold dry red sun vs one small cold dry red sun", "answer": "different", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:different:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:dog:rec", "task": "find dog among ['one big hot dry green tree [root]', 'one small hot dry green dog [leg]', 'one big cold dry white bird [wing, tail]', 'one small hot wet white fish [tail]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dog:rec", "task": "find dog among ['one small cold wet red dog [leg]', 'one big hot dry yellow bird [leg]', 'one small hot wet green tree [leaf]', 'one small hot wet green stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dog:rec", "task": "find dog among ['one small cold dry yellow dog [tail]', 'one small hot dry green fish', 'one big hot wet white bird [wing, tail]', 'one big cold dry green fish [fin, tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:dog:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:dog:use", "task": "name dog", "answer": "dog", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dog:use", "task": "name dog", "answer": "dog", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dog:use", "task": "name dog", "answer": "dog", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:dog:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:dogs:rec", "task": "find dogs", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dogs:rec", "task": "find dogs", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dogs:rec", "task": "find dogs", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:dogs:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:dogs:use", "task": "describe two big cold dry green dog (example: two birds)", "answer": ["two", "dogs"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dogs:use", "task": "describe many small hot dry yellow dog [tail, leg] (example: many suns)", "answer": ["many", "dogs"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dogs:use", "task": "describe two small hot wet yellow dog [tail, leg] (example: two suns)", "answer": ["two", "dogs"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:dogs:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:dry:rec", "task": "find dry among ['one big cold wet red sun', 'one small hot dry yellow bird [wing, tail, leg]', 'one small cold wet green fish [fin]', 'one big cold wet green tree [leaf, root]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dry:rec", "task": "find dry among ['one small cold wet red bird [wing, tail, leg]', 'one small cold wet yellow tree [leaf, root]', 'one small cold wet red tree [leaf, root]', 'one small hot dry red bird [tail, leg]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dry:rec", "task": "find dry among ['one small hot wet white fish [tail]', 'one big hot wet red sun', 'one small hot dry red dog [leg]', 'one small cold wet green dog [leg]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:dry:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:dry:use", "task": "name dry", "answer": "white", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:dry:use", "task": "name dry", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:dry:use", "task": "name dry", "answer": "stone", "verdict": "X"}
+{"turn": "grade", "label": "ת-3:dry:use", "mode": "quiz", "score": 0.333}
+{"turn": "echo", "label": "ת-3:fin:rec", "task": "find the card showing fin", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fin:rec", "task": "find the card showing fin", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fin:rec", "task": "find the card showing fin", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:fin:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:fin:use", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fin:use", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fin:use", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:fin:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:fish:rec", "task": "find fish among ['one big hot wet green sun', 'one small hot wet red sun', 'one small hot dry white fish [tail]', 'one big hot dry green tree [leaf]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fish:rec", "task": "find fish among ['one big hot dry white fish [fin]', 'one big cold wet yellow bird [tail, leg]', 'one small hot wet white sun', 'one small hot wet white stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fish:rec", "task": "find fish among ['one big cold dry yellow stone', 'one small cold dry green fish [fin, tail]', 'one small cold wet green dog [tail, leg]', 'one big hot dry red stone']", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:fish:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:fish:use", "task": "name fish", "answer": "fish", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fish:use", "task": "name fish", "answer": "fish", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:fish:use", "task": "name fish", "answer": "fish", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:fish:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:green:rec", "task": "find green among ['one big cold wet black tree [leaf, root]', 'one big hot dry green fish', 'one small cold wet black bird [wing, tail, leg]', 'one big cold wet black stone']", "answer": "card 0", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:green:rec", "task": "find green among ['one big cold wet green bird [wing, leg]', 'one big hot wet red bird [wing, tail, leg]', 'one small cold dry white sun', 'one big hot dry red bird [wing, tail, leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:green:rec", "task": "find green among ['one small cold dry green stone', 'one big cold wet black dog [tail, leg]', 'one big cold wet red bird [wing, tail]', 'one small cold dry black stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:green:rec", "mode": "quiz", "score": 0.667}
+{"turn": "echo", "label": "ת-3:green:use", "task": "name green", "answer": "green", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:green:use", "task": "name green", "answer": "green", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:green:use", "task": "name green", "answer": "green", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:green:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:hot:rec", "task": "find hot among ['one big cold wet white fish [fin]', 'one small cold wet black sun', 'one big cold dry yellow fish [fin]', 'one small hot wet white fish [fin, tail]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:hot:rec", "task": "find hot among ['one small hot dry white fish [fin]', 'one small cold wet white bird [tail]', 'one big cold wet black fish [fin]', 'one big cold wet red dog [tail, leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:hot:rec", "task": "find hot among ['one small hot wet black stone', 'one big cold wet yellow dog [tail, leg]', 'one big cold wet red dog [tail]', 'one small cold wet white sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:hot:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:hot:use", "task": "name hot", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:hot:use", "task": "name hot", "answer": "black", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:hot:use", "task": "name hot", "answer": "hot", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:hot:use", "mode": "quiz", "score": 0.667}
+{"turn": "echo", "label": "ת-3:leaf:rec", "task": "find the card showing leaf", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:leaf:rec", "task": "find the card showing leaf", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:leaf:rec", "task": "find the card showing leaf", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:leaf:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:leaf:use", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:leaf:use", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:leaf:use", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:leaf:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:leg:rec", "task": "find the card showing leg", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:leg:rec", "task": "find the card showing leg", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:leg:rec", "task": "find the card showing leg", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:leg:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:leg:use", "task": "leg goes in which envelope(s)?", "answer": ["dog"], "verdict": "X"}
+{"turn": "echo", "label": "ת-3:leg:use", "task": "leg goes in which envelope(s)?", "answer": ["dog"], "verdict": "X"}
+{"turn": "echo", "label": "ת-3:leg:use", "task": "leg goes in which envelope(s)?", "answer": ["dog"], "verdict": "X"}
+{"turn": "grade", "label": "ת-3:leg:use", "mode": "quiz", "score": 0.0}
+{"turn": "echo", "label": "ת-3:many:rec", "task": "find many among ['many big hot wet green dog [tail]', 'two big hot wet yellow tree [leaf, root]', 'one small cold dry green dog [tail, leg]', 'one big hot dry black sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:many:rec", "task": "find many among ['two big hot wet red sun', 'one small hot dry black bird [wing, tail, leg]', 'many small cold wet yellow bird [leg]', 'two big cold dry green fish [fin, tail]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:many:rec", "task": "find many among ['two big hot dry yellow dog [tail, leg]', 'two big hot wet yellow sun', 'two small hot wet yellow tree [root]', 'many big hot wet yellow stone']", "answer": "card 3", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:many:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:many:use", "task": "name many", "answer": "many", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:many:use", "task": "name many", "answer": "many", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:many:use", "task": "name many", "answer": "many", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:many:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:no:rec", "task": "wet? one big cold dry red bird [wing, leg]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:no:rec", "task": "green? one big hot wet red fish [fin]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:no:rec", "task": "bird? one small hot dry black tree [leaf]", "answer": "no", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:no:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:no:use", "task": "yellow? one big cold dry red sun", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:no:use", "task": "tree? one small hot wet black fish [fin]", "answer": "no", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:no:use", "task": "cold? one big hot wet yellow dog [tail, leg]", "answer": "no", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:no:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:one:rec", "task": "find one among ['one small hot dry white stone', 'two small cold dry white tree [root]', 'two small hot wet black dog [tail, leg]', 'two big hot dry red bird [wing, leg]']", "answer": "card 2", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:one:rec", "task": "find one among ['one big hot wet red dog [tail]', 'many small hot wet black dog [tail, leg]', 'many big hot wet black bird [wing, tail, leg]', 'two small cold wet white dog [tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:one:rec", "task": "find one among ['one big cold wet green fish [fin]', 'two big cold dry white dog [leg]', 'two small hot dry green tree [leaf, root]', 'two small cold dry red stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:one:rec", "mode": "quiz", "score": 0.667}
+{"turn": "echo", "label": "ת-3:one:use", "task": "name one", "answer": "one", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:one:use", "task": "name one", "answer": "one", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:one:use", "task": "name one", "answer": "one", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:one:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:opposite:rec", "task": "opposite of big", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:opposite:rec", "task": "opposite of hot", "answer": "cold", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:opposite:rec", "task": "opposite of wet", "answer": "dry", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:opposite:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:opposite:use", "task": "opposite of small", "answer": "big", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:opposite:use", "task": "opposite of cold", "answer": "hot", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:opposite:use", "task": "opposite of dry", "answer": "wet", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:opposite:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:part:rec", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:part:rec", "task": "fin goes in which envelope(s)?", "answer": ["fish"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:part:rec", "task": "leaf goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:part:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:part:use", "task": "tail goes in which envelope(s)?", "answer": ["bird"], "verdict": "X"}
+{"turn": "echo", "label": "ת-3:part:use", "task": "leg goes in which envelope(s)?", "answer": ["dog"], "verdict": "X"}
+{"turn": "echo", "label": "ת-3:part:use", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:part:use", "mode": "quiz", "score": 0.333}
+{"turn": "echo", "label": "ת-3:red:rec", "task": "find red among ['one big hot dry red fish [fin]', 'one small cold wet black stone', 'one big cold wet green tree [root]', 'one small hot wet black tree [root]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:red:rec", "task": "find red among ['one small hot wet black tree [leaf, root]', 'one small hot wet yellow dog [tail, leg]', 'one small hot wet yellow stone', 'one small hot wet red sun']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:red:rec", "task": "find red among ['one small hot wet green sun', 'one small hot wet white tree [leaf]', 'one small hot wet red stone', 'one small cold wet green dog [tail, leg]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:red:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:red:use", "task": "name red", "answer": "red", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:red:use", "task": "name red", "answer": "red", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:red:use", "task": "name red", "answer": "red", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:red:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:root:rec", "task": "find the card showing root", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:root:rec", "task": "find the card showing root", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:root:rec", "task": "find the card showing root", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:root:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:root:use", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:root:use", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:root:use", "task": "root goes in which envelope(s)?", "answer": ["tree"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:root:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:same:rec", "task": "one small cold dry red fish [fin, tail] vs one small cold dry red fish [fin, tail]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:same:rec", "task": "one small hot dry yellow bird [wing, leg] vs one small hot dry yellow bird [wing, leg]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:same:rec", "task": "one big hot wet white sun vs one big hot wet white sun", "answer": "same", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:same:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:same:use", "task": "one big cold dry yellow tree [leaf, root] vs one big cold dry yellow tree [leaf, root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:same:use", "task": "one big cold wet black tree [root] vs one big cold wet black tree [root]", "answer": "same", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:same:use", "task": "one big cold dry green stone vs one big cold dry green stone", "answer": "same", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:same:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:small:rec", "task": "find small among ['one big hot dry yellow bird [tail, leg]', 'one big cold dry yellow bird [wing, tail, leg]', 'one big hot wet white tree [root]', 'one small cold dry yellow tree [leaf]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:small:rec", "task": "find small among ['one small cold dry yellow tree [root]', 'one big hot dry white stone', 'one big hot dry white stone', 'one big cold wet white dog [leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:small:rec", "task": "find small among ['one big hot wet red fish [tail]', 'one big cold dry green dog [tail, leg]', 'one small cold dry red sun', 'one big hot dry black fish [fin, tail]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:small:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:small:use", "task": "name small", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:small:use", "task": "name small", "answer": "small", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:small:use", "task": "name small", "answer": "small", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:small:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:stone:rec", "task": "find stone among ['one small cold wet white tree [leaf, root]', 'one big hot dry yellow stone', 'one big cold wet black bird [wing, leg]', 'one big hot wet white fish [tail]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stone:rec", "task": "find stone among ['one big cold dry red sun', 'one small cold dry green fish', 'one small cold wet black bird [wing, leg]', 'one big cold dry yellow stone']", "answer": "card 3", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stone:rec", "task": "find stone among ['one small cold wet white bird [leg]', 'one small hot dry white dog [leg]', 'one small hot dry red fish [fin, tail]', 'one small cold wet red stone']", "answer": "card 3", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:stone:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:stone:use", "task": "name stone", "answer": "stone", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stone:use", "task": "name stone", "answer": "stone", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stone:use", "task": "name stone", "answer": "stone", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:stone:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:stones:rec", "task": "find stones", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stones:rec", "task": "find stones", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stones:rec", "task": "find stones", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:stones:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:stones:use", "task": "describe many big cold dry yellow stone (example: many stones)", "answer": ["many", "stones"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stones:use", "task": "describe many small hot dry black stone (example: many stones)", "answer": ["many", "stones"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:stones:use", "task": "describe two big cold wet red stone (example: two suns)", "answer": ["two", "stones"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:stones:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:sun:rec", "task": "find sun among ['one small hot wet yellow stone', 'one big hot wet white tree [leaf, root]', 'one big hot wet white sun', 'one big hot dry green fish [fin, tail]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:sun:rec", "task": "find sun among ['one small hot wet red sun', 'one small hot wet green tree [leaf, root]', 'one small hot dry red dog [tail, leg]', 'one big cold dry black fish [fin, tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:sun:rec", "task": "find sun among ['one small cold wet yellow tree [root]', 'one small cold dry yellow sun', 'one small hot wet yellow dog [tail]', 'one small cold wet yellow dog [tail, leg]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:sun:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:sun:use", "task": "name sun", "answer": "sun", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:sun:use", "task": "name sun", "answer": "small", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:sun:use", "task": "name sun", "answer": "sun", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:sun:use", "mode": "quiz", "score": 0.667}
+{"turn": "echo", "label": "ת-3:suns:rec", "task": "find suns", "answer": "card 2", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:suns:rec", "task": "find suns", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:suns:rec", "task": "find suns", "answer": "card 0", "verdict": "X"}
+{"turn": "grade", "label": "ת-3:suns:rec", "mode": "quiz", "score": 0.333}
+{"turn": "echo", "label": "ת-3:suns:use", "task": "describe two small hot wet green sun (example: two stones)", "answer": ["two", "suns"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:suns:use", "task": "describe two big cold dry red sun (example: two dogs)", "answer": ["two", "suns"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:suns:use", "task": "describe many small cold wet yellow sun (example: many birds)", "answer": ["many", "suns"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:suns:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:tail:rec", "task": "find the card showing tail", "answer": "card 2", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:tail:rec", "task": "find the card showing tail", "answer": "card 0", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:tail:rec", "task": "find the card showing tail", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:tail:rec", "mode": "quiz", "score": 0.333}
+{"turn": "echo", "label": "ת-3:tail:use", "task": "tail goes in which envelope(s)?", "answer": ["bird"], "verdict": "X"}
+{"turn": "echo", "label": "ת-3:tail:use", "task": "tail goes in which envelope(s)?", "answer": ["bird"], "verdict": "X"}
+{"turn": "echo", "label": "ת-3:tail:use", "task": "tail goes in which envelope(s)?", "answer": ["bird"], "verdict": "X"}
+{"turn": "grade", "label": "ת-3:tail:use", "mode": "quiz", "score": 0.0}
+{"turn": "echo", "label": "ת-3:tree:rec", "task": "find tree among ['one big hot dry yellow bird [wing, tail]', 'one small cold dry green fish [fin, tail]', 'one big hot dry green tree [leaf, root]', 'one small cold wet green stone']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:tree:rec", "task": "find tree among ['one big hot wet white stone', 'one small cold wet white stone', 'one big hot dry white tree [leaf, root]', 'one big cold dry red dog [tail, leg]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:tree:rec", "task": "find tree among ['one small hot dry green bird [wing, tail, leg]', 'one big cold wet black bird [wing]', 'one big hot wet black dog [tail]', 'one big hot dry red tree [leaf, root]']", "answer": "card 3", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:tree:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:tree:use", "task": "name tree", "answer": "tree", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:tree:use", "task": "name tree", "answer": "tree", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:tree:use", "task": "name tree", "answer": "tree", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:tree:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:trees:rec", "task": "find trees", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:trees:rec", "task": "find trees", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:trees:rec", "task": "find trees", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:trees:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:trees:use", "task": "describe many small cold dry black tree (example: many suns)", "answer": ["many", "trees"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:trees:use", "task": "describe many small cold dry black tree (example: many birds)", "answer": ["many", "trees"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:trees:use", "task": "describe two small hot dry green tree (example: two dogs)", "answer": ["two", "trees"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:trees:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:two:rec", "task": "find two among ['two big cold dry green stone', 'one small cold wet yellow fish [tail]', 'one small hot dry white sun', 'one big cold wet white tree [leaf, root]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:two:rec", "task": "find two among ['two big cold wet red fish', 'many big cold dry black stone', 'many big hot wet green stone', 'one small cold dry red fish [fin, tail]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:two:rec", "task": "find two among ['many small hot wet white stone', 'one small hot dry black bird [leg]', 'two small cold wet yellow tree [root]', 'many small hot dry green stone']", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:two:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:two:use", "task": "name two", "answer": "two", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:two:use", "task": "name two", "answer": "two", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:two:use", "task": "name two", "answer": "two", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:two:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:wet:rec", "task": "find wet among ['one small hot dry white tree [leaf, root]', 'one big hot wet red stone', 'one big hot dry white bird [wing, tail, leg]', 'one big hot dry green tree [leaf]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wet:rec", "task": "find wet among ['one big hot wet black bird [wing, tail, leg]', 'one small hot dry yellow tree [leaf, root]', 'one big hot dry yellow tree', 'one small hot dry red stone']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wet:rec", "task": "find wet among ['one big cold wet green bird [wing, leg]', 'one big cold dry green tree [leaf, root]', 'one small hot dry red dog [tail]', 'one big hot dry green dog']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:wet:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:wet:use", "task": "name wet", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wet:use", "task": "name wet", "answer": "wet", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wet:use", "task": "name wet", "answer": "wet", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:wet:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:white:rec", "task": "find white among ['one small hot wet black dog [tail, leg]', 'one small cold dry white dog [tail, leg]', 'one small cold dry yellow stone', 'one big hot dry green sun']", "answer": "card 3", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:white:rec", "task": "find white among ['one big cold dry green dog [leg]', 'one big hot wet white tree', 'one big hot wet red sun', 'one big hot dry yellow dog [tail, leg]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:white:rec", "task": "find white among ['one big cold dry black dog [tail, leg]', 'one small hot wet yellow bird [wing, leg]', 'one big cold wet white stone', 'one big hot dry black fish [tail]']", "answer": "card 2", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:white:rec", "mode": "quiz", "score": 0.667}
+{"turn": "echo", "label": "ת-3:white:use", "task": "name white", "answer": "white", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:white:use", "task": "name white", "answer": "white", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:white:use", "task": "name white", "answer": "white", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:white:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:wing:rec", "task": "find the card showing wing", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wing:rec", "task": "find the card showing wing", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wing:rec", "task": "find the card showing wing", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:wing:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:wing:use", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wing:use", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:wing:use", "task": "wing goes in which envelope(s)?", "answer": ["bird"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:wing:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:yellow:rec", "task": "find yellow among ['one big cold dry black stone', 'one small hot dry yellow bird [wing, tail]', 'one big cold dry green stone', 'one big cold wet green stone']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yellow:rec", "task": "find yellow among ['one small hot wet yellow sun', 'one small hot wet red dog [tail]', 'one big cold dry black fish [fin, tail]', 'one small hot dry white sun']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yellow:rec", "task": "find yellow among ['one big hot dry yellow tree [leaf, root]', 'one small hot wet black sun', 'one small hot wet white fish [tail]', 'one small cold dry black dog [tail, leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:yellow:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:yellow:use", "task": "name yellow", "answer": "yellow", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yellow:use", "task": "name yellow", "answer": "yellow", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yellow:use", "task": "name yellow", "answer": "yellow", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:yellow:use", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:yes:rec", "task": "small? one small cold wet green tree [leaf]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yes:rec", "task": "big? one big hot dry yellow tree [leaf]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yes:rec", "task": "small? one small hot wet black sun", "answer": "yes", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:yes:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:yes:use", "task": "yellow? one big cold dry yellow dog [tail]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yes:use", "task": "cold? one big cold wet red bird [wing, tail]", "answer": "yes", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:yes:use", "task": "yellow? one big hot wet yellow tree", "answer": "yes", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:yes:use", "mode": "quiz", "score": 1.0}
+{"turn": "recess", "claims": ["dry", "suns"]}
+{"turn": "echo", "label": "ת-3:claim:dry:rec", "task": "find dry among ['one big cold wet white fish [tail]', 'one small cold dry red fish [fin, tail]', 'one small cold wet yellow bird [wing, tail]', 'one small hot wet black bird [wing, tail, leg]']", "answer": "card 1", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:claim:dry:rec", "task": "find dry among ['one big cold dry red stone', 'one small hot wet white tree [leaf, root]', 'one big hot wet red fish [tail]', 'one big cold wet yellow bird [leg]']", "answer": "card 0", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:claim:dry:rec", "task": "find dry among ['one big cold wet yellow sun', 'one small hot dry yellow dog', 'one big hot wet white stone', 'one big hot wet red sun']", "answer": "card 1", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:claim:dry:rec", "mode": "quiz", "score": 1.0}
+{"turn": "echo", "label": "ת-3:claim:dry:use", "task": "name dry", "answer": "dry", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:claim:dry:use", "task": "name dry", "answer": "green", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:claim:dry:use", "task": "name dry", "answer": "dry", "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:claim:dry:use", "mode": "quiz", "score": 0.667}
+{"turn": "echo", "label": "ת-3:claim:suns:rec", "task": "find suns", "answer": "card 0", "verdict": "X"}
+{"turn": "echo", "label": "ת-3:claim:suns:rec", "task": "find suns", "answer": "card 2", "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:claim:suns:rec", "task": "find suns", "answer": "card 1", "verdict": "X"}
+{"turn": "grade", "label": "ת-3:claim:suns:rec", "mode": "quiz", "score": 0.333}
+{"turn": "echo", "label": "ת-3:claim:suns:use", "task": "describe many big hot wet green sun (example: many dogs)", "answer": ["many", "suns"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:claim:suns:use", "task": "describe two big cold wet white sun (example: two dogs)", "answer": ["two", "suns"], "verdict": "✓"}
+{"turn": "echo", "label": "ת-3:claim:suns:use", "task": "describe many big hot wet white sun (example: many suns)", "answer": ["many", "suns"], "verdict": "✓"}
+{"turn": "grade", "label": "ת-3:claim:suns:use", "mode": "quiz", "score": 1.0}

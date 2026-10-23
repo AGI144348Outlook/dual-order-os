@@ -1,15 +1,15 @@
 """Echo neuroplasticity learning layer (pilot).
 
-What this module knows: how to perceive opaque feature codes, compare cards,
+This module knows how to perceive opaque feature codes, compare cards,
 count co-occurrences, keep links, rest, review and form pattern tokens.
-What it does NOT contain: any classroom vocabulary, meanings, word order
+It contains zero classroom vocabulary, meanings, word order
 rules or inflection rules. A test (test_pilot.py) scans this file to enforce
 that. Everything about specific words is acquired from lessons and feedback.
 
 Innate perceptual priors (disclosed): cards arrive as (channel, value) codes;
-the learner can test whether two cards match overall or on one channel, and
+the learner can test whether a pair of cards match overall or on a single channel, and
 whether a word's learned grounding fits a card. These are perception tools,
-not word meanings.
+they are never word meanings.
 
 Mechanism flags map to the Neuroplasticity candidate library:
   b1   'a' counts only (B1-a) | 'b' outcome-weighted (B1-b)
@@ -21,7 +21,7 @@ Mechanism flags map to the Neuroplasticity candidate library:
   f2   validated pattern tokens for order and form changes (F2-c)
   q    gap-driven questions through the tsadi tool
   me   mutual exclusivity: a feature already reliably named by another word
-       is skipped when grounding a newer word (NEW candidate, not in the library)
+       is skipped when grounding a newer word (NEW candidate, absent from the library)
   learn False gives the zero-learning control
 """
 import math
@@ -55,7 +55,7 @@ class Echo:
         self.objco, self.objn = {}, {}      # within-card feature co-occurrence
         self.routes = {}                    # word -> relation operator -> [wins, losses]
         self.phrases = []                   # heard word sequences with card context
-        self.order_tokens, self.form_tokens, self.form_same = {}, [], set()
+        self.order_tokens, self.form_tokens, self.form_unchanged = {}, [], set()
         self.shape_tokens = {}
         self.episodes = []                  # ק event cards: dict(label, words, feats, dormant)
         self.tombstones = 0
@@ -406,7 +406,7 @@ class Echo:
         return None
 
     def _reliable(self, w):
-        """A word that reliably signals one card feature (learned statistic)."""
+        """A word that reliably signals a single card feature (learned statistic)."""
         g = self.grounding(w)
         return g is not None and self.p_word(w, g) >= 0.6 and self.p_word(w, g) - self.p_bg(g) >= 0.3
 
@@ -492,7 +492,7 @@ class Echo:
             new = w
             for tok in self.form_tokens:
                 if self._channel_of(w) == tok['chan'] and tok['trigger'] & percept:
-                    if w in self.form_same:
+                    if w in self.form_unchanged:
                         new = w
                     else:
                         new = w + tok['suffix']
@@ -501,8 +501,8 @@ class Echo:
         return out
 
     def _form_tokens(self):
-        """F2-c form tokens: a suffix whose added meaning shifts the SAME channel
-        in every supporting pair (validated across pairs, so one-off noise drops out)."""
+        """F2-c form tokens: a suffix whose added meaning shifts the identical channel
+        in every supporting pair (validated across pairs, so single-pair noise drops out)."""
         heard = [w for w in self.words if self._known(w)]
         candidates = {}
         for b in heard:
@@ -533,7 +533,7 @@ class Echo:
         self.form_tokens = tokens
         # unchanged forms: phrases where a base word itself named the referent
         # while a trigger feature was present (heard evidence, e.g. a count shown)
-        self.form_same = set()
+        self.form_unchanged = set()
         for tok in tokens:
             for seq, percept in self.phrases:
                 if not (tok['trigger'] & percept):
@@ -541,7 +541,7 @@ class Echo:
                 for w in seq:
                     if w in self.words and self._base_of(w) is None and \
                             self._channel_of(w) == tok['chan'] and (w + tok['suffix']) not in self.words:
-                        self.form_same.add(w)
+                        self.form_unchanged.add(w)
 
     def _shape_tokens(self):
         shapes = {}
@@ -626,7 +626,7 @@ class Echo:
         elif t == 'describe' and reveal is not None:
             self.hear(list(reveal), item['cards'], label=item.get('label'))
         elif t == 'recall' and reveal is not None:
-            pass                                # episodic memory is not rewritten
+            pass                                # episodic memory stays as recorded
 
     def _route_feedback(self, item, ans, ok, reveal):
         q, opts = item['query_words'], item['options']
@@ -750,7 +750,7 @@ class Echo:
             passed = mine is not None and mine > 0 and all(
                 (self.score(v, e['feats']) or -1e9) <= mine for v in rivals if self._channel_of(v) == self._channel_of(w))
             s['box'] = min(5, s['box'] + 1) if passed else 1
-            # rehearsal: replay the stored episode (no new outside information)
+            # rehearsal: replay the stored episode (zero new outside information)
             for f in e['feats']:
                 row = self.links[w].setdefault(f, [0.0, 0.0, 0.0, 0.0, False])
                 row[4] = False
@@ -790,4 +790,4 @@ class Echo:
         return deepcopy(dict(words=self.words, routes=self.routes,
                              order_tokens={f'{a}>{b}': c for (a, b), c in self.order_tokens.items()},
                              form_tokens=[dict(t, trigger=sorted(map(list, t['trigger']))) for t in self.form_tokens],
-                             form_same=sorted(self.form_same), marks=self.marks))
+                             form_unchanged=sorted(self.form_unchanged), marks=self.marks))

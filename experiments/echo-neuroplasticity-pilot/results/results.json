@@ -1,0 +1,6439 @@
+{
+ "identity": {
+  "glyph": "ר",
+  "status": "ACTIVE",
+  "aliases": [
+   "A-000",
+   "resh",
+   "governor"
+  ]
+ },
+ "seeds": [
+  100,
+  101,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109
+ ],
+ "configs": {
+  "full": {
+   "flags": {},
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.05,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 706,
+     "dormant_links": 75,
+     "active_episodes": 50,
+     "stored_episodes": 194,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.17,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 31,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 720,
+     "dormant_links": 89,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 1.09,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 729,
+     "dormant_links": 76,
+     "active_episodes": 50,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 1.17,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 35,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 735,
+     "dormant_links": 69,
+     "active_episodes": 49,
+     "stored_episodes": 198,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 1.08,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 35,
+     "questions asked": 7,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 719,
+     "dormant_links": 84,
+     "active_episodes": 50,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.97,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 30,
+     "questions asked": 3,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 716,
+     "dormant_links": 89,
+     "active_episodes": 51,
+     "stored_episodes": 180,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 1.06,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 32,
+     "questions asked": 6,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 716,
+     "dormant_links": 85,
+     "active_episodes": 50,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 1.07,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.667,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 36,
+     "questions asked": 6,
+     "claims accepted": 3,
+     "claims rejected": 0,
+     "active_links": 725,
+     "dormant_links": 93,
+     "active_episodes": 48,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 1.13,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 0.812,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 25,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 713,
+     "dormant_links": 99,
+     "active_episodes": 48,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 1.08,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 727,
+     "dormant_links": 85,
+     "active_episodes": 49,
+     "stored_episodes": 186,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.087,
+     0.056
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.958,
+     0.067
+    ],
+    "צ final quiz": [
+     0.958,
+     0.067
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.875,
+     0.097
+    ],
+    "ר final quiz": [
+     0.912,
+     0.07
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.9,
+     0.111
+    ],
+    "ץ final quiz": [
+     0.9,
+     0.111
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.942,
+     0.118
+    ],
+    "ש final quiz": [
+     0.967,
+     0.1
+    ],
+    "ש assignments": [
+     4.2,
+     0.4
+    ],
+    "ק first quiz": [
+     0.969,
+     0.042
+    ],
+    "ק final quiz": [
+     0.969,
+     0.042
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.904,
+     0.038
+    ],
+    "green words": [
+     32.5,
+     3.074
+    ],
+    "questions asked": [
+     6.6,
+     1.497
+    ],
+    "claims accepted": [
+     1.3,
+     0.781
+    ],
+    "claims rejected": [
+     1.3,
+     0.64
+    ],
+    "active_links": [
+     720.6,
+     8.089
+    ],
+    "dormant_links": [
+     84.4,
+     8.523
+    ],
+    "active_episodes": [
+     49.4,
+     0.917
+    ],
+    "stored_episodes": [
+     186.2,
+     5.325
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "B1-a counts only (no outcome weighting)": {
+   "flags": {
+    "b1": "a"
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.03,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.792,
+     "green words": 33,
+     "questions asked": 7,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 690,
+     "dormant_links": 79,
+     "active_episodes": 49,
+     "stored_episodes": 196,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.02,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.75,
+     "green words": 33,
+     "questions asked": 5,
+     "claims accepted": 2,
+     "claims rejected": 0,
+     "active_links": 678,
+     "dormant_links": 92,
+     "active_episodes": 50,
+     "stored_episodes": 180,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.94,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 34,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 711,
+     "dormant_links": 79,
+     "active_episodes": 50,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 1.04,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 34,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 707,
+     "dormant_links": 71,
+     "active_episodes": 49,
+     "stored_episodes": 196,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.96,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 35,
+     "questions asked": 3,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 699,
+     "dormant_links": 79,
+     "active_episodes": 51,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 1.02,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 702,
+     "dormant_links": 86,
+     "active_episodes": 51,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.94,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 6,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 702,
+     "dormant_links": 73,
+     "active_episodes": 50,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 0.92,
+     "ע first quiz": 0.875,
+     "ע final quiz": 0.875,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 35,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 707,
+     "dormant_links": 92,
+     "active_episodes": 50,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 1.0,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.667,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 34,
+     "questions asked": 8,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 701,
+     "dormant_links": 99,
+     "active_episodes": 50,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 1.01,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 32,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 694,
+     "dormant_links": 83,
+     "active_episodes": 51,
+     "stored_episodes": 184,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     0.988,
+     0.041
+    ],
+    "ע first quiz": [
+     0.975,
+     0.041
+    ],
+    "ע final quiz": [
+     0.975,
+     0.041
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     1.0,
+     0.0
+    ],
+    "צ final quiz": [
+     1.0,
+     0.0
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.938,
+     0.048
+    ],
+    "ר final quiz": [
+     0.938,
+     0.048
+    ],
+    "ר assignments": [
+     4,
+     0.0
+    ],
+    "ץ first quiz": [
+     0.933,
+     0.111
+    ],
+    "ץ final quiz": [
+     0.933,
+     0.111
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.967,
+     0.1
+    ],
+    "ש final quiz": [
+     0.975,
+     0.075
+    ],
+    "ש assignments": [
+     4.1,
+     0.3
+    ],
+    "ק first quiz": [
+     0.969,
+     0.042
+    ],
+    "ק final quiz": [
+     0.969,
+     0.042
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.9,
+     0.082
+    ],
+    "green words": [
+     33.7,
+     0.9
+    ],
+    "questions asked": [
+     6.7,
+     1.552
+    ],
+    "claims accepted": [
+     0.8,
+     0.872
+    ],
+    "claims rejected": [
+     1.6,
+     0.917
+    ],
+    "active_links": [
+     699.1,
+     9.17
+    ],
+    "dormant_links": [
+     83.3,
+     8.474
+    ],
+    "active_episodes": [
+     50.1,
+     0.7
+    ],
+    "stored_episodes": [
+     187.2,
+     4.996
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "no F1 tag-and-capture": {
+   "flags": {
+    "f1": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.01,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 706,
+     "dormant_links": 75,
+     "active_episodes": 50,
+     "stored_episodes": 194,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.1,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 31,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 720,
+     "dormant_links": 89,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 1.12,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.938,
+     "ר assignments": 5,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 32,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 729,
+     "dormant_links": 87,
+     "active_episodes": 50,
+     "stored_episodes": 188,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 1.14,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 35,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 735,
+     "dormant_links": 69,
+     "active_episodes": 49,
+     "stored_episodes": 198,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.95,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 32,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 717,
+     "dormant_links": 83,
+     "active_episodes": 50,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 1.13,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 717,
+     "dormant_links": 88,
+     "active_episodes": 51,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.98,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 32,
+     "questions asked": 6,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 716,
+     "dormant_links": 85,
+     "active_episodes": 50,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 1.08,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.667,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 36,
+     "questions asked": 6,
+     "claims accepted": 3,
+     "claims rejected": 0,
+     "active_links": 725,
+     "dormant_links": 93,
+     "active_episodes": 48,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 1.1,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 0.812,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 25,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 713,
+     "dormant_links": 99,
+     "active_episodes": 48,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 1.04,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 31,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 703,
+     "dormant_links": 103,
+     "active_episodes": 49,
+     "stored_episodes": 186,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.065,
+     0.063
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.958,
+     0.067
+    ],
+    "צ final quiz": [
+     0.958,
+     0.067
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.856,
+     0.101
+    ],
+    "ר final quiz": [
+     0.912,
+     0.07
+    ],
+    "ר assignments": [
+     4.3,
+     0.458
+    ],
+    "ץ first quiz": [
+     0.883,
+     0.107
+    ],
+    "ץ final quiz": [
+     0.883,
+     0.107
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.917,
+     0.129
+    ],
+    "ש final quiz": [
+     0.933,
+     0.133
+    ],
+    "ש assignments": [
+     4.3,
+     0.458
+    ],
+    "ק first quiz": [
+     0.975,
+     0.041
+    ],
+    "ק final quiz": [
+     0.975,
+     0.041
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.908,
+     0.036
+    ],
+    "green words": [
+     32,
+     2.793
+    ],
+    "questions asked": [
+     7,
+     1.0
+    ],
+    "claims accepted": [
+     1,
+     0.894
+    ],
+    "claims rejected": [
+     1.5,
+     0.806
+    ],
+    "active_links": [
+     718.1,
+     9.289
+    ],
+    "dormant_links": [
+     87.1,
+     9.638
+    ],
+    "active_episodes": [
+     49.4,
+     0.917
+    ],
+    "stored_episodes": [
+     187,
+     4.919
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "no A6 downscaling": {
+   "flags": {
+    "a6": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.14,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.333,
+     "פ final quiz": 0.417,
+     "פ assignments": 5,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 0.938,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 765,
+     "dormant_links": 11,
+     "active_episodes": 47,
+     "stored_episodes": 194,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.0,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 33,
+     "questions asked": 6,
+     "claims accepted": 2,
+     "claims rejected": 0,
+     "active_links": 774,
+     "dormant_links": 8,
+     "active_episodes": 47,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.96,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 36,
+     "questions asked": 7,
+     "claims accepted": 1,
+     "claims rejected": 0,
+     "active_links": 779,
+     "dormant_links": 20,
+     "active_episodes": 52,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 0.98,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 36,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 789,
+     "dormant_links": 16,
+     "active_episodes": 49,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.97,
+     "ע first quiz": 0.875,
+     "ע final quiz": 0.875,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 4,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 778,
+     "dormant_links": 19,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.97,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 35,
+     "questions asked": 5,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 774,
+     "dormant_links": 11,
+     "active_episodes": 50,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.98,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 37,
+     "questions asked": 6,
+     "claims accepted": 2,
+     "claims rejected": 0,
+     "active_links": 783,
+     "dormant_links": 19,
+     "active_episodes": 49,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 1.03,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 36,
+     "questions asked": 5,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 789,
+     "dormant_links": 23,
+     "active_episodes": 50,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 1.14,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.812,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 31,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 807,
+     "dormant_links": 24,
+     "active_episodes": 51,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 1.14,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 35,
+     "questions asked": 4,
+     "claims accepted": 2,
+     "claims rejected": 0,
+     "active_links": 783,
+     "dormant_links": 21,
+     "active_episodes": 49,
+     "stored_episodes": 182,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.031,
+     0.074
+    ],
+    "ע first quiz": [
+     0.969,
+     0.042
+    ],
+    "ע final quiz": [
+     0.969,
+     0.042
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.917,
+     0.201
+    ],
+    "פ final quiz": [
+     0.925,
+     0.177
+    ],
+    "פ assignments": [
+     4.1,
+     0.3
+    ],
+    "צ first quiz": [
+     0.975,
+     0.053
+    ],
+    "צ final quiz": [
+     0.975,
+     0.053
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.863,
+     0.092
+    ],
+    "ר final quiz": [
+     0.894,
+     0.063
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.933,
+     0.111
+    ],
+    "ץ final quiz": [
+     0.933,
+     0.111
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.975,
+     0.075
+    ],
+    "ש final quiz": [
+     0.967,
+     0.1
+    ],
+    "ש assignments": [
+     4.1,
+     0.3
+    ],
+    "ק first quiz": [
+     0.975,
+     0.041
+    ],
+    "ק final quiz": [
+     0.975,
+     0.041
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.95,
+     0.052
+    ],
+    "green words": [
+     34.7,
+     1.676
+    ],
+    "questions asked": [
+     5.7,
+     1.187
+    ],
+    "claims accepted": [
+     1.1,
+     0.7
+    ],
+    "claims rejected": [
+     1,
+     0.894
+    ],
+    "active_links": [
+     782.1,
+     10.802
+    ],
+    "dormant_links": [
+     17.2,
+     5.212
+    ],
+    "active_episodes": [
+     49.3,
+     1.487
+    ],
+    "stored_episodes": [
+     184.8,
+     3.487
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "E2 delete instead of E1 dormant": {
+   "flags": {
+    "e1": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.04,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.812,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.75,
+     "ק final quiz": 0.75,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 34,
+     "questions asked": 9,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 694,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 270
+    },
+    {
+     "seed": 101,
+     "seconds": 1.11,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.625,
+     "ק final quiz": 0.625,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 31,
+     "questions asked": 9,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 678,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 261
+    },
+    {
+     "seed": 102,
+     "seconds": 0.98,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.688,
+     "ק final quiz": 0.75,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 32,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 715,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 269
+    },
+    {
+     "seed": 103,
+     "seconds": 1.03,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.812,
+     "ק final quiz": 0.812,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 33,
+     "questions asked": 7,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 705,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 283
+    },
+    {
+     "seed": 104,
+     "seconds": 1.0,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.75,
+     "ק final quiz": 0.688,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 705,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 268
+    },
+    {
+     "seed": 105,
+     "seconds": 0.98,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.833,
+     "ש final quiz": 0.833,
+     "ש assignments": 4,
+     "ק first quiz": 0.625,
+     "ק final quiz": 0.688,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 30,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 702,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 279
+    },
+    {
+     "seed": 106,
+     "seconds": 1.03,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.562,
+     "ק final quiz": 0.875,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 34,
+     "questions asked": 7,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 699,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 247
+    },
+    {
+     "seed": 107,
+     "seconds": 1.0,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 0.688,
+     "ק final quiz": 0.812,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 32,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 705,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 283
+    },
+    {
+     "seed": 108,
+     "seconds": 1.03,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 0.75,
+     "ק final quiz": 0.625,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.667,
+     "green words": 32,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 703,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 290
+    },
+    {
+     "seed": 109,
+     "seconds": 0.98,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.625,
+     "ק final quiz": 0.688,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 33,
+     "questions asked": 5,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 692,
+     "dormant_links": 0,
+     "active_episodes": 40,
+     "stored_episodes": 40,
+     "tombstones": 280
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.018,
+     0.038
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.975,
+     0.053
+    ],
+    "צ final quiz": [
+     0.975,
+     0.053
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.888,
+     0.092
+    ],
+    "ר final quiz": [
+     0.925,
+     0.055
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.9,
+     0.111
+    ],
+    "ץ final quiz": [
+     0.9,
+     0.111
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.933,
+     0.104
+    ],
+    "ש final quiz": [
+     0.917,
+     0.134
+    ],
+    "ש assignments": [
+     4.2,
+     0.4
+    ],
+    "ק first quiz": [
+     0.688,
+     0.074
+    ],
+    "ק final quiz": [
+     0.731,
+     0.079
+    ],
+    "ק assignments": [
+     3.9,
+     0.3
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.896,
+     0.099
+    ],
+    "green words": [
+     32.5,
+     1.285
+    ],
+    "questions asked": [
+     6.9,
+     1.3
+    ],
+    "claims accepted": [
+     0.5,
+     0.671
+    ],
+    "claims rejected": [
+     2.2,
+     0.748
+    ],
+    "active_links": [
+     699.8,
+     9.474
+    ],
+    "dormant_links": [
+     0,
+     0.0
+    ],
+    "active_episodes": [
+     40,
+     0.0
+    ],
+    "stored_episodes": [
+     40,
+     0.0
+    ],
+    "tombstones": [
+     273,
+     12.017
+    ]
+   }
+  },
+  "no G3 spaced review": {
+   "flags": {
+    "g3": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 0.86,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.25,
+     "פ final quiz": 0.5,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 29,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 582,
+     "dormant_links": 204,
+     "active_episodes": 40,
+     "stored_episodes": 198,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 0.89,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.625,
+     "ר final quiz": 0.938,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 0.167,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.625,
+     "green words": 21,
+     "questions asked": 12,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 505,
+     "dormant_links": 315,
+     "active_episodes": 40,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.87,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.875,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.583,
+     "green words": 20,
+     "questions asked": 9,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 565,
+     "dormant_links": 252,
+     "active_episodes": 40,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 0.94,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.75,
+     "green words": 22,
+     "questions asked": 3,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 574,
+     "dormant_links": 240,
+     "active_episodes": 40,
+     "stored_episodes": 196,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.95,
+     "ע first quiz": 0.875,
+     "ע final quiz": 0.875,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.542,
+     "green words": 24,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 541,
+     "dormant_links": 276,
+     "active_episodes": 40,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.9,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.792,
+     "green words": 26,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 579,
+     "dormant_links": 215,
+     "active_episodes": 40,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.9,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.625,
+     "ר final quiz": 0.875,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.417,
+     "ש final quiz": 0.5,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.667,
+     "green words": 18,
+     "questions asked": 9,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 570,
+     "dormant_links": 237,
+     "active_episodes": 40,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 0.89,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.833,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.75,
+     "green words": 18,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 562,
+     "dormant_links": 252,
+     "active_episodes": 40,
+     "stored_episodes": 188,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 0.98,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.75,
+     "ר assignments": 5,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.5,
+     "green words": 19,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 579,
+     "dormant_links": 242,
+     "active_episodes": 40,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 0.9,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 27,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 591,
+     "dormant_links": 212,
+     "active_episodes": 40,
+     "stored_episodes": 184,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     0.908,
+     0.035
+    ],
+    "ע first quiz": [
+     0.975,
+     0.041
+    ],
+    "ע final quiz": [
+     0.975,
+     0.041
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.875,
+     0.233
+    ],
+    "פ final quiz": [
+     0.933,
+     0.153
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.992,
+     0.025
+    ],
+    "צ final quiz": [
+     0.992,
+     0.025
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.812,
+     0.122
+    ],
+    "ר final quiz": [
+     0.881,
+     0.071
+    ],
+    "ר assignments": [
+     4.4,
+     0.49
+    ],
+    "ץ first quiz": [
+     0.917,
+     0.112
+    ],
+    "ץ final quiz": [
+     0.917,
+     0.112
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.733,
+     0.252
+    ],
+    "ש final quiz": [
+     0.908,
+     0.16
+    ],
+    "ש assignments": [
+     4.7,
+     0.458
+    ],
+    "ק first quiz": [
+     0.931,
+     0.052
+    ],
+    "ק final quiz": [
+     0.931,
+     0.052
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.692,
+     0.121
+    ],
+    "green words": [
+     22.4,
+     3.72
+    ],
+    "questions asked": [
+     7.8,
+     2.135
+    ],
+    "claims accepted": [
+     0.5,
+     0.5
+    ],
+    "claims rejected": [
+     2.1,
+     0.539
+    ],
+    "active_links": [
+     564.8,
+     23.765
+    ],
+    "dormant_links": [
+     244.5,
+     31.184
+    ],
+    "active_episodes": [
+     40,
+     0.0
+    ],
+    "stored_episodes": [
+     190.2,
+     3.945
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "D1 greedy (no exploration)": {
+   "flags": {
+    "d1": "greedy"
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.07,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.792,
+     "green words": 34,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 711,
+     "dormant_links": 58,
+     "active_episodes": 49,
+     "stored_episodes": 194,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.07,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.75,
+     "green words": 32,
+     "questions asked": 9,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 722,
+     "dormant_links": 88,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.97,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.938,
+     "ר assignments": 5,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 36,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 727,
+     "dormant_links": 69,
+     "active_episodes": 52,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 1.13,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 36,
+     "questions asked": 4,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 726,
+     "dormant_links": 69,
+     "active_episodes": 50,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 1.02,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 36,
+     "questions asked": 5,
+     "claims accepted": 2,
+     "claims rejected": 0,
+     "active_links": 720,
+     "dormant_links": 72,
+     "active_episodes": 50,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.99,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.833,
+     "ש final quiz": 0.833,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 36,
+     "questions asked": 4,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 727,
+     "dormant_links": 72,
+     "active_episodes": 51,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 1.05,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 5,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 719,
+     "dormant_links": 66,
+     "active_episodes": 50,
+     "stored_episodes": 180,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 1.04,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 35,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 740,
+     "dormant_links": 71,
+     "active_episodes": 48,
+     "stored_episodes": 188,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 1.07,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 33,
+     "questions asked": 8,
+     "claims accepted": 3,
+     "claims rejected": 0,
+     "active_links": 723,
+     "dormant_links": 93,
+     "active_episodes": 51,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 1.01,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 31,
+     "questions asked": 5,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 709,
+     "dormant_links": 88,
+     "active_episodes": 48,
+     "stored_episodes": 180,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.042,
+     0.044
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.983,
+     0.033
+    ],
+    "צ final quiz": [
+     0.983,
+     0.033
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.887,
+     0.111
+    ],
+    "ר final quiz": [
+     0.938,
+     0.074
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.883,
+     0.107
+    ],
+    "ץ final quiz": [
+     0.883,
+     0.107
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.908,
+     0.115
+    ],
+    "ש final quiz": [
+     0.892,
+     0.14
+    ],
+    "ש assignments": [
+     4.3,
+     0.458
+    ],
+    "ק first quiz": [
+     0.988,
+     0.025
+    ],
+    "ק final quiz": [
+     0.988,
+     0.025
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.892,
+     0.077
+    ],
+    "green words": [
+     34.2,
+     1.778
+    ],
+    "questions asked": [
+     6.1,
+     1.7
+    ],
+    "claims accepted": [
+     1.2,
+     0.98
+    ],
+    "claims rejected": [
+     1.2,
+     0.872
+    ],
+    "active_links": [
+     722.4,
+     8.321
+    ],
+    "dormant_links": [
+     74.6,
+     10.66
+    ],
+    "active_episodes": [
+     49.8,
+     1.249
+    ],
+    "stored_episodes": [
+     184.8,
+     5.075
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "D1-a epsilon-greedy": {
+   "flags": {
+    "d1": "eps"
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.22,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 0.938,
+     "ר assignments": 5,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 32,
+     "questions asked": 9,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 725,
+     "dormant_links": 72,
+     "active_episodes": 48,
+     "stored_episodes": 198,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.08,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.667,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.708,
+     "green words": 31,
+     "questions asked": 9,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 727,
+     "dormant_links": 95,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 1.05,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 35,
+     "questions asked": 5,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 710,
+     "dormant_links": 92,
+     "active_episodes": 50,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 1.04,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 35,
+     "questions asked": 4,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 723,
+     "dormant_links": 73,
+     "active_episodes": 50,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 1.11,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.667,
+     "ש final quiz": 1.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 35,
+     "questions asked": 5,
+     "claims accepted": 1,
+     "claims rejected": 0,
+     "active_links": 724,
+     "dormant_links": 90,
+     "active_episodes": 50,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 1.11,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.833,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.792,
+     "green words": 33,
+     "questions asked": 4,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 721,
+     "dormant_links": 94,
+     "active_episodes": 49,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 1.04,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 34,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 723,
+     "dormant_links": 76,
+     "active_episodes": 49,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 1.04,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 32,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 720,
+     "dormant_links": 97,
+     "active_episodes": 48,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 1.03,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 32,
+     "questions asked": 7,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 716,
+     "dormant_links": 101,
+     "active_episodes": 48,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 0.97,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 34,
+     "questions asked": 5,
+     "claims accepted": 1,
+     "claims rejected": 0,
+     "active_links": 713,
+     "dormant_links": 105,
+     "active_episodes": 49,
+     "stored_episodes": 180,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.069,
+     0.064
+    ],
+    "ע first quiz": [
+     0.988,
+     0.025
+    ],
+    "ע final quiz": [
+     0.988,
+     0.025
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.983,
+     0.033
+    ],
+    "צ final quiz": [
+     0.983,
+     0.033
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.85,
+     0.098
+    ],
+    "ר final quiz": [
+     0.9,
+     0.08
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.883,
+     0.107
+    ],
+    "ץ final quiz": [
+     0.883,
+     0.107
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.867,
+     0.135
+    ],
+    "ש final quiz": [
+     0.925,
+     0.12
+    ],
+    "ש assignments": [
+     4.5,
+     0.5
+    ],
+    "ק first quiz": [
+     0.969,
+     0.042
+    ],
+    "ק final quiz": [
+     0.969,
+     0.042
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.892,
+     0.084
+    ],
+    "green words": [
+     33.3,
+     1.418
+    ],
+    "questions asked": [
+     6.2,
+     1.833
+    ],
+    "claims accepted": [
+     0.7,
+     0.64
+    ],
+    "claims rejected": [
+     1.6,
+     1.02
+    ],
+    "active_links": [
+     720.2,
+     5.231
+    ],
+    "dormant_links": [
+     89.5,
+     11.165
+    ],
+    "active_episodes": [
+     49,
+     0.775
+    ],
+    "stored_episodes": [
+     186,
+     5.138
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "no F2 pattern tokens": {
+   "flags": {
+    "f2": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 0.8,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.417,
+     "ש final quiz": 0.417,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 27,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 703,
+     "dormant_links": 85,
+     "active_episodes": 50,
+     "stored_episodes": 198,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 0.72,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 0.25,
+     "ש final quiz": 0.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 26,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 720,
+     "dormant_links": 89,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.74,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.5,
+     "ש final quiz": 0.417,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 32,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 726,
+     "dormant_links": 85,
+     "active_episodes": 48,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 0.81,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.5,
+     "ש final quiz": 0.417,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 31,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 737,
+     "dormant_links": 75,
+     "active_episodes": 50,
+     "stored_episodes": 202,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.73,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.5,
+     "ש final quiz": 0.5,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 31,
+     "questions asked": 7,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 726,
+     "dormant_links": 93,
+     "active_episodes": 49,
+     "stored_episodes": 188,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.76,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.333,
+     "ש final quiz": 0.417,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 30,
+     "questions asked": 3,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 726,
+     "dormant_links": 94,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.76,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.417,
+     "ש final quiz": 0.333,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 29,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 721,
+     "dormant_links": 94,
+     "active_episodes": 48,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 0.76,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.083,
+     "ש final quiz": 0.417,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 30,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 725,
+     "dormant_links": 93,
+     "active_episodes": 48,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 0.73,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 0.812,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.5,
+     "ש final quiz": 0.333,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 27,
+     "questions asked": 6,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 735,
+     "dormant_links": 97,
+     "active_episodes": 51,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 0.74,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.417,
+     "ש final quiz": 0.5,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 30,
+     "questions asked": 8,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 730,
+     "dormant_links": 86,
+     "active_episodes": 49,
+     "stored_episodes": 190,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     0.755,
+     0.028
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.958,
+     0.067
+    ],
+    "צ final quiz": [
+     0.958,
+     0.067
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.875,
+     0.097
+    ],
+    "ר final quiz": [
+     0.912,
+     0.07
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.9,
+     0.111
+    ],
+    "ץ final quiz": [
+     0.9,
+     0.111
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.392,
+     0.129
+    ],
+    "ש final quiz": [
+     0.375,
+     0.136
+    ],
+    "ש assignments": [
+     5,
+     0.0
+    ],
+    "ק first quiz": [
+     0.944,
+     0.052
+    ],
+    "ק final quiz": [
+     0.944,
+     0.052
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.921,
+     0.039
+    ],
+    "green words": [
+     29.3,
+     1.9
+    ],
+    "questions asked": [
+     6.6,
+     1.497
+    ],
+    "claims accepted": [
+     0.5,
+     0.671
+    ],
+    "claims rejected": [
+     2.5,
+     0.671
+    ],
+    "active_links": [
+     724.9,
+     8.927
+    ],
+    "dormant_links": [
+     89.1,
+     6.188
+    ],
+    "active_episodes": [
+     49.1,
+     0.943
+    ],
+    "stored_episodes": [
+     189.4,
+     5.731
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "no צ questions": {
+   "flags": {
+    "q": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 1.17,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 32,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 700,
+     "dormant_links": 79,
+     "active_episodes": 51,
+     "stored_episodes": 190,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 1.02,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 31,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 701,
+     "dormant_links": 89,
+     "active_episodes": 49,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.96,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.833,
+     "ש final quiz": 0.833,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 0,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 713,
+     "dormant_links": 86,
+     "active_episodes": 51,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 1.13,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.667,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 0.875,
+     "ק final quiz": 0.875,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 36,
+     "questions asked": 0,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 718,
+     "dormant_links": 100,
+     "active_episodes": 51,
+     "stored_episodes": 194,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 1.06,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.75,
+     "ר final quiz": 0.938,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 33,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 723,
+     "dormant_links": 86,
+     "active_episodes": 48,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 1.03,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.833,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.708,
+     "green words": 34,
+     "questions asked": 0,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 716,
+     "dormant_links": 88,
+     "active_episodes": 50,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 1.01,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 33,
+     "questions asked": 0,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 710,
+     "dormant_links": 87,
+     "active_episodes": 49,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 1.05,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 35,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 725,
+     "dormant_links": 96,
+     "active_episodes": 49,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 0.99,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.792,
+     "green words": 32,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 698,
+     "dormant_links": 100,
+     "active_episodes": 50,
+     "stored_episodes": 178,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 1.12,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 0.667,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.667,
+     "green words": 31,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 2,
+     "active_links": 718,
+     "dormant_links": 103,
+     "active_episodes": 47,
+     "stored_episodes": 182,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     1.054,
+     0.063
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.975,
+     0.038
+    ],
+    "צ final quiz": [
+     0.975,
+     0.038
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.85,
+     0.085
+    ],
+    "ר final quiz": [
+     0.9,
+     0.064
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.917,
+     0.112
+    ],
+    "ץ final quiz": [
+     0.917,
+     0.112
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.892,
+     0.14
+    ],
+    "ש final quiz": [
+     0.917,
+     0.105
+    ],
+    "ש assignments": [
+     4.3,
+     0.458
+    ],
+    "ק first quiz": [
+     0.956,
+     0.049
+    ],
+    "ק final quiz": [
+     0.956,
+     0.049
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.846,
+     0.088
+    ],
+    "green words": [
+     33,
+     1.549
+    ],
+    "questions asked": [
+     0,
+     0.0
+    ],
+    "claims accepted": [
+     0.4,
+     0.49
+    ],
+    "claims rejected": [
+     2,
+     0.632
+    ],
+    "active_links": [
+     712.2,
+     9.185
+    ],
+    "dormant_links": [
+     91.4,
+     7.432
+    ],
+    "active_episodes": [
+     49.5,
+     1.285
+    ],
+    "stored_episodes": [
+     181.6,
+     5.499
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "no mutual exclusivity (new)": {
+   "flags": {
+    "me": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 0.25,
+     "ע first quiz": 0.938,
+     "ע final quiz": 0.938,
+     "ע assignments": 5,
+     "פ first quiz": 0.5,
+     "פ final quiz": 0.667,
+     "פ assignments": 5,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 705,
+     "dormant_links": 75,
+     "active_episodes": 50,
+     "stored_episodes": 194,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 0.24,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 1.0,
+     "ר assignments": 5,
+     "ץ first quiz": 0.667,
+     "ץ final quiz": 0.667,
+     "ץ assignments": 4,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 34,
+     "questions asked": 6,
+     "claims accepted": 3,
+     "claims rejected": 0,
+     "active_links": 695,
+     "dormant_links": 95,
+     "active_episodes": 49,
+     "stored_episodes": 180,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.21,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 8,
+     "claims accepted": 0,
+     "claims rejected": 1,
+     "active_links": 720,
+     "dormant_links": 88,
+     "active_episodes": 52,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 0.28,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.667,
+     "פ final quiz": 1.0,
+     "פ assignments": 5,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.875,
+     "ר final quiz": 0.875,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 34,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 732,
+     "dormant_links": 72,
+     "active_episodes": 49,
+     "stored_episodes": 198,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.22,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 7,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 727,
+     "dormant_links": 74,
+     "active_episodes": 52,
+     "stored_episodes": 186,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.22,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 0.938,
+     "ק final quiz": 0.938,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.833,
+     "green words": 34,
+     "questions asked": 7,
+     "claims accepted": 0,
+     "claims rejected": 3,
+     "active_links": 717,
+     "dormant_links": 87,
+     "active_episodes": 49,
+     "stored_episodes": 184,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.21,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 0.833,
+     "פ final quiz": 0.833,
+     "פ assignments": 4,
+     "צ first quiz": 0.833,
+     "צ final quiz": 0.833,
+     "צ assignments": 4,
+     "ר first quiz": 0.812,
+     "ר final quiz": 0.812,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.917,
+     "green words": 33,
+     "questions asked": 4,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 713,
+     "dormant_links": 86,
+     "active_episodes": 49,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 0.24,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.938,
+     "ר final quiz": 0.938,
+     "ר assignments": 4,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 0.75,
+     "ש final quiz": 0.75,
+     "ש assignments": 5,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.875,
+     "green words": 35,
+     "questions asked": 6,
+     "claims accepted": 1,
+     "claims rejected": 1,
+     "active_links": 728,
+     "dormant_links": 94,
+     "active_episodes": 49,
+     "stored_episodes": 188,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 0.24,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 0.917,
+     "צ final quiz": 0.917,
+     "צ assignments": 4,
+     "ר first quiz": 0.688,
+     "ר final quiz": 0.875,
+     "ר assignments": 5,
+     "ץ first quiz": 1.0,
+     "ץ final quiz": 1.0,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 1.0,
+     "green words": 31,
+     "questions asked": 6,
+     "claims accepted": 2,
+     "claims rejected": 1,
+     "active_links": 700,
+     "dormant_links": 106,
+     "active_episodes": 48,
+     "stored_episodes": 182,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 0.23,
+     "ע first quiz": 1.0,
+     "ע final quiz": 1.0,
+     "ע assignments": 5,
+     "פ first quiz": 1.0,
+     "פ final quiz": 1.0,
+     "פ assignments": 4,
+     "צ first quiz": 1.0,
+     "צ final quiz": 1.0,
+     "צ assignments": 4,
+     "ר first quiz": 1.0,
+     "ר final quiz": 1.0,
+     "ר assignments": 4,
+     "ץ first quiz": 0.833,
+     "ץ final quiz": 0.833,
+     "ץ assignments": 3,
+     "ש first quiz": 1.0,
+     "ש final quiz": 1.0,
+     "ש assignments": 4,
+     "ק first quiz": 1.0,
+     "ק final quiz": 1.0,
+     "ק assignments": 3,
+     "ת assignments": 3,
+     "retention (ת)": 0.958,
+     "green words": 34,
+     "questions asked": 8,
+     "claims accepted": 1,
+     "claims rejected": 2,
+     "active_links": 723,
+     "dormant_links": 89,
+     "active_episodes": 49,
+     "stored_episodes": 186,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     0.234,
+     0.02
+    ],
+    "ע first quiz": [
+     0.994,
+     0.019
+    ],
+    "ע final quiz": [
+     0.994,
+     0.019
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.9,
+     0.17
+    ],
+    "פ final quiz": [
+     0.95,
+     0.107
+    ],
+    "פ assignments": [
+     4.2,
+     0.4
+    ],
+    "צ first quiz": [
+     0.95,
+     0.067
+    ],
+    "צ final quiz": [
+     0.95,
+     0.067
+    ],
+    "צ assignments": [
+     4,
+     0.0
+    ],
+    "ר first quiz": [
+     0.85,
+     0.105
+    ],
+    "ר final quiz": [
+     0.9,
+     0.075
+    ],
+    "ר assignments": [
+     4.2,
+     0.4
+    ],
+    "ץ first quiz": [
+     0.933,
+     0.111
+    ],
+    "ץ final quiz": [
+     0.933,
+     0.111
+    ],
+    "ץ assignments": [
+     3.1,
+     0.3
+    ],
+    "ש first quiz": [
+     0.975,
+     0.075
+    ],
+    "ש final quiz": [
+     0.975,
+     0.075
+    ],
+    "ש assignments": [
+     4.1,
+     0.3
+    ],
+    "ק first quiz": [
+     0.981,
+     0.028
+    ],
+    "ק final quiz": [
+     0.981,
+     0.028
+    ],
+    "ק assignments": [
+     3,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.917,
+     0.042
+    ],
+    "green words": [
+     33.4,
+     1.02
+    ],
+    "questions asked": [
+     6.6,
+     1.2
+    ],
+    "claims accepted": [
+     1.2,
+     0.872
+    ],
+    "claims rejected": [
+     1.4,
+     0.8
+    ],
+    "active_links": [
+     716,
+     11.891
+    ],
+    "dormant_links": [
+     86.6,
+     10.082
+    ],
+    "active_episodes": [
+     49.6,
+     1.281
+    ],
+    "stored_episodes": [
+     186.6,
+     5.295
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  },
+  "zero-learning control": {
+   "flags": {
+    "learn": false
+   },
+   "runs": [
+    {
+     "seed": 100,
+     "seconds": 0.03,
+     "ע first quiz": 0.438,
+     "ע final quiz": 0.438,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.25,
+     "צ final quiz": 0.292,
+     "צ assignments": 5,
+     "ר first quiz": 0.312,
+     "ר final quiz": 0.5,
+     "ר assignments": 5,
+     "ץ first quiz": 0.0,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.25,
+     "ש final quiz": 0.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.125,
+     "ק final quiz": 0.188,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.333,
+     "green words": 2,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 101,
+     "seconds": 0.02,
+     "ע first quiz": 0.688,
+     "ע final quiz": 0.688,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.167,
+     "צ final quiz": 0.333,
+     "צ assignments": 5,
+     "ר first quiz": 0.438,
+     "ר final quiz": 0.312,
+     "ר assignments": 5,
+     "ץ first quiz": 0.0,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.0,
+     "ש final quiz": 0.083,
+     "ש assignments": 5,
+     "ק first quiz": 0.312,
+     "ק final quiz": 0.125,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.333,
+     "green words": 1,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 102,
+     "seconds": 0.02,
+     "ע first quiz": 0.375,
+     "ע final quiz": 0.375,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.292,
+     "צ final quiz": 0.25,
+     "צ assignments": 5,
+     "ר first quiz": 0.188,
+     "ר final quiz": 0.438,
+     "ר assignments": 5,
+     "ץ first quiz": 0.0,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.083,
+     "ש final quiz": 0.083,
+     "ש assignments": 5,
+     "ק first quiz": 0.312,
+     "ק final quiz": 0.375,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.167,
+     "green words": 2,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 103,
+     "seconds": 0.02,
+     "ע first quiz": 0.312,
+     "ע final quiz": 0.312,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.25,
+     "צ final quiz": 0.292,
+     "צ assignments": 5,
+     "ר first quiz": 0.25,
+     "ר final quiz": 0.25,
+     "ר assignments": 5,
+     "ץ first quiz": 0.083,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.083,
+     "ש final quiz": 0.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.188,
+     "ק final quiz": 0.312,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.333,
+     "green words": 2,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 104,
+     "seconds": 0.02,
+     "ע first quiz": 0.438,
+     "ע final quiz": 0.438,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.167,
+     "צ final quiz": 0.125,
+     "צ assignments": 5,
+     "ר first quiz": 0.312,
+     "ר final quiz": 0.5,
+     "ר assignments": 5,
+     "ץ first quiz": 0.083,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.167,
+     "ש final quiz": 0.083,
+     "ש assignments": 5,
+     "ק first quiz": 0.312,
+     "ק final quiz": 0.5,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.25,
+     "green words": 0,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 105,
+     "seconds": 0.02,
+     "ע first quiz": 0.438,
+     "ע final quiz": 0.438,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.333,
+     "צ final quiz": 0.125,
+     "צ assignments": 5,
+     "ר first quiz": 0.312,
+     "ר final quiz": 0.625,
+     "ר assignments": 5,
+     "ץ first quiz": 0.083,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.083,
+     "ש final quiz": 0.167,
+     "ש assignments": 5,
+     "ק first quiz": 0.25,
+     "ק final quiz": 0.25,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.375,
+     "green words": 3,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 106,
+     "seconds": 0.02,
+     "ע first quiz": 0.625,
+     "ע final quiz": 0.625,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.25,
+     "צ final quiz": 0.167,
+     "צ assignments": 5,
+     "ר first quiz": 0.312,
+     "ר final quiz": 0.375,
+     "ר assignments": 5,
+     "ץ first quiz": 0.083,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.0,
+     "ש final quiz": 0.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.188,
+     "ק final quiz": 0.188,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.208,
+     "green words": 0,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 107,
+     "seconds": 0.02,
+     "ע first quiz": 0.5,
+     "ע final quiz": 0.5,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.458,
+     "צ final quiz": 0.083,
+     "צ assignments": 5,
+     "ר first quiz": 0.312,
+     "ר final quiz": 0.312,
+     "ר assignments": 5,
+     "ץ first quiz": 0.083,
+     "ץ final quiz": 0.083,
+     "ץ assignments": 4,
+     "ש first quiz": 0.0,
+     "ש final quiz": 0.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.375,
+     "ק final quiz": 0.188,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.25,
+     "green words": 1,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 108,
+     "seconds": 0.02,
+     "ע first quiz": 0.5,
+     "ע final quiz": 0.5,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.125,
+     "צ final quiz": 0.375,
+     "צ assignments": 5,
+     "ר first quiz": 0.375,
+     "ר final quiz": 0.562,
+     "ר assignments": 5,
+     "ץ first quiz": 0.0,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.167,
+     "ש final quiz": 0.0,
+     "ש assignments": 5,
+     "ק first quiz": 0.25,
+     "ק final quiz": 0.312,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.292,
+     "green words": 2,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    },
+    {
+     "seed": 109,
+     "seconds": 0.02,
+     "ע first quiz": 0.312,
+     "ע final quiz": 0.312,
+     "ע assignments": 5,
+     "פ first quiz": 0.0,
+     "פ final quiz": 0.0,
+     "פ assignments": 5,
+     "צ first quiz": 0.083,
+     "צ final quiz": 0.458,
+     "צ assignments": 5,
+     "ר first quiz": 0.5,
+     "ר final quiz": 0.125,
+     "ר assignments": 5,
+     "ץ first quiz": 0.0,
+     "ץ final quiz": 0.0,
+     "ץ assignments": 4,
+     "ש first quiz": 0.167,
+     "ש final quiz": 0.083,
+     "ש assignments": 5,
+     "ק first quiz": 0.062,
+     "ק final quiz": 0.188,
+     "ק assignments": 4,
+     "ת assignments": 3,
+     "retention (ת)": 0.25,
+     "green words": 0,
+     "questions asked": 0,
+     "claims accepted": 0,
+     "claims rejected": 0,
+     "active_links": 0,
+     "dormant_links": 0,
+     "active_episodes": 0,
+     "stored_episodes": 0,
+     "tombstones": 0
+    }
+   ],
+   "mean_sd": {
+    "seconds": [
+     0.021,
+     0.003
+    ],
+    "ע first quiz": [
+     0.463,
+     0.116
+    ],
+    "ע final quiz": [
+     0.463,
+     0.116
+    ],
+    "ע assignments": [
+     5,
+     0.0
+    ],
+    "פ first quiz": [
+     0.0,
+     0.0
+    ],
+    "פ final quiz": [
+     0.0,
+     0.0
+    ],
+    "פ assignments": [
+     5,
+     0.0
+    ],
+    "צ first quiz": [
+     0.238,
+     0.104
+    ],
+    "צ final quiz": [
+     0.25,
+     0.116
+    ],
+    "צ assignments": [
+     5,
+     0.0
+    ],
+    "ר first quiz": [
+     0.331,
+     0.084
+    ],
+    "ר final quiz": [
+     0.4,
+     0.146
+    ],
+    "ר assignments": [
+     5,
+     0.0
+    ],
+    "ץ first quiz": [
+     0.042,
+     0.042
+    ],
+    "ץ final quiz": [
+     0.008,
+     0.025
+    ],
+    "ץ assignments": [
+     4,
+     0.0
+    ],
+    "ש first quiz": [
+     0.1,
+     0.082
+    ],
+    "ש final quiz": [
+     0.05,
+     0.055
+    ],
+    "ש assignments": [
+     5,
+     0.0
+    ],
+    "ק first quiz": [
+     0.237,
+     0.092
+    ],
+    "ק final quiz": [
+     0.263,
+     0.107
+    ],
+    "ק assignments": [
+     4,
+     0.0
+    ],
+    "ת assignments": [
+     3,
+     0.0
+    ],
+    "retention (ת)": [
+     0.279,
+     0.062
+    ],
+    "green words": [
+     1.3,
+     1.005
+    ],
+    "questions asked": [
+     0,
+     0.0
+    ],
+    "claims accepted": [
+     0,
+     0.0
+    ],
+    "claims rejected": [
+     0,
+     0.0
+    ],
+    "active_links": [
+     0,
+     0.0
+    ],
+    "dormant_links": [
+     0,
+     0.0
+    ],
+    "active_episodes": [
+     0,
+     0.0
+    ],
+    "stored_episodes": [
+     0,
+     0.0
+    ],
+    "tombstones": [
+     0,
+     0.0
+    ]
+   }
+  }
+ },
+ "downscale_sweep": {
+  "0.8": {
+   "seconds": [
+    0.983,
+    0.05
+   ],
+   "ע first quiz": [
+    0.969,
+    0.042
+   ],
+   "ע final quiz": [
+    0.969,
+    0.042
+   ],
+   "ע assignments": [
+    5,
+    0.0
+   ],
+   "פ first quiz": [
+    0.883,
+    0.167
+   ],
+   "פ final quiz": [
+    0.858,
+    0.218
+   ],
+   "פ assignments": [
+    4.2,
+    0.4
+   ],
+   "צ first quiz": [
+    0.983,
+    0.033
+   ],
+   "צ final quiz": [
+    0.983,
+    0.033
+   ],
+   "צ assignments": [
+    4,
+    0.0
+   ],
+   "ר first quiz": [
+    0.756,
+    0.138
+   ],
+   "ר final quiz": [
+    0.838,
+    0.094
+   ],
+   "ר assignments": [
+    4.7,
+    0.458
+   ],
+   "ץ first quiz": [
+    0.867,
+    0.125
+   ],
+   "ץ final quiz": [
+    0.867,
+    0.125
+   ],
+   "ץ assignments": [
+    3.2,
+    0.4
+   ],
+   "ש first quiz": [
+    0.65,
+    0.223
+   ],
+   "ש final quiz": [
+    0.783,
+    0.15
+   ],
+   "ש assignments": [
+    4.8,
+    0.4
+   ],
+   "ק first quiz": [
+    0.906,
+    0.058
+   ],
+   "ק final quiz": [
+    0.906,
+    0.058
+   ],
+   "ק assignments": [
+    3,
+    0.0
+   ],
+   "ת assignments": [
+    3,
+    0.0
+   ],
+   "retention (ת)": [
+    0.687,
+    0.088
+   ],
+   "green words": [
+    23.1,
+    2.343
+   ],
+   "questions asked": [
+    9.2,
+    1.887
+   ],
+   "claims accepted": [
+    0.7,
+    0.64
+   ],
+   "claims rejected": [
+    2.1,
+    0.7
+   ],
+   "active_links": [
+    544.6,
+    19.946
+   ],
+   "dormant_links": [
+    273.6,
+    25.625
+   ],
+   "active_episodes": [
+    48.3,
+    1.1
+   ],
+   "stored_episodes": [
+    190.8,
+    4.996
+   ],
+   "tombstones": [
+    0,
+    0.0
+   ]
+  },
+  "0.9": {
+   "seconds": [
+    1.03,
+    0.037
+   ],
+   "ע first quiz": [
+    0.994,
+    0.019
+   ],
+   "ע final quiz": [
+    0.994,
+    0.019
+   ],
+   "ע assignments": [
+    5,
+    0.0
+   ],
+   "פ first quiz": [
+    0.9,
+    0.17
+   ],
+   "פ final quiz": [
+    0.95,
+    0.107
+   ],
+   "פ assignments": [
+    4.2,
+    0.4
+   ],
+   "צ first quiz": [
+    0.958,
+    0.067
+   ],
+   "צ final quiz": [
+    0.958,
+    0.067
+   ],
+   "צ assignments": [
+    4,
+    0.0
+   ],
+   "ר first quiz": [
+    0.875,
+    0.097
+   ],
+   "ר final quiz": [
+    0.912,
+    0.07
+   ],
+   "ר assignments": [
+    4.2,
+    0.4
+   ],
+   "ץ first quiz": [
+    0.9,
+    0.111
+   ],
+   "ץ final quiz": [
+    0.9,
+    0.111
+   ],
+   "ץ assignments": [
+    3.1,
+    0.3
+   ],
+   "ש first quiz": [
+    0.942,
+    0.118
+   ],
+   "ש final quiz": [
+    0.967,
+    0.1
+   ],
+   "ש assignments": [
+    4.2,
+    0.4
+   ],
+   "ק first quiz": [
+    0.969,
+    0.042
+   ],
+   "ק final quiz": [
+    0.969,
+    0.042
+   ],
+   "ק assignments": [
+    3,
+    0.0
+   ],
+   "ת assignments": [
+    3,
+    0.0
+   ],
+   "retention (ת)": [
+    0.904,
+    0.038
+   ],
+   "green words": [
+    32.5,
+    3.074
+   ],
+   "questions asked": [
+    6.6,
+    1.497
+   ],
+   "claims accepted": [
+    1.3,
+    0.781
+   ],
+   "claims rejected": [
+    1.3,
+    0.64
+   ],
+   "active_links": [
+    720.6,
+    8.089
+   ],
+   "dormant_links": [
+    84.4,
+    8.523
+   ],
+   "active_episodes": [
+    49.4,
+    0.917
+   ],
+   "stored_episodes": [
+    186.2,
+    5.325
+   ],
+   "tombstones": [
+    0,
+    0.0
+   ]
+  },
+  "0.95": {
+   "seconds": [
+    1.05,
+    0.029
+   ],
+   "ע first quiz": [
+    0.981,
+    0.028
+   ],
+   "ע final quiz": [
+    0.981,
+    0.028
+   ],
+   "ע assignments": [
+    5,
+    0.0
+   ],
+   "פ first quiz": [
+    0.917,
+    0.201
+   ],
+   "פ final quiz": [
+    0.925,
+    0.177
+   ],
+   "פ assignments": [
+    4.1,
+    0.3
+   ],
+   "צ first quiz": [
+    0.967,
+    0.055
+   ],
+   "צ final quiz": [
+    0.967,
+    0.055
+   ],
+   "צ assignments": [
+    4,
+    0.0
+   ],
+   "ר first quiz": [
+    0.844,
+    0.113
+   ],
+   "ר final quiz": [
+    0.856,
+    0.084
+   ],
+   "ר assignments": [
+    4.1,
+    0.3
+   ],
+   "ץ first quiz": [
+    0.933,
+    0.111
+   ],
+   "ץ final quiz": [
+    0.933,
+    0.111
+   ],
+   "ץ assignments": [
+    3.1,
+    0.3
+   ],
+   "ש first quiz": [
+    1.0,
+    0.0
+   ],
+   "ש final quiz": [
+    1.0,
+    0.0
+   ],
+   "ש assignments": [
+    4,
+    0.0
+   ],
+   "ק first quiz": [
+    0.988,
+    0.025
+   ],
+   "ק final quiz": [
+    0.988,
+    0.025
+   ],
+   "ק assignments": [
+    3,
+    0.0
+   ],
+   "ת assignments": [
+    3,
+    0.0
+   ],
+   "retention (ת)": [
+    0.904,
+    0.075
+   ],
+   "green words": [
+    33.3,
+    3.1
+   ],
+   "questions asked": [
+    5.6,
+    1.428
+   ],
+   "claims accepted": [
+    0.5,
+    0.5
+   ],
+   "claims rejected": [
+    1.8,
+    0.872
+   ],
+   "active_links": [
+    774,
+    9.143
+   ],
+   "dormant_links": [
+    25.9,
+    10.004
+   ],
+   "active_episodes": [
+    49.1,
+    1.136
+   ],
+   "stored_episodes": [
+    184,
+    3.688
+   ],
+   "tombstones": [
+    0,
+    0.0
+   ]
+  }
+ }
+}
