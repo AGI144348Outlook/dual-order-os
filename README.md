@@ -1,45 +1,41 @@
-# dual-order-os
+# Dual Order OS
 
-Shared infrastructure for every framework (Mashet, LHEA, eve3/MashetEVE, JurisDictionary, and
-whatever comes next) — built on the idea that breaking each framework down into elemental,
-reusable parts lets those parts be recombined modularly into new models later, instead of
-re-authoring the same kind of infrastructure from scratch each time.
+Reusable components and research for persistent knowledge tools, symbolic experiments, and AI-assisted applications.
 
-**Status: empty, marked shelves.** This is the library shelving, not the books yet — folder
-structure and labels only, no data populated. Content gets added deliberately, framework by
-framework, once you're ready.
+**Start here: [Selected work and runnable demonstrations](portfolio/README.md).**
+For a short client-facing overview, see [Timothy's project contributions](portfolio/CONTRIBUTIONS.md).
 
-## The Dual-Ordering structure
+## What is available
 
-Two complementary navigation directions over the same underlying parts:
+| Starting point | What you can inspect |
+|---|---|
+| [Versioned catalog demo](portfolio/demos/catalog/README.md) | Local SQLite records, reusable templates, independent copies, and history preserved after edits |
+| [Persona-session filter demo](portfolio/demos/persona-filter/README.md) | Synthetic conversations processed by a pinned copy of the existing Group Canvas filter |
+| [Shared workspace prototype](portfolio/case-studies/shared-workspace.md) | Group Canvas widgets, persistence, permissions, and agent connectors |
+| [Research documentary](portfolio/case-studies/classroom.md) | An observation interface linking visible records to their evidence |
 
-- **`/matrices`** — Matrices of Indices. Content-first: pick a matrix (a table of one kind of
-  elemental part — Latin roots, Hebrew glyph opcodes, affixes, etc.) and index into its rows.
-- **`/indices`** — Indices of Matrices. Lookup-first: pick a key (a glyph, a jurisdiction, a
-  framework name, a source document) and find which matrix/matrices hold what you're looking
-  for, before you ever get to row level.
+The two local demonstrations need no API keys or paid services. The persona filter proposes attribution candidates; it does not establish a speaker's identity or train a model.
 
-Every elemental part should eventually be reachable both ways — by knowing which table it's
-in, or by knowing something about it and needing to find the table.
+## Branch map
 
-- **`/libraries`** — actual importable Python code built from the matrices/indices, once
-  they're populated. Empty for now.
+- **main:** component catalog, executable libraries, research records, and the selected-work entry point.
+- [integration/echo-genesis-unified](https://github.com/AGI144348Outlook/dual-order-os/tree/integration/echo-genesis-unified): complete preserved Genesis snapshot and explicit catalog/language adapters.
+- [experiment/echo-swadesh-fresh-start](https://github.com/AGI144348Outlook/dual-order-os/tree/experiment/echo-swadesh-fresh-start): later bounded teaching experiments and documentary records.
 
-## Shelf index
+Features on research branches are not automatically present or deployed from main. The project does not establish general intelligence or scientific claims merely by storing their descriptions.
 
-### /matrices
-- `latin-roots/` — the classical Latin root base (275 roots drafted so far)
-- `hebrew-glyphs/` — the 22-glyph ISA opcode table
-- `affixes/` — Latin prefix/suffix profiles (the kind an Indus Icon like the Unicorn carries)
-- `legal-maxims/` — classical Latin legal maxims (brocards) used as structural/operational logic references
-- `evolution-constants/` — physics-layer coefficients (myelination, scar, resonance, hardening thresholds — from the eve3/MashetEVE evolution equation)
-- `indus-icons/` — agent definitions (Unicorn and future icons)
+## The dual-ordering structure
 
-### /indices
-- `by-glyph/` — reverse lookup: given a glyph, what references it
-- `by-jurisdiction/` — reverse lookup: given a jurisdiction/context, what belongs to it
-- `by-framework/` — reverse lookup: given a framework name, what parts belong to it
-- `by-source-document/` — reverse lookup: given a part, which RFC/doc/Drive file it originated from
+Two navigation directions over reusable parts:
 
-### /libraries
-Empty. Reserved for compiled, importable Python modules built from the matrices/indices above.
+- **matrices/** — content-first tables of one kind of record.
+- **indices/** — lookup-first references to the matrices holding a relevant record.
+- **libraries/** — executable implementations, including the versioned catalog and experimental language/indexing code.
+- **components/** — component guides and integration references.
+- **research/progression/** — questions, evidence, corrections, and unresolved work.
+
+The original shelving plan included Latin roots, Hebrew glyph profiles, affixes, legal maxims, evolution constants and Indus icons. Their presence as folders or descriptions does not establish completeness or operational capability. See each component's scope and evidence.
+
+## AI-assisted development
+
+Timothy Marvin Jr. supplies product direction and iterative requirements. AI tools assist with implementation, documentation, and testing. The portfolio describes concrete behavior and verification limits; it does not attribute every line of code or technical audit to Timothy personally.
