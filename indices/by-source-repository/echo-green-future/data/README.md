@@ -21,7 +21,7 @@ Bodies of content Echo reads: lexicons, corpora, dictionaries, datasets.
 | `kind` | the sort of thing it is |
 | `size_bytes` | size |
 | `licence` | its licence as stated |
-| `location` | the class or function inside the file |
+| `location` | where the files are kept: `git` or `R2` |
 
 ## Example row
 
