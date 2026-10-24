@@ -1,0 +1,45 @@
+{
+ "cases": 39,
+ "hits": 12,
+ "first_half": 3,
+ "second_half": 9,
+ "half": 19,
+ "trusted_by_bucket": {
+  "py:in-file": [
+   "parent",
+   0.43,
+   7
+  ],
+  "yml": [
+   "name",
+   0.0,
+   1
+  ],
+  "md": [
+   "shape",
+   1.0,
+   3
+  ],
+  "html:in-file": [
+   "name",
+   1.0,
+   1
+  ],
+  "py": [
+   "name",
+   0.0,
+   1
+  ],
+  "json": [
+   "name",
+   0.5,
+   2
+  ],
+  "js": [
+   "name",
+   1.0,
+   1
+  ]
+ },
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27"
+}
