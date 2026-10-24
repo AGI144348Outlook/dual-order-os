@@ -4,40 +4,41 @@
  "first_half": 3,
  "second_half": 9,
  "half": 19,
+ "attempts_carried_in": 0,
  "trusted_by_bucket": {
-  "py:in-file": [
-   "parent",
-   0.43,
-   7
-  ],
-  "yml": [
-   "name",
-   0.0,
-   1
+  "json": [
+   "librarian",
+   0.5,
+   2
   ],
   "md": [
    "shape",
    1.0,
    3
   ],
+  "py": [
+   "librarian",
+   0.0,
+   1
+  ],
+  "py:in-file": [
+   "parent",
+   0.43,
+   7
+  ],
   "html:in-file": [
    "name",
    1.0,
    1
   ],
-  "py": [
-   "name",
-   0.0,
-   1
-  ],
-  "json": [
-   "name",
-   0.5,
-   2
-  ],
   "js": [
    "name",
    1.0,
+   1
+  ],
+  "yml": [
+   "name",
+   0.0,
    1
   ]
  },

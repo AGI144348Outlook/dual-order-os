@@ -14,15 +14,12 @@ TSV is written unquoted (fields hold no tabs or newlines), so quotes inside note
 Usage: python3 sweep_1_logics.py <repo>
 """
 import csv
-import importlib.util
 import io
 import json
 import os
-import random
 import re
 import subprocess
 import sys
-import tempfile
 
 REPO = sys.argv[1]
 INV = os.path.join(REPO, 'inventory')
@@ -240,7 +237,7 @@ for gid, term, meaning, by, frm, variants, notes in G:
 n_gl = merge('glossary', gl)
 
 R = [  # registry-shaped items met in this sweep
-    dict(id='REG-0001', name='Hebrew Glyph Registry', entry_count='22', entry_schema='', maintained_by='hand-seeded',
+    dict(id='REG-0001', name='Hebrew Glyph Registry', entry_count='22', maintained_by='hand-seeded',
          home_or_ref='home', notes='status "authoritative-seed-to-be-reconciled-with-existing-project-glyph-registry"; same file at echo/language/data/ on ksm-recess-wholesale; other glyph registries exist (ECHO_GlyphRegistry/, lobbies/glyph/registry.json, pwa glyph_registry.json): reconcile in the registries sweep', **src('LOG-0026')),
     dict(id='REG-0002', name='DSL Registry', entry_count='14', maintained_by='canvas (? › DSL Registry)', home_or_ref='ref',
          notes='home: logics LOG-0010', **src('LOG-0010')),
@@ -254,19 +251,9 @@ for r in R:
 n_reg = merge('registries', R)
 
 # ---- Echo's shadow run --------------------------------------------------------------------------------
-# Echo's own kernel, unchanged (the 63eb9829 skeleton), supplies the learning: A-101 picks which way of
-# guessing to trust for each kind of file, A-113 records whether the guess matched the ruling.
-SKEL_BLOB = '63eb982989b4f3478d649430b555c8f4ba755c27'
-tmp = tempfile.mkdtemp()
-kpath = os.path.join(tmp, 'echo_governor_skeleton.py')
-open(kpath, 'w', encoding='utf-8').write(git('cat-file', 'blob', SKEL_BLOB))
-spec = importlib.util.spec_from_file_location('echo_kernel', kpath)
-kernel = importlib.util.module_from_spec(spec)
-import warnings
-with warnings.catch_warnings():
-    warnings.simplefilter('ignore')
-    spec.loader.exec_module(kernel)
-echo = kernel.AlgorithmMatrix()
+# Echo's own kernel, unchanged, through the shared journeyman harness (inventory/echo_journeyman.py).
+sys.path.insert(0, INV)
+import echo_journeyman
 
 l2 = {}
 for f in ('Algorithms', 'Codices', 'Formulas', 'Indices', 'Logics', 'Matrices', 'Registries'):
@@ -305,28 +292,10 @@ cases = [(iid, located[iid]['path'], name if located[iid]['line'] else '',
          for kind, items in (('home', HOME), ('ref', REFS))
          for (iid, name, _, _, _, _, _, _, _, notes) in items]
 cases += [(f'DECOY-{i:02d}', p, '', truth) for i, (p, truth) in enumerate(DECOYS, 1)]
-random.Random(1023).shuffle(cases)
-trace, hits = [], 0
-for k, (cid, path, where, truth) in enumerate(cases, 1):
-    bucket = path.rsplit('.', 1)[-1] + (':in-file' if where else '')
-    arm = echo.bandit_select(bucket, ARMS)
-    g = guess(arm, path, where)
-    ok = g == truth
-    hits += ok
-    echo.record_outcome(arm, bucket, ok)
-    if k % 5 == 0:
-        echo.checkpoint_generation()
-    trace.append(dict(n=k, id=cid, path=path, bucket=bucket, arm=arm, guess=g or '(none)', ruling=truth, hit=int(ok)))
-echo.checkpoint_generation()
+trace, summary = echo_journeyman.shadow(REPO, cases, ARMS, guess,
+                                       os.path.join(INV, 'logics', 'sweeps', 'echo_state_after_logics.json'), seed=1023)
 write(os.path.join(INV, 'logics', 'sweeps', 'echo_shadow_1.tsv'),
       ['n', 'id', 'path', 'bucket', 'arm', 'guess', 'ruling', 'hit'], trace)
-trusted = {}
-for (arm, bucket), (s, a) in echo.history.items():
-    if a and (bucket not in trusted or s / a > trusted[bucket][1]):
-        trusted[bucket] = (arm, round(s / a, 2), a)
-summary = dict(cases=len(cases), hits=hits, first_half=sum(t['hit'] for t in trace[:len(trace) // 2]),
-               second_half=sum(t['hit'] for t in trace[len(trace) // 2:]), half=len(trace) // 2,
-               trusted_by_bucket=trusted, kernel_blob=SKEL_BLOB)
 json.dump(summary, open(os.path.join(INV, 'logics', 'sweeps', 'echo_shadow_1.json'), 'w'), indent=1, ensure_ascii=False)
 print(f'logics rows {len(rows)} ({len(HOME)} home, {len(REFS)} ref); glossary {n_gl}; registries {n_reg}')
 print('echo:', json.dumps(summary, ensure_ascii=False))

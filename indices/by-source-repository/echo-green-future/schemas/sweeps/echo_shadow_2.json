@@ -1,0 +1,71 @@
+{
+ "cases": 64,
+ "hits": 30,
+ "first_half": 20,
+ "second_half": 10,
+ "half": 32,
+ "attempts_carried_in": 39,
+ "trusted_by_bucket": {
+  "json": [
+   "content",
+   0.79,
+   14
+  ],
+  "md": [
+   "shape",
+   1.0,
+   4
+  ],
+  "py": [
+   "content",
+   0.0,
+   1
+  ],
+  "py:in-file": [
+   "content",
+   0.95,
+   19
+  ],
+  "html": [
+   "name",
+   0.0,
+   1
+  ],
+  "html:in-file": [
+   "name",
+   1.0,
+   1
+  ],
+  "js": [
+   "name",
+   1.0,
+   1
+  ],
+  "md:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "webmanifest": [
+   "name",
+   0.0,
+   1
+  ],
+  "yml": [
+   "name",
+   0.0,
+   1
+  ]
+ },
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27"
+}
