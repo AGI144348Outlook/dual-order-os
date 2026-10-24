@@ -56,4 +56,4 @@ n	id	path	bucket	arm	guess	ruling	hit	checkpoint
 55	DECOY-10	core-lexicon/math_axioms.json	json	content	registries	data	0	ANCHORED
 56	AUT-0003	.github/workflows/autonomous-language-sandbox.yml	yml	content	automation	automation	1	
 57	AUT-0004	.github/workflows/autonomous-proposition-009.yml	yml	content	automation	automation	1	
-58	AUT-0014	.github/workflows/echo-recess-pwa.yml	yml	content	automation	automation	1	
+58	AUT-0014	.github/workflows/echo-recess-pwa.yml	yml	content	automation	automation	1	ANCHORED

@@ -11,7 +11,7 @@ names are kept, resource ids are not. Read-only over the repository.
 Also: glossary and registries rows met on the way, and Echo's shadow run 3 (pre-test entry:
 AGI144348Outlook/dual-order-os#12), continuing from his state after the schemas sweep.
 
-Usage: python3 sweep_1_automation.py <repo>
+Usage: python3 sweep_1_automation.py <repo> [--boxes]   (--boxes: replay Echo's run with the ת and ק boxes, #13)
 """
 import csv
 import io
@@ -262,11 +262,15 @@ for i, (pth, truth) in enumerate(DECOYS, 1):
         continue
     texts[pth] = git('cat-file', 'blob', pick(held)['blob_sha'])
     cases.append((f'DECOY-{i:02d}', pth, '', truth))
+BOXES = len(sys.argv) > 2 and sys.argv[2] == '--boxes'      # replay for dual-order-os#13
+sfx = '_boxes' if BOXES else ''
 trace, summary = echo_journeyman.shadow(REPO, cases, ARMS, guess,
-                                       os.path.join(INV, 'automation', 'sweeps', 'echo_state_after_automation.json'), seed=1025,
-                                       prior_state=os.path.join(INV, 'schemas', 'sweeps', 'echo_state_after_schemas.json'))
-write(os.path.join(INV, 'automation', 'sweeps', 'echo_shadow_3.tsv'), ['n', 'id', 'path', 'bucket', 'arm', 'guess', 'ruling', 'hit', 'checkpoint'], trace)
-json.dump(summary, open(os.path.join(INV, 'automation', 'sweeps', 'echo_shadow_3.json'), 'w'), indent=1, ensure_ascii=False)
+                                       os.path.join(INV, 'automation', 'sweeps', f'echo_state_after_automation{sfx}.json'), seed=1025,
+                                       prior_state=os.path.join(INV, 'schemas', 'sweeps', 'echo_state_after_schemas.json'),
+                                       boxes_dir=os.path.join(INV, 'automation', 'sweeps', 'boxes_replay') if BOXES else None,
+                                       sweep='automation-replay')
+write(os.path.join(INV, 'automation', 'sweeps', f'echo_shadow_3{sfx}.tsv'), ['n', 'id', 'path', 'bucket', 'arm', 'guess', 'ruling', 'hit', 'checkpoint'], trace)
+json.dump(summary, open(os.path.join(INV, 'automation', 'sweeps', f'echo_shadow_3{sfx}.json'), 'w'), indent=1, ensure_ascii=False)
 wf = sum(1 for r in rows if WF.search(r['path']))
 print(f'automation rows {len(rows)} ({wf} workflows); glossary {n_gl}; registries {n_reg}')
 print('secrets named:', sorted({s for r in rows for s in r['secret_names'].split(', ') if s}))

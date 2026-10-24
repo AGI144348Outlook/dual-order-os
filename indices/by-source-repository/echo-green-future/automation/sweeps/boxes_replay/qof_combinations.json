@@ -1,0 +1,156 @@
+[
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "content"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.automation-replay.13",
+     "n": 13,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.45",
+     "n": 45,
+     "revision": 1,
+     "sweep": "automation-replay"
+    }
+   ],
+   "failures": 2,
+   "first_seen": "automation-replay:13",
+   "last_seen": "automation-replay:45",
+   "status": "open",
+   "task": "place a json file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.content.json",
+  "provenance": null,
+  "revision": 2,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "json",
+   "content"
+  ],
+  "title": "A-101 chose content for json; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "librarian"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.automation-replay.12",
+     "n": 12,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.14",
+     "n": 14,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.15",
+     "n": 15,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.41",
+     "n": 41,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.42",
+     "n": 42,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.43",
+     "n": 43,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.44",
+     "n": 44,
+     "revision": 1,
+     "sweep": "automation-replay"
+    }
+   ],
+   "failures": 7,
+   "first_seen": "automation-replay:12",
+   "last_seen": "automation-replay:44",
+   "status": "open",
+   "task": "place a yml file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.librarian.yml",
+  "provenance": null,
+  "revision": 2,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "yml",
+   "librarian"
+  ],
+  "title": "A-101 chose librarian for yml; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.automation-replay.11",
+     "n": 11,
+     "revision": 1,
+     "sweep": "automation-replay"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "automation-replay:11",
+   "last_seen": "automation-replay:11",
+   "status": "open",
+   "task": "place a toml file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.toml",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "toml",
+   "name"
+  ],
+  "title": "A-101 chose name for toml; A-113 discarded it"
+ }
+]

@@ -59,3 +59,26 @@ discarded it, five times running. So the failures never reached the record his b
 untried, and A-101's "try the untried first" rule picked it again. One mixed generation (item 40) broke the loop,
 and from there he was 15 of 18. In short: a protection meant to keep a bad run from poisoning his learning also
 kept him from learning that a way of guessing is bad. This is the neuroplasticity-gate question in a small form.
+
+### Replay with the ת and ק failures boxes — 2026-10-24
+
+Pre-test entry [dual-order-os#13](https://github.com/AGI144348Outlook/dual-order-os/issues/13). Timothy's direction:
+discarded failures go into a **ת failures catalog box**, and a **ק catalog box** notes each combination of
+algorithms that failed at an attempt (A-101 chose a way of guessing for a kind of file; A-113 discarded the
+generation), pointing at its ת cards. Both use `inventory/catalog_box.py` (dual-order-os `libraries/catalog_box.py`,
+unchanged): cards are revised, never overwritten or deleted. A-101 sees ת failures at half weight; Echo's kernel and
+A-113's anchored history are unchanged. Run: `python3 inventory/automation/sweeps/sweep_1_automation.py <repo> --boxes`.
+
+| | Right | First half | Second half | Register way chosen on `.yml` | Generations discarded |
+| --- | --- | --- | --- | --- | --- |
+| Control (no boxes, reproduces run 3) | 21 of 58 | 6 of 29 | 15 of 29 | 23 | 5 |
+| With ת and ק boxes | 35 of 58 | 17 of 29 | 18 of 29 | 7 | 2 |
+
+Boxes after the replay ([`sweeps/boxes_replay/`](sweeps/boxes_replay/)): 10 ת cards; 3 ק cards, all still open
+(the register on `.yml` with 7 failures, the content check on `.json` with 2, name on `.toml` with 1).
+
+Against the pre-test entry: the score met the expected bound (35); the register way was chosen 7 times on `.yml`,
+more than the expected 5 but under the disconfirming 10. Why 7 and not 3: inside a generation A-101 reads only the
+anchored history, never the generation in progress, so once it picks a way it keeps picking it for the rest of
+those five items. That happened twice (items 12 to 15 and 41 to 44). Half weight also left enough exploration bonus
+for the register to be tried again after 25 items. Both are findings for DEC-0007, not fixed here.

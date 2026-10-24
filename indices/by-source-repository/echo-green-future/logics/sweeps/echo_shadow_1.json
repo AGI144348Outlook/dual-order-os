@@ -42,5 +42,64 @@
    1
   ]
  },
- "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27"
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+ "checkpoints": [
+  {
+   "after": 5,
+   "decision": "ANCHORED",
+   "current_rate": 0.0,
+   "baseline_rate": null,
+   "attempts": 5
+  },
+  {
+   "after": 10,
+   "decision": "ANCHORED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.0,
+   "attempts": 5
+  },
+  {
+   "after": 15,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.1,
+   "attempts": 5
+  },
+  {
+   "after": 20,
+   "decision": "ANCHORED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.2,
+   "attempts": 5
+  },
+  {
+   "after": 25,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.15,
+   "attempts": 5
+  },
+  {
+   "after": 30,
+   "decision": "ANCHORED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.2,
+   "attempts": 5
+  },
+  {
+   "after": 35,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.2,
+   "attempts": 5
+  },
+  {
+   "after": 39,
+   "decision": "ANCHORED",
+   "current_rate": 0.5,
+   "baseline_rate": 0.2857142857142857,
+   "attempts": 4
+  }
+ ],
+ "boxes": null
 }

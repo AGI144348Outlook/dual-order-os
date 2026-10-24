@@ -1,0 +1,302 @@
+[
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0045",
+   "kind": "toml",
+   "n": 11,
+   "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler.toml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.11",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "toml",
+   "name"
+  ],
+  "title": "name guessed (none) for integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler.toml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0017",
+   "kind": "yml",
+   "n": 12,
+   "path": ".github/workflows/geosensory-crawler-test.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.12",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/geosensory-crawler-test.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "schemas",
+   "item": "DECOY-04",
+   "kind": "json",
+   "n": 13,
+   "path": "infrastructure/cloudflare_blueprint.json",
+   "ruling": "deployments",
+   "sweep": "automation-replay",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.13",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "content"
+  ],
+  "title": "content guessed schemas for infrastructure/cloudflare_blueprint.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0033",
+   "kind": "yml",
+   "n": 14,
+   "path": ".github/workflows/swadesh-glyph-dictionary-classroom.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.14",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/swadesh-glyph-dictionary-classroom.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0010",
+   "kind": "yml",
+   "n": 15,
+   "path": ".github/workflows/deploy-pwa.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.15",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/deploy-pwa.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0007",
+   "kind": "yml",
+   "n": 41,
+   "path": ".github/workflows/deploy-archive-workbench.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.41",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/deploy-archive-workbench.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0005",
+   "kind": "yml",
+   "n": 42,
+   "path": ".github/workflows/cloudflare-bridge.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.42",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/cloudflare-bridge.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0019",
+   "kind": "yml",
+   "n": 43,
+   "path": ".github/workflows/glyph-lobby-instantiation.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.43",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/glyph-lobby-instantiation.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0009",
+   "kind": "yml",
+   "n": 44,
+   "path": ".github/workflows/deploy-ksm-recess.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.44",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/deploy-ksm-recess.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "registries",
+   "item": "DECOY-06",
+   "kind": "json",
+   "n": 45,
+   "path": "matrices/echo_vgm.json",
+   "ruling": "matrices",
+   "sweep": "automation-replay",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.45",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "content"
+  ],
+  "title": "content guessed registries for matrices/echo_vgm.json"
+ }
+]
