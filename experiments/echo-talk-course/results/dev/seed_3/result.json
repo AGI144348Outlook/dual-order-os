@@ -1,0 +1,7828 @@
+{
+ "seed": 3,
+ "units": [
+  {
+   "unit": "numbers",
+   "new_words": 13,
+   "practice": [
+    13,
+    13
+   ],
+   "review": 0,
+   "changed": [
+    [
+     "eight",
+     "green"
+    ],
+    [
+     "eleven",
+     "green"
+    ],
+    [
+     "five",
+     "green"
+    ],
+    [
+     "four",
+     "green"
+    ],
+    [
+     "nine",
+     "green"
+    ],
+    [
+     "one",
+     "green"
+    ],
+    [
+     "seven",
+     "green"
+    ],
+    [
+     "six",
+     "green"
+    ],
+    [
+     "ten",
+     "green"
+    ],
+    [
+     "three",
+     "green"
+    ],
+    [
+     "twelve",
+     "green"
+    ],
+    [
+     "two",
+     "green"
+    ],
+    [
+     "zero",
+     "green"
+    ]
+   ],
+   "rechecked": 13,
+   "green": 13,
+   "seconds": 0.0
+  },
+  {
+   "unit": "kinds and sizes",
+   "new_words": 12,
+   "practice": [
+    12,
+    12
+   ],
+   "review": 0,
+   "dialogue": {
+    "n": 60,
+    "ok": 33,
+    "asked": 18
+   },
+   "changed": [
+    [
+     "archive",
+     "green"
+    ],
+    [
+     "big",
+     "green"
+    ],
+    [
+     "code",
+     "green"
+    ],
+    [
+     "config",
+     "green"
+    ],
+    [
+     "data",
+     "green"
+    ],
+    [
+     "document",
+     "green"
+    ],
+    [
+     "page",
+     "green"
+    ],
+    [
+     "patch",
+     "green"
+    ],
+    [
+     "picture",
+     "green"
+    ],
+    [
+     "small",
+     "green"
+    ],
+    [
+     "table",
+     "green"
+    ],
+    [
+     "video",
+     "green"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 25,
+   "seconds": 0.5
+  },
+  {
+   "unit": "formats 1 and spread",
+   "new_words": 11,
+   "practice": [
+    11,
+    11
+   ],
+   "truth_lessons": 24,
+   "review": 0,
+   "dialogue": {
+    "n": 60,
+    "ok": 34,
+    "asked": 8
+   },
+   "changed": [
+    [
+     "common",
+     "green"
+    ],
+    [
+     "contract",
+     "green"
+    ],
+    [
+     "css",
+     "green"
+    ],
+    [
+     "diff",
+     "green"
+    ],
+    [
+     "experiments",
+     "green"
+    ],
+    [
+     "gzip",
+     "green"
+    ],
+    [
+     "html",
+     "green"
+    ],
+    [
+     "javascript",
+     "green"
+    ],
+    [
+     "json",
+     "green"
+    ],
+    [
+     "jsonl",
+     "green"
+    ],
+    [
+     "manifest",
+     "green"
+    ],
+    [
+     "markdown",
+     "green"
+    ],
+    [
+     "no",
+     "green"
+    ],
+    [
+     "rare",
+     "green"
+    ],
+    [
+     "readme",
+     "green"
+    ],
+    [
+     "symbols",
+     "green"
+    ],
+    [
+     "top",
+     "green"
+    ],
+    [
+     "yes",
+     "green"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 43,
+   "seconds": 0.8
+  },
+  {
+   "unit": "formats 2",
+   "new_words": 9,
+   "practice": [
+    9,
+    9
+   ],
+   "truth_lessons": 24,
+   "review": 2,
+   "dialogue": {
+    "n": 60,
+    "ok": 41,
+    "asked": 10
+   },
+   "changed": [
+    [
+     "app",
+     "green"
+    ],
+    [
+     "glyph",
+     "green"
+    ],
+    [
+     "hourly",
+     "green"
+    ],
+    [
+     "inbox",
+     "green"
+    ],
+    [
+     "lock",
+     "green"
+    ],
+    [
+     "mp4",
+     "green"
+    ],
+    [
+     "pdf",
+     "green"
+    ],
+    [
+     "png",
+     "green"
+    ],
+    [
+     "python",
+     "green"
+    ],
+    [
+     "recess",
+     "green"
+    ],
+    [
+     "record",
+     "green"
+    ],
+    [
+     "text",
+     "green"
+    ],
+    [
+     "toml",
+     "green"
+    ],
+    [
+     "tsv",
+     "green"
+    ],
+    [
+     "yaml",
+     "green"
+    ],
+    [
+     "zip",
+     "green"
+    ],
+    [
+     "experiments",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 58,
+   "seconds": 1.6
+  },
+  {
+   "unit": "places 1",
+   "new_words": 14,
+   "practice": [
+    14,
+    13
+   ],
+   "review": 0,
+   "dialogue": {
+    "n": 60,
+    "ok": 38,
+    "asked": 13
+   },
+   "changed": [
+    [
+     "agency",
+     "green"
+    ],
+    [
+     "algorithms",
+     "green"
+    ],
+    [
+     "branch",
+     "green"
+    ],
+    [
+     "business",
+     "green"
+    ],
+    [
+     "codelib",
+     "green"
+    ],
+    [
+     "datasets",
+     "green"
+    ],
+    [
+     "devsuite",
+     "green"
+    ],
+    [
+     "docs",
+     "green"
+    ],
+    [
+     "echo",
+     "green"
+    ],
+    [
+     "experiments",
+     "green"
+    ],
+    [
+     "github",
+     "green"
+    ],
+    [
+     "glyphs",
+     "green"
+    ],
+    [
+     "governor",
+     "green"
+    ],
+    [
+     "matrix",
+     "green"
+    ],
+    [
+     "nve",
+     "green"
+    ],
+    [
+     "report",
+     "green"
+    ],
+    [
+     "sora",
+     "green"
+    ],
+    [
+     "workshop",
+     "green"
+    ],
+    [
+     "seven",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 75,
+   "seconds": 2.6
+  },
+  {
+   "unit": "places 2",
+   "new_words": 14,
+   "practice": [
+    14,
+    14
+   ],
+   "review": 2,
+   "dialogue": {
+    "n": 60,
+    "ok": 46,
+    "asked": 7
+   },
+   "changed": [
+    [
+     "build",
+     "green"
+    ],
+    [
+     "chat",
+     "green"
+    ],
+    [
+     "lexicon",
+     "green"
+    ],
+    [
+     "lobbies",
+     "green"
+    ],
+    [
+     "lz",
+     "green"
+    ],
+    [
+     "matrices",
+     "green"
+    ],
+    [
+     "pwa",
+     "green"
+    ],
+    [
+     "research",
+     "green"
+    ],
+    [
+     "results",
+     "green"
+    ],
+    [
+     "seven",
+     "green"
+    ],
+    [
+     "shelves",
+     "green"
+    ],
+    [
+     "src",
+     "green"
+    ],
+    [
+     "tests",
+     "green"
+    ],
+    [
+     "transcriptions",
+     "green"
+    ],
+    [
+     "glyph",
+     "yellow"
+    ],
+    [
+     "top",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 87,
+   "seconds": 2.8
+  },
+  {
+   "unit": "names 1",
+   "new_words": 12,
+   "practice": [
+    12,
+    12
+   ],
+   "review": 5,
+   "dialogue": {
+    "n": 60,
+    "ok": 51,
+    "asked": 6
+   },
+   "changed": [
+    [
+     "abstraction",
+     "green"
+    ],
+    [
+     "addendum",
+     "green"
+    ],
+    [
+     "algorithm",
+     "green"
+    ],
+    [
+     "applications",
+     "green"
+    ],
+    [
+     "assessment",
+     "green"
+    ],
+    [
+     "bridge",
+     "green"
+    ],
+    [
+     "candidate",
+     "green"
+    ],
+    [
+     "classroom",
+     "green"
+    ],
+    [
+     "glyph",
+     "green"
+    ],
+    [
+     "ivs",
+     "green"
+    ],
+    [
+     "library",
+     "green"
+    ],
+    [
+     "review",
+     "green"
+    ],
+    [
+     "top",
+     "green"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 100,
+   "seconds": 3.0
+  },
+  {
+   "unit": "names 2",
+   "new_words": 12,
+   "practice": [
+    12,
+    12
+   ],
+   "review": 2,
+   "dialogue": {
+    "n": 60,
+    "ok": 55,
+    "asked": 3
+   },
+   "changed": [
+    [
+     "autonomous",
+     "green"
+    ],
+    [
+     "batch",
+     "green"
+    ],
+    [
+     "canvas",
+     "green"
+    ],
+    [
+     "characterization",
+     "green"
+    ],
+    [
+     "checkpoint",
+     "green"
+    ],
+    [
+     "clr",
+     "green"
+    ],
+    [
+     "comprehension",
+     "green"
+    ],
+    [
+     "cross",
+     "green"
+    ],
+    [
+     "delta",
+     "green"
+    ],
+    [
+     "deploy",
+     "green"
+    ],
+    [
+     "dfe",
+     "green"
+    ],
+    [
+     "janssen",
+     "green"
+    ],
+    [
+     "registry",
+     "green"
+    ],
+    [
+     "business",
+     "yellow"
+    ],
+    [
+     "gzip",
+     "yellow"
+    ],
+    [
+     "html",
+     "yellow"
+    ],
+    [
+     "javascript",
+     "yellow"
+    ],
+    [
+     "jsonl",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 108,
+   "seconds": 2.6
+  },
+  {
+   "unit": "names 3",
+   "new_words": 12,
+   "practice": [
+    12,
+    11
+   ],
+   "review": 6,
+   "dialogue": {
+    "n": 60,
+    "ok": 48,
+    "asked": 2
+   },
+   "changed": [
+    [
+     "business",
+     "green"
+    ],
+    [
+     "disc",
+     "green"
+    ],
+    [
+     "discovery",
+     "green"
+    ],
+    [
+     "etal",
+     "green"
+    ],
+    [
+     "gpt",
+     "green"
+    ],
+    [
+     "gzip",
+     "green"
+    ],
+    [
+     "homework",
+     "green"
+    ],
+    [
+     "html",
+     "green"
+    ],
+    [
+     "hypernym",
+     "green"
+    ],
+    [
+     "icon",
+     "green"
+    ],
+    [
+     "javascript",
+     "green"
+    ],
+    [
+     "jsonl",
+     "green"
+    ],
+    [
+     "no",
+     "yellow"
+    ],
+    [
+     "page",
+     "yellow"
+    ],
+    [
+     "patch",
+     "yellow"
+    ],
+    [
+     "picture",
+     "yellow"
+    ],
+    [
+     "table",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 115,
+   "seconds": 3.0
+  },
+  {
+   "unit": "names 4",
+   "new_words": 12,
+   "practice": [
+    12,
+    12
+   ],
+   "review": 8,
+   "dialogue": {
+    "n": 60,
+    "ok": 51,
+    "asked": 4
+   },
+   "changed": [
+    [
+     "dictionary",
+     "green"
+    ],
+    [
+     "hebrew",
+     "green"
+    ],
+    [
+     "index",
+     "green"
+    ],
+    [
+     "init",
+     "green"
+    ],
+    [
+     "input",
+     "green"
+    ],
+    [
+     "inventory",
+     "green"
+    ],
+    [
+     "ksm",
+     "green"
+    ],
+    [
+     "lab",
+     "green"
+    ],
+    [
+     "lesson",
+     "green"
+    ],
+    [
+     "license",
+     "green"
+    ],
+    [
+     "lobby",
+     "green"
+    ],
+    [
+     "no",
+     "green"
+    ],
+    [
+     "page",
+     "green"
+    ],
+    [
+     "patch",
+     "green"
+    ],
+    [
+     "picture",
+     "green"
+    ],
+    [
+     "progress",
+     "green"
+    ],
+    [
+     "table",
+     "green"
+    ],
+    [
+     "css",
+     "yellow"
+    ],
+    [
+     "eight",
+     "yellow"
+    ],
+    [
+     "eleven",
+     "yellow"
+    ],
+    [
+     "lexicon",
+     "yellow"
+    ],
+    [
+     "lobbies",
+     "yellow"
+    ],
+    [
+     "lz",
+     "yellow"
+    ],
+    [
+     "research",
+     "yellow"
+    ],
+    [
+     "results",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 124,
+   "seconds": 3.4
+  },
+  {
+   "unit": "names 5",
+   "new_words": 12,
+   "practice": [
+    12,
+    10
+   ],
+   "review": 11,
+   "dialogue": {
+    "n": 60,
+    "ok": 44,
+    "asked": 4
+   },
+   "changed": [
+    [
+     "css",
+     "green"
+    ],
+    [
+     "eight",
+     "green"
+    ],
+    [
+     "eleven",
+     "green"
+    ],
+    [
+     "eve",
+     "green"
+    ],
+    [
+     "ledger",
+     "green"
+    ],
+    [
+     "lexicon",
+     "green"
+    ],
+    [
+     "lhea",
+     "green"
+    ],
+    [
+     "lobbies",
+     "green"
+    ],
+    [
+     "lz",
+     "green"
+    ],
+    [
+     "mashet",
+     "green"
+    ],
+    [
+     "mod",
+     "green"
+    ],
+    [
+     "notebook",
+     "green"
+    ],
+    [
+     "operator",
+     "green"
+    ],
+    [
+     "part",
+     "green"
+    ],
+    [
+     "proposed",
+     "green"
+    ],
+    [
+     "protocol",
+     "green"
+    ],
+    [
+     "provenance",
+     "green"
+    ],
+    [
+     "research",
+     "green"
+    ],
+    [
+     "results",
+     "green"
+    ],
+    [
+     "zenodo",
+     "green"
+    ],
+    [
+     "algorithms",
+     "yellow"
+    ],
+    [
+     "glyph",
+     "yellow"
+    ],
+    [
+     "shelves",
+     "yellow"
+    ],
+    [
+     "src",
+     "yellow"
+    ],
+    [
+     "yes",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 139,
+   "seconds": 6.7
+  },
+  {
+   "unit": "names 6",
+   "new_words": 12,
+   "practice": [
+    12,
+    12
+   ],
+   "review": 5,
+   "dialogue": {
+    "n": 60,
+    "ok": 48,
+    "asked": 6
+   },
+   "changed": [
+    [
+     "glyph",
+     "green"
+    ],
+    [
+     "register",
+     "green"
+    ],
+    [
+     "resh",
+     "green"
+    ],
+    [
+     "run",
+     "green"
+    ],
+    [
+     "service",
+     "green"
+    ],
+    [
+     "shakti",
+     "green"
+    ],
+    [
+     "shelves",
+     "green"
+    ],
+    [
+     "snapshot",
+     "green"
+    ],
+    [
+     "src",
+     "green"
+    ],
+    [
+     "mp4",
+     "yellow"
+    ],
+    [
+     "pdf",
+     "yellow"
+    ],
+    [
+     "png",
+     "yellow"
+    ],
+    [
+     "yaml",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 144,
+   "seconds": 6.5
+  },
+  {
+   "unit": "names 7",
+   "new_words": 12,
+   "practice": [
+    12,
+    11
+   ],
+   "review": 6,
+   "dialogue": {
+    "n": 60,
+    "ok": 49,
+    "asked": 3
+   },
+   "changed": [
+    [
+     "algorithms",
+     "green"
+    ],
+    [
+     "mp4",
+     "green"
+    ],
+    [
+     "pdf",
+     "green"
+    ],
+    [
+     "png",
+     "green"
+    ],
+    [
+     "status",
+     "green"
+    ],
+    [
+     "summary",
+     "green"
+    ],
+    [
+     "swadesh",
+     "green"
+    ],
+    [
+     "test",
+     "green"
+    ],
+    [
+     "transfer",
+     "green"
+    ],
+    [
+     "tsadi",
+     "green"
+    ],
+    [
+     "videos",
+     "green"
+    ],
+    [
+     "yaml",
+     "green"
+    ],
+    [
+     "yes",
+     "green"
+    ],
+    [
+     "characterization",
+     "yellow"
+    ],
+    [
+     "codelib",
+     "yellow"
+    ],
+    [
+     "glyphs",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 154,
+   "seconds": 6.4
+  },
+  {
+   "unit": "names 8",
+   "new_words": 2,
+   "practice": [
+    2,
+    2
+   ],
+   "review": 6,
+   "dialogue": {
+    "n": 60,
+    "ok": 53,
+    "asked": 4
+   },
+   "changed": [
+    [
+     "characterization",
+     "green"
+    ],
+    [
+     "codelib",
+     "green"
+    ],
+    [
+     "glyphs",
+     "green"
+    ],
+    [
+     "source",
+     "green"
+    ],
+    [
+     "substrate",
+     "green"
+    ],
+    [
+     "worker",
+     "green"
+    ],
+    [
+     "nine",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 159,
+   "seconds": 4.3
+  },
+  {
+   "unit": "review 1",
+   "new_words": 2,
+   "practice": [
+    2,
+    2
+   ],
+   "review": 0,
+   "dialogue": {
+    "n": 60,
+    "ok": 49,
+    "asked": 5
+   },
+   "changed": [
+    [
+     "nine",
+     "green"
+    ],
+    [
+     "trial",
+     "green"
+    ],
+    [
+     "config",
+     "yellow"
+    ],
+    [
+     "contract",
+     "yellow"
+    ],
+    [
+     "hypernym",
+     "yellow"
+    ],
+    [
+     "workshop",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 157,
+   "seconds": 5.1
+  },
+  {
+   "unit": "review 2",
+   "new_words": 4,
+   "practice": [
+    4,
+    3
+   ],
+   "review": 0,
+   "dialogue": {
+    "n": 60,
+    "ok": 49,
+    "asked": 5
+   },
+   "changed": [
+    [
+     "config",
+     "green"
+    ],
+    [
+     "contract",
+     "green"
+    ],
+    [
+     "hypernym",
+     "green"
+    ],
+    [
+     "workshop",
+     "green"
+    ],
+    [
+     "init",
+     "yellow"
+    ],
+    [
+     "input",
+     "yellow"
+    ],
+    [
+     "inventory",
+     "yellow"
+    ],
+    [
+     "ksm",
+     "yellow"
+    ],
+    [
+     "license",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 156,
+   "seconds": 4.3
+  },
+  {
+   "unit": "review 3",
+   "new_words": 5,
+   "practice": [
+    4,
+    4
+   ],
+   "review": 0,
+   "dialogue": {
+    "n": 60,
+    "ok": 55,
+    "asked": 3
+   },
+   "changed": [
+    [
+     "init",
+     "green"
+    ],
+    [
+     "input",
+     "green"
+    ],
+    [
+     "inventory",
+     "green"
+    ],
+    [
+     "ksm",
+     "green"
+    ],
+    [
+     "license",
+     "green"
+    ],
+    [
+     "algorithm",
+     "yellow"
+    ],
+    [
+     "applications",
+     "yellow"
+    ],
+    [
+     "assessment",
+     "yellow"
+    ],
+    [
+     "bridge",
+     "yellow"
+    ],
+    [
+     "ledger",
+     "yellow"
+    ]
+   ],
+   "rechecked": 20,
+   "green": 156,
+   "seconds": 3.0
+  }
+ ],
+ "green": [
+  "abstraction",
+  "addendum",
+  "agency",
+  "algorithms",
+  "app",
+  "archive",
+  "autonomous",
+  "batch",
+  "big",
+  "branch",
+  "build",
+  "business",
+  "candidate",
+  "canvas",
+  "characterization",
+  "chat",
+  "checkpoint",
+  "classroom",
+  "clr",
+  "code",
+  "codelib",
+  "common",
+  "comprehension",
+  "config",
+  "contract",
+  "cross",
+  "css",
+  "data",
+  "datasets",
+  "delta",
+  "deploy",
+  "devsuite",
+  "dfe",
+  "dictionary",
+  "diff",
+  "disc",
+  "discovery",
+  "docs",
+  "document",
+  "echo",
+  "eight",
+  "eleven",
+  "etal",
+  "eve",
+  "experiments",
+  "five",
+  "four",
+  "github",
+  "glyph",
+  "glyphs",
+  "governor",
+  "gpt",
+  "gzip",
+  "hebrew",
+  "homework",
+  "hourly",
+  "html",
+  "hypernym",
+  "icon",
+  "inbox",
+  "index",
+  "init",
+  "input",
+  "inventory",
+  "ivs",
+  "janssen",
+  "javascript",
+  "json",
+  "jsonl",
+  "ksm",
+  "lab",
+  "lesson",
+  "lexicon",
+  "lhea",
+  "library",
+  "license",
+  "lobbies",
+  "lobby",
+  "lock",
+  "lz",
+  "manifest",
+  "markdown",
+  "mashet",
+  "matrices",
+  "matrix",
+  "mod",
+  "mp4",
+  "nine",
+  "no",
+  "notebook",
+  "nve",
+  "one",
+  "operator",
+  "page",
+  "part",
+  "patch",
+  "pdf",
+  "picture",
+  "png",
+  "progress",
+  "proposed",
+  "protocol",
+  "provenance",
+  "pwa",
+  "python",
+  "rare",
+  "readme",
+  "recess",
+  "record",
+  "register",
+  "registry",
+  "report",
+  "research",
+  "resh",
+  "results",
+  "review",
+  "run",
+  "service",
+  "seven",
+  "shakti",
+  "shelves",
+  "six",
+  "small",
+  "snapshot",
+  "sora",
+  "source",
+  "src",
+  "status",
+  "substrate",
+  "summary",
+  "swadesh",
+  "symbols",
+  "table",
+  "ten",
+  "test",
+  "tests",
+  "text",
+  "three",
+  "toml",
+  "top",
+  "transcriptions",
+  "transfer",
+  "trial",
+  "tsadi",
+  "tsv",
+  "twelve",
+  "two",
+  "video",
+  "videos",
+  "worker",
+  "workshop",
+  "yaml",
+  "yes",
+  "zenodo",
+  "zero",
+  "zip"
+ ],
+ "n_green": 156,
+ "testable": 161,
+ "g2": {
+  "answerable": 60,
+  "answerable_correct": 47,
+  "answerable_all_green": 58,
+  "answerable_all_green_correct": 46,
+  "unmet": 20,
+  "unmet_asked": 20,
+  "unmet_asked_right_word": 20,
+  "skipped": 0
+ },
+ "speech": {
+  "words": 744,
+  "unqualified": 0
+ },
+ "talker": {
+  "routes": {
+   "there": {
+    "T#": 52.0,
+    "T?": 59.0
+   },
+   "are": {
+    "T#": 52.0,
+    "T*": 33.0,
+    "T?": 29.0
+   },
+   "how": {
+    "T#": 149.0
+   },
+   "files": {
+    "T#": 194.0,
+    "T*": 130.0,
+    "T=c130915": 2.0,
+    "T=c523867": 7.0,
+    "T=c691197": 2.0,
+    "T=c726631": 3.0,
+    "T=c92220": 12.0,
+    "T=c984530": 2.0,
+    "T?": 31.0
+   },
+   "many": {
+    "T#": 149.0
+   },
+   "count": {
+    "T#": 45.0
+   },
+   "the": {
+    "T#": 45.0,
+    "T*": 96.0,
+    "T=c130915": 66.0,
+    "T=c523867": 7.0,
+    "T=c691197": 62.0,
+    "T=c726631": 53.0,
+    "T=c92220": 18.0,
+    "T=c984530": 69.0,
+    "T?": 37.0
+   },
+   "which": {
+    "T*": 33.0,
+    "T=c92220": 3.0,
+    "T=c726631": 39.0
+   },
+   "ones": {
+    "T*": 33.0
+   },
+   "point": {
+    "T*": 22.0,
+    "T=c130915": 2.0,
+    "T=c726631": 3.0,
+    "T=c92220": 12.0,
+    "T=c984530": 2.0
+   },
+   "to": {
+    "T*": 22.0,
+    "T=c130915": 2.0,
+    "T=c726631": 3.0,
+    "T=c92220": 12.0,
+    "T=c984530": 2.0
+   },
+   "find": {
+    "T*": 30.0,
+    "T=c523867": 7.0
+   },
+   "me": {
+    "T*": 21.0,
+    "T=c691197": 1.0,
+    "T?": 1.0
+   },
+   "show": {
+    "T*": 45.0,
+    "T=c691197": 2.0,
+    "T?": 2.0
+   },
+   "you": {
+    "T#": 54.0,
+    "T?": 22.0
+   },
+   "do": {
+    "T#": 54.0,
+    "T?": 22.0
+   },
+   "see": {
+    "T#": 54.0,
+    "T?": 22.0
+   },
+   "in": {
+    "T#": 32.0,
+    "T*": 22.0,
+    "T?": 27.0,
+    "T=c92220": 5.0,
+    "T=c726631": 38.0
+   },
+   "rare": {
+    "T*": 1.0,
+    "T#": 1.0
+   },
+   "any": {
+    "T?": 29.0
+   },
+   "a": {
+    "T?": 77.0
+   },
+   "file": {
+    "T?": 98.0,
+    "T=c130915": 65.0,
+    "T=c691197": 60.0,
+    "T=c984530": 67.0,
+    "T=c726631": 50.0,
+    "T=c92220": 6.0
+   },
+   "named": {
+    "T=c523867": 1.0,
+    "T#": 10.0,
+    "T?": 14.0,
+    "T*": 16.0,
+    "T=c92220": 2.0
+   },
+   "what": {
+    "T=c130915": 122.0,
+    "T=c691197": 119.0,
+    "T=c984530": 128.0,
+    "T=c92220": 8.0,
+    "T=c726631": 2.0
+   },
+   "size": {
+    "T=c130915": 122.0
+   },
+   "kind": {
+    "T=c691197": 102.0,
+    "T=c984530": 27.0,
+    "T=c92220": 5.0
+   },
+   "format": {
+    "T=c691197": 17.0,
+    "T=c984530": 101.0,
+    "T=c726631": 2.0,
+    "T=c92220": 3.0
+   },
+   "is": {
+    "T=c984530": 128.0,
+    "T=c130915": 120.0,
+    "T?": 73.0,
+    "T=c691197": 115.0,
+    "T=c726631": 121.0,
+    "T=c92220": 13.0
+   },
+   "of": {
+    "T=c984530": 15.0,
+    "T=c691197": 52.0,
+    "T=c92220": 1.0
+   },
+   "where": {
+    "T=c726631": 80.0,
+    "T=c92220": 2.0,
+    "T=c984530": 1.0
+   },
+   "folder": {
+    "T=c92220": 3.0,
+    "T=c726631": 39.0
+   },
+   "zip": {
+    "T*": 1.0
+   },
+   "picture": {
+    "T?": 1.0
+   },
+   "nve": {
+    "T=c130915": 1.0,
+    "T?": 1.0
+   },
+   "python": {
+    "T*": 1.0
+   },
+   "mp4": {
+    "T?": 1.0
+   },
+   "report": {
+    "T=c130915": 1.0
+   },
+   "lock": {
+    "T=c130915": 1.0
+   },
+   "text": {
+    "T#": 1.0
+   },
+   "pwa": {
+    "T?": 1.0
+   },
+   "yaml": {
+    "T#": 1.0
+   },
+   "workshop": {
+    "T?": 2.0
+   },
+   "bridge": {
+    "T#": 1.0,
+    "T=c130915": 1.0,
+    "T?": 1.0
+   },
+   "abstraction": {
+    "T=c130915": 1.0
+   },
+   "dfe": {
+    "T=c130915": 1.0
+   },
+   "gpt": {
+    "T=c691197": 1.0
+   },
+   "candidate": {
+    "T=c726631": 1.0
+   },
+   "tsv": {
+    "T*": 1.0
+   },
+   "disc": {
+    "T=c726631": 1.0
+   }
+  },
+  "met_form": [
+   "any",
+   "are",
+   "count",
+   "do",
+   "find",
+   "folder",
+   "format",
+   "how",
+   "in",
+   "kind",
+   "many",
+   "me",
+   "named",
+   "of",
+   "ones",
+   "point",
+   "see",
+   "show",
+   "size",
+   "the",
+   "there",
+   "to",
+   "what",
+   "where",
+   "which",
+   "you"
+  ],
+  "qualified": [
+   "abstraction",
+   "addendum",
+   "agency",
+   "algorithms",
+   "app",
+   "archive",
+   "autonomous",
+   "batch",
+   "big",
+   "branch",
+   "build",
+   "business",
+   "candidate",
+   "canvas",
+   "characterization",
+   "chat",
+   "checkpoint",
+   "classroom",
+   "clr",
+   "code",
+   "codelib",
+   "common",
+   "comprehension",
+   "config",
+   "contract",
+   "cross",
+   "css",
+   "data",
+   "datasets",
+   "delta",
+   "deploy",
+   "devsuite",
+   "dfe",
+   "dictionary",
+   "diff",
+   "disc",
+   "discovery",
+   "docs",
+   "document",
+   "echo",
+   "eight",
+   "eleven",
+   "etal",
+   "eve",
+   "experiments",
+   "five",
+   "four",
+   "github",
+   "glyph",
+   "glyphs",
+   "governor",
+   "gpt",
+   "gzip",
+   "hebrew",
+   "homework",
+   "hourly",
+   "html",
+   "hypernym",
+   "icon",
+   "inbox",
+   "index",
+   "init",
+   "input",
+   "inventory",
+   "ivs",
+   "janssen",
+   "javascript",
+   "json",
+   "jsonl",
+   "ksm",
+   "lab",
+   "lesson",
+   "lexicon",
+   "lhea",
+   "library",
+   "license",
+   "lobbies",
+   "lobby",
+   "lock",
+   "lz",
+   "manifest",
+   "markdown",
+   "mashet",
+   "matrices",
+   "matrix",
+   "mod",
+   "mp4",
+   "nine",
+   "no",
+   "notebook",
+   "nve",
+   "one",
+   "operator",
+   "page",
+   "part",
+   "patch",
+   "pdf",
+   "picture",
+   "png",
+   "progress",
+   "proposed",
+   "protocol",
+   "provenance",
+   "pwa",
+   "python",
+   "rare",
+   "readme",
+   "recess",
+   "record",
+   "register",
+   "registry",
+   "report",
+   "research",
+   "resh",
+   "results",
+   "review",
+   "run",
+   "service",
+   "seven",
+   "shakti",
+   "shelves",
+   "six",
+   "small",
+   "snapshot",
+   "sora",
+   "source",
+   "src",
+   "status",
+   "substrate",
+   "summary",
+   "swadesh",
+   "symbols",
+   "table",
+   "ten",
+   "test",
+   "tests",
+   "text",
+   "three",
+   "toml",
+   "top",
+   "transcriptions",
+   "transfer",
+   "trial",
+   "tsadi",
+   "tsv",
+   "twelve",
+   "two",
+   "video",
+   "videos",
+   "worker",
+   "workshop",
+   "yaml",
+   "yes",
+   "zenodo",
+   "zero",
+   "zip"
+  ],
+  "kernel_history": [
+   [
+    "T#",
+    "",
+    0,
+    1
+   ],
+   [
+    "T#",
+    "a file there",
+    0,
+    1
+   ],
+   [
+    "T#",
+    "any are files there",
+    0,
+    1
+   ],
+   [
+    "T#",
+    "are files how in many there",
+    5,
+    5
+   ],
+   [
+    "T#",
+    "are files how many named there",
+    3,
+    3
+   ],
+   [
+    "T#",
+    "are files how many there",
+    34,
+    34
+   ],
+   [
+    "T#",
+    "are files how many there yaml",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "are files ones which",
+    0,
+    1
+   ],
+   [
+    "T#",
+    "bridge files how many named",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "count files in the",
+    5,
+    5
+   ],
+   [
+    "T#",
+    "count files named the",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "count files text the",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "count files the",
+    29,
+    29
+   ],
+   [
+    "T#",
+    "do files how in many named see you",
+    2,
+    2
+   ],
+   [
+    "T#",
+    "do files how in many see you",
+    7,
+    7
+   ],
+   [
+    "T#",
+    "do files how many named see you",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "do files how many rare see you",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "do files how many see you",
+    35,
+    35
+   ],
+   [
+    "T#",
+    "files how in many",
+    13,
+    13
+   ],
+   [
+    "T#",
+    "files how many",
+    25,
+    25
+   ],
+   [
+    "T#",
+    "files how many named",
+    1,
+    1
+   ],
+   [
+    "T#",
+    "in",
+    0,
+    1
+   ],
+   [
+    "T*",
+    "are files how many there",
+    0,
+    1
+   ],
+   [
+    "T*",
+    "are files in ones which",
+    8,
+    8
+   ],
+   [
+    "T*",
+    "are files named ones which",
+    2,
+    2
+   ],
+   [
+    "T*",
+    "are files ones which",
+    21,
+    21
+   ],
+   [
+    "T*",
+    "files find in the",
+    2,
+    2
+   ],
+   [
+    "T*",
+    "files find named the",
+    3,
+    3
+   ],
+   [
+    "T*",
+    "files find the",
+    15,
+    15
+   ],
+   [
+    "T*",
+    "files find the tsv",
+    1,
+    1
+   ],
+   [
+    "T*",
+    "files in me show the",
+    3,
+    3
+   ],
+   [
+    "T*",
+    "files in named point the to",
+    1,
+    1
+   ],
+   [
+    "T*",
+    "files in point the to",
+    2,
+    2
+   ],
+   [
+    "T*",
+    "files in show the",
+    3,
+    3
+   ],
+   [
+    "T*",
+    "files me named show the",
+    2,
+    2
+   ],
+   [
+    "T*",
+    "files me show the",
+    14,
+    14
+   ],
+   [
+    "T*",
+    "files named point the to",
+    2,
+    2
+   ],
+   [
+    "T*",
+    "files named show the",
+    3,
+    3
+   ],
+   [
+    "T*",
+    "files point the to",
+    7,
+    7
+   ],
+   [
+    "T*",
+    "files python show the",
+    1,
+    1
+   ],
+   [
+    "T*",
+    "files show the",
+    15,
+    15
+   ],
+   [
+    "T*",
+    "files show the zip",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "abstraction is size what",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "bridge file is size the what",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "bridge file is the",
+    0,
+    1
+   ],
+   [
+    "T=c130915",
+    "dfe is size what",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "file format the what",
+    0,
+    1
+   ],
+   [
+    "T=c130915",
+    "file is lock size the what",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "file is nve size the what",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "file is size the what",
+    59,
+    59
+   ],
+   [
+    "T=c130915",
+    "file is the",
+    0,
+    1
+   ],
+   [
+    "T=c130915",
+    "files point the to",
+    2,
+    2
+   ],
+   [
+    "T=c130915",
+    "is nve",
+    0,
+    1
+   ],
+   [
+    "T=c130915",
+    "is report size what",
+    1,
+    1
+   ],
+   [
+    "T=c130915",
+    "is size what",
+    53,
+    53
+   ],
+   [
+    "T=c130915",
+    "kind what",
+    0,
+    1
+   ],
+   [
+    "T=c523867",
+    "are files how many there",
+    0,
+    1
+   ],
+   [
+    "T=c523867",
+    "count files the",
+    0,
+    2
+   ],
+   [
+    "T=c523867",
+    "files find",
+    0,
+    1
+   ],
+   [
+    "T=c523867",
+    "files find in the",
+    0,
+    1
+   ],
+   [
+    "T=c523867",
+    "files find named the",
+    1,
+    1
+   ],
+   [
+    "T=c523867",
+    "files find the",
+    6,
+    8
+   ],
+   [
+    "T=c691197",
+    "count files the",
+    0,
+    1
+   ],
+   [
+    "T=c691197",
+    "file format is the what",
+    0,
+    3
+   ],
+   [
+    "T=c691197",
+    "file is kind of the what",
+    38,
+    53
+   ],
+   [
+    "T=c691197",
+    "file is the",
+    0,
+    1
+   ],
+   [
+    "T=c691197",
+    "files me show the",
+    1,
+    2
+   ],
+   [
+    "T=c691197",
+    "files rare show the",
+    0,
+    1
+   ],
+   [
+    "T=c691197",
+    "files show the",
+    1,
+    1
+   ],
+   [
+    "T=c691197",
+    "format is what",
+    3,
+    6
+   ],
+   [
+    "T=c691197",
+    "gpt is kind what",
+    1,
+    1
+   ],
+   [
+    "T=c691197",
+    "is",
+    0,
+    1
+   ],
+   [
+    "T=c691197",
+    "is kind what",
+    33,
+    42
+   ],
+   [
+    "T=c691197",
+    "kind what",
+    1,
+    1
+   ],
+   [
+    "T=c726631",
+    "candidate file is the where",
+    1,
+    1
+   ],
+   [
+    "T=c726631",
+    "count files the",
+    0,
+    1
+   ],
+   [
+    "T=c726631",
+    "disc file is the where",
+    1,
+    1
+   ],
+   [
+    "T=c726631",
+    "do files how many see you",
+    0,
+    1
+   ],
+   [
+    "T=c726631",
+    "file in is the",
+    0,
+    3
+   ],
+   [
+    "T=c726631",
+    "file is the",
+    0,
+    1
+   ],
+   [
+    "T=c726631",
+    "file is the where",
+    42,
+    48
+   ],
+   [
+    "T=c726631",
+    "files point the to",
+    3,
+    3
+   ],
+   [
+    "T=c726631",
+    "folder in is which",
+    34,
+    39
+   ],
+   [
+    "T=c726631",
+    "folder is which",
+    1,
+    1
+   ],
+   [
+    "T=c726631",
+    "in is",
+    0,
+    1
+   ],
+   [
+    "T=c726631",
+    "in is workshop",
+    0,
+    1
+   ],
+   [
+    "T=c726631",
+    "is where",
+    31,
+    31
+   ],
+   [
+    "T=c92220",
+    "are files how many there",
+    0,
+    1
+   ],
+   [
+    "T=c92220",
+    "count files the",
+    0,
+    1
+   ],
+   [
+    "T=c92220",
+    "files how many",
+    0,
+    1
+   ],
+   [
+    "T=c92220",
+    "files in named point the to",
+    0,
+    1
+   ],
+   [
+    "T=c92220",
+    "files in point the to",
+    2,
+    2
+   ],
+   [
+    "T=c92220",
+    "files named point the to",
+    2,
+    2
+   ],
+   [
+    "T=c92220",
+    "files point the to",
+    8,
+    12
+   ],
+   [
+    "T=c92220",
+    "folder in is which",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "a do file see you",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "any are files there",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "are files in ones which",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "count files named the",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "count files the",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "etal format is what",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "file format is the what",
+    44,
+    56
+   ],
+   [
+    "T=c984530",
+    "file is kind of the what",
+    0,
+    3
+   ],
+   [
+    "T=c984530",
+    "file is the",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "files point the to",
+    2,
+    2
+   ],
+   [
+    "T=c984530",
+    "format is what",
+    38,
+    49
+   ],
+   [
+    "T=c984530",
+    "is",
+    0,
+    1
+   ],
+   [
+    "T=c984530",
+    "is kind what",
+    1,
+    7
+   ],
+   [
+    "T?",
+    "a do file in pwa see you",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "a do file in see you",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "a do file named see you",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "a do file see you",
+    17,
+    17
+   ],
+   [
+    "T?",
+    "a file",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "a file in is there",
+    2,
+    2
+   ],
+   [
+    "T?",
+    "a file is",
+    10,
+    10
+   ],
+   [
+    "T?",
+    "a file is mp4 there",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "a file is named there",
+    6,
+    6
+   ],
+   [
+    "T?",
+    "a file is picture the",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "a file is the",
+    10,
+    10
+   ],
+   [
+    "T?",
+    "a file is there",
+    15,
+    15
+   ],
+   [
+    "T?",
+    "a file named there",
+    2,
+    2
+   ],
+   [
+    "T?",
+    "a file the",
+    3,
+    3
+   ],
+   [
+    "T?",
+    "a file there",
+    3,
+    3
+   ],
+   [
+    "T?",
+    "any are files in there",
+    4,
+    4
+   ],
+   [
+    "T?",
+    "any are files named there",
+    5,
+    5
+   ],
+   [
+    "T?",
+    "any are files there",
+    18,
+    18
+   ],
+   [
+    "T?",
+    "are files how many there",
+    0,
+    1
+   ],
+   [
+    "T?",
+    "count files the",
+    0,
+    1
+   ],
+   [
+    "T?",
+    "file in is the",
+    4,
+    4
+   ],
+   [
+    "T?",
+    "file in the",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "file is the",
+    2,
+    2
+   ],
+   [
+    "T?",
+    "file size what",
+    0,
+    1
+   ],
+   [
+    "T?",
+    "file the",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "files me show the",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "files show the",
+    1,
+    1
+   ],
+   [
+    "T?",
+    "in is",
+    3,
+    3
+   ],
+   [
+    "T?",
+    "is workshop",
+    1,
+    1
+   ]
+  ],
+  "generations": [
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": null,
+    "attempts": 5
+   },
+   {
+    "decision": "DISCARDED",
+    "rate": 0.0,
+    "baseline": 0.6,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.6,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.4,
+    "baseline": 0.6666666666666666,
+    "attempts": 5
+   },
+   {
+    "decision": "DISCARDED",
+    "rate": 0.0,
+    "baseline": 0.6,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.4,
+    "baseline": 0.6,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.56,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.6,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.6571428571428571,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.6888888888888889,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.68,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.6909090909090909,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7230769230769231,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7285714285714285,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7333333333333333,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7375,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7411764705882353,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7444444444444445,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7473684210526316,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.75,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7619047619047619,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7545454545454545,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7565217391304347,
+    "attempts": 5
+   },
+   {
+    "decision": "DISCARDED",
+    "rate": 0.4,
+    "baseline": 0.7583333333333333,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7583333333333333,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.76,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7615384615384615,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.762962962962963,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7571428571428571,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7586206896551724,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7666666666666667,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7741935483870968,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.775,
+    "attempts": 5
+   },
+   {
+    "decision": "DISCARDED",
+    "rate": 0.4,
+    "baseline": 0.7757575757575758,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7757575757575758,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7764705882352941,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7714285714285715,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7722222222222223,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.772972972972973,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7789473684210526,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7743589743589744,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.77,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7658536585365854,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7714285714285715,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.772093023255814,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7681818181818182,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7644444444444445,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7695652173913043,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.774468085106383,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7791666666666667,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7836734693877551,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.78,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7843137254901961,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7884615384615384,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7849056603773585,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7888888888888889,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7927272727272727,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7964285714285714,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.7965517241379311,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7932203389830509,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7966666666666666,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.7967213114754098,
+    "attempts": 5
+   },
+   {
+    "decision": "DISCARDED",
+    "rate": 0.4,
+    "baseline": 0.7967741935483871,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.7967741935483871,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.803125,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8061538461538461,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8090909090909091,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.808955223880597,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8117647058823529,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8144927536231884,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8171428571428572,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8169014084507042,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8166666666666667,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8191780821917808,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8189189189189189,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8213333333333334,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8236842105263158,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.825974025974026,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8282051282051283,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.830379746835443,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8275,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8246913580246914,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.824390243902439,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8265060240963855,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8261904761904761,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8258823529411765,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.827906976744186,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8298850574712644,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8318181818181818,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8314606741573034,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8333333333333334,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.832967032967033,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8347826086956521,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8365591397849462,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8382978723404255,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8378947368421052,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8395833333333333,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8371134020618557,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8387755102040816,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8404040404040404,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.842,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8435643564356435,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8450980392156863,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8466019417475729,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8461538461538461,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8457142857142858,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8452830188679246,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8448598130841122,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8462962962962963,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8477064220183487,
+    "attempts": 5
+   },
+   {
+    "decision": "DISCARDED",
+    "rate": 0.4,
+    "baseline": 0.8472727272727273,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8472727272727273,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8486486486486486,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.85,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8477876106194691,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8491228070175438,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8504347826086956,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8517241379310345,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8512820512820513,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8525423728813559,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8521008403361344,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8533333333333334,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8528925619834711,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8540983606557377,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8552845528455284,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8564516129032258,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.856,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8571428571428571,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8566929133858268,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.85625,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8573643410852713,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8584615384615385,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8595419847328244,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8575757575757575,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8586466165413534,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8597014925373134,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8577777777777778,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8588235294117647,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8583941605839416,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8579710144927536,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8589928057553957,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.86,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8609929078014185,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8605633802816901,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8615384615384616,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8625,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8606896551724138,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8602739726027397,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8612244897959184,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8594594594594595,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8604026845637583,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8613333333333333,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8609271523178808,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8618421052631579,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8627450980392157,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8636363636363636,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.864516129032258,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8641025641025641,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8649681528662421,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8645569620253165,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8628930817610063,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.86125,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8621118012422361,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8629629629629629,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8625766871165644,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8609756097560975,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8618181818181818,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8626506024096385,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8610778443113772,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8607142857142858,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8615384615384616,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8611764705882353,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8619883040935673,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8616279069767442,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8624277456647399,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8632183908045977,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.864,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8636363636363636,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.864406779661017,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8651685393258427,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.864804469273743,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8655555555555555,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.8,
+    "baseline": 0.8662983425414365,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.865934065934066,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 1.0,
+    "baseline": 0.8666666666666667,
+    "attempts": 5
+   },
+   {
+    "decision": "ANCHORED",
+    "rate": 0.6,
+    "baseline": 0.8673913043478261,
+    "attempts": 5
+   }
+  ],
+  "boxes": {
+   "tav": 22,
+   "qof": 16,
+   "qof_open": 8,
+   "qof_outgrown": 8
+  },
+  "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27"
+ },
+ "dictionary": {
+  "abstraction": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "addendum": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "agency": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     2,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "algorithm": {
+   "color": "yellow",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     0,
+     0
+    ]
+   ]
+  },
+  "algorithms": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     2,
+     3
+    ],
+    [
+     31,
+     3,
+     2
+    ],
+    [
+     51,
+     2,
+     0
+    ],
+    [
+     56,
+     2,
+     1
+    ],
+    [
+     61,
+     2,
+     3
+    ]
+   ]
+  },
+  "app": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 15,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "applications": {
+   "color": "yellow",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     1,
+     0
+    ]
+   ]
+  },
+  "archive": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "assessment": {
+   "color": "yellow",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     1,
+     0
+    ]
+   ]
+  },
+  "autonomous": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     1,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "batch": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     1
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "big": {
+   "color": "green",
+   "channel": "size",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     5,
+     4
+    ],
+    [
+     8,
+     5,
+     5
+    ],
+    [
+     12,
+     5,
+     5
+    ],
+    [
+     17,
+     5,
+     5
+    ],
+    [
+     26,
+     5,
+     5
+    ],
+    [
+     41,
+     5,
+     4
+    ],
+    [
+     66,
+     5,
+     5
+    ]
+   ]
+  },
+  "branch": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "bridge": {
+   "color": "yellow",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     2
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     0,
+     0
+    ]
+   ]
+  },
+  "build": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 24,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "business": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     2
+    ],
+    [
+     36,
+     1,
+     2
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     2
+    ]
+   ]
+  },
+  "candidate": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 26,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     2
+    ]
+   ]
+  },
+  "canvas": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "characterization": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     0,
+     0
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "chat": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 24,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "checkpoint": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     2
+    ]
+   ]
+  },
+  "classroom": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 24,
+   "tests": [
+    [
+     26,
+     3,
+     1
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "clr": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "code": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "codelib": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     2
+    ],
+    [
+     36,
+     3,
+     2
+    ],
+    [
+     61,
+     1,
+     0
+    ],
+    [
+     66,
+     3,
+     2
+    ]
+   ]
+  },
+  "common": {
+   "color": "green",
+   "channel": "spread",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     5,
+     5
+    ],
+    [
+     17,
+     5,
+     5
+    ],
+    [
+     26,
+     5,
+     5
+    ],
+    [
+     46,
+     5,
+     5
+    ],
+    [
+     70,
+     5,
+     5
+    ]
+   ]
+  },
+  "comprehension": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     2
+    ]
+   ]
+  },
+  "config": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     2,
+     3
+    ],
+    [
+     70,
+     0,
+     0
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "contract": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 6,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     2,
+     3
+    ],
+    [
+     70,
+     1,
+     0
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "cross": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     2,
+     3
+    ]
+   ]
+  },
+  "css": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     2,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     0,
+     0
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "data": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "datasets": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     2
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "delta": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "deploy": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "devsuite": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "dfe": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "dictionary": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 31,
+   "tests": [
+    [
+     36,
+     3,
+     1
+    ],
+    [
+     41,
+     3,
+     1
+    ],
+    [
+     46,
+     3,
+     2
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "diff": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "disc": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "discovery": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "docs": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "document": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     2
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "echo": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "eight": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     0,
+     0
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "eleven": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     1,
+     1
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "etal": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "eve": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     1,
+     2
+    ],
+    [
+     46,
+     1,
+     0
+    ],
+    [
+     51,
+     2,
+     2
+    ],
+    [
+     78,
+     3,
+     2
+    ]
+   ]
+  },
+  "experiments": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     2,
+     2
+    ],
+    [
+     17,
+     3,
+     1
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     2
+    ],
+    [
+     61,
+     2,
+     3
+    ]
+   ]
+  },
+  "five": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "four": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "github": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "glyph": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     3,
+     1
+    ],
+    [
+     17,
+     3,
+     2
+    ],
+    [
+     26,
+     3,
+     0
+    ],
+    [
+     31,
+     3,
+     2
+    ],
+    [
+     51,
+     3,
+     1
+    ],
+    [
+     56,
+     3,
+     2
+    ]
+   ]
+  },
+  "glyphs": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     61,
+     1,
+     0
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "governor": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     2,
+     3
+    ],
+    [
+     36,
+     3,
+     2
+    ],
+    [
+     66,
+     3,
+     2
+    ]
+   ]
+  },
+  "gpt": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "gzip": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     1,
+     0
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "hebrew": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     0
+    ],
+    [
+     46,
+     2,
+     2
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "homework": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     2,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "hourly": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 15,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "html": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     1,
+     1
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "hypernym": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     1,
+     0
+    ],
+    [
+     74,
+     2,
+     3
+    ]
+   ]
+  },
+  "icon": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 36,
+   "tests": [
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "inbox": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 6,
+   "tests": [
+    [
+     12,
+     1,
+     3
+    ],
+    [
+     17,
+     2,
+     3
+    ],
+    [
+     31,
+     2,
+     3
+    ],
+    [
+     51,
+     2,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "index": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     2
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "init": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     2,
+     0
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "input": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     2
+    ],
+    [
+     74,
+     2,
+     0
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "inventory": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     2,
+     0
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "ivs": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 17,
+   "tests": [
+    [
+     21,
+     1,
+     2
+    ],
+    [
+     26,
+     3,
+     1
+    ],
+    [
+     31,
+     2,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "janssen": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 34,
+   "tests": [
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "javascript": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     0,
+     1
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     2,
+     3
+    ]
+   ]
+  },
+  "json": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 6,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "jsonl": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     0,
+     0
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "ksm": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     0,
+     0
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "lab": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "ledger": {
+   "color": "yellow",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     1
+    ],
+    [
+     51,
+     2,
+     2
+    ],
+    [
+     78,
+     1,
+     3
+    ]
+   ]
+  },
+  "lesson": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     2,
+     3
+    ]
+   ]
+  },
+  "lexicon": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     2,
+     3
+    ],
+    [
+     46,
+     2,
+     0
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "lhea": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     1
+    ],
+    [
+     51,
+     3,
+     2
+    ]
+   ]
+  },
+  "library": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     1,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "license": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     2,
+     0
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "lobbies": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     2,
+     0
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "lobby": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 41,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     2
+    ]
+   ]
+  },
+  "lock": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 15,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "lz": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     0,
+     0
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "manifest": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "markdown": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 6,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     2
+    ],
+    [
+     66,
+     3,
+     2
+    ]
+   ]
+  },
+  "mashet": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "matrices": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "matrix": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     2,
+     3
+    ],
+    [
+     66,
+     2,
+     3
+    ]
+   ]
+  },
+  "mod": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "mp4": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     2,
+     0
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "nine": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     36,
+     3,
+     3
+    ],
+    [
+     66,
+     1,
+     0
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "no": {
+   "color": "green",
+   "channel": "truth",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     5,
+     5
+    ],
+    [
+     21,
+     5,
+     5
+    ],
+    [
+     41,
+     3,
+     5
+    ],
+    [
+     46,
+     5,
+     5
+    ],
+    [
+     74,
+     4,
+     5
+    ]
+   ]
+  },
+  "notebook": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     2
+    ]
+   ]
+  },
+  "nve": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "one": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "operator": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "page": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     0,
+     1
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "part": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "patch": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     1,
+     0
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "pdf": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     1,
+     0
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "picture": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     1,
+     0
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "png": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     0,
+     0
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "progress": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 44,
+   "tests": [
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "proposed": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "protocol": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     2
+    ]
+   ]
+  },
+  "provenance": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 46,
+   "tests": [
+    [
+     51,
+     3,
+     2
+    ]
+   ]
+  },
+  "pwa": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     2
+    ]
+   ]
+  },
+  "python": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     2,
+     3
+    ],
+    [
+     56,
+     2,
+     3
+    ]
+   ]
+  },
+  "rare": {
+   "color": "green",
+   "channel": "spread",
+   "taught_rest": 8,
+   "tests": [
+    [
+     12,
+     5,
+     5
+    ],
+    [
+     21,
+     5,
+     5
+    ],
+    [
+     41,
+     5,
+     5
+    ],
+    [
+     70,
+     5,
+     4
+    ]
+   ]
+  },
+  "readme": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "recess": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 15,
+   "tests": [
+    [
+     17,
+     3,
+     2
+    ],
+    [
+     31,
+     2,
+     2
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "record": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 15,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "register": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 51,
+   "tests": [
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "registry": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 34,
+   "tests": [
+    [
+     36,
+     3,
+     2
+    ],
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "report": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "research": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     2,
+     3
+    ],
+    [
+     46,
+     2,
+     1
+    ],
+    [
+     51,
+     2,
+     2
+    ]
+   ]
+  },
+  "resh": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 51,
+   "tests": [
+    [
+     56,
+     3,
+     2
+    ]
+   ]
+  },
+  "results": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     46,
+     1,
+     0
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "review": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 29,
+   "tests": [
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "run": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 51,
+   "tests": [
+    [
+     56,
+     3,
+     2
+    ]
+   ]
+  },
+  "service": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 51,
+   "tests": [
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "seven": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     0,
+     0
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "shakti": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 51,
+   "tests": [
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "shelves": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     51,
+     0,
+     0
+    ],
+    [
+     56,
+     3,
+     2
+    ]
+   ]
+  },
+  "six": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "small": {
+   "color": "green",
+   "channel": "size",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     4,
+     5
+    ],
+    [
+     12,
+     5,
+     5
+    ],
+    [
+     21,
+     5,
+     5
+    ],
+    [
+     41,
+     5,
+     5
+    ],
+    [
+     70,
+     5,
+     5
+    ]
+   ]
+  },
+  "snapshot": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 51,
+   "tests": [
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "sora": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     3
+    ]
+   ]
+  },
+  "source": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     1,
+     1
+    ],
+    [
+     66,
+     3,
+     2
+    ]
+   ]
+  },
+  "src": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     51,
+     2,
+     0
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "status": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     2
+    ]
+   ]
+  },
+  "substrate": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     1
+    ],
+    [
+     66,
+     3,
+     2
+    ]
+   ]
+  },
+  "summary": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "swadesh": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "symbols": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     3,
+     2
+    ]
+   ]
+  },
+  "table": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     21,
+     3,
+     3
+    ],
+    [
+     41,
+     0,
+     0
+    ],
+    [
+     46,
+     3,
+     3
+    ],
+    [
+     78,
+     3,
+     3
+    ]
+   ]
+  },
+  "ten": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     12,
+     3,
+     3
+    ],
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "test": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     2,
+     3
+    ]
+   ]
+  },
+  "tests": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "text": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     2,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "three": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "toml": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "top": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     2,
+     3
+    ],
+    [
+     26,
+     1,
+     2
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     2,
+     3
+    ]
+   ]
+  },
+  "transcriptions": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 21,
+   "tests": [
+    [
+     26,
+     3,
+     3
+    ],
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "transfer": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     2
+    ]
+   ]
+  },
+  "trial": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     1,
+     1
+    ],
+    [
+     66,
+     3,
+     1
+    ],
+    [
+     70,
+     2,
+     2
+    ]
+   ]
+  },
+  "tsadi": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     2
+    ]
+   ]
+  },
+  "tsv": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     2,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "twelve": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "two": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "video": {
+   "color": "green",
+   "channel": "kind",
+   "taught_rest": 4,
+   "tests": [
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "videos": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 56,
+   "tests": [
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "worker": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 61,
+   "tests": [
+    [
+     66,
+     3,
+     3
+    ]
+   ]
+  },
+  "workshop": {
+   "color": "green",
+   "channel": "place",
+   "taught_rest": 19,
+   "tests": [
+    [
+     21,
+     3,
+     2
+    ],
+    [
+     41,
+     3,
+     3
+    ],
+    [
+     70,
+     1,
+     0
+    ],
+    [
+     74,
+     3,
+     3
+    ]
+   ]
+  },
+  "yaml": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     0,
+     0
+    ],
+    [
+     61,
+     3,
+     3
+    ]
+   ]
+  },
+  "yes": {
+   "color": "green",
+   "channel": "truth",
+   "taught_rest": 10,
+   "tests": [
+    [
+     12,
+     5,
+     5
+    ],
+    [
+     26,
+     5,
+     5
+    ],
+    [
+     51,
+     4,
+     2
+    ],
+    [
+     56,
+     3,
+     4
+    ],
+    [
+     61,
+     5,
+     5
+    ]
+   ]
+  },
+  "zenodo": {
+   "color": "green",
+   "channel": "name",
+   "taught_rest": 49,
+   "tests": [
+    [
+     51,
+     3,
+     3
+    ]
+   ]
+  },
+  "zero": {
+   "color": "green",
+   "channel": "number",
+   "taught_rest": 0,
+   "tests": [
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     4,
+     3,
+     3
+    ],
+    [
+     8,
+     3,
+     3
+    ],
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  },
+  "zip": {
+   "color": "green",
+   "channel": "format",
+   "taught_rest": 12,
+   "tests": [
+    [
+     17,
+     3,
+     3
+    ],
+    [
+     31,
+     3,
+     3
+    ],
+    [
+     56,
+     3,
+     3
+    ]
+   ]
+  }
+ }
+}

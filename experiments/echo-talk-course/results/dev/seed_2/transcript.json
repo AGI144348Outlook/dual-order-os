@@ -1,0 +1,1991 @@
+{
+ "dialogue_samples": [
+  {
+   "q": "which ones are big files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many big files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "four"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "point to the rare files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     1,
+     3,
+     6
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many common files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "five"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "show the picture files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "are there any data files in inbox",
+   "task": "yesno",
+   "reply": {
+    "gesture": [
+     2,
+     4
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "how many big files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "one"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many small data files are there",
+   "task": "count",
+   "reply": {
+    "say": [
+     "one"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "find the small table files",
+   "task": "show",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "how many common files are there",
+   "task": "count",
+   "reply": {
+    "say": [
+     "six"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "is there a table file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "find the picture files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "do you see a markdown file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "show me the json files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     1,
+     2
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many common document files",
+   "task": "count",
+   "reply": {
+    "say": [
+     "two"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "which folder is lock in",
+   "task": "place",
+   "reply": {
+    "say": [
+     "codelib"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what size is chat",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is run",
+   "task": "format",
+   "reply": {
+    "say": [
+     "markdown"
+    ]
+   },
+   "ok": true,
+   "asked": "format is what"
+  },
+  {
+   "q": "what size is the test file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many big files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "five"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "where is the videos file",
+   "task": "place",
+   "reply": {
+    "gesture": [
+     3
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what size is the nve file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "big"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is the test file",
+   "task": "format",
+   "reply": {
+    "say": [
+     "javascript"
+    ]
+   },
+   "ok": true,
+   "asked": "file format is the what"
+  },
+  {
+   "q": "what kind of file is the registry file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "json"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what kind of file is the readme file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "document"
+    ]
+   },
+   "ok": true,
+   "asked": "file is kind of the what"
+  },
+  {
+   "q": "how many json files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "one"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "show me the rare markdown files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what kind is addendum",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "markdown"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what kind is canvas",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "gzip"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "is there a big file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "find the common files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     1,
+     4
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what size is record",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is the nve file",
+   "task": "format",
+   "reply": {
+    "say": [
+     "data"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "how many yaml files",
+   "task": "count",
+   "reply": {
+    "say": [
+     "one"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "which ones are big files named canvas",
+   "task": "show",
+   "reply": {
+    "say": [
+     "canvas"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what format is proposed",
+   "task": "format",
+   "reply": {
+    "gesture": [
+     3
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what format is the registry file",
+   "task": "format",
+   "reply": {
+    "say": [
+     "code"
+    ]
+   },
+   "ok": false,
+   "asked": "file format is the what"
+  },
+  {
+   "q": "where is readme",
+   "task": "place",
+   "reply": {
+    "say": [
+     "devsuite"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "where is the characterization file",
+   "task": "place",
+   "reply": {
+    "say": [
+     "codelib"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "is the proposed file a patch file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what size is the input file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "where is the dictionary file",
+   "task": "place",
+   "reply": {
+    "say": [
+     "agency"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what kind of file is the provenance file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "json"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "point to the page files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "show me the big common files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     4,
+     5,
+     6
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many small files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "three"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "where is readme",
+   "task": "place",
+   "reply": {
+    "gesture": [
+     2
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what kind of file is the nve file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "json"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what size is the review file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "big"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what size is the init file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is homework",
+   "task": "format",
+   "reply": {
+    "say": [
+     "markdown"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what size is the provenance file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "big"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "are there any big rare files",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is icon",
+   "task": "format",
+   "reply": {
+    "say": [
+     "png"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "is the addendum file big",
+   "task": "yesno",
+   "reply": {
+    "gesture": []
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what format is videos",
+   "task": "format",
+   "reply": {
+    "say": [
+     "mp4"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "is there a file in docs",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is nve",
+   "task": "format",
+   "reply": {
+    "say": [
+     "data"
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what kind is summary",
+   "task": "kind",
+   "reply": {
+    "gesture": [
+     6
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "is the test file small",
+   "task": "yesno",
+   "reply": {
+    "gesture": []
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what size is addendum",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "point to the files named icon",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many document files do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "three"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "show me the big picture files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     3
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "which folder is hebrew in",
+   "task": "place",
+   "reply": {
+    "say": [
+     "src"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "is the provenance file small",
+   "task": "yesno",
+   "reply": {
+    "gesture": []
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what format is the glyph file",
+   "task": "format",
+   "reply": {
+    "gesture": [
+     3
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "what format is the hourly file",
+   "task": "format",
+   "reply": {
+    "gesture": [
+     2
+    ]
+   },
+   "ok": false,
+   "asked": null
+  },
+  {
+   "q": "show the code files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "how many files named chunk do you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "zero"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what kind is protocol",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "document"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "are there any big files",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "is the swadesh file a mp4 file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "no"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "count the config files",
+   "task": "count",
+   "reply": {
+    "say": [
+     "zero"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what kind is report",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "document"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "are there any common files",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what format is the test file",
+   "task": "format",
+   "reply": {
+    "say": [
+     "python"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "show me the picture files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     4
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what size is the run file",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  },
+  {
+   "q": "what kind of file is the record file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "data"
+    ]
+   },
+   "ok": true,
+   "asked": null
+  }
+ ],
+ "g2": [
+  {
+   "q": "files named hourly how many are there",
+   "task": "count",
+   "reply": {
+    "say": [
+     "two"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "{np} how many are there",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "how many big files do you see there",
+   "task": "count",
+   "reply": {
+    "say": [
+     "eight"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "how many {np} do you see there",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "count the files in experiments you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "two"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "count the {np} you see",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "how many are there of the big files",
+   "task": "count",
+   "reply": {
+    "say": [
+     "three"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "how many are there of the {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "do you see how many code files there are",
+   "task": "count",
+   "reply": {
+    "say": [
+     "three"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "do you see how many {np} there are",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "count big files",
+   "task": "count",
+   "reply": {
+    "say": [
+     "five"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "count {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "how many big files are in this",
+   "task": "count",
+   "reply": {
+    "say": [
+     "six"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "how many {np} are in this",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the big files how many",
+   "task": "count",
+   "reply": {
+    "say": [
+     "seven"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {np} how many",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "point to small files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     1,
+     3,
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "point to {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "show me data files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     2
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "show me {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "find me the small files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     2,
+     3,
+     4
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "find me the {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "which ones are the markdown files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     2,
+     7
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "which ones are the {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "show me which ones are markdown files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     4,
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "show me which ones are {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "point to the registry file",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     5
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "point to the {name} file",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "find the registry file",
+   "task": "show",
+   "reply": {
+    "say": [
+     "zip"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "find the {name} file",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the rare files show me",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     0,
+     1,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {np} show me",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "do you see any patch files",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "no"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "do you see any {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "are there big files",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "five"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "are there {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "is there any zip file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "no"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "is there any {np0}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "any common files there",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "any {np} there",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "is the status file a document file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "is the {name} file a {kind} file",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "is registry a zip file",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "is {name} a {format} file",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "is the registry file in codelib",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "no"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "is the {name} file in {place}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "is icon small",
+   "task": "yesno",
+   "reply": {
+    "gesture": []
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "is {name} {size}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "do you see a file in agency there",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "do you see {np1} there",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "are there any common files in this",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "are there any {np} in this",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "what kind is the lobby file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "data"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "what kind is the {name} file",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the governor file is what kind",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "document"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {name} file is what kind",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "deploy is what kind of file",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "code"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "{name} is what kind of file",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "what kind of file is report",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "document"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "what kind of file is {name}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "what format is the worker file in",
+   "task": "format",
+   "reply": {
+    "say": [
+     "javascript"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "what format is the {name} file in",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the part file is what format",
+   "task": "format",
+   "reply": {
+    "say": [
+     "page"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "the {name} file is what format",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "readme is what format",
+   "task": "format",
+   "reply": {
+    "say": [
+     "markdown"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "{name} is what format",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "what format of file is nve",
+   "task": "format",
+   "reply": {
+    "say": [
+     "json"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "what format of file is {name}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "provenance is where",
+   "task": "place",
+   "reply": {
+    "say": [
+     "inbox"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "{name} is where",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "which folder is the worker file in",
+   "task": "place",
+   "reply": {
+    "say": [
+     "workshop"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "which folder is the {name} file in",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the nve file is in which folder",
+   "task": "place",
+   "reply": {
+    "say": [
+     "experiments"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {name} file is in which folder",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "where do you see governor",
+   "task": "place",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "where do you see {name}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "record is what size",
+   "task": "size",
+   "reply": {
+    "say": [
+     "small"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "{name} is what size",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the register file is what size",
+   "task": "size",
+   "reply": {
+    "say": [
+     "big"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {name} file is what size",
+   "unmet": null,
+   "all_green": false
+  },
+  {
+   "q": "what size of file is canvas",
+   "task": "size",
+   "reply": {
+    "say": [
+     "big"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "what size of file is {name}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "json files in top how many are there",
+   "task": "count",
+   "reply": {
+    "say": [
+     "three"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "{np} how many are there",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "count the tsv files in shelves you see",
+   "task": "count",
+   "reply": {
+    "say": [
+     "two"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "count the {np} you see",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "how many rare archive files are in this",
+   "task": "count",
+   "reply": {
+    "say": [
+     "one"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "how many {np} are in this",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "count code files in top",
+   "task": "count",
+   "reply": {
+    "say": [
+     "three"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "count {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the files in contract named glyph how many",
+   "task": "count",
+   "reply": {
+    "say": [
+     "two"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "the {np} how many",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "point to common config files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     3
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "point to {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "show me markdown files named readme",
+   "task": "show",
+   "reply": {
+    "say": [
+     "common"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "show me {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "find me the rare files in codelib",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     1
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "find me the {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "which ones are the big javascript files",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     7
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "which ones are the {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the common archive files show me",
+   "task": "show",
+   "reply": {
+    "gesture": [
+     6
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {np} show me",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "do you see any javascript files named service",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "do you see any {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "are there python files in experiments",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "one"
+    ]
+   },
+   "ok": false,
+   "asked": null,
+   "frame": "are there {np}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "any files in pwa named ksm there",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "any {np} there",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "are there any common markdown files in this",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "are there any {np} in this",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "is there any code file in echo",
+   "task": "yesno",
+   "reply": {
+    "say": [
+     "yes"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "is there any {np0}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "what kind of file is branch",
+   "task": "kind",
+   "reply": {
+    "say": [
+     "data"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "what kind of file is {name}",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "glyph is what format",
+   "task": "format",
+   "reply": {
+    "say": [
+     "yaml"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "{name} is what format",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "ledger is where",
+   "task": "place",
+   "reply": {
+    "say": [
+     "experiments"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "{name} is where",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "the disc file is what size",
+   "task": "size",
+   "reply": {
+    "say": [
+     "big"
+    ]
+   },
+   "ok": true,
+   "asked": null,
+   "frame": "the {name} file is what size",
+   "unmet": null,
+   "all_green": true
+  },
+  {
+   "q": "hey how many common files are there",
+   "task": "count",
+   "reply": {
+    "ask": "hey"
+   },
+   "ok": null,
+   "asked": "hey",
+   "frame": "hey how many {np} are there",
+   "unmet": "hey",
+   "all_green": true
+  },
+  {
+   "q": "please show me the rare files",
+   "task": "show",
+   "reply": {
+    "ask": "please"
+   },
+   "ok": null,
+   "asked": "please",
+   "frame": "please show me the {np}",
+   "unmet": "please",
+   "all_green": true
+  },
+  {
+   "q": "tally the files named recess",
+   "task": "count",
+   "reply": {
+    "ask": "tally"
+   },
+   "ok": null,
+   "asked": "tally",
+   "frame": "tally the {np}",
+   "unmet": "tally",
+   "all_green": true
+  },
+  {
+   "q": "display the markdown files",
+   "task": "show",
+   "reply": {
+    "ask": "display"
+   },
+   "ok": null,
+   "asked": "display",
+   "frame": "display the {np}",
+   "unmet": "display",
+   "all_green": true
+  },
+  {
+   "q": "where is the candidate file located",
+   "task": "place",
+   "reply": {
+    "ask": "located"
+   },
+   "ok": null,
+   "asked": "located",
+   "frame": "where is the {name} file located",
+   "unmet": "located",
+   "all_green": false
+  },
+  {
+   "q": "gimme the zip files",
+   "task": "show",
+   "reply": {
+    "ask": "gimme"
+   },
+   "ok": null,
+   "asked": "gimme",
+   "frame": "gimme the {np}",
+   "unmet": "gimme",
+   "all_green": true
+  },
+  {
+   "q": "what type of file is governor",
+   "task": "kind",
+   "reply": {
+    "ask": "type"
+   },
+   "ok": null,
+   "asked": "type",
+   "frame": "what type of file is {name}",
+   "unmet": "type",
+   "all_green": true
+  },
+  {
+   "q": "what extension is the source file",
+   "task": "format",
+   "reply": {
+    "ask": "extension"
+   },
+   "ok": null,
+   "asked": "extension",
+   "frame": "what extension is the {name} file",
+   "unmet": "extension",
+   "all_green": true
+  },
+  {
+   "q": "how many markdown files have you got",
+   "task": "count",
+   "reply": {
+    "ask": "have"
+   },
+   "ok": null,
+   "asked": "have",
+   "frame": "how many {np} have you got",
+   "unmet": "have",
+   "all_green": true
+  },
+  {
+   "q": "so is there a file in inbox",
+   "task": "yesno",
+   "reply": {
+    "ask": "so"
+   },
+   "ok": null,
+   "asked": "so",
+   "frame": "so is there {np1}",
+   "unmet": "so",
+   "all_green": true
+  },
+  {
+   "q": "can you count the small files",
+   "task": "count",
+   "reply": {
+    "ask": "can"
+   },
+   "ok": null,
+   "asked": "can",
+   "frame": "can you count the {np}",
+   "unmet": "can",
+   "all_green": true
+  },
+  {
+   "q": "list the small files",
+   "task": "show",
+   "reply": {
+    "ask": "list"
+   },
+   "ok": null,
+   "asked": "list",
+   "frame": "list the {np}",
+   "unmet": "list",
+   "all_green": true
+  },
+  {
+   "q": "what is the total of markdown files",
+   "task": "count",
+   "reply": {
+    "ask": "total"
+   },
+   "ok": null,
+   "asked": "total",
+   "frame": "what is the total of {np}",
+   "unmet": "total",
+   "all_green": true
+  },
+  {
+   "q": "highlight the data files",
+   "task": "show",
+   "reply": {
+    "ask": "highlight"
+   },
+   "ok": null,
+   "asked": "highlight",
+   "frame": "highlight the {np}",
+   "unmet": "highlight",
+   "all_green": true
+  },
+  {
+   "q": "which directory holds progress",
+   "task": "place",
+   "reply": {
+    "ask": "directory"
+   },
+   "ok": null,
+   "asked": "directory",
+   "frame": "which directory holds {name}",
+   "unmet": "directory",
+   "all_green": true
+  },
+  {
+   "q": "are any files in pwa present",
+   "task": "yesno",
+   "reply": {
+    "ask": "present"
+   },
+   "ok": null,
+   "asked": "present",
+   "frame": "are any {np} present",
+   "unmet": "present",
+   "all_green": true
+  },
+  {
+   "q": "tell me what kind provenance is",
+   "task": "kind",
+   "reply": {
+    "ask": "tell"
+   },
+   "ok": null,
+   "asked": "tell",
+   "frame": "tell me what kind {name} is",
+   "unmet": "tell",
+   "all_green": true
+  },
+  {
+   "q": "what sort of file is report",
+   "task": "kind",
+   "reply": {
+    "ask": "sort"
+   },
+   "ok": null,
+   "asked": "sort",
+   "frame": "what sort of file is {name}",
+   "unmet": "sort",
+   "all_green": true
+  },
+  {
+   "q": "how many files in workshop exist",
+   "task": "count",
+   "reply": {
+    "ask": "exist"
+   },
+   "ok": null,
+   "asked": "exist",
+   "frame": "how many {np} exist",
+   "unmet": "exist",
+   "all_green": true
+  },
+  {
+   "q": "is lobby kinda small",
+   "task": "yesno",
+   "reply": {
+    "ask": "kinda"
+   },
+   "ok": null,
+   "asked": "kinda",
+   "frame": "is {name} kinda {size}",
+   "unmet": "kinda",
+   "all_green": true
+  }
+ ]
+}
