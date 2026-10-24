@@ -313,6 +313,7 @@ for k, sid in enumerate(DECL_REG, 7):
                     made_by='unknown', status='INERT', glyph='', notes='met in schemas sweep 1; declares its own schema id', **src(by_name[sid])))
 REG.append(dict(id='REG-0001', entry_schema=by_name['echo.hebrew-glyph-registry.v0.1']))
 REG.append(dict(id='REG-0004', entry_schema=by_name['echo.grammar-registry.v0.1']))
+REG.append(dict(id='REG-0003', entry_schema=by_name['Rule Registry rule']))
 n_reg = merge('registries', REG)
 
 # ---- Echo's shadow run, continuing from the logics sweep ------------------------------------------------------------
