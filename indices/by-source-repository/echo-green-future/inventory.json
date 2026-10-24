@@ -1,0 +1,3618 @@
+{
+ "summary": {
+  "algebra": {
+   "files": 278,
+   "bytes": 23959609,
+   "unique_files": 36,
+   "unique_bytes": 363338,
+   "commits": 232,
+   "last": "2026-10-06T15:55:37-05:00",
+   "subject": "docs: backfill plasticity and bounded-learning architecture discussion",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Commit2.zip",
+    "ECHO_GlyphRegistry.zip",
+    "Echo_Green_Future_Source.zip"
+   ],
+   "family": "Genesis & agency"
+  },
+  "autonomous-agency": {
+   "files": 242,
+   "bytes": 23732459,
+   "unique_files": 2,
+   "unique_bytes": 163165,
+   "commits": 297,
+   "last": "2026-10-23T03:09:17+00:00",
+   "subject": "recess: session log 2026-10-23T03:09",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Commit2.zip",
+    "ECHO_GlyphRegistry.zip",
+    "Echo_Green_Future_Source.zip"
+   ],
+   "family": "Genesis & agency"
+  },
+  "bridge-experiment": {
+   "files": 7,
+   "bytes": 18694,
+   "unique_files": 5,
+   "unique_bytes": 9959,
+   "commits": 25,
+   "last": "2026-10-10T18:14:46-05:00",
+   "subject": "bridge: give ChatGPT's Worker its own state store (CHATGPT_BOT_STATE as STATE)",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Genesis & agency"
+  },
+  "bytebytego-claude": {
+   "files": 30,
+   "bytes": 158792,
+   "unique_files": 1,
+   "unique_bytes": 2053,
+   "commits": 40,
+   "last": "2026-10-13T01:13:26-05:00",
+   "subject": "docs: initialize attributed ByteByteGo research library (Claude research and peer review)",
+   "first_commit": "2026-10-08T23:37:12-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "bytebytego-gpt": {
+   "files": 30,
+   "bytes": 158800,
+   "unique_files": 1,
+   "unique_bytes": 2061,
+   "commits": 40,
+   "last": "2026-10-13T01:13:24-05:00",
+   "subject": "docs: initialize attributed ByteByteGo research library (GPT research and independent validation)",
+   "first_commit": "2026-10-08T23:37:12-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "bytebytego-hub": {
+   "files": 30,
+   "bytes": 160855,
+   "unique_files": 1,
+   "unique_bytes": 4116,
+   "commits": 40,
+   "last": "2026-10-13T01:15:50-05:00",
+   "subject": "docs: establish attributed ByteByteGo hub and eight-study discovery queue",
+   "first_commit": "2026-10-08T23:37:12-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "bytebytego-user": {
+   "files": 30,
+   "bytes": 158787,
+   "unique_files": 1,
+   "unique_bytes": 2048,
+   "commits": 40,
+   "last": "2026-10-13T01:13:22-05:00",
+   "subject": "docs: initialize attributed ByteByteGo research library (User study and annotations)",
+   "first_commit": "2026-10-08T23:37:12-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "chat-archive-pyodide-workbench": {
+   "files": 21,
+   "bytes": 93641,
+   "unique_files": 2,
+   "unique_bytes": 2050,
+   "commits": 43,
+   "last": "2026-10-01T14:29:55-05:00",
+   "subject": "docs: trigger archive workbench deployment",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "experiment-echo-graphql-canvas-000"
+   ],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip"
+   ],
+   "family": "Library & data"
+  },
+  "chatgpt-conversation-archive": {
+   "files": 18,
+   "bytes": 39557261,
+   "unique_files": 5,
+   "unique_bytes": 39469730,
+   "commits": 36,
+   "last": "2026-10-01T12:57:58-05:00",
+   "subject": "Add files via upload",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip"
+   ],
+   "family": "Library & data"
+  },
+  "code-library-registry": {
+   "files": 1153,
+   "bytes": 322267672,
+   "unique_files": 306,
+   "unique_bytes": 318886527,
+   "commits": 195,
+   "last": "2026-10-22T14:45:36+00:00",
+   "subject": "Datasets: crawler run 2026-10-22T14:45Z",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "Datasets/files/zenodo/10838802/lofloc_UD_v1.0.zip",
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "echo-dataset-crawler.zip"
+   ],
+   "family": "Library & data"
+  },
+  "code-library-registry-ivs": {
+   "files": 212,
+   "bytes": 1341171,
+   "unique_files": 13,
+   "unique_bytes": 608304,
+   "commits": 184,
+   "last": "2026-10-08T13:41:15+00:00",
+   "subject": "IVS: full corpus registry formation test",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip"
+   ],
+   "family": "Library & data"
+  },
+  "contract-000-gpt-team": {
+   "files": 22,
+   "bytes": 159090,
+   "unique_files": 2,
+   "unique_bytes": 5364,
+   "commits": 48,
+   "last": "2026-10-11T16:04:16-05:00",
+   "subject": "docs(contract-000): propose independent income automations with Replit evaluation",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "lhea-environments.zip"
+   ],
+   "family": "Governance & research"
+  },
+  "dev-suite": {
+   "files": 29,
+   "bytes": 13517763,
+   "unique_files": 1,
+   "unique_bytes": 7973715,
+   "commits": 76,
+   "last": "2026-10-05T17:41:52-05:00",
+   "subject": "Add files via upload",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "dev-suite-branch.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-algorithms": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-codices",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-matrices",
+    "dev-suite-registries"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-codices": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-algorithms",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-matrices",
+    "dev-suite-registries"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-datasets": {
+   "files": 59,
+   "bytes": 7273650,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 85,
+   "last": "2026-10-06T06:49:48-05:00",
+   "subject": "Deploy Datasets environment as independent Cloudflare Pages app",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-indices": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-matrices",
+    "dev-suite-registries"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-integration-staging": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-indices",
+    "dev-suite-logics",
+    "dev-suite-matrices",
+    "dev-suite-registries"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-logics": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-matrices",
+    "dev-suite-registries"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-matrices": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-registries"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "dev-suite-registries": {
+   "files": 52,
+   "bytes": 7231350,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 81,
+   "last": "2026-10-05T18:50:51-05:00",
+   "subject": "Retarget unpack workflow to verified data split",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite-datasets",
+    "mashet-parallel-pipeline-test"
+   ],
+   "same_tip_as": [
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-matrices"
+   ],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "echo-recess-experiment": {
+   "files": 223,
+   "bytes": 23524194,
+   "unique_files": 4,
+   "unique_bytes": 39689,
+   "commits": 131,
+   "last": "2026-09-25T05:19:35-05:00",
+   "subject": "experiment: start Recess on fresh branch",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Commit2.zip",
+    "ECHO_GlyphRegistry.zip",
+    "Echo_Green_Future_Source.zip"
+   ],
+   "family": "Genesis & agency"
+  },
+  "experiment-echo-graphql-canvas-000": {
+   "files": 33,
+   "bytes": 129890,
+   "unique_files": 15,
+   "unique_bytes": 41051,
+   "commits": 69,
+   "last": "2026-10-13T11:35:57-05:00",
+   "subject": "ci: execute provisional DSL inversion and Canvas contract tests",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip"
+   ],
+   "family": "Library & data"
+  },
+  "genesis-documentary": {
+   "files": 128,
+   "bytes": 10205497,
+   "unique_files": 59,
+   "unique_bytes": 292328,
+   "commits": 19,
+   "last": "2026-10-19T16:14:32-05:00",
+   "subject": "Preserve main branch core lexicon in Genesis integration inbox",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "Echo_Green_Future_Source.zip",
+    "integration-inbox/core-lexicon/core-lexicon.zip",
+    "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry.zip"
+   ],
+   "family": "Genesis & agency"
+  },
+  "geosensory-crawler-experiment": {
+   "files": 48,
+   "bytes": 2381128,
+   "unique_files": 5,
+   "unique_bytes": 17500,
+   "commits": 21,
+   "last": "2026-09-30T11:43:48-05:00",
+   "subject": "ci: separate geosensory validation from explicit D1 migration",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "Echo_Green_Future_Source.zip"
+   ],
+   "family": "Genesis & agency"
+  },
+  "ksm-recess-wholesale": {
+   "files": 97,
+   "bytes": 1703061,
+   "unique_files": 28,
+   "unique_bytes": 335354,
+   "commits": 87,
+   "last": "2026-09-29T23:17:44-05:00",
+   "subject": "feat: route Notebook menu to KSM and lesson widgets",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_Canvas_Recess_KSM.zip",
+    "ECHO_GlyphRegistry.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "library-shared": {
+   "files": 55,
+   "bytes": 476744,
+   "unique_files": 30,
+   "unique_bytes": 392881,
+   "commits": 112,
+   "last": "2026-10-23T03:01:45+00:00",
+   "subject": "F-001 §96: PROPOSED-appendix_check.py compares EPUB appendix masses with the delivered CSVs; catches the §95 substitute (EXECUTION-VERIFIED); records only",
+   "first_commit": "2026-10-08T23:37:12-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "library-source-transcriptions": {
+   "files": 979,
+   "bytes": 5151726,
+   "unique_files": 128,
+   "unique_bytes": 1731540,
+   "commits": 307,
+   "last": "2026-10-10T19:33:06-05:00",
+   "subject": "NVE-D 063: document feedback evaluation, meta-audit, revision",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "echo-dataset-crawler.zip"
+   ],
+   "family": "Library & data"
+  },
+  "license-update-2026-09-21": {
+   "files": 2,
+   "bytes": 9584,
+   "unique_files": 1,
+   "unique_bytes": 7227,
+   "commits": 6,
+   "last": "2026-09-21T14:27:03-05:00",
+   "subject": "Add ECHO commercial-use license and AGPL notice",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Foundation"
+  },
+  "main": {
+   "files": 29,
+   "bytes": 8150341,
+   "unique_files": 8,
+   "unique_bytes": 570004,
+   "commits": 53,
+   "last": "2026-10-20T15:06:21-05:00",
+   "subject": "Remove Claude export uploads after verified private R2 preservation [skip ci]",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "core-lexicon.zip",
+    "handoffs/canvas-companion-v0.2/Canvas-Code.zip",
+    "handoffs/canvas-companion-v0.2/Claude-Reports.zip",
+    "lhea-environments.zip"
+   ],
+   "family": "Foundation"
+  },
+  "mashet-parallel-pipeline-test": {
+   "files": 61,
+   "bytes": 7277291,
+   "unique_files": 2,
+   "unique_bytes": 3641,
+   "commits": 87,
+   "last": "2026-10-08T03:13:16-05:00",
+   "subject": "Add isolated parallel Mashet test harness and protocol",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.1.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "mirror-chatgpt": {
+   "files": 3,
+   "bytes": 1102,
+   "unique_files": 1,
+   "unique_bytes": 116,
+   "commits": 46,
+   "last": "2026-10-08T15:34:24-05:00",
+   "subject": "Initialize orphan ChatGPT mirror for Contract 000",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Governance & research"
+  },
+  "mirror-chatgpt-root": {
+   "files": 179,
+   "bytes": 260038,
+   "unique_files": 177,
+   "unique_bytes": 259052,
+   "commits": 192,
+   "last": "2026-10-22T17:06:07-05:00",
+   "subject": "GPT Run 284 checkpoint: no tests",
+   "first_commit": "2026-10-08T20:32:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "mirror-claude": {
+   "files": 110,
+   "bytes": 4023981,
+   "unique_files": 109,
+   "unique_bytes": 4018942,
+   "commits": 187,
+   "last": "2026-10-23T03:02:11+00:00",
+   "subject": "CHECKPOINT/RUN-LOG 03Z: no head moved (gap 0), F-001 §96, no Issue turn",
+   "first_commit": "2026-10-08T15:31:18-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Contract 000 orphans"
+  },
+  "notebook-0.4-as-is": {
+   "files": 62,
+   "bytes": 6131440,
+   "unique_files": 1,
+   "unique_bytes": 5194522,
+   "commits": 71,
+   "last": "2026-09-30T17:14:11-05:00",
+   "subject": "Add files via upload",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "ECHO_aleph_boot.zip",
+    "echo-notebook-0.4.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "personal-library-pwa": {
+   "files": 56,
+   "bytes": 27547919,
+   "unique_files": 35,
+   "unique_bytes": 19967582,
+   "commits": 51,
+   "last": "2026-10-12T16:21:19-05:00",
+   "subject": "Add mobile camera/photo upload and full IndexedDB gallery backup/restore",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "core-lexicon.zip",
+    "core-lexicon/pyodide/python_stdlib.zip",
+    "lhea-environments.zip"
+   ],
+   "family": "Governance & research"
+  },
+  "protocol-graft-prune-test": {
+   "files": 2,
+   "bytes": 2460,
+   "unique_files": 1,
+   "unique_bytes": 103,
+   "commits": 3,
+   "last": "2026-09-18T22:48:49-05:00",
+   "subject": "test: add temporary graft-prune specimen",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "chat-archive-pyodide-workbench",
+    "chatgpt-conversation-archive",
+    "code-library-registry",
+    "code-library-registry-ivs",
+    "contract-000-gpt-team",
+    "dev-suite",
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-datasets",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-matrices",
+    "dev-suite-registries",
+    "experiment-echo-graphql-canvas-000",
+    "ksm-recess-wholesale",
+    "library-source-transcriptions",
+    "license-update-2026-09-21",
+    "main",
+    "mashet-parallel-pipeline-test",
+    "mirror-chatgpt",
+    "notebook-0.4-as-is",
+    "personal-library-pwa",
+    "pwa-hosting-environment",
+    "research-discourse-registry",
+    "stress-test-002-clean",
+    "widgeting-experiment"
+   ],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [],
+   "family": "Foundation"
+  },
+  "pwa-hosting-environment": {
+   "files": 60,
+   "bytes": 930325,
+   "unique_files": 0,
+   "unique_bytes": 0,
+   "commits": 69,
+   "last": "2026-09-29T21:49:12-05:00",
+   "subject": "fix: isolate Wrangler tooling from PWA assets",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [
+    "dev-suite",
+    "dev-suite-algorithms",
+    "dev-suite-codices",
+    "dev-suite-datasets",
+    "dev-suite-indices",
+    "dev-suite-integration-staging",
+    "dev-suite-logics",
+    "dev-suite-matrices",
+    "dev-suite-registries",
+    "ksm-recess-wholesale",
+    "mashet-parallel-pipeline-test",
+    "notebook-0.4-as-is",
+    "widgeting-experiment"
+   ],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  },
+  "research-discourse-registry": {
+   "files": 48,
+   "bytes": 359179,
+   "unique_files": 29,
+   "unique_bytes": 208674,
+   "commits": 118,
+   "last": "2026-10-22T10:05:19+00:00",
+   "subject": "DISC-002 2026-10-22T10Z: Claude reproduces ChatGPT runs 204/234/258 (E1-E4); pinned external witness for RC-R5",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "lhea-environments.zip"
+   ],
+   "family": "Governance & research"
+  },
+  "resh-lattice-agency": {
+   "files": 63,
+   "bytes": 7731366,
+   "unique_files": 7,
+   "unique_bytes": 5249389,
+   "commits": 35,
+   "last": "2026-09-23T16:13:07-05:00",
+   "subject": "docs: record Run 7 lattice-level operation evidence",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "Echo_Green_Future_Source.zip",
+    "lattice-workbench-repo (1).zip"
+   ],
+   "family": "Genesis & agency"
+  },
+  "stress-test-002-clean": {
+   "files": 179,
+   "bytes": 752945,
+   "unique_files": 4,
+   "unique_bytes": 42944,
+   "commits": 168,
+   "last": "2026-10-07T00:04:22-05:00",
+   "subject": "Stress Test 002: add exact input manifest and Git blob hashes",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "Algorithms/Stress-Test-002/input/ECHO_GlyphRegistry.zip",
+    "ECHO_Autonomous_Agency_Branch.zip"
+   ],
+   "family": "Library & data"
+  },
+  "widgeting-experiment": {
+   "files": 61,
+   "bytes": 932346,
+   "unique_files": 1,
+   "unique_bytes": 975,
+   "commits": 70,
+   "last": "2026-09-30T11:43:13-05:00",
+   "subject": "fix: validate widget commands and preserve user bindings",
+   "first_commit": "2026-09-17T12:06:50-05:00",
+   "contained_in": [],
+   "same_tip_as": [],
+   "tip_moved_since_blobless_pass": false,
+   "zips": [
+    "ECHO_Autonomous_Agency_Branch.zip",
+    "ECHO_GlyphRegistry.zip",
+    "echo-notebook-pwa.zip"
+   ],
+   "family": "PWA & canvas"
+  }
+ },
+ "drift": [
+  {
+   "path": "README.md",
+   "versions": 6,
+   "spread": {
+    "59be277fef": [
+     "bytebytego-claude",
+     "bytebytego-gpt",
+     "bytebytego-hub",
+     "bytebytego-user",
+     "library-shared"
+    ],
+    "ab4932f231": [
+     "mirror-chatgpt",
+     "mirror-chatgpt-root"
+    ],
+    "a3727452d4": [
+     "bridge-experiment",
+     "genesis-documentary",
+     "geosensory-crawler-experiment",
+     "license-update-2026-09-21",
+     "protocol-graft-prune-test"
+    ],
+    "f849f8945a": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment",
+     "resh-lattice-agency"
+    ],
+    "b7de7490cf": [
+     "chat-archive-pyodide-workbench",
+     "chatgpt-conversation-archive",
+     "code-library-registry",
+     "code-library-registry-ivs",
+     "contract-000-gpt-team",
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "experiment-echo-graphql-canvas-000",
+     "ksm-recess-wholesale",
+     "library-source-transcriptions",
+     "main",
+     "notebook-0.4-as-is",
+     "personal-library-pwa",
+     "pwa-hosting-environment",
+     "research-discourse-registry",
+     "stress-test-002-clean",
+     "widgeting-experiment"
+    ],
+    "1a8e680785": [
+     "dev-suite-datasets",
+     "mashet-parallel-pipeline-test"
+    ]
+   }
+  },
+  {
+   "path": "pwa/index.html",
+   "versions": 4,
+   "spread": {
+    "333fd05b7b": [
+     "algebra",
+     "autonomous-agency"
+    ],
+    "2d2ad1f041": [
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ],
+    "e2cf90d78d": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "mashet-parallel-pipeline-test"
+    ],
+    "8c4a737f15": [
+     "ksm-recess-wholesale"
+    ]
+   }
+  },
+  {
+   "path": "ECHO_AutonomousAgency/sandbox/recess_session_log.json",
+   "versions": 3,
+   "spread": {
+    "56d31c9e45": [
+     "echo-recess-experiment"
+    ],
+    "8478f63b4d": [
+     "autonomous-agency"
+    ],
+    "af7abd7fc1": [
+     "algebra"
+    ]
+   }
+  },
+  {
+   "path": "LICENSE",
+   "versions": 3,
+   "spread": {
+    "02b1b4026e": [
+     "chat-archive-pyodide-workbench",
+     "chatgpt-conversation-archive",
+     "code-library-registry",
+     "code-library-registry-ivs",
+     "contract-000-gpt-team",
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "experiment-echo-graphql-canvas-000",
+     "ksm-recess-wholesale",
+     "library-source-transcriptions",
+     "main",
+     "mashet-parallel-pipeline-test",
+     "notebook-0.4-as-is",
+     "personal-library-pwa",
+     "pwa-hosting-environment",
+     "research-discourse-registry",
+     "stress-test-002-clean",
+     "widgeting-experiment"
+    ],
+    "7659678e8d": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment",
+     "genesis-documentary",
+     "geosensory-crawler-experiment",
+     "resh-lattice-agency"
+    ],
+    "342063147c": [
+     "license-update-2026-09-21"
+    ]
+   }
+  },
+  {
+   "path": "pwa/README.md",
+   "versions": 3,
+   "spread": {
+    "79c0bc1cc6": [
+     "algebra",
+     "autonomous-agency"
+    ],
+    "2da96212a5": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "mashet-parallel-pipeline-test"
+    ],
+    "7725a6cc7c": [
+     "ksm-recess-wholesale",
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ]
+   }
+  },
+  {
+   "path": "pwa/manifest.webmanifest",
+   "versions": 3,
+   "spread": {
+    "9b7dd79229": [
+     "ksm-recess-wholesale",
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ],
+    "a3ecae55e1": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "mashet-parallel-pipeline-test"
+    ],
+    "985fbe5fe1": [
+     "algebra",
+     "autonomous-agency"
+    ]
+   }
+  },
+  {
+   "path": "pwa/wrangler.toml",
+   "versions": 3,
+   "spread": {
+    "c76a050fd3": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "mashet-parallel-pipeline-test"
+    ],
+    "dd723e5548": [
+     "algebra",
+     "autonomous-agency"
+    ],
+    "c2d9eb9fce": [
+     "ksm-recess-wholesale",
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ]
+   }
+  },
+  {
+   "path": "research/bytebytego/README.md",
+   "versions": 3,
+   "spread": {
+    "ceed63561f": [
+     "bytebytego-user"
+    ],
+    "76aab33b42": [
+     "bytebytego-gpt"
+    ],
+    "e6eab17c0f": [
+     "bytebytego-claude"
+    ]
+   }
+  },
+  {
+   "path": "index.html",
+   "versions": 3,
+   "spread": {
+    "a289830241": [
+     "experiment-echo-graphql-canvas-000"
+    ],
+    "c4e9470eb8": [
+     "chat-archive-pyodide-workbench"
+    ],
+    "72063ae3f4": [
+     "dev-suite-datasets",
+     "mashet-parallel-pipeline-test"
+    ]
+   }
+  },
+  {
+   "path": "code_library_registry/WORK_QUEUE_2026-09-30.md",
+   "versions": 3,
+   "spread": {
+    "f82af6be97": [
+     "code-library-registry"
+    ],
+    "6bfbd77f87": [
+     "stress-test-002-clean"
+    ],
+    "e3ad3fa045": [
+     "code-library-registry-ivs",
+     "library-source-transcriptions"
+    ]
+   }
+  },
+  {
+   "path": "pwa/js/app.js",
+   "versions": 3,
+   "spread": {
+    "82d8e121a5": [
+     "ksm-recess-wholesale"
+    ],
+    "11aa85781a": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "mashet-parallel-pipeline-test"
+    ],
+    "5d4f0482c7": [
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ]
+   }
+  },
+  {
+   "path": "PRUNE-LOG.md",
+   "versions": 3,
+   "spread": {
+    "c4c9d8a1b6": [
+     "mirror-chatgpt"
+    ],
+    "a9db9f0f05": [
+     "mirror-chatgpt-root"
+    ],
+    "8dd29bf5eb": [
+     "mirror-claude"
+    ]
+   }
+  },
+  {
+   "path": ".github/workflows/echo-recess.yml",
+   "versions": 2,
+   "spread": {
+    "407e8060f2": [
+     "echo-recess-experiment"
+    ],
+    "cb81fa55a4": [
+     "algebra",
+     "autonomous-agency"
+    ]
+   }
+  },
+  {
+   "path": "ECHO_AutonomousAgency/sandbox/school_day_log.json",
+   "versions": 2,
+   "spread": {
+    "d8a4d8e02e": [
+     "autonomous-agency"
+    ],
+    "cf77cfecc3": [
+     "algebra"
+    ]
+   }
+  },
+  {
+   "path": "ECHO_AutonomousAgency/src/echo_recess.py",
+   "versions": 2,
+   "spread": {
+    "202d0c78f1": [
+     "algebra",
+     "autonomous-agency"
+    ],
+    "873908f285": [
+     "echo-recess-experiment"
+    ]
+   }
+  },
+  {
+   "path": "matrices/echo_algorithm_matrix.json",
+   "versions": 2,
+   "spread": {
+    "4bdb016311": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment",
+     "resh-lattice-agency"
+    ],
+    "0e1eef0a98": [
+     "genesis-documentary",
+     "geosensory-crawler-experiment"
+    ]
+   }
+  },
+  {
+   "path": "matrices/echo_geosensory_registry.json",
+   "versions": 2,
+   "spread": {
+    "d39e4f2114": [
+     "geosensory-crawler-experiment"
+    ],
+    "280fc713ff": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment",
+     "genesis-documentary",
+     "resh-lattice-agency"
+    ]
+   }
+  },
+  {
+   "path": "matrices/echo_lobby_agents.json",
+   "versions": 2,
+   "spread": {
+    "6db4fdc2f7": [
+     "genesis-documentary",
+     "geosensory-crawler-experiment",
+     "resh-lattice-agency"
+    ],
+    "8ce6e1b276": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment"
+    ]
+   }
+  },
+  {
+   "path": "src/a159_cloudflare_migrator.py",
+   "versions": 2,
+   "spread": {
+    "5c87618715": [
+     "chat-archive-pyodide-workbench",
+     "chatgpt-conversation-archive",
+     "code-library-registry",
+     "code-library-registry-ivs",
+     "contract-000-gpt-team",
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "experiment-echo-graphql-canvas-000",
+     "ksm-recess-wholesale",
+     "library-source-transcriptions",
+     "main",
+     "mashet-parallel-pipeline-test",
+     "notebook-0.4-as-is",
+     "personal-library-pwa",
+     "pwa-hosting-environment",
+     "research-discourse-registry",
+     "stress-test-002-clean",
+     "widgeting-experiment"
+    ],
+    "5aaf8a57d3": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment",
+     "genesis-documentary",
+     "geosensory-crawler-experiment",
+     "resh-lattice-agency"
+    ]
+   }
+  },
+  {
+   "path": "src/echo_pe_mirror.py",
+   "versions": 2,
+   "spread": {
+    "64bb45d7d7": [
+     "resh-lattice-agency"
+    ],
+    "9da40dd474": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment"
+    ]
+   }
+  },
+  {
+   "path": "tests/self_governance_test.py",
+   "versions": 2,
+   "spread": {
+    "3e6c7f0711": [
+     "resh-lattice-agency"
+    ],
+    "4d4f398adc": [
+     "algebra",
+     "autonomous-agency",
+     "echo-recess-experiment",
+     "genesis-documentary",
+     "geosensory-crawler-experiment"
+    ]
+   }
+  },
+  {
+   "path": "Business/ideas/F-001-candidate-ebook-gumroad.md",
+   "versions": 2,
+   "spread": {
+    "79f7e9b731": [
+     "library-shared"
+    ],
+    "7caeec5533": [
+     "bytebytego-claude",
+     "bytebytego-gpt",
+     "bytebytego-hub",
+     "bytebytego-user"
+    ]
+   }
+  },
+  {
+   "path": "Business/ideas/F-001-tam-build/build.py",
+   "versions": 2,
+   "spread": {
+    "ede8da6f9e": [
+     "library-shared"
+    ],
+    "96e4ef3b47": [
+     "bytebytego-claude",
+     "bytebytego-gpt",
+     "bytebytego-hub",
+     "bytebytego-user"
+    ]
+   }
+  },
+  {
+   "path": "Business/ideas/F-001-tam-build/ledger_map.py",
+   "versions": 2,
+   "spread": {
+    "8dd95e339b": [
+     "bytebytego-claude",
+     "bytebytego-gpt",
+     "bytebytego-hub",
+     "bytebytego-user"
+    ],
+    "5fbad4c381": [
+     "library-shared"
+    ]
+   }
+  },
+  {
+   "path": "Business/ideas/F-001-tam-build/listing_check.py",
+   "versions": 2,
+   "spread": {
+    "e329b64d27": [
+     "bytebytego-claude",
+     "bytebytego-gpt",
+     "bytebytego-hub",
+     "bytebytego-user"
+    ],
+    "adc3123c30": [
+     "library-shared"
+    ]
+   }
+  },
+  {
+   "path": ".github/workflows/echo-classroom-lab.yml",
+   "versions": 2,
+   "spread": {
+    "376113e469": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "ksm-recess-wholesale",
+     "mashet-parallel-pipeline-test",
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ],
+    "950ef3c963": [
+     "chat-archive-pyodide-workbench",
+     "chatgpt-conversation-archive",
+     "code-library-registry",
+     "code-library-registry-ivs",
+     "contract-000-gpt-team",
+     "experiment-echo-graphql-canvas-000",
+     "library-source-transcriptions",
+     "main",
+     "personal-library-pwa",
+     "research-discourse-registry",
+     "stress-test-002-clean"
+    ]
+   }
+  },
+  {
+   "path": "app.js",
+   "versions": 2,
+   "spread": {
+    "039fa94729": [
+     "experiment-echo-graphql-canvas-000"
+    ],
+    "e0e476bc9c": [
+     "chat-archive-pyodide-workbench"
+    ]
+   }
+  },
+  {
+   "path": "styles.css",
+   "versions": 2,
+   "spread": {
+    "9d349c6c58": [
+     "chat-archive-pyodide-workbench"
+    ],
+    "2a32270494": [
+     "experiment-echo-graphql-canvas-000"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/INDEX.md",
+   "versions": 2,
+   "spread": {
+    "b445d87ccc": [
+     "code-library-registry"
+    ],
+    "0a487243de": [
+     "library-source-transcriptions"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/catalog/huggingface/SciAILab_OSWorld-Science-data/record.json",
+   "versions": 2,
+   "spread": {
+    "9b4aec1129": [
+     "code-library-registry"
+    ],
+    "2122ed702f": [
+     "library-source-transcriptions"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/catalog/huggingface/SciAILab_OSWorld-Science-data/record.raw.json.gz",
+   "versions": 2,
+   "spread": {
+    "75c0d49ea0": [
+     "code-library-registry"
+    ],
+    "42ab9d6855": [
+     "library-source-transcriptions"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/crawler/README.md",
+   "versions": 2,
+   "spread": {
+    "874c7a9408": [
+     "code-library-registry",
+     "library-source-transcriptions"
+    ],
+    "9ca695faed": [
+     "code-library-registry-ivs"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/crawler/keywords.txt",
+   "versions": 2,
+   "spread": {
+    "ba5922bddd": [
+     "code-library-registry",
+     "library-source-transcriptions"
+    ],
+    "84eb1a2f28": [
+     "code-library-registry-ivs"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/crawler/schedule.txt",
+   "versions": 2,
+   "spread": {
+    "60c8a4380b": [
+     "code-library-registry-ivs"
+    ],
+    "c680d38e4c": [
+     "code-library-registry",
+     "library-source-transcriptions"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/state/runs.json",
+   "versions": 2,
+   "spread": {
+    "b87fbf396c": [
+     "code-library-registry"
+    ],
+    "1b731dc752": [
+     "library-source-transcriptions"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/state/seen.json",
+   "versions": 2,
+   "spread": {
+    "2e263073a3": [
+     "library-source-transcriptions"
+    ],
+    "5e375bdf98": [
+     "code-library-registry"
+    ]
+   }
+  },
+  {
+   "path": "Datasets/state/skipped.json",
+   "versions": 2,
+   "spread": {
+    "26fa2248b9": [
+     "library-source-transcriptions"
+    ],
+    "2fd40adf55": [
+     "code-library-registry"
+    ]
+   }
+  },
+  {
+   "path": "code_library_registry/INDEX.md",
+   "versions": 2,
+   "spread": {
+    "120f345225": [
+     "code-library-registry-ivs",
+     "library-source-transcriptions",
+     "stress-test-002-clean"
+    ],
+    "288c7800d9": [
+     "code-library-registry"
+    ]
+   }
+  },
+  {
+   "path": "pwa/sw.js",
+   "versions": 2,
+   "spread": {
+    "9a3c0872cf": [
+     "ksm-recess-wholesale",
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment",
+     "widgeting-experiment"
+    ],
+    "68c104e6af": [
+     "dev-suite",
+     "dev-suite-algorithms",
+     "dev-suite-codices",
+     "dev-suite-datasets",
+     "dev-suite-indices",
+     "dev-suite-integration-staging",
+     "dev-suite-logics",
+     "dev-suite-matrices",
+     "dev-suite-registries",
+     "mashet-parallel-pipeline-test"
+    ]
+   }
+  },
+  {
+   "path": "pwa/js/widgets.js",
+   "versions": 2,
+   "spread": {
+    "016270d196": [
+     "ksm-recess-wholesale",
+     "notebook-0.4-as-is",
+     "pwa-hosting-environment"
+    ],
+    "de6b789944": [
+     "widgeting-experiment"
+    ]
+   }
+  },
+  {
+   "path": "CHECKPOINT.md",
+   "versions": 2,
+   "spread": {
+    "228afd65d1": [
+     "mirror-claude"
+    ],
+    "f54a5dc226": [
+     "mirror-chatgpt-root"
+    ]
+   }
+  },
+  {
+   "path": "RUN-LOG.md",
+   "versions": 2,
+   "spread": {
+    "4e9d2384ba": [
+     "mirror-chatgpt-root"
+    ],
+    "7eab120fb7": [
+     "mirror-claude"
+    ]
+   }
+  }
+ ],
+ "zips": {
+  "0120cceca3e6585d687411bb315d5b78966cfea8": {
+   "members": 4,
+   "uncompressed": 13365,
+   "top": [
+    "CLAUDE-FINDINGS-ORIGINAL.md",
+    "GROUP-CANVAS-REVIEW.md",
+    "RESPONSE-TO-CLAUDE.md",
+    "VALIDATION.md"
+   ],
+   "names": [
+    "RESPONSE-TO-CLAUDE.md",
+    "GROUP-CANVAS-REVIEW.md",
+    "CLAUDE-FINDINGS-ORIGINAL.md",
+    "VALIDATION.md"
+   ]
+  },
+  "20f425105d3ce67fca5aae222deaa2acad567980": {
+   "members": 10,
+   "uncompressed": 32984,
+   "top": [
+    ".github",
+    "Datasets"
+   ],
+   "names": [
+    ".github/",
+    ".github/workflows/",
+    ".github/workflows/dataset-crawler.yml",
+    "Datasets/",
+    "Datasets/crawler/",
+    "Datasets/crawler/keywords.txt",
+    "Datasets/crawler/crawl.py",
+    "Datasets/crawler/README.md",
+    "Datasets/crawler/schedule.txt",
+    "Datasets/crawler/config.json"
+   ]
+  },
+  "638bdd9584994ced6872a7d391f0fba3eb208c39": {
+   "members": 3,
+   "uncompressed": 17589801,
+   "top": [
+    "lofloc_UD_v1.0"
+   ],
+   "names": [
+    "lofloc_UD_v1.0/",
+    "lofloc_UD_v1.0/lofloc_UD_v1.0.csv",
+    "lofloc_UD_v1.0/_readme.txt"
+   ]
+  },
+  "b98a26bc006f15ea8dde30bbc79157b0788173da": {
+   "members": 23,
+   "uncompressed": 74851,
+   "top": [
+    "ECHO_GlyphRegistry"
+   ],
+   "names": [
+    "ECHO_GlyphRegistry/01-ALEPH.md",
+    "ECHO_GlyphRegistry/02-BET.md",
+    "ECHO_GlyphRegistry/03-GIMEL.md",
+    "ECHO_GlyphRegistry/04-DALET.md",
+    "ECHO_GlyphRegistry/05-HE.md",
+    "ECHO_GlyphRegistry/06-VAV.md",
+    "ECHO_GlyphRegistry/07-ZAYIN.md",
+    "ECHO_GlyphRegistry/08-HET.md",
+    "ECHO_GlyphRegistry/09-TET.md",
+    "ECHO_GlyphRegistry/10-YOD.md",
+    "ECHO_GlyphRegistry/11-KAF.md",
+    "ECHO_GlyphRegistry/12-LAMED.md",
+    "ECHO_GlyphRegistry/13-MEM.md",
+    "ECHO_GlyphRegistry/14-NUN.md",
+    "ECHO_GlyphRegistry/15-SAMEKH.md",
+    "ECHO_GlyphRegistry/16-AYIN.md",
+    "ECHO_GlyphRegistry/17-PE.md",
+    "ECHO_GlyphRegistry/18-TSADI.md",
+    "ECHO_GlyphRegistry/19-QOF.md",
+    "ECHO_GlyphRegistry/20-RESH.md",
+    "ECHO_GlyphRegistry/21-SHIN.md",
+    "ECHO_GlyphRegistry/22-TAV.md",
+    "ECHO_GlyphRegistry/INDEX.md"
+   ]
+  },
+  "aa88f3764af660752014951c8a2f6b299b6bae48": {
+   "members": 81,
+   "uncompressed": 5897993,
+   "top": [
+    "README.md",
+    "WORDNET_LICENSE",
+    "css",
+    "data",
+    "echo",
+    "icons",
+    "index.html",
+    "js",
+    "manifest.webmanifest",
+    "sw.js",
+    "tests"
+   ],
+   "names": [
+    "sw.js",
+    "README.md",
+    "index.html",
+    "icons/",
+    "icons/icon-maskable-512.png",
+    "icons/icon-192.png",
+    "icons/icon-512.png",
+    "tests/",
+    "tests/test_aleph_boot.py",
+    "tests/test_projective.py",
+    "data/",
+    "data/geosensory_registry.json",
+    "echo/",
+    "echo/notebook_runtime.py",
+    "echo/dialogue.py",
+    "echo/__init__.py",
+    "echo/operators/",
+    "echo/operators/lhea.py",
+    "echo/operators/__init__.py",
+    "echo/operators/invariant.py",
+    "echo/operators/orbit.py",
+    "echo/operators/proportion.py",
+    "echo/build_snapshot.py",
+    "echo/forge.py",
+    "echo/kernel/",
+    "echo/kernel/__init__.py",
+    "echo/kernel/skeleton.py",
+    "echo/study.py",
+    "echo/manifest.json",
+    "echo/data/",
+    "echo/data/lobby_snapshot.json",
+    "echo/data/dictionary.json.gz",
+    "echo/aleph_boot.py",
+    "echo/matrix/",
+    "echo/matrix/__init__.py",
+    "echo/matrix/registry.py",
+    "echo/knowledge.py",
+    "echo/canvas/",
+    "echo/canvas/__init__.py",
+    "echo/canvas/ks_recess.py",
+    "echo/canvas/actor.py",
+    "echo/build_dictionary.py",
+    "echo/mcw/",
+    "echo/mcw/client.py",
+    "echo/mcw/__init__.py",
+    "echo/language/",
+    "echo/language/index_pattern.py",
+    "echo/language/__init__.py",
+    "echo/language/README.md",
+    "echo/language/parser.py",
+    "echo/language/english_parse.py",
+    "echo/language/ast.py",
+    "echo/language/data/",
+    "echo/language/data/hebrew_glyph_registry.json",
+    "echo/language/pyform.py",
+    "echo/language/gov_index.py",
+    "echo/language/projective.py",
+    "echo/language/compose.py",
+    "echo/language/realize.py",
+    "echo/language/audit.py",
+    "echo/language/senses.py",
+    "echo/language/lexicon.py",
+    "echo/dictionary.py",
+    "echo/bootstrap/",
+    "echo/bootstrap/boot.py",
+    "echo/bootstrap/__init__.py",
+    "WORDNET_LICENSE",
+    "css/",
+    "css/notebook.css",
+    "manifest.webmanifest",
+    "js/",
+    "js/stage.js",
+    "js/widgets.js",
+    "js/app.js",
+    "js/worker.js",
+    "js/forge.js",
+    "js/bridge.js",
+    "js/panels.js",
+    "js/study.js",
+    "js/nve.js",
+    "js/io.js"
+   ]
+  },
+  "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b": {
+   "members": 14,
+   "uncompressed": 152169,
+   "top": [
+    "ECHO_AutonomousAgency"
+   ],
+   "names": [
+    "ECHO_AutonomousAgency/README.md",
+    "ECHO_AutonomousAgency/src/echo_pe_mirror.py",
+    "ECHO_AutonomousAgency/src/echo_sub_governor.py",
+    "ECHO_AutonomousAgency/src/echo_hourglass.py",
+    "ECHO_AutonomousAgency/src/generate_matrices.py",
+    "ECHO_AutonomousAgency/src/build_thesaurus.py",
+    "ECHO_AutonomousAgency/sandbox/echo_sandbox_swadesh.json",
+    "ECHO_AutonomousAgency/sandbox/echo_hourglass_state.json",
+    "ECHO_AutonomousAgency/artifacts/echo_pwa.html",
+    "ECHO_AutonomousAgency/matrices/echo_algorithm_matrix.json",
+    "ECHO_AutonomousAgency/matrices/echo_vgm.json",
+    "ECHO_AutonomousAgency/matrices/echo_equilibria.json",
+    "ECHO_AutonomousAgency/docs/REVISED_INSTRUCTIONS_FOR_GPT.md",
+    "ECHO_AutonomousAgency/docs/UPDATE_FOR_GPT.md"
+   ]
+  },
+  "370e23a301badb6362eac29682afc5bba9e8d5a4": {
+   "members": 38,
+   "uncompressed": 19960623,
+   "top": [
+    "core-lexicon"
+   ],
+   "names": [
+    "core-lexicon/",
+    "core-lexicon/iching.json",
+    "core-lexicon/sci_symbols.json",
+    "core-lexicon/pyodide/",
+    "core-lexicon/pyodide/pyodide.asm.wasm",
+    "core-lexicon/pyodide/pyodide-lock.json",
+    "core-lexicon/pyodide/pyodide.js",
+    "core-lexicon/pyodide/pyodide.asm.js",
+    "core-lexicon/pyodide/python_stdlib.zip",
+    "core-lexicon/sw.js",
+    "core-lexicon/_headers",
+    "core-lexicon/sci_principles.json",
+    "core-lexicon/realms.json",
+    "core-lexicon/eve/",
+    "core-lexicon/eve/eve_indus.py",
+    "core-lexicon/eve/build_ep7.py",
+    "core-lexicon/eve/eve_core.py",
+    "core-lexicon/eve/ep7_results.json",
+    "core-lexicon/chinese.json",
+    "core-lexicon/hebrew.json",
+    "core-lexicon/README.md",
+    "core-lexicon/words.json",
+    "core-lexicon/index.html",
+    "core-lexicon/documentation.json",
+    "core-lexicon/math_formulas.json",
+    "core-lexicon/sci_laws.json",
+    "core-lexicon/characters.json",
+    "core-lexicon/codices.json",
+    "core-lexicon/math_symbols.json",
+    "core-lexicon/pos.json",
+    "core-lexicon/icon-192.png",
+    "core-lexicon/math_axioms.json",
+    "core-lexicon/latin.json",
+    "core-lexicon/docs/",
+    "core-lexicon/docs/ep7.json",
+    "core-lexicon/icon.svg",
+    "core-lexicon/manifest.webmanifest",
+    "core-lexicon/icon-512.png"
+   ]
+  },
+  "fa70ce588a41e4d9a4166246a6f7ad41e93395bc": {
+   "members": 34,
+   "uncompressed": 13969443,
+   "top": [
+    "dev-suite"
+   ],
+   "names": [
+    "dev-suite/",
+    "dev-suite/cloudflare/",
+    "dev-suite/cloudflare/seed/",
+    "dev-suite/cloudflare/seed/dictionary.sql",
+    "dev-suite/cloudflare/seed/capabilities.sql",
+    "dev-suite/cloudflare/src/",
+    "dev-suite/cloudflare/src/index.js",
+    "dev-suite/cloudflare/.github-workflow/",
+    "dev-suite/cloudflare/.github-workflow/deploy-bridge.yml",
+    "dev-suite/cloudflare/wrangler.toml",
+    "dev-suite/cloudflare/schema.sql",
+    "dev-suite/dist/",
+    "dev-suite/dist/dev-suite.html",
+    "dev-suite/dist/canvas-keyboard-terminal.html",
+    "dev-suite/README.md",
+    "dev-suite/.gitignore",
+    "dev-suite/suite/",
+    "dev-suite/suite/src/",
+    "dev-suite/suite/src/loader_part.html",
+    "dev-suite/suite/src/head_part.html",
+    "dev-suite/suite/src/app_part.html",
+    "dev-suite/suite/python/",
+    "dev-suite/suite/python/echo_loader.py",
+    "dev-suite/suite/python/libmap.py",
+    "dev-suite/suite/python/symbols.py",
+    "dev-suite/suite/python/build_dict.py",
+    "dev-suite/keyboard/",
+    "dev-suite/keyboard/src/",
+    "dev-suite/keyboard/src/app.js",
+    "dev-suite/keyboard/src/substrate_data.py",
+    "dev-suite/keyboard/src/page.html",
+    "dev-suite/package.json",
+    "dev-suite/build.py",
+    "dev-suite/HANDOFF_FOR_GPT.md"
+   ]
+  },
+  "bee1ed943ed85af430cef1069d776e7b2c7a9376": {
+   "members": 33,
+   "uncompressed": 588460,
+   "top": [
+    "echo",
+    "experiments"
+   ],
+   "names": [
+    "echo/__init__.py",
+    "echo/kernel/",
+    "echo/kernel/__init__.py",
+    "echo/kernel/skeleton.py",
+    "echo/operators/",
+    "echo/operators/lhea.py",
+    "echo/operators/__init__.py",
+    "echo/operators/invariant.py",
+    "echo/operators/orbit.py",
+    "echo/operators/proportion.py",
+    "echo/matrix/",
+    "echo/matrix/__init__.py",
+    "echo/matrix/registry.py",
+    "echo/language/",
+    "echo/language/index_pattern.py",
+    "echo/language/__init__.py",
+    "echo/language/README.md",
+    "echo/language/parser.py",
+    "echo/language/english_parse.py",
+    "echo/language/ast.py",
+    "echo/language/data/",
+    "echo/language/data/hebrew_glyph_registry.json",
+    "echo/language/pyform.py",
+    "echo/language/gov_index.py",
+    "echo/language/compose.py",
+    "echo/language/realize.py",
+    "echo/language/audit.py",
+    "echo/language/senses.py",
+    "echo/language/lexicon.py",
+    "echo/canvas/__init__.py",
+    "echo/canvas/ks_recess.py",
+    "experiments/e12_ks_canvas_recess.py",
+    "experiments/e12_recess_log.json"
+   ]
+  },
+  "9a9031dda9c46dd5680fc6dff74240e5ac35c0f2": {
+   "members": 9,
+   "uncompressed": 42939,
+   "top": [
+    "README.md",
+    "_headers",
+    "datasets",
+    "directory",
+    "index.html",
+    "scripts"
+   ],
+   "names": [
+    "_headers",
+    "README.md",
+    "index.html",
+    "scripts/",
+    "scripts/fetch-pyodide.sh",
+    "datasets/",
+    "datasets/index.html",
+    "directory/",
+    "directory/index.html"
+   ]
+  },
+  "48a1ab06f6bc86edcf9c2ded7a3925d82755f101": {
+   "members": 35,
+   "uncompressed": 971587,
+   "top": [
+    ".gitignore",
+    "CLA.md",
+    "LICENSE",
+    "artifacts",
+    "corpus",
+    "docs",
+    "infrastructure",
+    "matrices",
+    "src",
+    "tests"
+   ],
+   "names": [
+    "src/echo_governor_skeleton.py",
+    "src/alphabet_data.py",
+    "src/import_hebrew_demo.py",
+    "src/homework.py",
+    "src/run_homework.py",
+    "tests/echo_500round_run.py",
+    "tests/echo_blind_study.py",
+    "tests/self_governance_test.py",
+    "tests/pe_ayin_resh_communication.py",
+    "tests/number_integration_test.py",
+    "tests/multipass_orientation_test.py",
+    "artifacts/echo_governor.jsx",
+    "artifacts/echo_dashboard.jsx",
+    "artifacts/echo_matrix_browser.jsx",
+    "corpus/mashet_parsed.json",
+    "infrastructure/cloudflare_blueprint.json",
+    "docs/GENESIS.md",
+    "docs/SESSION_HANDOFF.md",
+    "docs/DISCOVERIES_SINCE_GENESIS.md",
+    "docs/ECHO_ARCHITECTURAL_DEFINITIONS.md",
+    "docs/ECHO_OUTPUT_FORMAT.md",
+    "docs/REVISED_INSTRUCTIONS_FOR_GPT.md",
+    "docs/UPDATE_FOR_GPT.md",
+    "docs/INSTRUCTIONS_FOR_GPT.md",
+    "matrices/echo_vgm.json",
+    "matrices/echo_algorithm_matrix.json",
+    "matrices/echo_equilibria.json",
+    "matrices/echo_geosensory_registry.json",
+    "matrices/echo_number_matrix.json",
+    "matrices/echo_formula_matrix.json",
+    "matrices/echo_mashet_corpus.json",
+    "matrices/echo_wordnet_chains.json",
+    "LICENSE",
+    "CLA.md",
+    ".gitignore"
+   ]
+  },
+  "efd6a170cc0db44fb8afc6684c935f850717535c": {
+   "members": 30,
+   "uncompressed": 191585,
+   "top": [
+    "ECHO_AutonomousAgency"
+   ],
+   "names": [
+    "ECHO_AutonomousAgency/src/echo_recess.py",
+    "ECHO_AutonomousAgency/src/echo_question.py",
+    "ECHO_AutonomousAgency/sandbox/recess_session_log.json",
+    "ECHO_AutonomousAgency/sandbox/echo_questions.json",
+    "ECHO_AutonomousAgency/sandbox/tsadi_proposals.json",
+    "ECHO_AutonomousAgency/matrices/echo_algorithm_matrix.json",
+    "ECHO_AutonomousAgency/docs/A173-QuestionFormulationEngine.md",
+    "ECHO_AutonomousAgency/docs/glyphs/INDEX.md",
+    "ECHO_AutonomousAgency/docs/glyphs/01-ALEPH.md",
+    "ECHO_AutonomousAgency/docs/glyphs/02-BET.md",
+    "ECHO_AutonomousAgency/docs/glyphs/03-GIMEL.md",
+    "ECHO_AutonomousAgency/docs/glyphs/04-DALET.md",
+    "ECHO_AutonomousAgency/docs/glyphs/05-HE.md",
+    "ECHO_AutonomousAgency/docs/glyphs/06-VAV.md",
+    "ECHO_AutonomousAgency/docs/glyphs/07-ZAYIN.md",
+    "ECHO_AutonomousAgency/docs/glyphs/08-HET.md",
+    "ECHO_AutonomousAgency/docs/glyphs/09-TET.md",
+    "ECHO_AutonomousAgency/docs/glyphs/10-YOD.md",
+    "ECHO_AutonomousAgency/docs/glyphs/11-KAF.md",
+    "ECHO_AutonomousAgency/docs/glyphs/12-LAMED.md",
+    "ECHO_AutonomousAgency/docs/glyphs/13-MEM.md",
+    "ECHO_AutonomousAgency/docs/glyphs/14-NUN.md",
+    "ECHO_AutonomousAgency/docs/glyphs/15-SAMEKH.md",
+    "ECHO_AutonomousAgency/docs/glyphs/16-AYIN.md",
+    "ECHO_AutonomousAgency/docs/glyphs/17-PE.md",
+    "ECHO_AutonomousAgency/docs/glyphs/18-TSADI.md",
+    "ECHO_AutonomousAgency/docs/glyphs/19-QOF.md",
+    "ECHO_AutonomousAgency/docs/glyphs/20-RESH.md",
+    "ECHO_AutonomousAgency/docs/glyphs/21-SHIN.md",
+    "ECHO_AutonomousAgency/docs/glyphs/22-TAV.md"
+   ]
+  },
+  "2b84f82bd1e3fb7ca28ace09ec94cc48214ff7a0": {
+   "members": 553,
+   "uncompressed": 8877759,
+   "top": [
+    "__future__.py",
+    "__hello__.py",
+    "__phello__",
+    "_collections_abc.py",
+    "_compat_pickle.py",
+    "_compression.py",
+    "_markupbase.py",
+    "_py_abc.py",
+    "_pydatetime.py",
+    "_pyio.py",
+    "_pylong.py",
+    "_pyodide",
+    "_sitebuiltins.py",
+    "_strptime.py",
+    "_sysconfigdata__emscripten_wasm32-emscripten.py",
+    "_threading_local.py",
+    "_weakrefset.py",
+    "abc.py",
+    "aifc.py",
+    "antigravity.py"
+   ],
+   "names": [
+    "_sysconfigdata__emscripten_wasm32-emscripten.py",
+    "asyncio/",
+    "collections/",
+    "concurrent/",
+    "ctypes/",
+    "email/",
+    "encodings/",
+    "html/",
+    "http/",
+    "importlib/",
+    "json/",
+    "logging/",
+    "multiprocessing/",
+    "re/",
+    "site-packages/",
+    "tomllib/",
+    "unittest/",
+    "urllib/",
+    "wsgiref/",
+    "xml/",
+    "xmlrpc/",
+    "zipfile/",
+    "zoneinfo/",
+    "__phello__/",
+    "__future__.py",
+    "__hello__.py",
+    "_collections_abc.py",
+    "_compat_pickle.py",
+    "_compression.py",
+    "_markupbase.py",
+    "_py_abc.py",
+    "_pydatetime.py",
+    "_pyio.py",
+    "_pylong.py",
+    "_sitebuiltins.py",
+    "_strptime.py",
+    "_threading_local.py",
+    "_weakrefset.py",
+    "abc.py",
+    "aifc.py",
+    "antigravity.py",
+    "argparse.py",
+    "ast.py",
+    "base64.py",
+    "bdb.py",
+    "bisect.py",
+    "bz2.py",
+    "cProfile.py",
+    "calendar.py",
+    "cgi.py",
+    "cgitb.py",
+    "chunk.py",
+    "cmd.py",
+    "code.py",
+    "codecs.py",
+    "codeop.py",
+    "colorsys.py",
+    "compileall.py",
+    "configparser.py",
+    "contextlib.py",
+    "contextvars.py",
+    "copy.py",
+    "copyreg.py",
+    "crypt.py",
+    "csv.py",
+    "dataclasses.py",
+    "datetime.py",
+    "decimal.py",
+    "difflib.py",
+    "dis.py",
+    "doctest.py",
+    "enum.py",
+    "filecmp.py",
+    "fileinput.py",
+    "fnmatch.py",
+    "fractions.py",
+    "ftplib.py",
+    "functools.py",
+    "genericpath.py",
+    "getopt.py",
+    "getpass.py",
+    "gettext.py",
+    "glob.py",
+    "graphlib.py",
+    "gzip.py",
+    "hashlib.py",
+    "heapq.py",
+    "hmac.py",
+    "imaplib.py",
+    "imghdr.py",
+    "inspect.py",
+    "io.py",
+    "ipaddress.py",
+    "keyword.py",
+    "linecache.py",
+    "locale.py",
+    "mailbox.py",
+    "mailcap.py",
+    "mimetypes.py",
+    "modulefinder.py",
+    "netrc.py",
+    "nntplib.py",
+    "ntpath.py",
+    "nturl2path.py",
+    "numbers.py",
+    "opcode.py",
+    "operator.py",
+    "optparse.py",
+    "os.py",
+    "pathlib.py",
+    "pdb.py",
+    "pickle.py",
+    "pickletools.py",
+    "pipes.py",
+    "pkgutil.py",
+    "platform.py",
+    "plistlib.py",
+    "poplib.py",
+    "posixpath.py",
+    "pprint.py",
+    "profile.py",
+    "pstats.py",
+    "pty.py",
+    "py_compile.py",
+    "pyclbr.py",
+    "pydoc.py",
+    "queue.py",
+    "quopri.py",
+    "random.py",
+    "reprlib.py",
+    "rlcompleter.py",
+    "runpy.py",
+    "sched.py",
+    "secrets.py",
+    "selectors.py",
+    "shelve.py",
+    "shlex.py",
+    "shutil.py",
+    "signal.py",
+    "site.py",
+    "smtplib.py",
+    "sndhdr.py",
+    "socket.py",
+    "socketserver.py",
+    "sre_compile.py",
+    "sre_constants.py",
+    "sre_parse.py",
+    "stat.py",
+    "statistics.py",
+    "string.py",
+    "stringprep.py",
+    "struct.py",
+    "subprocess.py",
+    "sunau.py",
+    "symtable.py",
+    "sysconfig.py",
+    "tabnanny.py",
+    "tarfile.py",
+    "telnetlib.py",
+    "tempfile.py",
+    "textwrap.py",
+    "this.py",
+    "threading.py",
+    "timeit.py",
+    "token.py",
+    "tokenize.py",
+    "trace.py",
+    "traceback.py",
+    "tracemalloc.py",
+    "tty.py",
+    "types.py",
+    "typing.py",
+    "uu.py",
+    "uuid.py",
+    "warnings.py",
+    "wave.py",
+    "weakref.py",
+    "xdrlib.py",
+    "zipapp.py",
+    "zipimport.py",
+    "_pyodide/",
+    "pyodide/",
+    "webbrowser.py",
+    "asyncio/__init__.py",
+    "asyncio/__main__.py",
+    "asyncio/base_events.py",
+    "asyncio/base_futures.py",
+    "asyncio/base_subprocess.py",
+    "asyncio/base_tasks.py",
+    "asyncio/constants.py",
+    "asyncio/coroutines.py",
+    "asyncio/events.py",
+    "asyncio/exceptions.py",
+    "asyncio/format_helpers.py",
+    "asyncio/futures.py",
+    "asyncio/locks.py",
+    "asyncio/log.py",
+    "asyncio/mixins.py",
+    "asyncio/proactor_events.py",
+    "asyncio/protocols.py",
+    "asyncio/queues.py",
+    "asyncio/runners.py",
+    "asyncio/selector_events.py",
+    "asyncio/sslproto.py",
+    "asyncio/staggered.py",
+    "asyncio/streams.py",
+    "asyncio/subprocess.py",
+    "asyncio/taskgroups.py",
+    "asyncio/tasks.py",
+    "asyncio/threads.py",
+    "asyncio/timeouts.py",
+    "asyncio/transports.py",
+    "asyncio/trsock.py",
+    "asyncio/unix_events.py",
+    "asyncio/windows_events.py",
+    "asyncio/windows_utils.py",
+    "collections/__init__.py",
+    "collections/abc.py",
+    "concurrent/futures/",
+    "concurrent/__init__.py",
+    "ctypes/macholib/",
+    "ctypes/__init__.py",
+    "ctypes/_aix.py",
+    "ctypes/_endian.py",
+    "ctypes/util.py",
+    "ctypes/wintypes.py",
+    "email/mime/",
+    "email/__init__.py",
+    "email/_encoded_words.py",
+    "email/_header_value_parser.py",
+    "email/_parseaddr.py",
+    "email/_policybase.py",
+    "email/base64mime.py",
+    "email/charset.py",
+    "email/contentmanager.py",
+    "email/encoders.py",
+    "email/errors.py",
+    "email/feedparser.py",
+    "email/generator.py",
+    "email/header.py",
+    "email/headerregistry.py",
+    "email/iterators.py",
+    "email/message.py",
+    "email/parser.py",
+    "email/policy.py",
+    "email/quoprimime.py",
+    "email/utils.py",
+    "encodings/__init__.py",
+    "encodings/aliases.py",
+    "encodings/ascii.py",
+    "encodings/base64_codec.py",
+    "encodings/big5.py",
+    "encodings/big5hkscs.py",
+    "encodings/bz2_codec.py",
+    "encodings/charmap.py",
+    "encodings/cp037.py",
+    "encodings/cp1006.py",
+    "encodings/cp1026.py",
+    "encodings/cp1125.py",
+    "encodings/cp1140.py",
+    "encodings/cp1250.py",
+    "encodings/cp1251.py",
+    "encodings/cp1252.py",
+    "encodings/cp1253.py",
+    "encodings/cp1254.py",
+    "encodings/cp1255.py",
+    "encodings/cp1256.py",
+    "encodings/cp1257.py",
+    "encodings/cp1258.py",
+    "encodings/cp273.py",
+    "encodings/cp424.py",
+    "encodings/cp437.py",
+    "encodings/cp500.py",
+    "encodings/cp720.py",
+    "encodings/cp737.py",
+    "encodings/cp775.py",
+    "encodings/cp850.py",
+    "encodings/cp852.py",
+    "encodings/cp855.py",
+    "encodings/cp856.py",
+    "encodings/cp857.py",
+    "encodings/cp858.py",
+    "encodings/cp860.py",
+    "encodings/cp861.py",
+    "encodings/cp862.py",
+    "encodings/cp863.py",
+    "encodings/cp864.py",
+    "encodings/cp865.py",
+    "encodings/cp866.py",
+    "encodings/cp869.py",
+    "encodings/cp874.py",
+    "encodings/cp875.py",
+    "encodings/cp932.py",
+    "encodings/cp949.py",
+    "encodings/cp950.py",
+    "encodings/euc_jis_2004.py",
+    "encodings/euc_jisx0213.py",
+    "encodings/euc_jp.py",
+    "encodings/euc_kr.py",
+    "encodings/gb18030.py",
+    "encodings/gb2312.py",
+    "encodings/gbk.py",
+    "encodings/hex_codec.py",
+    "encodings/hp_roman8.py",
+    "encodings/hz.py",
+    "encodings/idna.py",
+    "encodings/iso2022_jp.py",
+    "encodings/iso2022_jp_1.py",
+    "encodings/iso2022_jp_2.py",
+    "encodings/iso2022_jp_2004.py",
+    "encodings/iso2022_jp_3.py",
+    "encodings/iso2022_jp_ext.py",
+    "encodings/iso2022_kr.py",
+    "encodings/iso8859_1.py",
+    "encodings/iso8859_10.py",
+    "encodings/iso8859_11.py",
+    "encodings/iso8859_13.py",
+    "encodings/iso8859_14.py",
+    "encodings/iso8859_15.py",
+    "encodings/iso8859_16.py",
+    "encodings/iso8859_2.py",
+    "encodings/iso8859_3.py",
+    "encodings/iso8859_4.py",
+    "encodings/iso8859_5.py",
+    "encodings/iso8859_6.py",
+    "encodings/iso8859_7.py",
+    "encodings/iso8859_8.py",
+    "encodings/iso8859_9.py",
+    "encodings/johab.py",
+    "encodings/koi8_r.py",
+    "encodings/koi8_t.py",
+    "encodings/koi8_u.py",
+    "encodings/kz1048.py",
+    "encodings/latin_1.py",
+    "encodings/mac_arabic.py",
+    "encodings/mac_croatian.py",
+    "encodings/mac_cyrillic.py",
+    "encodings/mac_farsi.py",
+    "encodings/mac_greek.py",
+    "encodings/mac_iceland.py",
+    "encodings/mac_latin2.py",
+    "encodings/mac_roman.py",
+    "encodings/mac_romanian.py",
+    "encodings/mac_turkish.py",
+    "encodings/mbcs.py",
+    "encodings/oem.py",
+    "encodings/palmos.py",
+    "encodings/ptcp154.py",
+    "encodings/punycode.py",
+    "encodings/quopri_codec.py",
+    "encodings/raw_unicode_escape.py",
+    "encodings/rot_13.py",
+    "encodings/shift_jis.py",
+    "encodings/shift_jis_2004.py",
+    "encodings/shift_jisx0213.py",
+    "encodings/tis_620.py",
+    "encodings/undefined.py",
+    "encodings/unicode_escape.py",
+    "encodings/utf_16.py",
+    "encodings/utf_16_be.py",
+    "encodings/utf_16_le.py",
+    "encodings/utf_32.py",
+    "encodings/utf_32_be.py",
+    "encodings/utf_32_le.py",
+    "encodings/utf_7.py",
+    "encodings/utf_8.py",
+    "encodings/utf_8_sig.py",
+    "encodings/uu_codec.py",
+    "encodings/zlib_codec.py",
+    "html/__init__.py",
+    "html/entities.py",
+    "html/parser.py",
+    "http/__init__.py",
+    "http/client.py",
+    "http/cookiejar.py",
+    "http/cookies.py",
+    "http/server.py",
+    "importlib/resources/",
+    "importlib/metadata/",
+    "importlib/__init__.py",
+    "importlib/_abc.py",
+    "importlib/_bootstrap.py",
+    "importlib/_bootstrap_external.py",
+    "importlib/abc.py",
+    "importlib/machinery.py",
+    "importlib/readers.py",
+    "importlib/simple.py",
+    "importlib/util.py",
+    "json/__init__.py",
+    "json/decoder.py",
+    "json/encoder.py",
+    "json/scanner.py",
+    "json/tool.py",
+    "logging/__init__.py",
+    "logging/config.py",
+    "logging/handlers.py",
+    "multiprocessing/dummy/",
+    "multiprocessing/__init__.py",
+    "multiprocessing/connection.py",
+    "multiprocessing/context.py",
+    "multiprocessing/forkserver.py",
+    "multiprocessing/heap.py",
+    "multiprocessing/managers.py",
+    "multiprocessing/pool.py",
+    "multiprocessing/popen_fork.py",
+    "multiprocessing/popen_forkserver.py",
+    "multiprocessing/popen_spawn_posix.py",
+    "multiprocessing/popen_spawn_win32.py",
+    "multiprocessing/process.py",
+    "multiprocessing/queues.py",
+    "multiprocessing/reduction.py",
+    "multiprocessing/resource_sharer.py",
+    "multiprocessing/resource_tracker.py",
+    "multiprocessing/shared_memory.py",
+    "multiprocessing/sharedctypes.py",
+    "multiprocessing/spawn.py",
+    "multiprocessing/synchronize.py",
+    "multiprocessing/util.py",
+    "re/__init__.py",
+    "re/_casefix.py",
+    "re/_compiler.py",
+    "re/_constants.py",
+    "re/_parser.py",
+    "site-packages/README.txt",
+    "tomllib/__init__.py",
+    "tomllib/_parser.py",
+    "tomllib/_re.py",
+    "tomllib/_types.py",
+    "unittest/__init__.py",
+    "unittest/__main__.py",
+    "unittest/_log.py",
+    "unittest/async_case.py",
+    "unittest/case.py",
+    "unittest/loader.py",
+    "unittest/main.py",
+    "unittest/mock.py",
+    "unittest/result.py",
+    "unittest/runner.py",
+    "unittest/signals.py",
+    "unittest/suite.py",
+    "unittest/util.py",
+    "urllib/__init__.py",
+    "urllib/error.py",
+    "urllib/parse.py",
+    "urllib/request.py",
+    "urllib/response.py",
+    "urllib/robotparser.py",
+    "wsgiref/__init__.py",
+    "wsgiref/handlers.py",
+    "wsgiref/headers.py",
+    "wsgiref/simple_server.py",
+    "wsgiref/types.py",
+    "wsgiref/util.py",
+    "wsgiref/validate.py",
+    "xml/dom/",
+    "xml/etree/",
+    "xml/parsers/",
+    "xml/sax/",
+    "xml/__init__.py",
+    "xmlrpc/__init__.py",
+    "xmlrpc/client.py",
+    "xmlrpc/server.py",
+    "zipfile/_path/",
+    "zipfile/__init__.py",
+    "zipfile/__main__.py",
+    "zoneinfo/__init__.py",
+    "zoneinfo/_common.py",
+    "zoneinfo/_tzpath.py",
+    "zoneinfo/_zoneinfo.py",
+    "__phello__/__init__.py",
+    "__phello__/spam.py",
+    "_pyodide/__init__.py",
+    "_pyodide/_future_helper.py",
+    "_pyodide/_importhook.py",
+    "_pyodide/docs_argspec.py",
+    "_pyodide/docstring.py",
+    "_pyodide/py.typed",
+    "_pyodide/_base.py",
+    "_pyodide/_core_docs.py",
+    "_pyodide/jsbind.py",
+    "pyodide/_core.py",
+    "pyodide/_run_js.py",
+    "pyodide/code.py",
+    "pyodide/ffi/",
+    "pyodide/py.typed",
+    "pyodide/__init__.py",
+    "pyodide/_package_loader.py",
+    "pyodide/_state.py",
+    "pyodide/console.py",
+    "pyodide/http.py",
+    "pyodide/webloop.py",
+    "concurrent/futures/__init__.py",
+    "concurrent/futures/_base.py",
+    "concurrent/futures/process.py",
+    "concurrent/futures/thread.py",
+    "ctypes/macholib/README.ctypes",
+    "ctypes/macholib/__init__.py",
+    "ctypes/macholib/dyld.py",
+    "ctypes/macholib/dylib.py",
+    "ctypes/macholib/fetch_macholib",
+    "ctypes/macholib/fetch_macholib.bat",
+    "ctypes/macholib/framework.py",
+    "email/mime/__init__.py",
+    "email/mime/application.py",
+    "email/mime/audio.py",
+    "email/mime/base.py",
+    "email/mime/image.py",
+    "email/mime/message.py",
+    "email/mime/multipart.py",
+    "email/mime/nonmultipart.py",
+    "email/mime/text.py",
+    "importlib/resources/__init__.py",
+    "importlib/resources/_adapters.py",
+    "importlib/resources/_common.py",
+    "importlib/resources/_itertools.py",
+    "importlib/resources/_legacy.py",
+    "importlib/resources/abc.py",
+    "importlib/resources/readers.py",
+    "importlib/resources/simple.py",
+    "importlib/metadata/__init__.py",
+    "importlib/metadata/_adapters.py",
+    "importlib/metadata/_collections.py",
+    "importlib/metadata/_functools.py",
+    "importlib/metadata/_itertools.py",
+    "importlib/metadata/_meta.py",
+    "importlib/metadata/_text.py",
+    "multiprocessing/dummy/__init__.py",
+    "multiprocessing/dummy/connection.py",
+    "xml/dom/NodeFilter.py",
+    "xml/dom/__init__.py",
+    "xml/dom/domreg.py",
+    "xml/dom/expatbuilder.py",
+    "xml/dom/minicompat.py",
+    "xml/dom/minidom.py",
+    "xml/dom/pulldom.py",
+    "xml/dom/xmlbuilder.py",
+    "xml/etree/ElementInclude.py",
+    "xml/etree/ElementPath.py",
+    "xml/etree/ElementTree.py",
+    "xml/etree/__init__.py",
+    "xml/etree/cElementTree.py",
+    "xml/parsers/__init__.py",
+    "xml/parsers/expat.py",
+    "xml/sax/__init__.py",
+    "xml/sax/_exceptions.py",
+    "xml/sax/expatreader.py",
+    "xml/sax/handler.py",
+    "xml/sax/saxutils.py",
+    "xml/sax/xmlreader.py",
+    "zipfile/_path/__init__.py",
+    "zipfile/_path/glob.py",
+    "pyodide/ffi/__init__.py",
+    "pyodide/ffi/wrappers.py"
+   ]
+  },
+  "53e7bd104c8336ba2ff83d874675587291a8ab8e": {
+   "members": 2,
+   "uncompressed": 19094,
+   "top": [
+    "echo",
+    "tests"
+   ],
+   "names": [
+    "echo/aleph_boot.py",
+    "tests/test_aleph_boot.py"
+   ]
+  },
+  "6e1a0d3b6b2eebdd3ee9836ab46d2baaa32244e5": {
+   "members": 41,
+   "uncompressed": 188329,
+   "top": [
+    "canvas-companion-v0.2"
+   ],
+   "names": [
+    "canvas-companion-v0.2/.gitignore",
+    "canvas-companion-v0.2/README.md",
+    "canvas-companion-v0.2/REUSE-PROVENANCE.json",
+    "canvas-companion-v0.2/SHA256.json",
+    "canvas-companion-v0.2/VALIDATION.md",
+    "canvas-companion-v0.2/canvas_app/__init__.py",
+    "canvas-companion-v0.2/canvas_app/graphql_api.py",
+    "canvas-companion-v0.2/canvas_app/mcp.py",
+    "canvas-companion-v0.2/canvas_app/push.py",
+    "canvas-companion-v0.2/canvas_app/schemas.py",
+    "canvas-companion-v0.2/canvas_app/server.py",
+    "canvas-companion-v0.2/canvas_app/service.py",
+    "canvas-companion-v0.2/docs/CLAUDE-FINDINGS-ORIGINAL.md",
+    "canvas-companion-v0.2/docs/CLAUDE-REVIEW.md",
+    "canvas-companion-v0.2/docs/CONNECTIONS.md",
+    "canvas-companion-v0.2/docs/GROUP-CANVAS-REVIEW.md",
+    "canvas-companion-v0.2/docs/RESPONSE-TO-CLAUDE.md",
+    "canvas-companion-v0.2/docs/group-canvas-source/README.md",
+    "canvas-companion-v0.2/docs/group-canvas-source/package.json",
+    "canvas-companion-v0.2/docs/group-canvas-source/public/app.js",
+    "canvas-companion-v0.2/docs/group-canvas-source/public/index.html",
+    "canvas-companion-v0.2/docs/group-canvas-source/src/room.js",
+    "canvas-companion-v0.2/docs/group-canvas-source/src/worker.js",
+    "canvas-companion-v0.2/docs/group-canvas-source/wrangler.toml",
+    "canvas-companion-v0.2/docs/schema.graphql",
+    "canvas-companion-v0.2/examples.py",
+    "canvas-companion-v0.2/mcp_stdio.py",
+    "canvas-companion-v0.2/requirements-graphql.txt",
+    "canvas-companion-v0.2/requirements-test.txt",
+    "canvas-companion-v0.2/requirements.txt",
+    "canvas-companion-v0.2/tests/test_http.py",
+    "canvas-companion-v0.2/tests/test_service.py",
+    "canvas-companion-v0.2/tests/test_v02.py",
+    "canvas-companion-v0.2/tests/transport.test.mjs",
+    "canvas-companion-v0.2/tools/snapshot_probe.py",
+    "canvas-companion-v0.2/vendor/echo_reference/engine.py",
+    "canvas-companion-v0.2/web/app.js",
+    "canvas-companion-v0.2/web/index.html",
+    "canvas-companion-v0.2/web/python-worker.js",
+    "canvas-companion-v0.2/web/style.css",
+    "canvas-companion-v0.2/web/transport.mjs"
+   ]
+  },
+  "b7a49c89aae7600ac4ad2cdaee4343b23c8bdb80": {
+   "members": 50,
+   "uncompressed": 26852678,
+   "top": [
+    "repo"
+   ],
+   "names": [
+    "repo/",
+    "repo/src/",
+    "repo/src/workbench/",
+    "repo/src/workbench/workbench_template.html",
+    "repo/src/data/",
+    "repo/src/data/extract_bdb.py",
+    "repo/src/data/build_anagram_matrix.py",
+    "repo/src/data/build_tetrahedral_matrix.py",
+    "repo/src/data/build_category_matrix.py",
+    "repo/src/core/",
+    "repo/src/core/lattice_prototype.py",
+    "repo/src/core/lattice_sequential.py",
+    "repo/src/algorithms/",
+    "repo/src/algorithms/mesh_algorithm.py",
+    "repo/src/algorithms/lattice_category_seedbound.py",
+    "repo/src/algorithms/lattice_workbench.py",
+    "repo/src/algorithms/lattice_distinct_regions.py",
+    "repo/src/algorithms/differentiate_radial_stems.py",
+    "repo/src/algorithms/lattice_crosstalk_growth.py",
+    "repo/src/algorithms/lattice_isolate_constraints.py",
+    "repo/src/algorithms/lattice_pulse_growth.py",
+    "repo/src/algorithms/lattice_five_seeds.py",
+    "repo/src/algorithms/fractal_centroid.py",
+    "repo/src/algorithms/feedback_loops.py",
+    "repo/src/algorithms/lattice_bidirectional.py",
+    "repo/src/algorithms/lattice_bounded_growth.py",
+    "repo/src/algorithms/lattice_lineage.py",
+    "repo/src/algorithms/lattice_real_data.py",
+    "repo/src/algorithms/lattice_themed_regions.py",
+    "repo/README.md",
+    "repo/outputs/",
+    "repo/outputs/lattice_workbench.html",
+    "repo/data/",
+    "repo/data/workbench_data.json",
+    "repo/data/raw/",
+    "repo/data/raw/DictBDB.json",
+    "repo/data/processed/",
+    "repo/data/processed/anagram_matrix.json",
+    "repo/data/processed/anagram_matrix_indexed.json",
+    "repo/data/processed/fine_radial_stems.json",
+    "repo/data/processed/bdb_roots.json",
+    "repo/data/processed/tetra_matrix.json",
+    "repo/data/processed/learned_relations_gen0.json",
+    "repo/data/processed/category_matrix.json",
+    "repo/docs/",
+    "repo/docs/DATA_PROVENANCE.md",
+    "repo/docs/ALGORITHMS.md",
+    "repo/docs/SESSION_LOG.md",
+    "repo/docs/FINDINGS.md",
+    "repo/docs/ARCHITECTURE.md"
+   ]
+  },
+  "a3034847d31ee92f868c7cebf21f6f82f570c091": {
+   "members": 76,
+   "uncompressed": 5864130,
+   "top": [
+    "README.md",
+    "WORDNET_LICENSE",
+    "css",
+    "data",
+    "echo",
+    "icons",
+    "index.html",
+    "js",
+    "manifest.webmanifest",
+    "sw.js"
+   ],
+   "names": [
+    "sw.js",
+    "README.md",
+    "index.html",
+    "icons/",
+    "icons/icon-maskable-512.png",
+    "icons/icon-192.png",
+    "icons/icon-512.png",
+    "data/",
+    "data/geosensory_registry.json",
+    "echo/",
+    "echo/notebook_runtime.py",
+    "echo/dialogue.py",
+    "echo/__init__.py",
+    "echo/operators/",
+    "echo/operators/lhea.py",
+    "echo/operators/__init__.py",
+    "echo/operators/invariant.py",
+    "echo/operators/orbit.py",
+    "echo/operators/proportion.py",
+    "echo/build_snapshot.py",
+    "echo/forge.py",
+    "echo/kernel/",
+    "echo/kernel/__init__.py",
+    "echo/kernel/skeleton.py",
+    "echo/study.py",
+    "echo/manifest.json",
+    "echo/data/",
+    "echo/data/lobby_snapshot.json",
+    "echo/data/dictionary.json.gz",
+    "echo/matrix/",
+    "echo/matrix/__init__.py",
+    "echo/matrix/registry.py",
+    "echo/knowledge.py",
+    "echo/canvas/",
+    "echo/canvas/__init__.py",
+    "echo/canvas/ks_recess.py",
+    "echo/canvas/actor.py",
+    "echo/build_dictionary.py",
+    "echo/mcw/",
+    "echo/mcw/client.py",
+    "echo/mcw/__init__.py",
+    "echo/language/",
+    "echo/language/index_pattern.py",
+    "echo/language/__init__.py",
+    "echo/language/README.md",
+    "echo/language/parser.py",
+    "echo/language/english_parse.py",
+    "echo/language/ast.py",
+    "echo/language/data/",
+    "echo/language/data/hebrew_glyph_registry.json",
+    "echo/language/pyform.py",
+    "echo/language/gov_index.py",
+    "echo/language/compose.py",
+    "echo/language/realize.py",
+    "echo/language/audit.py",
+    "echo/language/senses.py",
+    "echo/language/lexicon.py",
+    "echo/dictionary.py",
+    "echo/bootstrap/",
+    "echo/bootstrap/boot.py",
+    "echo/bootstrap/__init__.py",
+    "WORDNET_LICENSE",
+    "css/",
+    "css/notebook.css",
+    "manifest.webmanifest",
+    "js/",
+    "js/stage.js",
+    "js/widgets.js",
+    "js/app.js",
+    "js/worker.js",
+    "js/forge.js",
+    "js/bridge.js",
+    "js/panels.js",
+    "js/study.js",
+    "js/nve.js",
+    "js/io.js"
+   ]
+  },
+  "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8": {
+   "members": 43,
+   "uncompressed": 588278,
+   "top": [
+    "README.md",
+    "css",
+    "echo",
+    "icons",
+    "index.html",
+    "js",
+    "manifest.webmanifest",
+    "sw.js",
+    "tests"
+   ],
+   "names": [
+    "sw.js",
+    "README.md",
+    "index.html",
+    "icons/",
+    "icons/icon-maskable-512.png",
+    "icons/icon-192.png",
+    "icons/icon-512.png",
+    "tests/",
+    "tests/test_runtime.py",
+    "echo/",
+    "echo/__init__.py",
+    "echo/operators/",
+    "echo/operators/lhea.py",
+    "echo/operators/__init__.py",
+    "echo/operators/invariant.py",
+    "echo/kernel/",
+    "echo/kernel/__init__.py",
+    "echo/kernel/skeleton.py",
+    "echo/manifest.json",
+    "echo/matrix/",
+    "echo/matrix/__init__.py",
+    "echo/matrix/registry.py",
+    "echo/canvas/",
+    "echo/canvas/__init__.py",
+    "echo/canvas/actor.py",
+    "echo/mcw/",
+    "echo/mcw/client.py",
+    "echo/mcw/__init__.py",
+    "echo/bootstrap/",
+    "echo/bootstrap/boot.py",
+    "echo/bootstrap/__init__.py",
+    "css/",
+    "css/app.css",
+    "manifest.webmanifest",
+    "js/",
+    "js/store.js",
+    "js/widgets.js",
+    "js/renderer.js",
+    "js/app.js",
+    "js/bridge.js",
+    "js/panels.js",
+    "js/nve.js",
+    "js/io.js"
+   ]
+  }
+ },
+ "zip_rows": [
+  {
+   "branch": "algebra",
+   "path": "ECHO_Autonomous_Agency_Commit2.zip",
+   "sha": "efd6a170cc0db44fb8afc6684c935f850717535c",
+   "bytes": 75994
+  },
+  {
+   "branch": "algebra",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "algebra",
+   "path": "Echo_Green_Future_Source.zip",
+   "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+   "bytes": 283475
+  },
+  {
+   "branch": "autonomous-agency",
+   "path": "ECHO_Autonomous_Agency_Commit2.zip",
+   "sha": "efd6a170cc0db44fb8afc6684c935f850717535c",
+   "bytes": 75994
+  },
+  {
+   "branch": "autonomous-agency",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "autonomous-agency",
+   "path": "Echo_Green_Future_Source.zip",
+   "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+   "bytes": 283475
+  },
+  {
+   "branch": "chat-archive-pyodide-workbench",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "chatgpt-conversation-archive",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "code-library-registry",
+   "path": "Datasets/files/zenodo/10838802/lofloc_UD_v1.0.zip",
+   "sha": "638bdd9584994ced6872a7d391f0fba3eb208c39",
+   "bytes": 2131470
+  },
+  {
+   "branch": "code-library-registry",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "code-library-registry",
+   "path": "echo-dataset-crawler.zip",
+   "sha": "20f425105d3ce67fca5aae222deaa2acad567980",
+   "bytes": 13588
+  },
+  {
+   "branch": "code-library-registry-ivs",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "contract-000-gpt-team",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "contract-000-gpt-team",
+   "path": "lhea-environments.zip",
+   "sha": "9a9031dda9c46dd5680fc6dff74240e5ac35c0f2",
+   "bytes": 15875
+  },
+  {
+   "branch": "dev-suite",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite",
+   "path": "dev-suite-branch.zip",
+   "sha": "fa70ce588a41e4d9a4166246a6f7ad41e93395bc",
+   "bytes": 7973715
+  },
+  {
+   "branch": "dev-suite",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-algorithms",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-algorithms",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-algorithms",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-algorithms",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-algorithms",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-codices",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-codices",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-codices",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-codices",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-codices",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-datasets",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-datasets",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-datasets",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-datasets",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-datasets",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-indices",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-indices",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-indices",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-indices",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-indices",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-integration-staging",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-integration-staging",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-integration-staging",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-integration-staging",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-integration-staging",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-logics",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-logics",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-logics",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-logics",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-logics",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-matrices",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-matrices",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-matrices",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-matrices",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-matrices",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "dev-suite-registries",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "dev-suite-registries",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "dev-suite-registries",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "dev-suite-registries",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "dev-suite-registries",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "echo-recess-experiment",
+   "path": "ECHO_Autonomous_Agency_Commit2.zip",
+   "sha": "efd6a170cc0db44fb8afc6684c935f850717535c",
+   "bytes": 75994
+  },
+  {
+   "branch": "echo-recess-experiment",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "echo-recess-experiment",
+   "path": "Echo_Green_Future_Source.zip",
+   "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+   "bytes": 283475
+  },
+  {
+   "branch": "experiment-echo-graphql-canvas-000",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "genesis-documentary",
+   "path": "Echo_Green_Future_Source.zip",
+   "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+   "bytes": 283475
+  },
+  {
+   "branch": "genesis-documentary",
+   "path": "integration-inbox/core-lexicon/core-lexicon.zip",
+   "sha": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+   "bytes": 7426611
+  },
+  {
+   "branch": "genesis-documentary",
+   "path": "integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "geosensory-crawler-experiment",
+   "path": "Echo_Green_Future_Source.zip",
+   "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+   "bytes": 283475
+  },
+  {
+   "branch": "ksm-recess-wholesale",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "ksm-recess-wholesale",
+   "path": "ECHO_Canvas_Recess_KSM.zip",
+   "sha": "bee1ed943ed85af430cef1069d776e7b2c7a9376",
+   "bytes": 167942
+  },
+  {
+   "branch": "ksm-recess-wholesale",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "ksm-recess-wholesale",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "library-source-transcriptions",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "library-source-transcriptions",
+   "path": "echo-dataset-crawler.zip",
+   "sha": "20f425105d3ce67fca5aae222deaa2acad567980",
+   "bytes": 13588
+  },
+  {
+   "branch": "main",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "main",
+   "path": "core-lexicon.zip",
+   "sha": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+   "bytes": 7426611
+  },
+  {
+   "branch": "main",
+   "path": "handoffs/canvas-companion-v0.2/Canvas-Code.zip",
+   "sha": "6e1a0d3b6b2eebdd3ee9836ab46d2baaa32244e5",
+   "bytes": 75054
+  },
+  {
+   "branch": "main",
+   "path": "handoffs/canvas-companion-v0.2/Claude-Reports.zip",
+   "sha": "0120cceca3e6585d687411bb315d5b78966cfea8",
+   "bytes": 7428
+  },
+  {
+   "branch": "main",
+   "path": "lhea-environments.zip",
+   "sha": "9a9031dda9c46dd5680fc6dff74240e5ac35c0f2",
+   "bytes": 15875
+  },
+  {
+   "branch": "mashet-parallel-pipeline-test",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "mashet-parallel-pipeline-test",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "mashet-parallel-pipeline-test",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "mashet-parallel-pipeline-test",
+   "path": "echo-notebook-0.4.1.zip",
+   "sha": "aa88f3764af660752014951c8a2f6b299b6bae48",
+   "bytes": 5207197
+  },
+  {
+   "branch": "mashet-parallel-pipeline-test",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "notebook-0.4-as-is",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "notebook-0.4-as-is",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "notebook-0.4-as-is",
+   "path": "ECHO_aleph_boot.zip",
+   "sha": "53e7bd104c8336ba2ff83d874675587291a8ab8e",
+   "bytes": 6593
+  },
+  {
+   "branch": "notebook-0.4-as-is",
+   "path": "echo-notebook-0.4.zip",
+   "sha": "a3034847d31ee92f868c7cebf21f6f82f570c091",
+   "bytes": 5194522
+  },
+  {
+   "branch": "notebook-0.4-as-is",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "personal-library-pwa",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "personal-library-pwa",
+   "path": "core-lexicon.zip",
+   "sha": "370e23a301badb6362eac29682afc5bba9e8d5a4",
+   "bytes": 7426611
+  },
+  {
+   "branch": "personal-library-pwa",
+   "path": "core-lexicon/pyodide/python_stdlib.zip",
+   "sha": "2b84f82bd1e3fb7ca28ace09ec94cc48214ff7a0",
+   "bytes": 2341872
+  },
+  {
+   "branch": "personal-library-pwa",
+   "path": "lhea-environments.zip",
+   "sha": "9a9031dda9c46dd5680fc6dff74240e5ac35c0f2",
+   "bytes": 15875
+  },
+  {
+   "branch": "pwa-hosting-environment",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "pwa-hosting-environment",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "pwa-hosting-environment",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  },
+  {
+   "branch": "research-discourse-registry",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "research-discourse-registry",
+   "path": "lhea-environments.zip",
+   "sha": "9a9031dda9c46dd5680fc6dff74240e5ac35c0f2",
+   "bytes": 15875
+  },
+  {
+   "branch": "resh-lattice-agency",
+   "path": "Echo_Green_Future_Source.zip",
+   "sha": "48a1ab06f6bc86edcf9c2ded7a3925d82755f101",
+   "bytes": 283475
+  },
+  {
+   "branch": "resh-lattice-agency",
+   "path": "lattice-workbench-repo (1).zip",
+   "sha": "b7a49c89aae7600ac4ad2cdaee4343b23c8bdb80",
+   "bytes": 5187124
+  },
+  {
+   "branch": "stress-test-002-clean",
+   "path": "Algorithms/Stress-Test-002/input/ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "stress-test-002-clean",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "widgeting-experiment",
+   "path": "ECHO_Autonomous_Agency_Branch.zip",
+   "sha": "dfb11fd4bf9abc87ed466d4144efbe2bc3d92a1b",
+   "bytes": 46398
+  },
+  {
+   "branch": "widgeting-experiment",
+   "path": "ECHO_GlyphRegistry.zip",
+   "sha": "b98a26bc006f15ea8dde30bbc79157b0788173da",
+   "bytes": 39739
+  },
+  {
+   "branch": "widgeting-experiment",
+   "path": "echo-notebook-pwa.zip",
+   "sha": "93bc920c45389cb4c16a457b4ce1b2cc4790a5b8",
+   "bytes": 182293
+  }
+ ],
+ "totals": {
+  "branches": 42,
+  "distinct_contents": 2193,
+  "distinct_paths": 2218,
+  "file_rows": 5003
+ }
+}
