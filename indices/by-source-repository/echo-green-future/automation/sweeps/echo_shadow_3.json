@@ -1,0 +1,162 @@
+{
+ "cases": 58,
+ "hits": 21,
+ "first_half": 6,
+ "second_half": 15,
+ "half": 29,
+ "attempts_carried_in": 98,
+ "trusted_by_bucket": {
+  "json": [
+   "content",
+   0.65,
+   17
+  ],
+  "md": [
+   "shape",
+   1.0,
+   4
+  ],
+  "py": [
+   "parent",
+   0.5,
+   2
+  ],
+  "py:in-file": [
+   "content",
+   0.95,
+   19
+  ],
+  "yml": [
+   "content",
+   1.0,
+   7
+  ],
+  "html": [
+   "name",
+   0.0,
+   1
+  ],
+  "html:in-file": [
+   "name",
+   1.0,
+   1
+  ],
+  "js": [
+   "name",
+   1.0,
+   1
+  ],
+  "md:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "toml": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "webmanifest": [
+   "parent",
+   1.0,
+   1
+  ]
+ },
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+ "checkpoints": [
+  {
+   "after": 5,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.42857142857142855,
+   "attempts": 5
+  },
+  {
+   "after": 10,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.4368932038834951,
+   "attempts": 5
+  },
+  {
+   "after": 15,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.4444444444444444,
+   "attempts": 5
+  },
+  {
+   "after": 20,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.4444444444444444,
+   "attempts": 5
+  },
+  {
+   "after": 25,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.4444444444444444,
+   "attempts": 5
+  },
+  {
+   "after": 30,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.4444444444444444,
+   "attempts": 5
+  },
+  {
+   "after": 35,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.4444444444444444,
+   "attempts": 5
+  },
+  {
+   "after": 40,
+   "decision": "ANCHORED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.4444444444444444,
+   "attempts": 5
+  },
+  {
+   "after": 45,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.4336283185840708,
+   "attempts": 5
+  },
+  {
+   "after": 50,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.4491525423728814,
+   "attempts": 5
+  },
+  {
+   "after": 55,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.4634146341463415,
+   "attempts": 5
+  },
+  {
+   "after": 58,
+   "decision": "ANCHORED",
+   "current_rate": 1.0,
+   "baseline_rate": 0.46875,
+   "attempts": 3
+  }
+ ]
+}

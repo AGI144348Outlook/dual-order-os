@@ -1,0 +1,59 @@
+n	id	path	bucket	arm	guess	ruling	hit	checkpoint
+1	AUT-0032	.github/workflows/swadesh-dictionary-classroom.yml	yml	parent	automation	automation	1	
+2	DECOY-03	src/echo_classroom.py	py	name	(none)	algorithms	0	
+3	DECOY-05	pwa/manifest.webmanifest	webmanifest	parent	interfaces	interfaces	1	
+4	AUT-0039	.github/workflows/unpack-ksm-recess.yml	yml	parent	automation	automation	1	
+5	AUT-0042	Workshop/pipelines/P-001-budgeted-inference/reference-bot-run.yml	yml	parent	(none)	automation	0	ANCHORED
+6	DECOY-02	docs/ECHO_OUTPUT_FORMAT.md	md	parent	codices	codices	1	
+7	DECOY-08	ECHO_AutonomousAgency/sandbox/recess_session_log.json	json	content	registries	records	0	
+8	AUT-0012	.github/workflows/echo-classroom-lab.yml	yml	shape	automation	automation	1	
+9	DECOY-09	research-registry/contracts/CONTRACT-000.md	md	parent	(none)	governance	0	
+10	AUT-0043	Workshop/solutions/S-001-cloudflare-deploy-without-github-app/reference-deploy.yml	yml	shape	automation	automation	1	ANCHORED
+11	AUT-0045	integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler.toml	toml	name	(none)	automation	0	
+12	AUT-0017	.github/workflows/geosensory-crawler-test.yml	yml	librarian	(none)	automation	0	
+13	DECOY-04	infrastructure/cloudflare_blueprint.json	json	content	schemas	deployments	0	
+14	AUT-0033	.github/workflows/swadesh-glyph-dictionary-classroom.yml	yml	librarian	(none)	automation	0	
+15	AUT-0010	.github/workflows/deploy-pwa.yml	yml	librarian	(none)	automation	0	DISCARDED
+16	AUT-0013	.github/workflows/echo-recess-launcher.yml	yml	librarian	(none)	automation	0	
+17	AUT-0027	.github/workflows/performative-glyph-transfer-008.yml	yml	librarian	(none)	automation	0	
+18	AUT-0029	.github/workflows/resh-hebrew-operational-014.yml	yml	librarian	(none)	automation	0	
+19	AUT-0047	wrangler.archive.toml	toml	name	(none)	automation	0	
+20	AUT-0034	.github/workflows/test-echo-canvas.yml	yml	librarian	(none)	automation	0	DISCARDED
+21	AUT-0024	.github/workflows/lesson-001-definition-closure-013.yml	yml	librarian	(none)	automation	0	
+22	AUT-0038	.github/workflows/unpack-dev-suite.yml	yml	librarian	(none)	automation	0	
+23	AUT-0026	.github/workflows/nve-d-configuration-checks.yml	yml	librarian	algorithms	automation	0	
+24	AUT-0028	.github/workflows/recess.yml	yml	librarian	(none)	automation	0	
+25	AUT-0046	pwa/wrangler.toml	toml	name	(none)	automation	0	DISCARDED
+26	AUT-0040	.github/workflows/unpack-lhea-environments.yml	yml	librarian	(none)	automation	0	
+27	AUT-0006	.github/workflows/dataset-crawler.yml	yml	librarian	(none)	automation	0	
+28	AUT-0011	.github/workflows/deploy.yml	yml	librarian	(none)	automation	0	
+29	AUT-0030	.github/workflows/resh-hebrew-operational-hypernymization-014.yml	yml	librarian	(none)	automation	0	
+30	AUT-0002	.github/workflows/autonomous-agency-import-test.yml	yml	librarian	(none)	automation	0	DISCARDED
+31	DECOY-01	Datasets/crawler/crawl.py	py	parent	(none)	tools	0	
+32	AUT-0018	.github/workflows/glyph-comprehension-transfer.yml	yml	librarian	(none)	automation	0	
+33	AUT-0001	.github/workflows/apply-dev-suite-data-split.yml	yml	librarian	(none)	automation	0	
+34	AUT-0035	.github/workflows/trial-015-governed-notebook.yml	yml	librarian	algorithms	automation	0	
+35	AUT-0008	.github/workflows/deploy-datasets-pages.yml	yml	librarian	(none)	automation	0	DISCARDED
+36	AUT-0020	.github/workflows/homework-boundary-tests.yml	yml	librarian	(none)	automation	0	
+37	AUT-0037	.github/workflows/trial-017-existing-tool-discrimination.yml	yml	librarian	algorithms	automation	0	
+38	DECOY-07	tests/test_dsl_canvas_008.py	py	parent	experiments	experiments	1	
+39	AUT-0036	.github/workflows/trial-016-echo-operator-selection.yml	yml	librarian	algorithms	automation	0	
+40	AUT-0022	.github/workflows/label-dispatcher.yml	yml	librarian	(none)	automation	0	ANCHORED
+41	AUT-0007	.github/workflows/deploy-archive-workbench.yml	yml	content	automation	automation	1	
+42	AUT-0005	.github/workflows/cloudflare-bridge.yml	yml	content	automation	automation	1	
+43	AUT-0019	.github/workflows/glyph-lobby-instantiation.yml	yml	content	automation	automation	1	
+44	AUT-0009	.github/workflows/deploy-ksm-recess.yml	yml	content	automation	automation	1	
+45	DECOY-06	matrices/echo_vgm.json	json	content	registries	matrices	0	ANCHORED
+46	AUT-0031	.github/workflows/resh-lattice-agency.yml	yml	shape	automation	automation	1	
+47	AUT-0021	.github/workflows/ivs-full-corpus.yml	yml	shape	automation	automation	1	
+48	AUT-0048	wrangler.toml	toml	name	(none)	automation	0	
+49	AUT-0025	.github/workflows/lesson-001-hypernym-spectrum-012.yml	yml	shape	automation	automation	1	
+50	AUT-0016	.github/workflows/evidence-bound-articulation-011.yml	yml	shape	automation	automation	1	ANCHORED
+51	AUT-0044	integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler-storage.toml	toml	parent	(none)	automation	0	
+52	AUT-0041	.github/workflows/unpack-notebook-pwa.yml	yml	name	automation	automation	1	
+53	AUT-0015	.github/workflows/echo-recess.yml	yml	name	automation	automation	1	
+54	AUT-0023	.github/workflows/language-foundation-010.yml	yml	name	automation	automation	1	
+55	DECOY-10	core-lexicon/math_axioms.json	json	content	registries	data	0	ANCHORED
+56	AUT-0003	.github/workflows/autonomous-language-sandbox.yml	yml	content	automation	automation	1	
+57	AUT-0004	.github/workflows/autonomous-proposition-009.yml	yml	content	automation	automation	1	
+58	AUT-0014	.github/workflows/echo-recess-pwa.yml	yml	content	automation	automation	1	

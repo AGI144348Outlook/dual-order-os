@@ -44,17 +44,20 @@ def shadow(repo, cases, arms, guess, state_path, seed, prior_state=None):
             carried += a
     cases = list(cases)
     random.Random(seed).shuffle(cases)
-    trace = []
+    trace, checkpoints = [], []
     for k, (cid, path, where, truth) in enumerate(cases, 1):
         bucket = path.rsplit('.', 1)[-1] + (':in-file' if where else '')
         arm = echo.bandit_select(bucket, arms)
         g = guess(arm, path, where)
         ok = g == truth
         echo.record_outcome(arm, bucket, ok)
-        if k % 5 == 0:
-            echo.checkpoint_generation()
-        trace.append(dict(n=k, id=cid, path=path, bucket=bucket, arm=arm, guess=g or '(none)', ruling=truth, hit=int(ok)))
-    echo.checkpoint_generation()
+        cp = echo.checkpoint_generation() if k % 5 == 0 else None
+        if cp:
+            checkpoints.append(dict(after=k, **{key: cp.get(key) for key in ('decision', 'current_rate', 'baseline_rate', 'attempts')}))
+        trace.append(dict(n=k, id=cid, path=path, bucket=bucket, arm=arm, guess=g or '(none)', ruling=truth, hit=int(ok),
+                          checkpoint=cp['decision'] if cp else ''))
+    cp = echo.checkpoint_generation()
+    checkpoints.append(dict(after=len(trace), **{key: cp.get(key) for key in ('decision', 'current_rate', 'baseline_rate', 'attempts')}))
     hist = sorted([arm, bucket, s, a] for (arm, bucket), (s, a) in echo.history.items())
     json.dump(dict(kernel_blob=SKEL_BLOB, history=hist), open(state_path, 'w'), indent=0)
     trusted = {}
@@ -64,4 +67,5 @@ def shadow(repo, cases, arms, guess, state_path, seed, prior_state=None):
     half = len(trace) // 2
     return trace, dict(cases=len(trace), hits=sum(t['hit'] for t in trace),
                        first_half=sum(t['hit'] for t in trace[:half]), second_half=sum(t['hit'] for t in trace[half:]),
-                       half=half, attempts_carried_in=carried, trusted_by_bucket=trusted, kernel_blob=SKEL_BLOB)
+                       half=half, attempts_carried_in=carried, trusted_by_bucket=trusted, kernel_blob=SKEL_BLOB,
+                       checkpoints=checkpoints)
