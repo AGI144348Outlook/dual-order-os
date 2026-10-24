@@ -1,0 +1,7 @@
+id	name	question	options	needed_for	ruling	date	branch	path	blob_sha	commit	made_by	status	home_or_ref	glyph	notes
+DEC-0001	Current README	Which README.md is current for the integrated Echo?	6 versions across branches (inventory.json drift)	repo identity					claude	OPEN	home
+DEC-0002	Current LICENSE	Which LICENSE text is current?	3 versions: 25 / 6 / 1 branches	dual licence					claude	OPEN	home
+DEC-0003	PWA shell	Which pwa/ shell (index.html, app.js, manifest, sw.js) is current?	pwa/index.html has 4 versions; app.js 3	interfaces/					claude	OPEN	home
+DEC-0004	Conversation exports	Plain delete commit, or full history purge under a one-time [TJ] exception?	delete commit (stays in history) / history purge (rewrites chatgpt-conversation-archive)	public repo hygiene		2026-10-22	chatgpt-conversation-archive	conversations-000/001/002/005.json, shared_conversations.json			claude	OPEN	home		Timothy: delete, already in R2 (2026-10-22). Method not yet chosen.
+DEC-0005	Third-party datasets to R2	Move Datasets/ files to R2 with pointers, together with a crawler change?	move with crawler change / leave in git	data/, size		2026-10-22	code-library-registry	Datasets/			claude	OPEN	home		Timothy: R2 if that is where they belong (2026-10-22). Needs crawler to write to R2.
+DEC-0006	Two-kind items	One home plus cross-references, or full listing in every folder?	one home + refs (provisional default) / full listing everywhere	every folder							claude	OPEN	home
