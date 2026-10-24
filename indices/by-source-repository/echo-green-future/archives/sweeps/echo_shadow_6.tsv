@@ -1,0 +1,32 @@
+n	id	path	bucket	arm	guess	ruling	hit	checkpoint
+1	ARC-0008	Echo_Green_Future_Source.zip	zip	name	archives	archives	1	
+2	DECOY-05	pwa/manifest.webmanifest	webmanifest	content	registries	interfaces	0	
+3	ARC-0005	ECHO_Canvas_Recess_KSM.zip	zip	name	archives	archives	1	
+4	ARC-0003	ECHO_Autonomous_Agency_Branch.zip	zip	name	archives	archives	1	
+5	ARC-0019	integration-inbox/hebrew-algorithm-set/ECHO_GlyphRegistry.zip	zip	name	archives	archives	1	ANCHORED
+6	ARC-0006	ECHO_GlyphRegistry.zip	zip	parent	(none)	archives	0	
+7	ARC-0017	handoffs/canvas-companion-v0.2/Claude-Reports.zip	zip	parent	(none)	archives	0	
+8	ARC-0010	core-lexicon/pyodide/python_stdlib.zip	zip	parent	(none)	archives	0	
+9	ARC-0016	handoffs/canvas-companion-v0.2/Canvas-Code.zip	zip	parent	(none)	archives	0	
+10	ARC-0002	Datasets/files/zenodo/10838802/lofloc_UD_v1.0.zip	zip	parent	(none)	archives	0	DISCARDED
+11	DECOY-01	Datasets/crawler/crawl.py	py	librarian	algorithms	tools	0	
+12	DECOY-02	docs/ECHO_OUTPUT_FORMAT.md	md	content	codices	codices	1	
+13	ARC-0014	echo-notebook-0.4.zip	zip	shape	archives	archives	1	
+14	DECOY-09	research-registry/contracts/CONTRACT-000.md	md	content	schemas	governance	0	
+15	ARC-0011	dev-suite-branch.zip	zip	shape	archives	archives	1	ANCHORED
+16	ARC-0004	ECHO_Autonomous_Agency_Commit2.zip	zip	librarian	(none)	archives	0	
+17	DECOY-06	matrices/echo_vgm.json	json	content	registries	matrices	0	
+18	ARC-0001	Algorithms/Stress-Test-002/input/ECHO_GlyphRegistry.zip	zip	librarian	registries	archives	0	
+19	DECOY-03	src/echo_classroom.py	py	content	schemas	algorithms	0	
+20	DECOY-08	ECHO_AutonomousAgency/sandbox/recess_session_log.json	json	content	registries	records	0	DISCARDED
+21	ARC-0018	integration-inbox/core-lexicon/core-lexicon.zip	zip	content	codices	archives	0	
+22	ARC-0012	echo-dataset-crawler.zip	zip	content	codices	archives	0	
+23	DECOY-10	core-lexicon/math_axioms.json	json	name	data	data	1	
+24	ARC-0007	ECHO_aleph_boot.zip	zip	content	codices	archives	0	
+25	DECOY-04	infrastructure/cloudflare_blueprint.json	json	name	deployments	deployments	1	ANCHORED
+26	ARC-0009	core-lexicon.zip	zip	shape	archives	archives	1	
+27	ARC-0021	lhea-environments.zip	zip	shape	archives	archives	1	
+28	DECOY-07	tests/test_dsl_canvas_008.py	py	name	logics	experiments	0	
+29	ARC-0013	echo-notebook-0.4.1.zip	zip	shape	archives	archives	1	
+30	ARC-0020	lattice-workbench-repo (1).zip	zip	shape	archives	archives	1	ANCHORED
+31	ARC-0015	echo-notebook-pwa.zip	zip	librarian	algorithms	archives	0	SKIPPED

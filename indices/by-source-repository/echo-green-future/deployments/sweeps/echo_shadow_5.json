@@ -1,0 +1,164 @@
+{
+ "cases": 35,
+ "hits": 13,
+ "first_half": 7,
+ "second_half": 6,
+ "half": 17,
+ "attempts_carried_in": 181,
+ "trusted_by_bucket": {
+  "json": [
+   "content",
+   0.61,
+   18
+  ],
+  "md": [
+   "shape",
+   0.86,
+   7
+  ],
+  "md:in-file": [
+   "content",
+   0.5,
+   2
+  ],
+  "py": [
+   "shape",
+   0.0,
+   3
+  ],
+  "py:in-file": [
+   "content",
+   0.95,
+   37
+  ],
+  "toml": [
+   "content",
+   0.0,
+   1
+  ],
+  "toml:in-file": [
+   "name",
+   1.0,
+   4
+  ],
+  "yml": [
+   "content",
+   1.0,
+   11
+  ],
+  "yml:in-file": [
+   "content",
+   1.0,
+   4
+  ],
+  "html:in-file": [
+   "name",
+   1.0,
+   1
+  ],
+  "html": [
+   "name",
+   0.0,
+   1
+  ],
+  "js": [
+   "name",
+   1.0,
+   1
+  ],
+  "jsx:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "webmanifest": [
+   "parent",
+   1.0,
+   1
+  ]
+ },
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+ "checkpoints": [
+  {
+   "after": 5,
+   "decision": "DISCARDED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.5524861878453039,
+   "attempts": 5
+  },
+  {
+   "after": 10,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.5524861878453039,
+   "attempts": 5
+  },
+  {
+   "after": 15,
+   "decision": "DISCARDED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.5591397849462365,
+   "attempts": 5
+  },
+  {
+   "after": 20,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.5591397849462365,
+   "attempts": 5
+  },
+  {
+   "after": 25,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.5549738219895288,
+   "attempts": 5
+  },
+  {
+   "after": 30,
+   "decision": "DISCARDED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.5510204081632653,
+   "attempts": 5
+  },
+  {
+   "after": 35,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.5510204081632653,
+   "attempts": 5
+  }
+ ],
+ "boxes": {
+  "tav_cards": 46,
+  "qof_cards": 26,
+  "qof_open": 26,
+  "qof_outgrown": 0,
+  "failure_weight": 0.5
+ },
+ "live_not_named": {
+  "worker": [
+   "group-canvas-echo-classroom",
+   "group-canvas-echo-demos",
+   "group-canvas-month-line",
+   "shy-bar-b423"
+  ],
+  "kv": [
+   "DEVSUITE_KV"
+  ],
+  "d1": [
+   "devsuite_store"
+  ],
+  "r2": []
+ }
+}

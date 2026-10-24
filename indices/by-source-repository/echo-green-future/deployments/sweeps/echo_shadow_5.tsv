@@ -1,0 +1,36 @@
+n	id	path	bucket	arm	guess	ruling	hit	checkpoint
+1	DPL-0004	wrangler.toml	toml:in-file	name	deployments	deployments	1	
+2	DPL-0025	docs/REVISED_INSTRUCTIONS_FOR_GPT.md	md:in-file	parent	codices	deployments	0	
+3	DECOY-03	src/echo_classroom.py	py	name	(none)	algorithms	0	
+4	DECOY-08	ECHO_AutonomousAgency/sandbox/recess_session_log.json	json	librarian	registries	records	0	
+5	DPL-0013	research-registry/contracts/CONTRACT-000.md	md:in-file	parent	(none)	deployments	0	DISCARDED
+6	DPL-0003	wrangler.toml	toml:in-file	name	deployments	deployments	1	
+7	DPL-0005	wrangler.toml	toml:in-file	name	deployments	deployments	1	
+8	DPL-0016	integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler-storage.toml	toml:in-file	name	deployments	deployments	1	
+9	DPL-0010	.github/workflows/deploy-datasets-pages.yml	yml:in-file	shape	automation	deployments	0	
+10	DPL-0019	integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler-storage.toml	toml:in-file	name	deployments	deployments	1	ANCHORED
+11	DPL-0007	pwa/wrangler.toml	toml:in-file	parent	interfaces	deployments	0	
+12	DECOY-05	pwa/manifest.webmanifest	webmanifest	librarian	algorithms	interfaces	0	
+13	DPL-0011	research-registry/contracts/CONTRACT-000.md	md:in-file	shape	codices	deployments	0	
+14	DECOY-06	matrices/echo_vgm.json	json	librarian	matrices	matrices	1	
+15	DPL-0015	research-registry/contracts/CONTRACT-000.md	md:in-file	shape	codices	deployments	0	DISCARDED
+16	DPL-0018	integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler-storage.toml	toml:in-file	shape	deployments	deployments	1	
+17	DPL-0012	research-registry/contracts/CONTRACT-000.md	md:in-file	librarian	codices	deployments	0	
+18	DPL-0009	wrangler.archive.toml	toml:in-file	shape	deployments	deployments	1	
+19	DPL-0022	docs/REVISED_INSTRUCTIONS_FOR_GPT.md	md:in-file	librarian	codices	deployments	0	
+20	DPL-0024	docs/REVISED_INSTRUCTIONS_FOR_GPT.md	md:in-file	librarian	codices	deployments	0	ANCHORED
+21	DECOY-02	docs/ECHO_OUTPUT_FORMAT.md	md	shape	codices	codices	1	
+22	DECOY-10	core-lexicon/math_axioms.json	json	librarian	formulas	data	0	
+23	DPL-0017	integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler-storage.toml	toml:in-file	librarian	(none)	deployments	0	
+24	DPL-0021	docs/REVISED_INSTRUCTIONS_FOR_GPT.md	md:in-file	content	automation	deployments	0	
+25	DPL-0014	research-registry/contracts/CONTRACT-000.md	md:in-file	content	deployments	deployments	1	ANCHORED
+26	DPL-0023	docs/REVISED_INSTRUCTIONS_FOR_GPT.md	md:in-file	name	codices	deployments	0	
+27	DECOY-01	Datasets/crawler/crawl.py	py	parent	(none)	tools	0	
+28	DPL-0020	integration-inbox/group-canvas-file-cabinet/source/package.json	json:in-file	name	dependencies	deployments	0	
+29	DECOY-04	infrastructure/cloudflare_blueprint.json	json	shape	registries	deployments	0	
+30	DPL-0001	wrangler.toml	toml	name	deployments	deployments	1	DISCARDED
+31	DECOY-09	research-registry/contracts/CONTRACT-000.md	md	shape	codices	governance	0	
+32	DECOY-07	tests/test_dsl_canvas_008.py	py	shape	algorithms	experiments	0	
+33	DPL-0006	wrangler.toml	toml:in-file	content	deployments	deployments	1	
+34	DPL-0008	.github/workflows/deploy-ksm-recess.yml	yml:in-file	name	automation	deployments	0	
+35	DPL-0002	wrangler.toml	toml:in-file	content	deployments	deployments	1	ANCHORED

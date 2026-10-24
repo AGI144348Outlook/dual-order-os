@@ -1,0 +1,1179 @@
+[
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "content"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.automation-replay.13",
+     "n": 13,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.45",
+     "n": 45,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.17",
+     "n": 17,
+     "revision": 1,
+     "sweep": "archives"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.20",
+     "n": 20,
+     "revision": 1,
+     "sweep": "archives"
+    }
+   ],
+   "failures": 4,
+   "first_seen": "automation-replay:13",
+   "last_seen": "archives:20",
+   "status": "open",
+   "task": "place a json file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.content.json",
+  "provenance": null,
+  "revision": 3,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "json",
+   "content"
+  ],
+  "title": "A-101 chose content for json; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "content"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.17",
+     "n": 17,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:17",
+   "last_seen": "dependencies:17",
+   "outgrown_at": "archives:12",
+   "status": "outgrown",
+   "task": "place a md file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.content.md",
+  "provenance": null,
+  "revision": 2,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "md",
+   "content"
+  ],
+  "title": "A-101 chose content for md; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "content"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.8",
+     "n": 8,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.54",
+     "n": 54,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.19",
+     "n": 19,
+     "revision": 1,
+     "sweep": "archives"
+    }
+   ],
+   "failures": 3,
+   "first_seen": "dependencies:8",
+   "last_seen": "archives:19",
+   "status": "open",
+   "task": "place a py file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.content.py",
+  "provenance": null,
+  "revision": 3,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py",
+   "content"
+  ],
+  "title": "A-101 chose content for py; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "librarian"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.4",
+     "n": 4,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:4",
+   "last_seen": "deployments:4",
+   "status": "open",
+   "task": "place a json file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.librarian.json",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "json",
+   "librarian"
+  ],
+  "title": "A-101 chose librarian for json; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "librarian"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.51",
+     "n": 51,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.52",
+     "n": 52,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.53",
+     "n": 53,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.55",
+     "n": 55,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 4,
+   "first_seen": "dependencies:51",
+   "last_seen": "dependencies:55",
+   "status": "open",
+   "task": "place a py:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.librarian.py:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py:in-file",
+   "librarian"
+  ],
+  "title": "A-101 chose librarian for py:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "librarian"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.12",
+     "n": 12,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:12",
+   "last_seen": "deployments:12",
+   "status": "open",
+   "task": "place a webmanifest file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.librarian.webmanifest",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "webmanifest",
+   "librarian"
+  ],
+  "title": "A-101 chose librarian for webmanifest; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "librarian"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.automation-replay.12",
+     "n": 12,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.14",
+     "n": 14,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.15",
+     "n": 15,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.41",
+     "n": 41,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.42",
+     "n": 42,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.43",
+     "n": 43,
+     "revision": 1,
+     "sweep": "automation-replay"
+    },
+    {
+     "box": "ת",
+     "id": "T.automation-replay.44",
+     "n": 44,
+     "revision": 1,
+     "sweep": "automation-replay"
+    }
+   ],
+   "failures": 7,
+   "first_seen": "automation-replay:12",
+   "last_seen": "automation-replay:44",
+   "status": "open",
+   "task": "place a yml file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.librarian.yml",
+  "provenance": null,
+  "revision": 2,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "yml",
+   "librarian"
+  ],
+  "title": "A-101 chose librarian for yml; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "librarian"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.archives.16",
+     "n": 16,
+     "revision": 1,
+     "sweep": "archives"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.18",
+     "n": 18,
+     "revision": 1,
+     "sweep": "archives"
+    }
+   ],
+   "failures": 2,
+   "first_seen": "archives:16",
+   "last_seen": "archives:18",
+   "status": "open",
+   "task": "place a zip file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.librarian.zip",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "zip",
+   "librarian"
+  ],
+  "title": "A-101 chose librarian for zip; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.32",
+     "n": 32,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:32",
+   "last_seen": "dependencies:32",
+   "status": "open",
+   "task": "place a cjs:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.cjs:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "cjs:in-file",
+   "name"
+  ],
+  "title": "A-101 chose name for cjs:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.28",
+     "n": 28,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:28",
+   "last_seen": "deployments:28",
+   "status": "open",
+   "task": "place a json:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.json:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "json:in-file",
+   "name"
+  ],
+  "title": "A-101 chose name for json:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.26",
+     "n": 26,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:26",
+   "last_seen": "deployments:26",
+   "status": "open",
+   "task": "place a md:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.md:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "md:in-file",
+   "name"
+  ],
+  "title": "A-101 chose name for md:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.3",
+     "n": 3,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:3",
+   "last_seen": "deployments:3",
+   "status": "open",
+   "task": "place a py file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.py",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py",
+   "name"
+  ],
+  "title": "A-101 chose name for py; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.6",
+     "n": 6,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.7",
+     "n": 7,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.9",
+     "n": 9,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.10",
+     "n": 10,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 4,
+   "first_seen": "dependencies:6",
+   "last_seen": "dependencies:10",
+   "status": "open",
+   "task": "place a py:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.py:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py:in-file",
+   "name"
+  ],
+  "title": "A-101 chose name for py:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.40",
+     "n": 40,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:40",
+   "last_seen": "dependencies:40",
+   "status": "open",
+   "task": "place a sh:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.sh:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "sh:in-file",
+   "name"
+  ],
+  "title": "A-101 chose name for sh:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "name"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.automation-replay.11",
+     "n": 11,
+     "revision": 1,
+     "sweep": "automation-replay"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "automation-replay:11",
+   "last_seen": "automation-replay:11",
+   "status": "open",
+   "task": "place a toml file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.name.toml",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "toml",
+   "name"
+  ],
+  "title": "A-101 chose name for toml; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.18",
+     "n": 18,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:18",
+   "last_seen": "dependencies:18",
+   "status": "open",
+   "task": "place a html:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.html:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "html:in-file",
+   "parent"
+  ],
+  "title": "A-101 chose parent for html:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.36",
+     "n": 36,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.38",
+     "n": 38,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 2,
+   "first_seen": "dependencies:36",
+   "last_seen": "dependencies:38",
+   "status": "open",
+   "task": "place a json file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.json",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "json",
+   "parent"
+  ],
+  "title": "A-101 chose parent for json; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.34",
+     "n": 34,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:34",
+   "last_seen": "dependencies:34",
+   "status": "open",
+   "task": "place a jsx:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.jsx:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "jsx:in-file",
+   "parent"
+  ],
+  "title": "A-101 chose parent for jsx:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.2",
+     "n": 2,
+     "revision": 1,
+     "sweep": "deployments"
+    },
+    {
+     "box": "ת",
+     "id": "T.deployments.5",
+     "n": 5,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 2,
+   "first_seen": "deployments:2",
+   "last_seen": "deployments:5",
+   "status": "open",
+   "task": "place a md:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.md:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "md:in-file",
+   "parent"
+  ],
+  "title": "A-101 chose parent for md:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.27",
+     "n": 27,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:27",
+   "last_seen": "deployments:27",
+   "status": "open",
+   "task": "place a py file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.py",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py",
+   "parent"
+  ],
+  "title": "A-101 chose parent for py; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.16",
+     "n": 16,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.19",
+     "n": 19,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.20",
+     "n": 20,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 3,
+   "first_seen": "dependencies:16",
+   "last_seen": "dependencies:20",
+   "status": "open",
+   "task": "place a py:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.py:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py:in-file",
+   "parent"
+  ],
+  "title": "A-101 chose parent for py:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.11",
+     "n": 11,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:11",
+   "last_seen": "deployments:11",
+   "status": "open",
+   "task": "place a toml:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.toml:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "toml:in-file",
+   "parent"
+  ],
+  "title": "A-101 chose parent for toml:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "parent"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.archives.6",
+     "n": 6,
+     "revision": 1,
+     "sweep": "archives"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.7",
+     "n": 7,
+     "revision": 1,
+     "sweep": "archives"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.8",
+     "n": 8,
+     "revision": 1,
+     "sweep": "archives"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.9",
+     "n": 9,
+     "revision": 1,
+     "sweep": "archives"
+    },
+    {
+     "box": "ת",
+     "id": "T.archives.10",
+     "n": 10,
+     "revision": 1,
+     "sweep": "archives"
+    }
+   ],
+   "failures": 5,
+   "first_seen": "archives:6",
+   "last_seen": "archives:10",
+   "status": "open",
+   "task": "place a zip file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.parent.zip",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "zip",
+   "parent"
+  ],
+  "title": "A-101 chose parent for zip; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "shape"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.33",
+     "n": 33,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:33",
+   "last_seen": "dependencies:33",
+   "status": "open",
+   "task": "place a html:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.shape.html:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "html:in-file",
+   "shape"
+  ],
+  "title": "A-101 chose shape for html:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "shape"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.29",
+     "n": 29,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "deployments:29",
+   "last_seen": "deployments:29",
+   "status": "open",
+   "task": "place a json file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.shape.json",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "json",
+   "shape"
+  ],
+  "title": "A-101 chose shape for json; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "shape"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.deployments.13",
+     "n": 13,
+     "revision": 1,
+     "sweep": "deployments"
+    },
+    {
+     "box": "ת",
+     "id": "T.deployments.15",
+     "n": 15,
+     "revision": 1,
+     "sweep": "deployments"
+    }
+   ],
+   "failures": 2,
+   "first_seen": "deployments:13",
+   "last_seen": "deployments:15",
+   "status": "open",
+   "task": "place a md:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.shape.md:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "md:in-file",
+   "shape"
+  ],
+  "title": "A-101 chose shape for md:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "shape"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.31",
+     "n": 31,
+     "revision": 1,
+     "sweep": "dependencies"
+    },
+    {
+     "box": "ת",
+     "id": "T.dependencies.35",
+     "n": 35,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 2,
+   "first_seen": "dependencies:31",
+   "last_seen": "dependencies:35",
+   "status": "open",
+   "task": "place a py:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.shape.py:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "py:in-file",
+   "shape"
+  ],
+  "title": "A-101 chose shape for py:in-file; A-113 discarded it"
+ },
+ {
+  "body": {
+   "combination": {
+    "anchor": "A-113 checkpoint_generation",
+    "decision": "DISCARDED",
+    "selector": "A-101 bandit_select",
+    "way": "shape"
+   },
+   "evidence": [
+    {
+     "box": "ת",
+     "id": "T.dependencies.39",
+     "n": 39,
+     "revision": 1,
+     "sweep": "dependencies"
+    }
+   ],
+   "failures": 1,
+   "first_seen": "dependencies:39",
+   "last_seen": "dependencies:39",
+   "status": "open",
+   "task": "place a yml:in-file file in its inventory folder"
+  },
+  "glyph": "ק",
+  "id": "C.shape.yml:in-file",
+  "provenance": null,
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "failed-combination",
+   "yml:in-file",
+   "shape"
+  ],
+  "title": "A-101 chose shape for yml:in-file; A-113 discarded it"
+ }
+]

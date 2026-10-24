@@ -1,0 +1,1382 @@
+[
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0045",
+   "kind": "toml",
+   "n": 11,
+   "path": "integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler.toml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.11",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "toml",
+   "name"
+  ],
+  "title": "name guessed (none) for integration-inbox/group-canvas-file-cabinet/source/experiments/hierarchy-tower/wrangler.toml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0017",
+   "kind": "yml",
+   "n": 12,
+   "path": ".github/workflows/geosensory-crawler-test.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.12",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/geosensory-crawler-test.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "schemas",
+   "item": "DECOY-04",
+   "kind": "json",
+   "n": 13,
+   "path": "infrastructure/cloudflare_blueprint.json",
+   "ruling": "deployments",
+   "sweep": "automation-replay",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.13",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "content"
+  ],
+  "title": "content guessed schemas for infrastructure/cloudflare_blueprint.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0033",
+   "kind": "yml",
+   "n": 14,
+   "path": ".github/workflows/swadesh-glyph-dictionary-classroom.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.14",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/swadesh-glyph-dictionary-classroom.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.4444444444444444,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0010",
+   "kind": "yml",
+   "n": 15,
+   "path": ".github/workflows/deploy-pwa.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.15",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/deploy-pwa.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0007",
+   "kind": "yml",
+   "n": 41,
+   "path": ".github/workflows/deploy-archive-workbench.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.41",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/deploy-archive-workbench.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0005",
+   "kind": "yml",
+   "n": 42,
+   "path": ".github/workflows/cloudflare-bridge.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.42",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/cloudflare-bridge.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0019",
+   "kind": "yml",
+   "n": 43,
+   "path": ".github/workflows/glyph-lobby-instantiation.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.43",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/glyph-lobby-instantiation.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "AUT-0009",
+   "kind": "yml",
+   "n": 44,
+   "path": ".github/workflows/deploy-ksm-recess.yml",
+   "ruling": "automation",
+   "sweep": "automation-replay",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.44",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for .github/workflows/deploy-ksm-recess.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5037593984962406,
+   "decision": "DISCARDED",
+   "generation": 9,
+   "generation_rate": 0.0,
+   "guess": "registries",
+   "item": "DECOY-06",
+   "kind": "json",
+   "n": 45,
+   "path": "matrices/echo_vgm.json",
+   "ruling": "matrices",
+   "sweep": "automation-replay",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.automation-replay.45",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "content"
+  ],
+  "title": "content guessed registries for matrices/echo_vgm.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5298013245033113,
+   "decision": "DISCARDED",
+   "generation": 2,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0039",
+   "kind": "py:in-file",
+   "n": 10,
+   "path": "Datasets/crawler/crawl.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.10",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "name"
+  ],
+  "title": "name guessed (none) for Datasets/crawler/crawl.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.532051282051282,
+   "decision": "DISCARDED",
+   "generation": 4,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0028",
+   "kind": "py:in-file",
+   "n": 16,
+   "path": "Datasets/crawler/crawl.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.16",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "parent"
+  ],
+  "title": "parent guessed (none) for Datasets/crawler/crawl.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.532051282051282,
+   "decision": "DISCARDED",
+   "generation": 4,
+   "generation_rate": 0.0,
+   "guess": "schemas",
+   "item": "DECOY-09",
+   "kind": "md",
+   "n": 17,
+   "path": "research-registry/contracts/CONTRACT-000.md",
+   "ruling": "governance",
+   "sweep": "dependencies",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.17",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "md",
+   "content"
+  ],
+  "title": "content guessed schemas for research-registry/contracts/CONTRACT-000.md"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.532051282051282,
+   "decision": "DISCARDED",
+   "generation": 4,
+   "generation_rate": 0.0,
+   "guess": "data",
+   "item": "DEP-0024",
+   "kind": "html:in-file",
+   "n": 18,
+   "path": "core-lexicon/index.html",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.18",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "html:in-file",
+   "parent"
+  ],
+  "title": "parent guessed data for core-lexicon/index.html"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.532051282051282,
+   "decision": "DISCARDED",
+   "generation": 4,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0009",
+   "kind": "py:in-file",
+   "n": 19,
+   "path": "src/a159_cloudflare_migrator.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.19",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "parent"
+  ],
+  "title": "parent guessed algorithms for src/a159_cloudflare_migrator.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.532051282051282,
+   "decision": "DISCARDED",
+   "generation": 4,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0033",
+   "kind": "py:in-file",
+   "n": 20,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.20",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "parent"
+  ],
+  "title": "parent guessed algorithms for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 7,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0042",
+   "kind": "py:in-file",
+   "n": 31,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.31",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "shape"
+  ],
+  "title": "shape guessed algorithms for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 7,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0012",
+   "kind": "cjs:in-file",
+   "n": 32,
+   "path": "tests/browser_echo_canvas.cjs",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.32",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "cjs:in-file",
+   "name"
+  ],
+  "title": "name guessed (none) for tests/browser_echo_canvas.cjs"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 7,
+   "generation_rate": 0.0,
+   "guess": "interfaces",
+   "item": "DEP-0022",
+   "kind": "html:in-file",
+   "n": 33,
+   "path": "code_library_registry/artifacts/CLR-0043/lexicon_registry.template.html",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.33",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "html:in-file",
+   "shape"
+  ],
+  "title": "shape guessed interfaces for code_library_registry/artifacts/CLR-0043/lexicon_registry.template.html"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 7,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0030",
+   "kind": "jsx:in-file",
+   "n": 34,
+   "path": "artifacts/echo_governor.jsx",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.34",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "jsx:in-file",
+   "parent"
+  ],
+  "title": "parent guessed (none) for artifacts/echo_governor.jsx"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 7,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0036",
+   "kind": "py:in-file",
+   "n": 35,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.35",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "shape"
+  ],
+  "title": "shape guessed algorithms for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 8,
+   "generation_rate": 0.2,
+   "guess": "(none)",
+   "item": "DEP-0001",
+   "kind": "json",
+   "n": 36,
+   "path": "integration-inbox/group-canvas-file-cabinet/source/package.json",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.36",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "parent"
+  ],
+  "title": "parent guessed (none) for integration-inbox/group-canvas-file-cabinet/source/package.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 8,
+   "generation_rate": 0.2,
+   "guess": "(none)",
+   "item": "DECOY-08",
+   "kind": "json",
+   "n": 38,
+   "path": "ECHO_AutonomousAgency/sandbox/recess_session_log.json",
+   "ruling": "records",
+   "sweep": "dependencies",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.38",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "parent"
+  ],
+  "title": "parent guessed (none) for ECHO_AutonomousAgency/sandbox/recess_session_log.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 8,
+   "generation_rate": 0.2,
+   "guess": "automation",
+   "item": "DEP-0016",
+   "kind": "yml:in-file",
+   "n": 39,
+   "path": "Workshop/solutions/S-001-cloudflare-deploy-without-github-app/reference-deploy.yml",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.39",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "yml:in-file",
+   "shape"
+  ],
+  "title": "shape guessed automation for Workshop/solutions/S-001-cloudflare-deploy-without-github-app/reference-deploy.yml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5301204819277109,
+   "decision": "DISCARDED",
+   "generation": 8,
+   "generation_rate": 0.2,
+   "guess": "(none)",
+   "item": "DEP-0040",
+   "kind": "sh:in-file",
+   "n": 40,
+   "path": "Datasets/files/huggingface/derek-thomas_ScienceQA/tutorial_download.sh",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.40",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "sh:in-file",
+   "name"
+  ],
+  "title": "name guessed (none) for Datasets/files/huggingface/derek-thomas_ScienceQA/tutorial_download.sh"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5454545454545454,
+   "decision": "DISCARDED",
+   "generation": 11,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0047",
+   "kind": "py:in-file",
+   "n": 51,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.51",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "librarian"
+  ],
+  "title": "librarian guessed algorithms for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5454545454545454,
+   "decision": "DISCARDED",
+   "generation": 11,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0029",
+   "kind": "py:in-file",
+   "n": 52,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.52",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "librarian"
+  ],
+  "title": "librarian guessed algorithms for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5454545454545454,
+   "decision": "DISCARDED",
+   "generation": 11,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0027",
+   "kind": "py:in-file",
+   "n": 53,
+   "path": "src/a159_cloudflare_migrator.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.53",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "librarian"
+  ],
+  "title": "librarian guessed (none) for src/a159_cloudflare_migrator.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5454545454545454,
+   "decision": "DISCARDED",
+   "generation": 11,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DECOY-01",
+   "kind": "py",
+   "n": 54,
+   "path": "Datasets/crawler/crawl.py",
+   "ruling": "tools",
+   "sweep": "dependencies",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.54",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py",
+   "content"
+  ],
+  "title": "content guessed algorithms for Datasets/crawler/crawl.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5454545454545454,
+   "decision": "DISCARDED",
+   "generation": 11,
+   "generation_rate": 0.0,
+   "guess": "algorithms",
+   "item": "DEP-0037",
+   "kind": "py:in-file",
+   "n": 55,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.55",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "librarian"
+  ],
+  "title": "librarian guessed algorithms for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5298013245033113,
+   "decision": "DISCARDED",
+   "generation": 2,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0048",
+   "kind": "py:in-file",
+   "n": 6,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.6",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "name"
+  ],
+  "title": "name guessed (none) for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5298013245033113,
+   "decision": "DISCARDED",
+   "generation": 2,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0004",
+   "kind": "py:in-file",
+   "n": 7,
+   "path": "experiments/e12_ks_canvas_recess.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.7",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "name"
+  ],
+  "title": "name guessed (none) for experiments/e12_ks_canvas_recess.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5298013245033113,
+   "decision": "DISCARDED",
+   "generation": 2,
+   "generation_rate": 0.0,
+   "guess": "schemas",
+   "item": "DECOY-03",
+   "kind": "py",
+   "n": 8,
+   "path": "src/echo_classroom.py",
+   "ruling": "algorithms",
+   "sweep": "dependencies",
+   "way": "content"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.8",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py",
+   "content"
+  ],
+  "title": "content guessed schemas for src/echo_classroom.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5298013245033113,
+   "decision": "DISCARDED",
+   "generation": 2,
+   "generation_rate": 0.0,
+   "guess": "(none)",
+   "item": "DEP-0044",
+   "kind": "py:in-file",
+   "n": 9,
+   "path": "src/echo_governor_skeleton.py",
+   "ruling": "dependencies",
+   "sweep": "dependencies",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.dependencies.9",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py:in-file",
+   "name"
+  ],
+  "title": "name guessed (none) for src/echo_governor_skeleton.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5591397849462365,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.2,
+   "guess": "interfaces",
+   "item": "DPL-0007",
+   "kind": "toml:in-file",
+   "n": 11,
+   "path": "pwa/wrangler.toml",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.11",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "toml:in-file",
+   "parent"
+  ],
+  "title": "parent guessed interfaces for pwa/wrangler.toml"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5591397849462365,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.2,
+   "guess": "algorithms",
+   "item": "DECOY-05",
+   "kind": "webmanifest",
+   "n": 12,
+   "path": "pwa/manifest.webmanifest",
+   "ruling": "interfaces",
+   "sweep": "deployments",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.12",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "webmanifest",
+   "librarian"
+  ],
+  "title": "librarian guessed algorithms for pwa/manifest.webmanifest"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5591397849462365,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.2,
+   "guess": "codices",
+   "item": "DPL-0011",
+   "kind": "md:in-file",
+   "n": 13,
+   "path": "research-registry/contracts/CONTRACT-000.md",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.13",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "md:in-file",
+   "shape"
+  ],
+  "title": "shape guessed codices for research-registry/contracts/CONTRACT-000.md"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5591397849462365,
+   "decision": "DISCARDED",
+   "generation": 3,
+   "generation_rate": 0.2,
+   "guess": "codices",
+   "item": "DPL-0015",
+   "kind": "md:in-file",
+   "n": 15,
+   "path": "research-registry/contracts/CONTRACT-000.md",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.15",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "md:in-file",
+   "shape"
+  ],
+  "title": "shape guessed codices for research-registry/contracts/CONTRACT-000.md"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5524861878453039,
+   "decision": "DISCARDED",
+   "generation": 1,
+   "generation_rate": 0.2,
+   "guess": "codices",
+   "item": "DPL-0025",
+   "kind": "md:in-file",
+   "n": 2,
+   "path": "docs/REVISED_INSTRUCTIONS_FOR_GPT.md",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.2",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "md:in-file",
+   "parent"
+  ],
+  "title": "parent guessed codices for docs/REVISED_INSTRUCTIONS_FOR_GPT.md"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5510204081632653,
+   "decision": "DISCARDED",
+   "generation": 6,
+   "generation_rate": 0.2,
+   "guess": "codices",
+   "item": "DPL-0023",
+   "kind": "md:in-file",
+   "n": 26,
+   "path": "docs/REVISED_INSTRUCTIONS_FOR_GPT.md",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.26",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "md:in-file",
+   "name"
+  ],
+  "title": "name guessed codices for docs/REVISED_INSTRUCTIONS_FOR_GPT.md"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5510204081632653,
+   "decision": "DISCARDED",
+   "generation": 6,
+   "generation_rate": 0.2,
+   "guess": "(none)",
+   "item": "DECOY-01",
+   "kind": "py",
+   "n": 27,
+   "path": "Datasets/crawler/crawl.py",
+   "ruling": "tools",
+   "sweep": "deployments",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.27",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py",
+   "parent"
+  ],
+  "title": "parent guessed (none) for Datasets/crawler/crawl.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5510204081632653,
+   "decision": "DISCARDED",
+   "generation": 6,
+   "generation_rate": 0.2,
+   "guess": "dependencies",
+   "item": "DPL-0020",
+   "kind": "json:in-file",
+   "n": 28,
+   "path": "integration-inbox/group-canvas-file-cabinet/source/package.json",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.28",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json:in-file",
+   "name"
+  ],
+  "title": "name guessed dependencies for integration-inbox/group-canvas-file-cabinet/source/package.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5510204081632653,
+   "decision": "DISCARDED",
+   "generation": 6,
+   "generation_rate": 0.2,
+   "guess": "registries",
+   "item": "DECOY-04",
+   "kind": "json",
+   "n": 29,
+   "path": "infrastructure/cloudflare_blueprint.json",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "shape"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.29",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "shape"
+  ],
+  "title": "shape guessed registries for infrastructure/cloudflare_blueprint.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5524861878453039,
+   "decision": "DISCARDED",
+   "generation": 1,
+   "generation_rate": 0.2,
+   "guess": "(none)",
+   "item": "DECOY-03",
+   "kind": "py",
+   "n": 3,
+   "path": "src/echo_classroom.py",
+   "ruling": "algorithms",
+   "sweep": "deployments",
+   "way": "name"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.3",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "py",
+   "name"
+  ],
+  "title": "name guessed (none) for src/echo_classroom.py"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5524861878453039,
+   "decision": "DISCARDED",
+   "generation": 1,
+   "generation_rate": 0.2,
+   "guess": "registries",
+   "item": "DECOY-08",
+   "kind": "json",
+   "n": 4,
+   "path": "ECHO_AutonomousAgency/sandbox/recess_session_log.json",
+   "ruling": "records",
+   "sweep": "deployments",
+   "way": "librarian"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.4",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "json",
+   "librarian"
+  ],
+  "title": "librarian guessed registries for ECHO_AutonomousAgency/sandbox/recess_session_log.json"
+ },
+ {
+  "body": {
+   "baseline_rate": 0.5524861878453039,
+   "decision": "DISCARDED",
+   "generation": 1,
+   "generation_rate": 0.2,
+   "guess": "(none)",
+   "item": "DPL-0013",
+   "kind": "md:in-file",
+   "n": 5,
+   "path": "research-registry/contracts/CONTRACT-000.md",
+   "ruling": "deployments",
+   "sweep": "deployments",
+   "way": "parent"
+  },
+  "glyph": "ת",
+  "id": "T.deployments.5",
+  "provenance": {
+   "anchor": "A-113 checkpoint_generation",
+   "selector": "A-101 bandit_select"
+  },
+  "revision": 1,
+  "section": "cards",
+  "tags": [
+   "discarded-failure",
+   "md:in-file",
+   "parent"
+  ],
+  "title": "parent guessed (none) for research-registry/contracts/CONTRACT-000.md"
+ }
+]

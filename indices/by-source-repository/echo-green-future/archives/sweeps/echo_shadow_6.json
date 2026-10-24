@@ -1,0 +1,154 @@
+{
+ "cases": 31,
+ "hits": 13,
+ "first_half": 7,
+ "second_half": 6,
+ "half": 15,
+ "attempts_carried_in": 201,
+ "trusted_by_bucket": {
+  "json": [
+   "content",
+   0.61,
+   18
+  ],
+  "md": [
+   "shape",
+   0.86,
+   7
+  ],
+  "md:in-file": [
+   "content",
+   0.5,
+   2
+  ],
+  "py": [
+   "librarian",
+   0.0,
+   3
+  ],
+  "py:in-file": [
+   "content",
+   0.95,
+   37
+  ],
+  "toml": [
+   "content",
+   0.0,
+   1
+  ],
+  "toml:in-file": [
+   "name",
+   1.0,
+   4
+  ],
+  "webmanifest": [
+   "parent",
+   1.0,
+   1
+  ],
+  "yml": [
+   "content",
+   1.0,
+   11
+  ],
+  "yml:in-file": [
+   "content",
+   1.0,
+   4
+  ],
+  "zip": [
+   "shape",
+   1.0,
+   6
+  ],
+  "html:in-file": [
+   "name",
+   1.0,
+   1
+  ],
+  "html": [
+   "name",
+   0.0,
+   1
+  ],
+  "js": [
+   "name",
+   1.0,
+   1
+  ],
+  "jsx:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv:in-file": [
+   "name",
+   0.0,
+   1
+  ]
+ },
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+ "checkpoints": [
+  {
+   "after": 5,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.5472636815920398,
+   "attempts": 5
+  },
+  {
+   "after": 10,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.5533980582524272,
+   "attempts": 5
+  },
+  {
+   "after": 15,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.5533980582524272,
+   "attempts": 5
+  },
+  {
+   "after": 20,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.5545023696682464,
+   "attempts": 5
+  },
+  {
+   "after": 25,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.5545023696682464,
+   "attempts": 5
+  },
+  {
+   "after": 30,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.5509259259259259,
+   "attempts": 5
+  },
+  {
+   "after": 31,
+   "decision": "SKIPPED",
+   "current_rate": null,
+   "baseline_rate": null,
+   "attempts": 1
+  }
+ ],
+ "boxes": {
+  "tav_cards": 56,
+  "qof_cards": 28,
+  "qof_open": 27,
+  "qof_outgrown": 1,
+  "failure_weight": 0.5
+ }
+}
