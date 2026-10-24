@@ -1,0 +1,63 @@
+n	id	path	bucket	arm	guess	ruling	hit	checkpoint
+1	DECOY-05	pwa/manifest.webmanifest	webmanifest	shape	(none)	interfaces	0	
+2	DEP-0010	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+3	DECOY-07	tests/test_dsl_canvas_008.py	py	librarian	algorithms	experiments	0	
+4	DEP-0038	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+5	DEP-0049	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	ANCHORED
+6	DEP-0048	src/echo_governor_skeleton.py	py:in-file	name	(none)	dependencies	0	
+7	DEP-0004	experiments/e12_ks_canvas_recess.py	py:in-file	name	(none)	dependencies	0	
+8	DECOY-03	src/echo_classroom.py	py	content	schemas	algorithms	0	
+9	DEP-0044	src/echo_governor_skeleton.py	py:in-file	name	(none)	dependencies	0	
+10	DEP-0039	Datasets/crawler/crawl.py	py:in-file	name	(none)	dependencies	0	DISCARDED
+11	DEP-0051	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+12	DEP-0020	generate_matrices.py	py:in-file	content	algorithms	dependencies	0	
+13	DECOY-10	core-lexicon/math_axioms.json	json	parent	data	data	1	
+14	DEP-0003	.github/workflows/autonomous-proposition-009.yml	yml:in-file	name	automation	dependencies	0	
+15	DEP-0046	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	ANCHORED
+16	DEP-0028	Datasets/crawler/crawl.py	py:in-file	parent	(none)	dependencies	0	
+17	DECOY-09	research-registry/contracts/CONTRACT-000.md	md	content	schemas	governance	0	
+18	DEP-0024	core-lexicon/index.html	html:in-file	parent	data	dependencies	0	
+19	DEP-0009	src/a159_cloudflare_migrator.py	py:in-file	parent	algorithms	dependencies	0	
+20	DEP-0033	src/echo_governor_skeleton.py	py:in-file	parent	algorithms	dependencies	0	DISCARDED
+21	DEP-0014	integration-inbox/group-canvas-file-cabinet/source/package.json	json	parent	(none)	dependencies	0	
+22	DEP-0011	.github/workflows/recess.yml	yml:in-file	parent	automation	dependencies	0	
+23	DEP-0026	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+24	DECOY-02	docs/ECHO_OUTPUT_FORMAT.md	md	shape	codices	codices	1	
+25	DEP-0032	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	ANCHORED
+26	DEP-0013	artifacts/echo_dashboard.jsx	jsx:in-file	name	(none)	dependencies	0	
+27	DECOY-06	matrices/echo_vgm.json	json	content	registries	matrices	0	
+28	DEP-0006	core-lexicon/eve/eve_core.py	py:in-file	content	dependencies	dependencies	1	
+29	DEP-0005	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+30	DECOY-04	infrastructure/cloudflare_blueprint.json	json	content	schemas	deployments	0	ANCHORED
+31	DEP-0042	src/echo_governor_skeleton.py	py:in-file	shape	algorithms	dependencies	0	
+32	DEP-0012	tests/browser_echo_canvas.cjs	cjs:in-file	name	(none)	dependencies	0	
+33	DEP-0022	code_library_registry/artifacts/CLR-0043/lexicon_registry.template.html	html:in-file	shape	interfaces	dependencies	0	
+34	DEP-0030	artifacts/echo_governor.jsx	jsx:in-file	parent	(none)	dependencies	0	
+35	DEP-0036	src/echo_governor_skeleton.py	py:in-file	shape	algorithms	dependencies	0	DISCARDED
+36	DEP-0001	integration-inbox/group-canvas-file-cabinet/source/package.json	json	parent	(none)	dependencies	0	
+37	DEP-0043	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+38	DECOY-08	ECHO_AutonomousAgency/sandbox/recess_session_log.json	json	parent	(none)	records	0	
+39	DEP-0016	Workshop/solutions/S-001-cloudflare-deploy-without-github-app/reference-deploy.yml	yml:in-file	shape	automation	dependencies	0	
+40	DEP-0040	Datasets/files/huggingface/derek-thomas_ScienceQA/tutorial_download.sh	sh:in-file	name	(none)	dependencies	0	DISCARDED
+41	DEP-0019	.github/workflows/deploy.yml	yml:in-file	librarian	(none)	dependencies	0	
+42	DEP-0023	datasets/index.html	html:in-file	librarian	registries	dependencies	0	
+43	DEP-0041	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+44	DEP-0052	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+45	DEP-0007	Business/ideas/F-001-tam-build/PROPOSED-pdf_fix.py	py:in-file	content	dependencies	dependencies	1	ANCHORED
+46	DEP-0008	.github/workflows/homework-boundary-tests.yml	yml:in-file	content	dependencies	dependencies	1	
+47	DEP-0034	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+48	DEP-0050	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+49	DEP-0021	generate_matrices.py	py:in-file	content	dependencies	dependencies	1	
+50	DEP-0035	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	ANCHORED
+51	DEP-0047	src/echo_governor_skeleton.py	py:in-file	librarian	algorithms	dependencies	0	
+52	DEP-0029	src/echo_governor_skeleton.py	py:in-file	librarian	algorithms	dependencies	0	
+53	DEP-0027	src/a159_cloudflare_migrator.py	py:in-file	librarian	(none)	dependencies	0	
+54	DECOY-01	Datasets/crawler/crawl.py	py	content	algorithms	tools	0	
+55	DEP-0037	src/echo_governor_skeleton.py	py:in-file	librarian	algorithms	dependencies	0	DISCARDED
+56	DEP-0015	.github/workflows/deploy.yml	yml:in-file	content	dependencies	dependencies	1	
+57	DEP-0017	.github/workflows/autonomous-proposition-009.yml	yml:in-file	content	dependencies	dependencies	1	
+58	DEP-0045	src/echo_governor_skeleton.py	py:in-file	content	dependencies	dependencies	1	
+59	DEP-0025	artifacts/echo_dashboard.jsx	jsx:in-file	shape	(none)	dependencies	0	
+60	DEP-0018	.github/workflows/autonomous-language-sandbox.yml	yml:in-file	content	dependencies	dependencies	1	ANCHORED
+61	DEP-0031	Datasets/crawler/crawl.py	py:in-file	content	dependencies	dependencies	1	
+62	DEP-0002	core-lexicon/pyodide/pyodide-lock.json	json	librarian	(none)	dependencies	0	SKIPPED

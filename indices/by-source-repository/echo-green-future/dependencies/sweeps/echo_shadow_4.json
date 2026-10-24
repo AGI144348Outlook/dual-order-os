@@ -1,0 +1,186 @@
+{
+ "cases": 62,
+ "hits": 25,
+ "first_half": 11,
+ "second_half": 14,
+ "half": 31,
+ "attempts_carried_in": 146,
+ "trusted_by_bucket": {
+  "json": [
+   "content",
+   0.61,
+   18
+  ],
+  "md": [
+   "shape",
+   1.0,
+   5
+  ],
+  "py": [
+   "librarian",
+   0.0,
+   2
+  ],
+  "py:in-file": [
+   "content",
+   0.95,
+   37
+  ],
+  "toml": [
+   "content",
+   0.0,
+   1
+  ],
+  "yml": [
+   "content",
+   1.0,
+   11
+  ],
+  "yml:in-file": [
+   "content",
+   1.0,
+   4
+  ],
+  "html:in-file": [
+   "name",
+   1.0,
+   1
+  ],
+  "html": [
+   "name",
+   0.0,
+   1
+  ],
+  "js": [
+   "name",
+   1.0,
+   1
+  ],
+  "jsx:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "md:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv": [
+   "name",
+   0.0,
+   1
+  ],
+  "tsv:in-file": [
+   "name",
+   0.0,
+   1
+  ],
+  "webmanifest": [
+   "parent",
+   1.0,
+   1
+  ]
+ },
+ "kernel_blob": "63eb982989b4f3478d649430b555c8f4ba755c27",
+ "checkpoints": [
+  {
+   "after": 5,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.5273972602739726,
+   "attempts": 5
+  },
+  {
+   "after": 10,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.5298013245033113,
+   "attempts": 5
+  },
+  {
+   "after": 15,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.5298013245033113,
+   "attempts": 5
+  },
+  {
+   "after": 20,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.532051282051282,
+   "attempts": 5
+  },
+  {
+   "after": 25,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.532051282051282,
+   "attempts": 5
+  },
+  {
+   "after": 30,
+   "decision": "ANCHORED",
+   "current_rate": 0.4,
+   "baseline_rate": 0.5341614906832298,
+   "attempts": 5
+  },
+  {
+   "after": 35,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.5301204819277109,
+   "attempts": 5
+  },
+  {
+   "after": 40,
+   "decision": "DISCARDED",
+   "current_rate": 0.2,
+   "baseline_rate": 0.5301204819277109,
+   "attempts": 5
+  },
+  {
+   "after": 45,
+   "decision": "ANCHORED",
+   "current_rate": 0.6,
+   "baseline_rate": 0.5301204819277109,
+   "attempts": 5
+  },
+  {
+   "after": 50,
+   "decision": "ANCHORED",
+   "current_rate": 1.0,
+   "baseline_rate": 0.5321637426900585,
+   "attempts": 5
+  },
+  {
+   "after": 55,
+   "decision": "DISCARDED",
+   "current_rate": 0.0,
+   "baseline_rate": 0.5454545454545454,
+   "attempts": 5
+  },
+  {
+   "after": 60,
+   "decision": "ANCHORED",
+   "current_rate": 0.8,
+   "baseline_rate": 0.5454545454545454,
+   "attempts": 5
+  },
+  {
+   "after": 62,
+   "decision": "SKIPPED",
+   "current_rate": null,
+   "baseline_rate": null,
+   "attempts": 2
+  }
+ ],
+ "boxes": {
+  "tav_cards": 34,
+  "qof_cards": 16,
+  "qof_open": 16,
+  "qof_outgrown": 0,
+  "failure_weight": 0.5
+ }
+}
