@@ -48,6 +48,8 @@ Script: [`sweeps/sweep_1_logics.py`](sweeps/sweep_1_logics.py). Rulings are writ
 | Rule sets in matrices | 2 | grammar registry (no rules yet), Mashet universal rules |
 | Cross-references | 11 | homed in algorithms, protocols, experiments, matrices, registries, data, codices |
 
+**Read the rules themselves:** [`RULES.md`](RULES.md) writes out every rule set in plain words, with the 51 Rule Registry entries exactly as typed.
+
 **What counts as logics here:** a set of rules that decides how things combine. The earlier librarian's
 `L2-library/Logics/REGISTER.tsv` (mirror-claude) used a wider reading (specs, handoffs, assessments); those
 belong to `codices/` under this inventory's folders.
