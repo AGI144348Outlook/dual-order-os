@@ -1,0 +1,426 @@
+{
+ "written": "2026-10-24, before any course run (dual-order-os#14)",
+ "note": "G2 held-out conversation set: 60 answerable utterances and 20 with a word the teacher never uses. Slots are filled per seed from a desk of test-pool files; frames are never used in teaching.",
+ "items": [
+  {
+   "frame": "{np} how many are there",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "how many {np} do you see there",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "count the {np} you see",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "how many are there of the {np}",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "do you see how many {np} there are",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "count {np}",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "how many {np} are in this",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "the {np} how many",
+   "task": "count",
+   "constraints": 1
+  },
+  {
+   "frame": "point to {np}",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "show me {np}",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "find me the {np}",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "which ones are the {np}",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "show me which ones are {np}",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "point to the {name} file",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "find the {name} file",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "the {np} show me",
+   "task": "show",
+   "constraints": 1
+  },
+  {
+   "frame": "do you see any {np}",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "are there {np}",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "is there any {np0}",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "any {np} there",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "is the {name} file a {kind} file",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "is {name} a {format} file",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "is the {name} file in {place}",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "is {name} {size}",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "do you see {np1} there",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "are there any {np} in this",
+   "task": "yesno",
+   "constraints": 1
+  },
+  {
+   "frame": "what kind is the {name} file",
+   "task": "kind",
+   "constraints": 1
+  },
+  {
+   "frame": "the {name} file is what kind",
+   "task": "kind",
+   "constraints": 1
+  },
+  {
+   "frame": "{name} is what kind of file",
+   "task": "kind",
+   "constraints": 1
+  },
+  {
+   "frame": "what kind of file is {name}",
+   "task": "kind",
+   "constraints": 1
+  },
+  {
+   "frame": "what format is the {name} file in",
+   "task": "format",
+   "constraints": 1
+  },
+  {
+   "frame": "the {name} file is what format",
+   "task": "format",
+   "constraints": 1
+  },
+  {
+   "frame": "{name} is what format",
+   "task": "format",
+   "constraints": 1
+  },
+  {
+   "frame": "what format of file is {name}",
+   "task": "format",
+   "constraints": 1
+  },
+  {
+   "frame": "{name} is where",
+   "task": "place",
+   "constraints": 1
+  },
+  {
+   "frame": "which folder is the {name} file in",
+   "task": "place",
+   "constraints": 1
+  },
+  {
+   "frame": "the {name} file is in which folder",
+   "task": "place",
+   "constraints": 1
+  },
+  {
+   "frame": "where do you see {name}",
+   "task": "place",
+   "constraints": 1
+  },
+  {
+   "frame": "{name} is what size",
+   "task": "size",
+   "constraints": 1
+  },
+  {
+   "frame": "the {name} file is what size",
+   "task": "size",
+   "constraints": 1
+  },
+  {
+   "frame": "what size of file is {name}",
+   "task": "size",
+   "constraints": 1
+  },
+  {
+   "frame": "{np} how many are there",
+   "task": "count",
+   "constraints": 2
+  },
+  {
+   "frame": "count the {np} you see",
+   "task": "count",
+   "constraints": 2
+  },
+  {
+   "frame": "how many {np} are in this",
+   "task": "count",
+   "constraints": 2
+  },
+  {
+   "frame": "count {np}",
+   "task": "count",
+   "constraints": 2
+  },
+  {
+   "frame": "the {np} how many",
+   "task": "count",
+   "constraints": 2
+  },
+  {
+   "frame": "point to {np}",
+   "task": "show",
+   "constraints": 2
+  },
+  {
+   "frame": "show me {np}",
+   "task": "show",
+   "constraints": 2
+  },
+  {
+   "frame": "find me the {np}",
+   "task": "show",
+   "constraints": 2
+  },
+  {
+   "frame": "which ones are the {np}",
+   "task": "show",
+   "constraints": 2
+  },
+  {
+   "frame": "the {np} show me",
+   "task": "show",
+   "constraints": 2
+  },
+  {
+   "frame": "do you see any {np}",
+   "task": "yesno",
+   "constraints": 2
+  },
+  {
+   "frame": "are there {np}",
+   "task": "yesno",
+   "constraints": 2
+  },
+  {
+   "frame": "any {np} there",
+   "task": "yesno",
+   "constraints": 2
+  },
+  {
+   "frame": "are there any {np} in this",
+   "task": "yesno",
+   "constraints": 2
+  },
+  {
+   "frame": "is there any {np0}",
+   "task": "yesno",
+   "constraints": 2
+  },
+  {
+   "frame": "what kind of file is {name}",
+   "task": "kind",
+   "constraints": 2
+  },
+  {
+   "frame": "{name} is what format",
+   "task": "format",
+   "constraints": 2
+  },
+  {
+   "frame": "{name} is where",
+   "task": "place",
+   "constraints": 2
+  },
+  {
+   "frame": "the {name} file is what size",
+   "task": "size",
+   "constraints": 2
+  },
+  {
+   "frame": "hey how many {np} are there",
+   "task": "count",
+   "constraints": 1,
+   "unmet": "hey"
+  },
+  {
+   "frame": "please show me the {np}",
+   "task": "show",
+   "constraints": 1,
+   "unmet": "please"
+  },
+  {
+   "frame": "tally the {np}",
+   "task": "count",
+   "constraints": 1,
+   "unmet": "tally"
+  },
+  {
+   "frame": "display the {np}",
+   "task": "show",
+   "constraints": 1,
+   "unmet": "display"
+  },
+  {
+   "frame": "where is the {name} file located",
+   "task": "place",
+   "constraints": 1,
+   "unmet": "located"
+  },
+  {
+   "frame": "gimme the {np}",
+   "task": "show",
+   "constraints": 1,
+   "unmet": "gimme"
+  },
+  {
+   "frame": "what type of file is {name}",
+   "task": "kind",
+   "constraints": 1,
+   "unmet": "type"
+  },
+  {
+   "frame": "what extension is the {name} file",
+   "task": "format",
+   "constraints": 1,
+   "unmet": "extension"
+  },
+  {
+   "frame": "how many {np} have you got",
+   "task": "count",
+   "constraints": 1,
+   "unmet": "have"
+  },
+  {
+   "frame": "so is there {np1}",
+   "task": "yesno",
+   "constraints": 1,
+   "unmet": "so"
+  },
+  {
+   "frame": "can you count the {np}",
+   "task": "count",
+   "constraints": 1,
+   "unmet": "can"
+  },
+  {
+   "frame": "list the {np}",
+   "task": "show",
+   "constraints": 1,
+   "unmet": "list"
+  },
+  {
+   "frame": "what is the total of {np}",
+   "task": "count",
+   "constraints": 1,
+   "unmet": "total"
+  },
+  {
+   "frame": "highlight the {np}",
+   "task": "show",
+   "constraints": 1,
+   "unmet": "highlight"
+  },
+  {
+   "frame": "which directory holds {name}",
+   "task": "place",
+   "constraints": 1,
+   "unmet": "directory"
+  },
+  {
+   "frame": "are any {np} present",
+   "task": "yesno",
+   "constraints": 1,
+   "unmet": "present"
+  },
+  {
+   "frame": "tell me what kind {name} is",
+   "task": "kind",
+   "constraints": 1,
+   "unmet": "tell"
+  },
+  {
+   "frame": "what sort of file is {name}",
+   "task": "kind",
+   "constraints": 1,
+   "unmet": "sort"
+  },
+  {
+   "frame": "how many {np} exist",
+   "task": "count",
+   "constraints": 1,
+   "unmet": "exist"
+  },
+  {
+   "frame": "is {name} kinda {size}",
+   "task": "yesno",
+   "constraints": 1,
+   "unmet": "kinda"
+  }
+ ]
+}
