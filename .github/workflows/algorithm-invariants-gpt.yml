@@ -12,12 +12,15 @@ jobs:
     timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: source-archive
       - name: Extract archived experiment
         run: |
-          mkdir -p experiment-src
-          unzip -q algorithm-invariants.zip 'algorithm-invariants/*' -d experiment-src
-          cp -r experiment-src/algorithm-invariants/. ./experiment-src/
-          rm -rf experiment-src/algorithm-invariants experiment-src/.git
+          unzip -q source-archive/algorithm-invariants.zip 'algorithm-invariants/*' -d .
+          mv algorithm-invariants experiment-src
+          rm -rf experiment-src/.git
       - name: Fetch corpora and record exact source revisions
         working-directory: experiment-src
         run: |
