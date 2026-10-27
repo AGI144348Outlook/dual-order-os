@@ -1,0 +1,47 @@
+name: Algorithm invariants independent experiment
+on:
+  push:
+    branches: [experiment/algorithm-invariants-gpt]
+    paths: ['.github/workflows/algorithm-invariants-gpt.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  experiment:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract archived experiment
+        run: |
+          mkdir -p experiment-src
+          unzip -q algorithm-invariants.zip 'algorithm-invariants/*' -d experiment-src
+          cp -r experiment-src/algorithm-invariants/. ./experiment-src/
+          rm -rf experiment-src/algorithm-invariants experiment-src/.git
+      - name: Fetch corpora and record exact source revisions
+        working-directory: experiment-src
+        run: |
+          bash setup_data.sh
+          for d in data/*; do echo "$d $(git -C "$d" rev-parse HEAD)"; done | tee source-revisions.txt
+      - name: Extract static roles
+        working-directory: experiment-src
+        run: python run_all.py features
+      - name: Bounded ablation preflight
+        working-directory: experiment-src
+        run: |
+          python run_all.py ablate --limit 150 --workers 4
+          python run_all.py aggregate
+      - name: Full resumable ablation
+        working-directory: experiment-src
+        run: |
+          python run_all.py ablate --workers 4 --max-sites 3
+          python run_all.py aggregate
+      - name: Save evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: algorithm-invariants-evidence
+          path: |
+            experiment-src/results/
+            experiment-src/source-revisions.txt
+          retention-days: 30
