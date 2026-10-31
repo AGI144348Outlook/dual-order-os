@@ -1,0 +1,31 @@
+{
+  "about": "Rung 1 of the ladder. Each entry is one source kept byte for byte as found, with where it came from. The ladder loader (libraries/ladder_load.py) breaks each one into registry pieces, rebuilds it from those pieces alone, and loads it into Neon only if the rebuild is byte-exact.",
+  "datasets": [
+    {
+      "id": "ds-mind-domain",
+      "file": "mind-domain-2025-01-05.json",
+      "format": "json",
+      "codex": "codex-mind-domain",
+      "provenance": {
+        "source": "ChatGPT export conversations-000.json",
+        "conversation": "Shared Homework Homework",
+        "prompt": 62,
+        "when": "2025-01-05 12:34 CST",
+        "extract": "first JSON object, verbatim, CRLF line endings kept"
+      }
+    },
+    {
+      "id": "ds-master-codex",
+      "file": "master-codex-meta-thinking.txt",
+      "format": "prose",
+      "codex": "codex-master-meta-thinking",
+      "provenance": {
+        "repo": "AGI144348Outlook/Mashet-Echo-Drive",
+        "commit": "a8e312b",
+        "blob": "c39510543954deae8bcfa48a7c4d0d1b8acc00d3",
+        "file": "Master Codex of Essential MetaThinking Capable Codexes and their relevant information (1).txt",
+        "via": "Core Lexicon codices.json (completed: master-essential)"
+      }
+    }
+  ]
+}

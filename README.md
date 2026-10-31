@@ -28,6 +28,7 @@ Features on research branches are not automatically present or deployed from mai
 
 Two navigation directions over reusable parts:
 
+- **datasets/** — sources kept byte for byte as found, with provenance. The ladder loader breaks each into registry pieces in Neon and keeps it only if it rebuilds byte-exact from those pieces.
 - **matrices/** — content-first tables of one kind of record.
 - **indices/** — lookup-first references to the matrices holding a relevant record.
 - **libraries/** — executable implementations, including the versioned catalog and experimental language/indexing code.

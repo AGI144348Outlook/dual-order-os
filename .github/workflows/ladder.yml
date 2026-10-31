@@ -1,0 +1,80 @@
+# The ladder: datasets -> registries -> matrices -> indices -> codices, and back.
+#
+# test: every dataset must rebuild byte for byte from its registry pieces, and the loader is
+#       exercised end to end against a throwaway Postgres (never Neon).
+# load: only on main, or when run by hand from the Actions tab. Loads anything new in
+#       datasets/manifest.json into Neon, reads it back, and keeps it only if the copy in
+#       Neon rebuilds byte-exact. Needs the NEON_DATABASE_URL repository secret.
+name: ladder
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "datasets/**"
+      - "libraries/ladder*"
+      - "tests/test_ladder.py"
+      - ".github/workflows/ladder.yml"
+  pull_request:
+    paths:
+      - "datasets/**"
+      - "libraries/ladder*"
+      - "tests/test_ladder.py"
+      - ".github/workflows/ladder.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ladder-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "psycopg[binary]==3.3.6"
+      - name: Rebuild every dataset and test the loader
+        env:
+          LADDER_TEST_DATABASE_URL: postgresql://postgres:postgres@localhost:5432/postgres
+        run: python -m unittest tests/test_ladder.py -v
+
+  load:
+    needs: test
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "psycopg[binary]==3.3.6"
+      - name: Load new datasets into Neon
+        env:
+          NEON_DATABASE_URL: ${{ secrets.NEON_DATABASE_URL }}
+        run: |
+          if [ -z "$NEON_DATABASE_URL" ]; then
+            echo "::warning::NEON_DATABASE_URL secret is not set; checked rebuilds only, loaded nothing."
+            python libraries/ladder_load.py --dry-run --findings ladder-findings.md
+          else
+            python libraries/ladder_load.py --findings ladder-findings.md
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ladder-findings
+          path: ladder-findings.md
+          if-no-files-found: ignore
