@@ -1,0 +1,35 @@
+name: Contextual card protocol boundary tests
+
+on:
+  push:
+    branches:
+      - feature/contextual-card-protocols
+    paths:
+      - 'libraries/catalog_box.py'
+      - 'libraries/contextual_protocols.py'
+      - 'tests/test_catalog_box.py'
+      - 'tests/test_contextual_protocols.py'
+      - '.github/workflows/contextual-protocols.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-python:
+    name: Offline standard-library catalog tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout proposed feature branch
+        uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pre-test record
+        run: |
+          echo "Prerecorded issue: https://github.com/AGI144348Outlook/dual-order-os/issues/20"
+          echo "Scope: temporary local SQLite, inert protocol cards, no external services"
+      - name: Run preregistered tests
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
