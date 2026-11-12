@@ -256,7 +256,7 @@ class ProtocolCatalog:
 
     def evaluate(self, references, *, mission_id, actor_seat, action_id, resource,
                  now=None, failure_code=None, attempt=1, hop=1,
-                 approval_verifier=None):
+                 approval_verifier=None, detour_verifier=None):
         """Produce an inspectable *candidate* decision, never an actual side effect.
 
         For execution, approval_verifier must be a trusted, independently
@@ -329,12 +329,29 @@ class ProtocolCatalog:
                     or tool["tool_id"] not in detour["allowed_tools"]
                     or action["effect"] not in PERMITTED_PROPOSAL_EFFECTS):
                 return emit("denied", "detour does not permit this failure, operation or retry")
+            if not callable(detour_verifier):
+                return emit("denied", "detour requires independently verified prior authorization")
+            detour_inquiry = {
+                "ticket_id": route["id"], "mission_id": mission_id,
+                "origin_seat": route["origin_seat"], "recipient_seat": route["recipient_seat"],
+                "fallback_seat": actor_seat, "failure_code": failure_code,
+                "tool_id": tool["tool_id"], "action_id": action_id,
+                "resource": resource, "attempt": attempt, "hop": hop,
+            }
+            try:
+                detour_verified = detour_verifier(dict(detour_inquiry))
+            except Exception:
+                return emit("denied", "detour verifier unavailable")
+            if (not isinstance(detour_verified, dict)
+                    or detour_verified.get("valid") is not True
+                    or any(detour_verified.get(k) != v for k, v in detour_inquiry.items())):
+                return emit("denied", "detour verifier rejected or mismatched scope")
         elif failure_code is not None:
             return emit("denied", "unexpected failure_code without detour")
 
         communication = one("communication", lambda c:
             c["sender_seat"] == route["origin_seat"] and
-            c["receiver_seat"] == route["recipient_seat"])
+            c["receiver_seat"] == actor_seat)
         if not communication:
             return emit("denied", "missing or ambiguous communication contract")
         if route["ticket_class"] == "ROUND_TRIP_ASSESSMENT":
