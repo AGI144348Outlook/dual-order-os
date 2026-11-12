@@ -55,7 +55,7 @@ class ContextualProtocolTests(unittest.TestCase):
             route["approval_ref"] = "approval001"
         add("ticket", "route_ticket", route)
         add("comm", "communication", {
-            "sender_seat": "03", "receiver_seat": recipient,
+            "sender_seat": "03", "receiver_seat": actor,
             "message_types": ["assignment", "return"],
             "return_required": True})
         if include_auth:
@@ -153,12 +153,17 @@ class ContextualProtocolTests(unittest.TestCase):
             "max_attempts": 2, "max_hops": 2,
             "expires_at": "2099-01-01T00:00:00Z"})
         refs.append({"id": "detour", "revision": detour["revision"]})
-        good = self.protocols.evaluate(refs, failure_code="UNAVAILABLE", **kw)
+        denied_without_external_attestation = self.protocols.evaluate(
+            refs, failure_code="UNAVAILABLE", **kw)
+        self.assertEqual(denied_without_external_attestation["decision"], "denied")
+        verifier = lambda inquiry: dict(inquiry, valid=True)
+        good = self.protocols.evaluate(
+            refs, failure_code="UNAVAILABLE", detour_verifier=verifier, **kw)
         self.assertEqual(good["decision"], "eligible_for_nonexecuting_work")
         for params in [{"failure_code": "AUTH_DENIED"},
                        {"failure_code": "UNAVAILABLE", "attempt": 3},
                        {"failure_code": "UNAVAILABLE", "hop": 3}]:
-            self.assertEqual(self.protocols.evaluate(refs, **kw, **params)["decision"], "denied")
+            self.assertEqual(self.protocols.evaluate(refs, detour_verifier=verifier, **kw, **params)["decision"], "denied")
 
     def test_audit_retains_exact_pinned_versions_without_reauthorization(self):
         refs, kw = self.setup_context()
