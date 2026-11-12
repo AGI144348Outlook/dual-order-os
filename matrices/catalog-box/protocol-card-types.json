@@ -1,0 +1,104 @@
+{
+  "catalog": "echo-catalog-box",
+  "layer": "contextually-governed-card-protocols",
+  "schema_version": 1,
+  "implementation": "libraries/contextual_protocols.py:ProtocolCatalog",
+  "documentation": "components/catalog-box/contextual-protocols.md",
+  "status": "experimental-candidate-protocol-compiler-not-connected-to-nexusboard",
+  "existing_catalog_preserved": true,
+  "storage": "existing CatalogBox cards and local SQLite evaluation receipts; Neon/Cloudflare production data remain external",
+  "card_types": {
+    "evidence": [
+      "source_ref",
+      "claim_ref",
+      "relationship",
+      "epistemic_state"
+    ],
+    "seat_charter": [
+      "seat_id",
+      "allowed_tools",
+      "allowed_actions",
+      "forbidden_actions"
+    ],
+    "tool": [
+      "tool_id",
+      "server_seat",
+      "effect"
+    ],
+    "action": [
+      "action_id",
+      "tool_id",
+      "effect",
+      "resource"
+    ],
+    "route_ticket": [
+      "ticket_class",
+      "mission_id",
+      "origin_seat",
+      "issuer_seat",
+      "recipient_seat",
+      "return_to",
+      "allowed_tools",
+      "allowed_actions",
+      "allowed_resources",
+      "expires_at"
+    ],
+    "communication": [
+      "sender_seat",
+      "receiver_seat",
+      "message_types",
+      "return_required"
+    ],
+    "approval_reference": [
+      "approval_ref",
+      "mission_id",
+      "action_id",
+      "resource",
+      "approving_seat"
+    ],
+    "authority_stamp": [
+      "approval_ref",
+      "issuer_seat",
+      "mission_id",
+      "action_id",
+      "resource",
+      "ticket_id"
+    ],
+    "detour": [
+      "ticket_id",
+      "fallback_seat",
+      "allowed_failure_codes",
+      "allowed_tools",
+      "max_attempts",
+      "max_hops",
+      "expires_at"
+    ]
+  },
+  "route_classes": [
+    "EVIDENCE_TRANSFER",
+    "ROUND_TRIP_ASSESSMENT",
+    "EXECUTION_ORDER",
+    "RECOVERY_DETOUR"
+  ],
+  "effects": [
+    "read",
+    "assess",
+    "propose",
+    "execute",
+    "admin"
+  ],
+  "rules": [
+    "Every context reference must pin exact card id and revision.",
+    "Charter, route, action, tool and communication checks must all pass.",
+    "Assessment tickets cannot authorize execution.",
+    "Authority-stamp cards are inert and must be independently verified at the executing service.",
+    "Protected actions require independent approval verifier; no verifier means deny.",
+    "Fallback detours require a separately authenticated prior authorization and cannot bypass security denial.",
+    "Only relevant tool identifier is disclosed; unrelated seat tools are not automatically available.",
+    "Local receipts are not tamper proof and cannot independently attest production effects."
+  ],
+  "authoritative_ledger": "future NexusBoard Neon governance/evidence network",
+  "agent_local_storage": "future separately identified Cloudflare Durable Objects",
+  "executed_tests_in_this_change": false,
+  "preregistration_issue": "https://github.com/AGI144348Outlook/dual-order-os/issues/20"
+}
