@@ -57,3 +57,7 @@ Writes and event records commit together. Events are an operational log, not a t
 No automatic semantic inference or code execution occurs. JSON configuration is preserved, not validated against a particular application's layout schema. Saving a card or template does not certify its claims or grant execution permissions. Callers must keep credentials out of cards/templates unless a future reviewed secret-reference mechanism is provided.
 
 The Python component has not been tested on an actual Android device or wired into the Canvas. A phone-oriented catalog interface can later use these contracts without changing the identities or snapshot rules.
+
+## Contextual card protocols (experimental extension)
+
+[**Contextually Governed Card Protocols**](contextual-protocols.md) builds on this original CatalogBox without changing its API or granting stored records authority. The extension validates typed evidence, seat charter, MCP tool, action, routing-ticket, communication, approval-reference, authority-stamp, and detour cards, and compiles assignment-scoped capability previews with pinned card revisions. Independent external authorization is required for protected actions and approved fallback routing; no card executes a service or signs a credential. [Implementation](../../libraries/contextual_protocols.py) · [Contract registry](../../matrices/catalog-box/protocol-card-types.json) · [Offline tests](../../tests/test_contextual_protocols.py) · [Pre-test Issue #20](https://github.com/AGI144348Outlook/dual-order-os/issues/20).
