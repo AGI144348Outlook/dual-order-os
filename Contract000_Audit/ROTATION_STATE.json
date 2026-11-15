@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 11,
-  "last_run_id": "automation-turn-11-2026-11-15T12:05:04-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/Mashet-Echo-Drive",
+  "next_repository_index": 12,
+  "last_run_id": "automation-turn-11-2026-11-15T13:04:10-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/the-unicorn-estate",
   "status": "PARTIAL_FIRST_FILE_DIRECTORY_VERIFIED",
-  "note": "Mashet-Echo-Drive 4 pinned branch trees verified against 33-file plus 1-folder inventory; first source AGI Mashet Engines.txt partially inspected characters 0-12499 of 43838 at commit 2c186c88 blob 26c392ee. Resume offset 12500. Category b87f149e, repo a63e221f. No findings promoted, tests or deployments. Existing issue #1 comment unavailable. Blob CAS; scheduler UUID/full branch lease unavailable.",
+  "note": "the-unicorn-estate four pinned recursive trees matched 4 branch names and directory header; one source file .github/workflows/deploy.yml read completely, blob c5f49f58; UNICORN-PROT-001 source-only deployment protocol discovery. Category checkpoint 70e89f7f, repo checkpoint e5b2f1fd. Next AI-ARCHITECTURE-CHECKLIST.md. Issue #35 comment action unavailable; no tests/deployments. Blob CAS; scheduler UUID unavailable.",
   "updated": "2026-11-15"
 }
