@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 10,
-  "last_run_id": "automation-turn-11-2026-11-15T10:59:40-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/LVT",
-  "status": "PARTIAL_ONE_FILE_READ_RECURSIVE_TREE_BLOCKED",
-  "note": "LVT three branch names matched; recursive pinned Git trees inaccessible, directory unverified. One file contracts/.gitignore read at bcd5b436 blob 5a3b325b, no protocols discovery. Next contracts/EVE_Environment_Wrapper.sol. Category 062775af, repo 9d8f79a8, issue #4 comment 6898047313. No tests. Blob CAS, no full branch-head lease.",
+  "next_repository_index": 11,
+  "last_run_id": "automation-turn-11-2026-11-15T12:05:04-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/Mashet-Echo-Drive",
+  "status": "PARTIAL_FIRST_FILE_DIRECTORY_VERIFIED",
+  "note": "Mashet-Echo-Drive 4 pinned branch trees verified against 33-file plus 1-folder inventory; first source AGI Mashet Engines.txt partially inspected characters 0-12499 of 43838 at commit 2c186c88 blob 26c392ee. Resume offset 12500. Category b87f149e, repo a63e221f. No findings promoted, tests or deployments. Existing issue #1 comment unavailable. Blob CAS; scheduler UUID/full branch lease unavailable.",
   "updated": "2026-11-15"
 }
