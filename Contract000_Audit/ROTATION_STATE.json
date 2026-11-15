@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 2,
-  "last_run_id": "automation-turn-11-2026-11-15T03:00:00-06:00 (runtime surrogate; scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/Echo_Green_Future",
+  "next_repository_index": 3,
+  "last_run_id": "automation-turn-11-2026-11-15T04:00:00-06:00 (runtime surrogate; scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/NexusBoard",
   "status": "PARTIAL_BLOCKED_TREE_VERIFICATION",
-  "note": "2026-11-15 bounded Echo_Green_Future visit: read governing §10, NexusBoard research protocol, local setup and algebra/protocols category instructions. Recursive Git tree listing unavailable; no source files contextually read, no tests. Local checkpoints de26421ef928f5c441979bde1bc1fddd76f770a0 and 514299539511c87494231cf935a9903cb7f667f2; progress posted to Issue #490 comment 6892035148. Next repository NexusBoard. Blob-SHA compare-and-swap; full branch-head lease and scheduler UUID unavailable.",
+  "note": "2026-11-15 NexusBoard bounded visit: read governing §10 and research protocol; local README, Curator, branch registry, checkpoint and first design/protocol-switchboard-matrix-v0 protocols category documents. Recursive current Git tree listing unavailable; 0 source files contextually read, 0 tests. Category checkpoint d46f9aab41a199bdfb1246e3d147e3891a15be4c; repository checkpoint b25bfa642e546abbcc06a0b2bfb5e0dfc84543fc; Issue #6 comment 6892704784. Next Group_Canvas. Blob-SHA CAS used; full branch-head lease and scheduler UUID unavailable.",
   "updated": "2026-11-15"
 }
