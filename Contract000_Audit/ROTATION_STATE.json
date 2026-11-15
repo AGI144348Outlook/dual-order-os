@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 7,
-  "last_run_id": "automation-turn-11-2026-11-15T08:02:26-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/super-duper-octo-winner",
-  "status": "PARTIAL_DIRECTORY_VERIFIED_ONE_FILE_READ",
-  "note": "14/14 pinned recursive trees matched 177-row directory mirror, 1 source file read, AIBUBBLE-PROT-001 candidate, no tests. Category 73bd67e, accumulator 29c6c0e, repository 2510a50, Issue #61 comment 6895539222. Next claude-repo-creation-test. Blob CAS; no scheduler UUID or full branch-head lease.",
+  "next_repository_index": 8,
+  "last_run_id": "automation-turn-11-2026-11-15T09:03:57-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/claude-repo-creation-test",
+  "status": "PARTIAL_PINNED_DIRECTORY_VERIFIED_CURRENT_DRIFT_ONE_FILE_READ",
+  "note": "4 pinned recursive trees matched 71 source entries; bot branch current drift detected (new Nov15 run, RUN-LOG/WATCH-STATE modified). One pinned RUN-LOG read; no protocols finding or tests. Category c0d4137e, repository 5079586b, Issue #2 comment 6896562165. Next The-TAM-protocol. Blob CAS only; no full branch-head lease or scheduler UUID.",
   "updated": "2026-11-15"
 }
