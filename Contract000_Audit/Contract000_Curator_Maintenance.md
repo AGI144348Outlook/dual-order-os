@@ -24,18 +24,18 @@ The following are literal entry paths relative to Contract000_Audit/. Resolve th
 
 | Branch | Entry directory | Next branch ID |
 |---|---|---|
-| `claude/github-claude-code-connection-98qkbx` | [start](claude%2Fgithub-claude-code-connection-98qkbx/protocols/Contract_ReadMe/Contract000_readme.md) | 1 |
+| `claude/github-claude-code-connection-98qkbx` | [start](claude%252Fgithub-claude-code-connection-98qkbx/protocols/Contract_ReadMe/Contract000_readme.md) | 1 |
 | `echo-grammar-recursive-sentencing` | [start](echo-grammar-recursive-sentencing/protocols/Contract_ReadMe/Contract000_readme.md) | 2 |
-| `experiment/algorithm-invariants-gpt` | [start](experiment%2Falgorithm-invariants-gpt/protocols/Contract_ReadMe/Contract000_readme.md) | 3 |
-| `experiment/echo-neuroplasticity-pilot` | [start](experiment%2Fecho-neuroplasticity-pilot/protocols/Contract_ReadMe/Contract000_readme.md) | 4 |
-| `experiment/echo-swadesh-fresh-start` | [start](experiment%2Fecho-swadesh-fresh-start/protocols/Contract_ReadMe/Contract000_readme.md) | 5 |
-| `experiment/echo-talk-course` | [start](experiment%2Fecho-talk-course/protocols/Contract_ReadMe/Contract000_readme.md) | 6 |
-| `feature/contextual-card-protocols` | [start](feature%2Fcontextual-card-protocols/protocols/Contract_ReadMe/Contract000_readme.md) | 7 |
-| `integration/echo-genesis-unified` | [start](integration%2Fecho-genesis-unified/protocols/Contract_ReadMe/Contract000_readme.md) | 8 |
-| `inventory/echo-green-future` | [start](inventory%2Fecho-green-future/protocols/Contract_ReadMe/Contract000_readme.md) | 9 |
+| `experiment/algorithm-invariants-gpt` | [start](experiment%252Falgorithm-invariants-gpt/protocols/Contract_ReadMe/Contract000_readme.md) | 3 |
+| `experiment/echo-neuroplasticity-pilot` | [start](experiment%252Fecho-neuroplasticity-pilot/protocols/Contract_ReadMe/Contract000_readme.md) | 4 |
+| `experiment/echo-swadesh-fresh-start` | [start](experiment%252Fecho-swadesh-fresh-start/protocols/Contract_ReadMe/Contract000_readme.md) | 5 |
+| `experiment/echo-talk-course` | [start](experiment%252Fecho-talk-course/protocols/Contract_ReadMe/Contract000_readme.md) | 6 |
+| `feature/contextual-card-protocols` | [start](feature%252Fcontextual-card-protocols/protocols/Contract_ReadMe/Contract000_readme.md) | 7 |
+| `integration/echo-genesis-unified` | [start](integration%252Fecho-genesis-unified/protocols/Contract_ReadMe/Contract000_readme.md) | 8 |
+| `inventory/echo-green-future` | [start](inventory%252Fecho-green-future/protocols/Contract_ReadMe/Contract000_readme.md) | 9 |
 | `ladder-loader` | [start](ladder-loader/protocols/Contract_ReadMe/Contract000_readme.md) | 10 |
 | `main` | [start](main/protocols/Contract_ReadMe/Contract000_readme.md) | 11 |
-| `planning/persistent-memory-platform` | [start](planning%2Fpersistent-memory-platform/protocols/Contract_ReadMe/Contract000_readme.md) | 0 |
+| `planning/persistent-memory-platform` | [start](planning%252Fpersistent-memory-platform/protocols/Contract_ReadMe/Contract000_readme.md) | 0 |
 
 ## Final repository routing protocol
 

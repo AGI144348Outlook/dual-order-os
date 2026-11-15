@@ -12,7 +12,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/dual-order-os/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/dual-order-os/issues/21",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "50c61223b4c3a3c794c3dcba9d728cc60ff6d1ff",
+      "represented_branches": 12,
+      "maintenance_files": 738
     },
     {
       "order": 1,
@@ -22,7 +25,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Echo_Green_Future/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Echo_Green_Future/issues/490",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "703399864b18cb5d7cea5cc35655a5a21ecae4bd",
+      "represented_branches": 363,
+      "maintenance_files": 22150
     },
     {
       "order": 2,
@@ -32,7 +38,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/NexusBoard/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/NexusBoard/issues/6",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "d8bb45e50dfa07227c5cb035809c0c85848737a8",
+      "represented_branches": 7,
+      "maintenance_files": 431
     },
     {
       "order": 3,
@@ -42,7 +51,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Group_Canvas/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Group_Canvas/issues/13",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "ec430b86df73bd353a62185668daebc40b260664",
+      "represented_branches": 4,
+      "maintenance_files": 248
     },
     {
       "order": 4,
@@ -52,7 +64,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Open_Diagram/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Open_Diagram/issues/16",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "065db890169e5c6d1d296039945598e768f0c304",
+      "represented_branches": 14,
+      "maintenance_files": 858
     },
     {
       "order": 5,
@@ -62,7 +77,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/TemplateApp/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/TemplateApp/issues/6",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "32b662cfb3ea383480c4476a03f3e712855db8bd",
+      "represented_branches": 4,
+      "maintenance_files": 248
     },
     {
       "order": 6,
@@ -72,7 +90,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/super-duper-octo-winner/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/super-duper-octo-winner/issues/61",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "f71cb5ad36031cc04eeb01c80547c308c7cba70c",
+      "represented_branches": 14,
+      "maintenance_files": 858
     },
     {
       "order": 7,
@@ -82,7 +103,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/claude-repo-creation-test/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/claude-repo-creation-test/issues/2",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "966389bb42d22a9218b4078d8cc4b1794ef42825",
+      "represented_branches": 4,
+      "maintenance_files": 248
     },
     {
       "order": 8,
@@ -92,7 +116,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/The-TAM-protocol/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/The-TAM-protocol/issues/2",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "f5b62b278ee592c7063d56588f4068b5a17bcb60",
+      "represented_branches": 2,
+      "maintenance_files": 126
     },
     {
       "order": 9,
@@ -102,7 +129,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/LVT/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/LVT/issues/4",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "e66d4176dab1b69ec6b4e7d8f5dd38f780f00733",
+      "represented_branches": 3,
+      "maintenance_files": 187
     },
     {
       "order": 10,
@@ -112,7 +142,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Mashet-Echo-Drive/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Mashet-Echo-Drive/issues/1",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "e129ed8f79b7402ad446343148e962e7a18c710d",
+      "represented_branches": 4,
+      "maintenance_files": 248
     },
     {
       "order": 11,
@@ -122,7 +155,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/the-unicorn-estate/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/the-unicorn-estate/issues/35",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "e09c6aa292ed630e11405e7ba4e224b3508d2663",
+      "represented_branches": 4,
+      "maintenance_files": 248
     },
     {
       "order": 12,
@@ -132,7 +168,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Mashet-Echo-Kernel/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Mashet-Echo-Kernel/issues/1",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "1e551458b24da9c9127a3f54e6349f590728fcbf",
+      "represented_branches": 1,
+      "maintenance_files": 65
     },
     {
       "order": 13,
@@ -142,7 +181,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/AGI_Symbolic_Kernel/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/AGI_Symbolic_Kernel/issues/2",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "cb48331073f2182730a19eeb93d6e81ae1401e4c",
+      "represented_branches": 2,
+      "maintenance_files": 126
     },
     {
       "order": 14,
@@ -152,7 +194,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Mashet-Hebrew-2.0/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Mashet-Hebrew-2.0/issues/1",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "ee4a4b8efa73c4d112bf3664f3d3de3a6d40e9ee",
+      "represented_branches": 2,
+      "maintenance_files": 126
     },
     {
       "order": 15,
@@ -162,7 +207,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/mashet-rfc/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/mashet-rfc/issues/1",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "29f1e2f3cb3c6f6beb26ef8149cef88972c13642",
+      "represented_branches": 2,
+      "maintenance_files": 126
     },
     {
       "order": 16,
@@ -172,7 +220,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/JurisDictionary-/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/JurisDictionary-/issues/1",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "0c45d33a0ecd3c3981b435e8c4c942bf261d1131",
+      "represented_branches": 2,
+      "maintenance_files": 126
     },
     {
       "order": 17,
@@ -182,7 +233,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Lhea-Tema/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Lhea-Tema/issues/2",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "4a392f3010d06a85afa2325a2a5ac60f91301892",
+      "represented_branches": 2,
+      "maintenance_files": 126
     },
     {
       "order": 18,
@@ -192,7 +246,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/echo-prototype/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/echo-prototype/issues/3",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "5a36f6fdbb922a092726d73b754c993b1c59d70d",
+      "represented_branches": 3,
+      "maintenance_files": 187
     },
     {
       "order": 19,
@@ -202,7 +259,10 @@
       "main_branch": "main",
       "entry": "https://github.com/AGI144348Outlook/Dual-LVT-Mind-Domain-setup-for-Artificial-Intelligence-/blob/main/Contract000_Audit/README.md",
       "setup_issue": "https://github.com/AGI144348Outlook/Dual-LVT-Mind-Domain-setup-for-Artificial-Intelligence-/issues/2",
-      "status": "SETUP_AUTHORIZED"
+      "status": "SETUP_VERIFIED",
+      "setup_commit": "bec78d9133a0d684051ad277170cc8752aa42c6a",
+      "represented_branches": 2,
+      "maintenance_files": 126
     }
   ]
 }
