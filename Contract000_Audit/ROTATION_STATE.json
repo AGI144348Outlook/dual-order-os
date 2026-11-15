@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 8,
-  "last_run_id": "automation-turn-11-2026-11-15T09:03:57-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/claude-repo-creation-test",
-  "status": "PARTIAL_PINNED_DIRECTORY_VERIFIED_CURRENT_DRIFT_ONE_FILE_READ",
-  "note": "4 pinned recursive trees matched 71 source entries; bot branch current drift detected (new Nov15 run, RUN-LOG/WATCH-STATE modified). One pinned RUN-LOG read; no protocols finding or tests. Category c0d4137e, repository 5079586b, Issue #2 comment 6896562165. Next The-TAM-protocol. Blob CAS only; no full branch-head lease or scheduler UUID.",
+  "next_repository_index": 9,
+  "last_run_id": "automation-turn-11-2026-11-15T09:58:06-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/The-TAM-protocol",
+  "status": "PARTIAL_PINNED_DIRECTORY_VERIFIED_THREE_FILES_READ",
+  "note": "Two pinned recursive trees matched names-only inventory (14+11 source files, three folders); three files read on Claude branch; README historical claims unverified; next articles/article-01-hacksilber.md. Category d2a5e358, repository e46ad1d5. Existing issue #2 progress comment unavailable. No tests. Blob CAS; no branch-head lease.",
   "updated": "2026-11-15"
 }
