@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 6,
-  "last_run_id": "automation-turn-11-2026-11-15T06:59:10-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/TemplateApp",
+  "next_repository_index": 7,
+  "last_run_id": "automation-turn-11-2026-11-15T08:02:26-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/super-duper-octo-winner",
   "status": "PARTIAL_DIRECTORY_VERIFIED_ONE_FILE_READ",
-  "note": "TemplateApp: 4/4 pinned recursive trees matched header, 1/9 baseline source files read; TEMPLATE-PROT-001 workflow source observation, no tests. Category ee628357, accumulator 91ba8bd, repo 4c6ce26, Issue #6 comment 6894689131. Next super-duper-octo-winner. Blob CAS; no full branch-head lease or scheduler UUID.",
+  "note": "14/14 pinned recursive trees matched 177-row directory mirror, 1 source file read, AIBUBBLE-PROT-001 candidate, no tests. Category 73bd67e, accumulator 29c6c0e, repository 2510a50, Issue #61 comment 6895539222. Next claude-repo-creation-test. Blob CAS; no scheduler UUID or full branch-head lease.",
   "updated": "2026-11-15"
 }
