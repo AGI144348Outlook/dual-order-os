@@ -1,0 +1,9 @@
+{
+  "schema": "contract000.rotation-state.v1",
+  "next_repository_index": 0,
+  "last_run_id": null,
+  "last_visited_repository": null,
+  "status": "READY_FOR_NEXT_AUTHORIZED_HOURLY_TRIGGER",
+  "note": "Initialization is not an executed maintenance visit.",
+  "updated": "2026-11-15"
+}

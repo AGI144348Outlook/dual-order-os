@@ -1,0 +1,208 @@
+{
+  "schema": "contract000.repository-rotation.v1",
+  "coordinator": "AGI144348Outlook/dual-order-os",
+  "selected_count": 20,
+  "selection": "Active/heavily used projects and substantial structured research; minor placeholders excluded.",
+  "repositories": [
+    {
+      "order": 0,
+      "repository": "AGI144348Outlook/dual-order-os",
+      "repository_id": "1325654755",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/dual-order-os/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/dual-order-os/issues/21",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 1,
+      "repository": "AGI144348Outlook/Echo_Green_Future",
+      "repository_id": "1374777301",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Echo_Green_Future/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Echo_Green_Future/issues/490",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 2,
+      "repository": "AGI144348Outlook/NexusBoard",
+      "repository_id": "1454147186",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/NexusBoard/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/NexusBoard/issues/6",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 3,
+      "repository": "AGI144348Outlook/Group_Canvas",
+      "repository_id": "1422786979",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Group_Canvas/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Group_Canvas/issues/13",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 4,
+      "repository": "AGI144348Outlook/Open_Diagram",
+      "repository_id": "1439117707",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Open_Diagram/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Open_Diagram/issues/16",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 5,
+      "repository": "AGI144348Outlook/TemplateApp",
+      "repository_id": "1446369797",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/TemplateApp/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/TemplateApp/issues/6",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 6,
+      "repository": "AGI144348Outlook/super-duper-octo-winner",
+      "repository_id": "1289450021",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/super-duper-octo-winner/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/super-duper-octo-winner/issues/61",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 7,
+      "repository": "AGI144348Outlook/claude-repo-creation-test",
+      "repository_id": "1291643506",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/claude-repo-creation-test/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/claude-repo-creation-test/issues/2",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 8,
+      "repository": "AGI144348Outlook/The-TAM-protocol",
+      "repository_id": "1136543379",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/The-TAM-protocol/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/The-TAM-protocol/issues/2",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 9,
+      "repository": "AGI144348Outlook/LVT",
+      "repository_id": "1220227847",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/LVT/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/LVT/issues/4",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 10,
+      "repository": "AGI144348Outlook/Mashet-Echo-Drive",
+      "repository_id": "1214639775",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Mashet-Echo-Drive/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Mashet-Echo-Drive/issues/1",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 11,
+      "repository": "AGI144348Outlook/the-unicorn-estate",
+      "repository_id": "1318461322",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/the-unicorn-estate/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/the-unicorn-estate/issues/35",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 12,
+      "repository": "AGI144348Outlook/Mashet-Echo-Kernel",
+      "repository_id": "1138449967",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Mashet-Echo-Kernel/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Mashet-Echo-Kernel/issues/1",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 13,
+      "repository": "AGI144348Outlook/AGI_Symbolic_Kernel",
+      "repository_id": "1211891038",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/AGI_Symbolic_Kernel/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/AGI_Symbolic_Kernel/issues/2",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 14,
+      "repository": "AGI144348Outlook/Mashet-Hebrew-2.0",
+      "repository_id": "1146151404",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Mashet-Hebrew-2.0/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Mashet-Hebrew-2.0/issues/1",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 15,
+      "repository": "AGI144348Outlook/mashet-rfc",
+      "repository_id": "1251125340",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/mashet-rfc/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/mashet-rfc/issues/1",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 16,
+      "repository": "AGI144348Outlook/JurisDictionary-",
+      "repository_id": "1261418919",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/JurisDictionary-/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/JurisDictionary-/issues/1",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 17,
+      "repository": "AGI144348Outlook/Lhea-Tema",
+      "repository_id": "1283468698",
+      "visibility": "public",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Lhea-Tema/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Lhea-Tema/issues/2",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 18,
+      "repository": "AGI144348Outlook/echo-prototype",
+      "repository_id": "1316626061",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/echo-prototype/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/echo-prototype/issues/3",
+      "status": "SETUP_AUTHORIZED"
+    },
+    {
+      "order": 19,
+      "repository": "AGI144348Outlook/Dual-LVT-Mind-Domain-setup-for-Artificial-Intelligence-",
+      "repository_id": "1012622532",
+      "visibility": "private",
+      "main_branch": "main",
+      "entry": "https://github.com/AGI144348Outlook/Dual-LVT-Mind-Domain-setup-for-Artificial-Intelligence-/blob/main/Contract000_Audit/README.md",
+      "setup_issue": "https://github.com/AGI144348Outlook/Dual-LVT-Mind-Domain-setup-for-Artificial-Intelligence-/issues/2",
+      "status": "SETUP_AUTHORIZED"
+    }
+  ]
+}

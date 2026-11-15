@@ -1,0 +1,117 @@
+{
+  "schema": "contract000.branch-map.v1",
+  "repository": "AGI144348Outlook/dual-order-os",
+  "source_snapshot_date": "2026-11-15",
+  "maintenance_branch": "main",
+  "excluded_root": "Contract000_Audit",
+  "branches": [
+    {
+      "id": 0,
+      "name": "claude/github-claude-code-connection-98qkbx",
+      "folder": "claude%2Fgithub-claude-code-connection-98qkbx",
+      "source_commit": "2d51593d63775ac2836fc279222a13742f400e4e",
+      "source_tree": "2d51593d63775ac2836fc279222a13742f400e4e",
+      "entry": "claude%2Fgithub-claude-code-connection-98qkbx/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 1
+    },
+    {
+      "id": 1,
+      "name": "echo-grammar-recursive-sentencing",
+      "folder": "echo-grammar-recursive-sentencing",
+      "source_commit": "d40c10efcaceb162e27f9eef397e2e9656abfab1",
+      "source_tree": "d40c10efcaceb162e27f9eef397e2e9656abfab1",
+      "entry": "echo-grammar-recursive-sentencing/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 2
+    },
+    {
+      "id": 2,
+      "name": "experiment/algorithm-invariants-gpt",
+      "folder": "experiment%2Falgorithm-invariants-gpt",
+      "source_commit": "378abc2540b2cf752d7e33a44bc7b4b3d9eaf7ac",
+      "source_tree": "378abc2540b2cf752d7e33a44bc7b4b3d9eaf7ac",
+      "entry": "experiment%2Falgorithm-invariants-gpt/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 3
+    },
+    {
+      "id": 3,
+      "name": "experiment/echo-neuroplasticity-pilot",
+      "folder": "experiment%2Fecho-neuroplasticity-pilot",
+      "source_commit": "d6f765e23c164fb5ebdeb7568c1ef64c7b7a5fc5",
+      "source_tree": "d6f765e23c164fb5ebdeb7568c1ef64c7b7a5fc5",
+      "entry": "experiment%2Fecho-neuroplasticity-pilot/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 4
+    },
+    {
+      "id": 4,
+      "name": "experiment/echo-swadesh-fresh-start",
+      "folder": "experiment%2Fecho-swadesh-fresh-start",
+      "source_commit": "df7d22c79b0c4ef6fd6b301b99d0c7a29d66dc65",
+      "source_tree": "df7d22c79b0c4ef6fd6b301b99d0c7a29d66dc65",
+      "entry": "experiment%2Fecho-swadesh-fresh-start/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 5
+    },
+    {
+      "id": 5,
+      "name": "experiment/echo-talk-course",
+      "folder": "experiment%2Fecho-talk-course",
+      "source_commit": "13527ec7e2434e7194080df682f5145dd2dc7e90",
+      "source_tree": "13527ec7e2434e7194080df682f5145dd2dc7e90",
+      "entry": "experiment%2Fecho-talk-course/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 6
+    },
+    {
+      "id": 6,
+      "name": "feature/contextual-card-protocols",
+      "folder": "feature%2Fcontextual-card-protocols",
+      "source_commit": "d84b7f3bcd4e2794007baebdf104b0619b0407ad",
+      "source_tree": "d84b7f3bcd4e2794007baebdf104b0619b0407ad",
+      "entry": "feature%2Fcontextual-card-protocols/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 7
+    },
+    {
+      "id": 7,
+      "name": "integration/echo-genesis-unified",
+      "folder": "integration%2Fecho-genesis-unified",
+      "source_commit": "6c0cf810b0026c02e3afce8dccbaeb84b1b93ab6",
+      "source_tree": "6c0cf810b0026c02e3afce8dccbaeb84b1b93ab6",
+      "entry": "integration%2Fecho-genesis-unified/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 8
+    },
+    {
+      "id": 8,
+      "name": "inventory/echo-green-future",
+      "folder": "inventory%2Fecho-green-future",
+      "source_commit": "f677ca03e3377b05b35fa65e82f5708f44c22f0f",
+      "source_tree": "f677ca03e3377b05b35fa65e82f5708f44c22f0f",
+      "entry": "inventory%2Fecho-green-future/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 9
+    },
+    {
+      "id": 9,
+      "name": "ladder-loader",
+      "folder": "ladder-loader",
+      "source_commit": "11e7a08c55385eb7389e7f873eb04e1e7ae04071",
+      "source_tree": "11e7a08c55385eb7389e7f873eb04e1e7ae04071",
+      "entry": "ladder-loader/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 10
+    },
+    {
+      "id": 10,
+      "name": "main",
+      "folder": "main",
+      "source_commit": "4bfeaa526116e1e61222cd93241ae0c73a8fd8a0",
+      "source_tree": "4bfeaa526116e1e61222cd93241ae0c73a8fd8a0",
+      "entry": "main/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 11
+    },
+    {
+      "id": 11,
+      "name": "planning/persistent-memory-platform",
+      "folder": "planning%2Fpersistent-memory-platform",
+      "source_commit": "aacf48c1b9d94e5650e0d50fdd35f374c91b5775",
+      "source_tree": "aacf48c1b9d94e5650e0d50fdd35f374c91b5775",
+      "entry": "planning%2Fpersistent-memory-platform/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 0
+    }
+  ]
+}
