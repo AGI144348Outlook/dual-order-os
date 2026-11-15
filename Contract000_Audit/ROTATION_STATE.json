@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 9,
-  "last_run_id": "automation-turn-11-2026-11-15T09:58:06-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/The-TAM-protocol",
-  "status": "PARTIAL_PINNED_DIRECTORY_VERIFIED_THREE_FILES_READ",
-  "note": "Two pinned recursive trees matched names-only inventory (14+11 source files, three folders); three files read on Claude branch; README historical claims unverified; next articles/article-01-hacksilber.md. Category d2a5e358, repository e46ad1d5. Existing issue #2 progress comment unavailable. No tests. Blob CAS; no branch-head lease.",
+  "next_repository_index": 10,
+  "last_run_id": "automation-turn-11-2026-11-15T10:59:40-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/LVT",
+  "status": "PARTIAL_ONE_FILE_READ_RECURSIVE_TREE_BLOCKED",
+  "note": "LVT three branch names matched; recursive pinned Git trees inaccessible, directory unverified. One file contracts/.gitignore read at bcd5b436 blob 5a3b325b, no protocols discovery. Next contracts/EVE_Environment_Wrapper.sol. Category 062775af, repo 9d8f79a8, issue #4 comment 6898047313. No tests. Blob CAS, no full branch-head lease.",
   "updated": "2026-11-15"
 }
