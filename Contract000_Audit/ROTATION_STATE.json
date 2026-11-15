@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 12,
-  "last_run_id": "automation-turn-11-2026-11-15T13:04:10-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/the-unicorn-estate",
-  "status": "PARTIAL_FIRST_FILE_DIRECTORY_VERIFIED",
-  "note": "the-unicorn-estate four pinned recursive trees matched 4 branch names and directory header; one source file .github/workflows/deploy.yml read completely, blob c5f49f58; UNICORN-PROT-001 source-only deployment protocol discovery. Category checkpoint 70e89f7f, repo checkpoint e5b2f1fd. Next AI-ARCHITECTURE-CHECKLIST.md. Issue #35 comment action unavailable; no tests/deployments. Blob CAS; scheduler UUID unavailable.",
+  "next_repository_index": 13,
+  "last_run_id": "automation-turn-11-2026-11-15T14:04:53-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/Mashet-Echo-Kernel",
+  "status": "PARTIAL_SOURCE_FILE_DIRECTORY_VERIFIED",
+  "note": "Mashet-Echo-Kernel pinned and current recursive source tree matched (30 blobs, 9 folders). Read Code4.0 lines 1-180, blob 4073b177; remaining file unread. No promoted discovery or tests. Local checkpoint commit 6522ba3c; existing Issue #1 comment action unavailable. Next line 181. Expected-head lease used.",
   "updated": "2026-11-15"
 }
