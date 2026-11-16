@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 16,
-  "last_run_id": "hourly-slot-2026-11-16T00:00:00-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/mashet-rfc",
+  "next_repository_index": 17,
+  "last_run_id": "hourly-slot-2026-11-16T01:00:00-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/JurisDictionary-",
   "status": "PARTIAL_SOURCE_READING_DIRECTORY_VERIFIED",
-  "note": "Both pinned branches: 15 files, no folders; current main source matches pinned. Read README.md fully (blob 5f62c57), no protocols findings. Next RFC_23; local checkpoint commit cf4f3f6. Existing issue #1 progress comment unavailable. No tests/CI/deployment. Scheduler UUID unavailable; slot-based dedup only.",
+  "note": "Pinned source trees verified (Claude branch 14 files, 5 folders; pinned main 6 files). Current main source matched pinned main. Read .github/workflows/ci.yml fully, no protocols findings; next .gitignore. Local commits 1792068f and 7f04a796. Existing issue #1 progress comment not posted (ordinary issue-comment creation unavailable). No tests initiated; source workflow has push-main trigger and skip-ci commit marker used. Scheduler UUID unavailable; slot-based dedup only.",
   "updated": "2026-11-16"
 }
