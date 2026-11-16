@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 14,
-  "last_run_id": "hourly-slot-2026-11-15T22:00:00-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/AGI_Symbolic_Kernel",
+  "next_repository_index": 15,
+  "last_run_id": "hourly-slot-2026-11-15T23:00:00-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/Mashet-Hebrew-2.0",
   "status": "PARTIAL_SOURCE_READING_DIRECTORY_VERIFIED",
-  "note": "Two pinned source branch trees verified; current main nonmaintenance tree unchanged. Read .gitignore and LICENCE.md on claude/github-claude-code-connection-98qkbx; AGISK-PROT-001 source-pinned license protocol candidate; 4 files unread, next README.md. Local checkpoint 5f46831; setup Issue #2 progress comment 6906939773. No tests or deployments. Slot-based dedup only; scheduler UUID unavailable.",
+  "note": "Pinned branch 0: 57 files/15 folders; branch 1: 56 files/14 folders; current main nonmaintenance source identical to pinned. Mashet_3.0 lines 1-100 read, next line 101, blob f78a320c. No protocols finding promoted. Local category commit 6d75ded; repo checkpoint bab9049. No tests, CI or deployments. Existing Issue #1 progress comment unavailable via connector. Scheduler UUID unavailable; slot-based dedup only.",
   "updated": "2026-11-15"
 }
