@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 19,
-  "last_run_id": "hourly-slot-2026-11-16T07:00:00-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/echo-prototype",
+  "next_repository_index": 0,
+  "last_run_id": "hourly-slot-2026-11-16T08:00:00-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/Dual-LVT-Mind-Domain-setup-for-Artificial-Intelligence-",
   "status": "PARTIAL_SOURCE_READING_DIRECTORY_VERIFIED",
-  "note": "Verified three pinned trees and current main source against complete names-only inventory. Read .github/workflows/ci.yml at pinned Claude commit adb679c5 blob 5ea2168f (no protocols finding); next .gitignore. Category checkpoint commit 307af307; repository checkpoint d2729308. Existing issue #3 progress comment unavailable. No tests/deployments/source changes. Slot dedup, scheduler UUID unavailable.",
+  "note": "Verified both pinned source trees and current main source against complete names-only header. Read .gitignore at pinned Claude commit bfd26404, blob d0038a26, no protocols finding; next PDF AI Dual-LVT Mind Domain Onboarding .pdf page 1 (unread). Repository checkpoint commit b824caa4. Existing issue #2 progress comment unavailable via ordinary issue action. No tests/deployments/source changes. Scheduler UUID unavailable; hourly-slot dedup.",
   "updated": "2026-11-16"
 }
