@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 13,
-  "last_run_id": "automation-turn-11-2026-11-15T14:04:53-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/Mashet-Echo-Kernel",
-  "status": "PARTIAL_SOURCE_FILE_DIRECTORY_VERIFIED",
-  "note": "Mashet-Echo-Kernel pinned and current recursive source tree matched (30 blobs, 9 folders). Read Code4.0 lines 1-180, blob 4073b177; remaining file unread. No promoted discovery or tests. Local checkpoint commit 6522ba3c; existing Issue #1 comment action unavailable. Next line 181. Expected-head lease used.",
+  "next_repository_index": 14,
+  "last_run_id": "hourly-slot-2026-11-15T22:00:00-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/AGI_Symbolic_Kernel",
+  "status": "PARTIAL_SOURCE_READING_DIRECTORY_VERIFIED",
+  "note": "Two pinned source branch trees verified; current main nonmaintenance tree unchanged. Read .gitignore and LICENCE.md on claude/github-claude-code-connection-98qkbx; AGISK-PROT-001 source-pinned license protocol candidate; 4 files unread, next README.md. Local checkpoint 5f46831; setup Issue #2 progress comment 6906939773. No tests or deployments. Slot-based dedup only; scheduler UUID unavailable.",
   "updated": "2026-11-15"
 }
