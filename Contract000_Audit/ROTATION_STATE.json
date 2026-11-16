@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 4,
-  "last_run_id": "automation-turn-11-2026-11-16T12:56:56-06:00",
-  "last_visited_repository": "AGI144348Outlook/Group_Canvas",
+  "next_repository_index": 5,
+  "last_run_id": "automation-turn-11-2026-11-16T13:58:38-06:00",
+  "last_visited_repository": "AGI144348Outlook/Open_Diagram",
   "status": "PARTIAL_SOURCE_READING",
-  "note": "All four pinned Group_Canvas trees verified exactly (299,306,308,92). Read first workflow source at pinned blob b53ad233, no protocol findings; next card-chat-diagnostics.yml. Category commit edac926b, repository checkpoint 8bea07a. No tests; issue comment unavailable.",
+  "note": "Pinned Open_Diagram branch 0 tree reconfirmed untruncated (887 entries); previous 14-branch directory verification retained. Read better-auth-best-practices/SKILL.md pinned blob fabd32f; no protocols finding; next brag-slim/SKILL.md. Checkpoint commits 1356d249 and fa8104d0. No tests; issue comment action unavailable.",
   "updated": "2026-11-16"
 }
