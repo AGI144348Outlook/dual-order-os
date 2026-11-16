@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 1,
-  "last_run_id": "automation-turn-11-2026-11-16T09:00:00-06:00",
-  "last_visited_repository": "AGI144348Outlook/dual-order-os",
-  "status": "PARTIAL_SOURCE_READING_DIRECTORY_VERIFIED",
-  "note": "All 12 pinned branch source trees and current main source verified against names-only header (no drift/truncation). Read pinned Claude .gitignore fully, blob 5262c7b; no protocols finding. Next LICENSE. Category commit ed84627; repo checkpoint b9731d8. Issue comment unavailable via ordinary issue action; no tests or source changes. File-blob CAS only, no atomic run-level lease.",
+  "next_repository_index": 2,
+  "last_run_id": "automation-turn-11-2026-11-16T11:00:00-06:00",
+  "last_visited_repository": "AGI144348Outlook/Echo_Green_Future",
+  "status": "PARTIAL_DIRECTORY_VERIFICATION",
+  "note": "Read contract and maintenance records. Fetched pinned algebra tree (344 entries, untruncated); 362 other represented trees and main reconciliation pending. No contextual source reading. Category commit 18021acf; repository checkpoint cf1de6cd. No tests or application changes; issue progress comment unavailable.",
   "updated": "2026-11-16"
 }
