@@ -1,15 +1,25 @@
 {
   "schema": "contract000.audit-checkpoint.v1",
   "repository": "AGI144348Outlook/dual-order-os",
-  "represented_branch": "RESOLVE_FROM_PARENT_BRANCH_FOLDER",
+  "represented_branch": "claude/github-claude-code-connection-98qkbx",
   "category": "protocols",
-  "phase": "VERIFY_DIRECTORY",
-  "directory_status": "GENERATED_FROM_PINNED_GITHUB_TREES",
-  "content_status": "NOT_AUDITED",
-  "last_completed_file": null,
+  "phase": "SOURCE_READING",
+  "directory_status": "VERIFIED_ALL_12_PINNED_TREES_AND_CURRENT_MAIN",
+  "content_status": "PARTIAL",
+  "last_completed_file": ".gitignore",
   "within_file_position": null,
   "findings": [],
   "blockers": [],
   "next_directory": "../../skills/Contract_ReadMe/Contract000_readme.md",
-  "updated": "2026-11-15"
+  "updated": "2026-11-16",
+  "last_completed_source": {
+    "branch": "claude/github-claude-code-connection-98qkbx",
+    "commit": "2d51593d63775ac2836fc279222a13742f400e4e",
+    "path": ".gitignore",
+    "blob": "5262c7bbb7b2a4e9cde5936411605541ddbd2797",
+    "coverage": "COMPLETE",
+    "finding_status": "READ_NO_FINDINGS"
+  },
+  "next_file": "LICENSE",
+  "last_run_id": "automation-turn-11-2026-11-16T09:00:00-06:00"
 }
