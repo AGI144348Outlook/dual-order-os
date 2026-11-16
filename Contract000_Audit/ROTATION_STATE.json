@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 3,
-  "last_run_id": "automation-turn-11-2026-11-16T12:00:20-06:00",
-  "last_visited_repository": "AGI144348Outlook/NexusBoard",
-  "status": "PARTIAL_SOURCE_READING_AND_HEADER_REFRESH_PENDING",
-  "note": "Seven pinned NexusBoard recursive trees verified against 188-row header, zero mismatch/truncation; current main has 13 new research source paths not yet mirrored. Read first architecture-proposal issue template fully, no protocols findings. Category commit 7108535c; repo checkpoint a0943825. Issue #6 progress comment unavailable; no tests/deployments/source changes.",
+  "next_repository_index": 4,
+  "last_run_id": "automation-turn-11-2026-11-16T12:56:56-06:00",
+  "last_visited_repository": "AGI144348Outlook/Group_Canvas",
+  "status": "PARTIAL_SOURCE_READING",
+  "note": "All four pinned Group_Canvas trees verified exactly (299,306,308,92). Read first workflow source at pinned blob b53ad233, no protocol findings; next card-chat-diagnostics.yml. Category commit edac926b, repository checkpoint 8bea07a. No tests; issue comment unavailable.",
   "updated": "2026-11-16"
 }
