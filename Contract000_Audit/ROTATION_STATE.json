@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 9,
-  "last_run_id": "automation-turn-11-2026-11-16T18:01-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/The-TAM-protocol",
-  "status": "PARTIAL_SOURCE_READING",
-  "note": "Two pinned branch trees reconciled; current main nonmaintenance source matches pinned main. Article 01 read completely, 4 files total in protocols, next articles/article-02-water-weight-computes.md. Claims unverified; no protocols discovery or tests. Category commit 027484cc; repo checkpoint 51a85a63. Issue comment posting unavailable.",
+  "next_repository_index": 10,
+  "last_run_id": "automation-turn-11-2026-11-16T19:01-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/LVT",
+  "status": "PARTIAL_SOURCE_READING_BLOCKED_DIRECTORY_VERIFICATION",
+  "note": "Pinned inventory header read but recursive Git trees unavailable through connector; no fresh all-branch reconciliation. Read contracts/EVE_Environment_Wrapper.sol at pinned bcd5b436, blob e0ea9cac, to EOF. Recorded LVT-PROT-001 static source observation; no tests. Protocols 2 files read; next contracts/file_provenanve_protocol.md. Category checkpoint 0c1700a8, repo checkpoint d1b77e4f. Ordinary issue progress comment unavailable; run-level lease unavailable.",
   "updated": "2026-11-16"
 }
