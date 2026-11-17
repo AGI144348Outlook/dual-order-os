@@ -1,9 +1,9 @@
 {
   "schema": "contract000.rotation-state.v1",
-  "next_repository_index": 8,
-  "last_run_id": "automation-turn-11-2026-11-16T16:56-06:00 (scheduler UUID unavailable)",
-  "last_visited_repository": "AGI144348Outlook/claude-repo-creation-test",
+  "next_repository_index": 9,
+  "last_run_id": "automation-turn-11-2026-11-16T18:01-06:00 (scheduler UUID unavailable)",
+  "last_visited_repository": "AGI144348Outlook/The-TAM-protocol",
   "status": "PARTIAL_SOURCE_READING",
-  "note": "Pinned WATCH-STATE.json fully read (blob ce5fd57e); two files read in protocols, next runs/2026-10-10/2026-10-10T225653Z.json. Prior 4-tree/71-entry verification retained, fresh full tree verification unavailable; live source drift unresolved. Category a360ad26; repo e0b2ae1f. No tests, no discovery; ordinary issue progress comment unavailable.",
+  "note": "Two pinned branch trees reconciled; current main nonmaintenance source matches pinned main. Article 01 read completely, 4 files total in protocols, next articles/article-02-water-weight-computes.md. Claims unverified; no protocols discovery or tests. Category commit 027484cc; repo checkpoint 51a85a63. Issue comment posting unavailable.",
   "updated": "2026-11-16"
 }
